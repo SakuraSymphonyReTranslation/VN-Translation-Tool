@@ -184,6 +184,9 @@ def convert_to_openai_format(response_text: str, model: str, stream: bool = Fals
 # Keep ONLY runtime-verified and fully implemented direct-select models.
 # NOTE: "Thinking" models are deferred until submenu handling is implemented.
 PLAYWRIGHT_GEMINI_MODEL_UI_LABELS = {
+    "gemini-3.7-flash": "Flash",
+    "gemini-3.7-flash-high": "Extended thinking",
+    "gemini-3.5-flash-lite": "Flash-Lite",
     "gemini-3.1-pro": "Pro",
     "gemini-3.5-flash": "Flash",
     "gemini-3.1-flash-lite": "Flash-Lite",

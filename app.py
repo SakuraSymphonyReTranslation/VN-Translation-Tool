@@ -287,6 +287,10 @@ async def update_webai():
 
 # ─── LLM Endpoints ───────────────────────────────────────────────────────────
 
+@app.get("/api/llm/models")
+async def get_available_llm_models():
+    return await llm_service.test_connection()
+
 import json as json_module
 
 class LLMSingleRequest(BaseModel):

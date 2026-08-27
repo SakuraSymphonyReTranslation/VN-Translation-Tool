@@ -36,6 +36,8 @@ createApp({
 
         const showSettings = ref(false);
         const showLlmConfig = ref(true);
+        const fetchedModels = ref([]);
+        const isFetchingModels = ref(false);
         const showSearchModal = ref(false);
         const globalSearchQuery = ref("");
         const isRegexSearch = ref(false);
@@ -1828,6 +1830,9 @@ createApp({
             llmTestLoading,
             llmTestResult,
             testLlmConnection,
+            fetchLlmModels,
+            fetchedModels,
+            isFetchingModels,
             addGlossaryEntry,
             removeGlossaryEntry,
             importGlossaryFile,
