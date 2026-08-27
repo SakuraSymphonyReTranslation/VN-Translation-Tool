@@ -285,6 +285,26 @@ async def check_webai_update():
 async def update_webai():
     return webai_service.perform_update()
 
+@app.get("/api/llm/webai/cookies")
+async def get_webai_cookies():
+    return webai_service.get_gemini_cookies()
+
+@app.post("/api/llm/webai/cookies")
+async def save_webai_cookies(payload: dict = Body(...)):
+    psid = payload.get("psid", "")
+    psidts = payload.get("psidts", "")
+    browser = payload.get("browser", "chrome")
+    return webai_service.save_gemini_cookies(psid, psidts, browser)
+
+@app.post("/api/llm/webai/extract-cookies")
+async def extract_webai_cookies(payload: dict = Body(...)):
+    browser = payload.get("browser", "chrome")
+    return webai_service.extract_cookies_from_browser(browser)
+
+@app.post("/api/llm/webai/launch-login")
+async def launch_webai_login():
+    return webai_service.launch_verify_login()
+
 # ─── LLM Endpoints ───────────────────────────────────────────────────────────
 
 @app.get("/api/llm/models")
