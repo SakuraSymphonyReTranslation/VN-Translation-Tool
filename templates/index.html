@@ -757,13 +757,15 @@
                                 <input v-model="config.llm_model" list="gemini-models-list" type="text" placeholder="e.g. gemini-3.7-flash, gemini-3.1-pro"
                                     class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white font-mono focus:outline-none focus:border-indigo-500">
                                 <datalist id="gemini-models-list">
+<!-- GEMINI_DATALIST_START -->
                                     <option value="gemini-3.7-flash">3.7 Flash (All-around help / Default)</option>
-                                    <option value="gemini-3.7-flash-thinking">Extended thinking (Complex problem solving / High)</option>
+                                    <option value="gemini-3.7-flash-thinking">Extended thinking (Complex problem solving)</option>
                                     <option value="gemini-3.5-flash-lite">3.5 Flash-Lite (Fastest answers)</option>
                                     <option value="gemini-3.1-pro">3.1 Pro (Advanced reasoning)</option>
                                     <option value="flash">WebAI Flash (Auto-latest)</option>
                                     <option value="thinking">WebAI Thinking (Auto-latest)</option>
                                     <option value="pro">WebAI Pro (Auto-latest)</option>
+                                    <!-- GEMINI_DATALIST_END -->
                                     <option v-for="m in fetchedModels" :key="m" :value="m">{{ m }}</option>
                                 </datalist>
                             </div>

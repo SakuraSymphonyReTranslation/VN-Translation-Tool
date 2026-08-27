@@ -69,11 +69,13 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
   * Dilengkapi tombol **Auto-Extract** (deteksi otomatis cookie dari Chrome/Edge/Firefox) dan **Launch Login** (pembuka login Google di browser).
 * **Mode 2: Custom LLM / OpenAI API / WebAI-to-API Server**:
   * Kompatibel dengan endpoint OpenAI-compatible standar (`/v1/chat/completions`) seperti **Ollama**, **LM Studio**, **vLLM**, atau server lokal **WebAI-to-API** di port `6969`.
+<!-- GEMINI_MODELS_START -->
 * **Dukungan Model Gemini Generasi Terbaru**:
   * `gemini-3.7-flash` (3.7 Flash — All-around help / Default)
   * `gemini-3.7-flash-thinking` (Extended thinking — Complex problem solving)
   * `gemini-3.5-flash-lite` (3.5 Flash-Lite — Fastest answers)
   * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
+<!-- GEMINI_MODELS_END -->
 * **Tombol `🔄 Fetch Models`**: Ambil daftar model aktif secara dinamis dari endpoint AI Anda.
 * **Batch Translation & Polishing**: Terjemahkan atau poles seluruh skenario dalam satu klik dengan pemantauan progress real-time (*Server-Sent Events*).
 * **Glosarium Otomatis**: Aturan penerjemahan nama karakter, gender, dan panggilan (misal: `Sora-nee`, `Icchan`) disuntikkan secara otomatis ke prompt AI.
@@ -182,8 +184,10 @@ Aplikasi memiliki **Hybrid AI Engine** yang sangat fleksibel:
 Untuk menjaga konsistensi nama karakter dan panggilan:
 1. Buka **Settings (⚙️) → LLM Configuration → Glossary**.
 2. Klik **`+ Add`** untuk menambah aturan baru, contoh:
-   * Source (JP): `芳乃 さくら` $ightarrow$ Target: `Yoshino Sakura` | Info: `Female`
-   * Source (JP): `俺` $ightarrow$ Target: `Aku` | Info: `Gunakan kata Aku/Kamu`
+   * Source (JP): `芳乃 さくら` $
+ightarrow$ Target: `Yoshino Sakura` | Info: `Female`
+   * Source (JP): `俺` $
+ightarrow$ Target: `Aku` | Info: `Gunakan kata Aku/Kamu`
 3. Anda juga bisa mengekspor atau mengimpor glosarium dalam format JSON.
 
 ---

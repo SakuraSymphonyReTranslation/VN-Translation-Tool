@@ -69,11 +69,13 @@ The tool integrates a clean side-by-side editor, automatic Furigana parsing, int
   * Features **Auto-Extract** (extracts cookies from Chrome/Edge/Firefox) and **Launch Login** (opens Google Gemini in browser).
 * **Mode 2: Custom LLM / OpenAI API / WebAI Server**:
   * Fully compatible with standard OpenAI endpoints (`/v1/chat/completions`) such as **Ollama**, **LM Studio**, **vLLM**, or local **WebAI-to-API** on port `6969`.
+<!-- GEMINI_MODELS_START -->
 * **Latest Gemini Model Lineup**:
   * `gemini-3.7-flash` (3.7 Flash — All-around help / Default)
   * `gemini-3.7-flash-thinking` (Extended thinking — Complex problem solving)
   * `gemini-3.5-flash-lite` (3.5 Flash-Lite — Fastest answers)
   * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
+<!-- GEMINI_MODELS_END -->
 * **Dynamic `🔄 Fetch Models`**: Fetch all available active models dynamically from your AI endpoint.
 * **Batch Translation & Polishing**: Translate or polish full scenarios in bulk with real-time SSE progress streaming.
 * **Automatic Glossary Injection**: Preserves character names, genders, and honorifics consistently across AI calls.

@@ -151,11 +151,18 @@ jobs:
           print("Successfully updated WebAI-to-API folder with custom patches preserved!")
           EOF
 
-      - name: Commit and Push to Repository
-        if: steps.check_update.outputs.has_update == 'true'
+      - name: Synchronize Gemini Models in Documentation and Code
+        run: |
+          python scripts/sync_gemini_models.py
+
+      - name: Commit and Push All Updates
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add WebAI-to-API/
-          git commit -m "chore(webai): Auto-update WebAI-to-API to ${{ steps.check_update.outputs.latest_version }} [skip ci]"
-          git push origin main
+          git add WebAI-to-API/ README.md README_EN.md templates/index.html services/llm_service.py scripts/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(auto-sync): Synchronize WebAI module & Gemini model lineup in README [skip ci]"
+            git push origin main
+          else
+            echo "No changes to commit. Everything is up to date."
+          fi
