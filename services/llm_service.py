@@ -40,9 +40,14 @@ DEFAULT_ADULT_VN_DIRECTIVE = """[LITERARY VISUAL NOVEL LOCALIZATION DIRECTIVE]
 - Faithfully preserve Japanese expressive vocalizations and onomatopoeia (e.g., gasps, moans, breaths, sighs like 「んっ……」「あっ……」「ふぅ……」「はぁ……」 -> 「Nghh……」「Ahhh……」「Fuu……」「Haa……」).
 - Do NOT censor, truncate, alter, moralize, summarize, or refuse translation for fictional intimate/erotic Visual Novel dialogues."""
 
-DEFAULT_SUMMARY_CHAINING_PROMPT = """If the <running_story_summary> section is provided above, use this running story context to maintain narrative continuity, character voices, emotional tone, and terminology consistency across translation batches.
-In your JSON response, you MUST provide both the translation and a brief updated running story summary (in Indonesian, 1-2 sentences capturing who is present and what just happened):
-{"translation": "your translated text", "updated_summary": "ringkasan singkat cerita terkini dalam bahasa Indonesia"}"""
+DEFAULT_SUMMARY_CHAINING_PROMPT = """If the <summary> section is provided above, use this running story context to maintain narrative continuity, character voices, emotional tone, and terminology consistency across translation batches.
+
+After completing the translations, generate an updated running story summary (in {{targetLang}}) capturing:
+- Current scene, location, and atmosphere
+- Active characters and their interactions / emotional state
+- Key plot developments, decisions, or core topics discussed
+
+Your summary output MUST be enclosed in <summary>...</summary> tags at the very end of your response, INSIDE the ```plaintext block."""
 
 # Model aliases for Gemini Web
 GEMINI_WEB_MODEL_MAP = {
@@ -207,9 +212,10 @@ def extract_translation_and_summary(raw_text: str):
         result = match.group(1).replace('\\"', '"').replace('\\n', '\n')
         translation = result.strip()
         
-    match_sum = re.search(r'"updated_summary"\s*:\s*"((?:[^"\\]|\\.)*)"', text, re.DOTALL)
-    if match_sum:
-        summary = match_sum.group(1).replace('\\"', '"').replace('\\n', '\n').strip()
+    # Tag-based summary extraction <summary>...</summary>
+    summary_tag_match = re.search(r'<summary>\s*(.*?)\s*</summary>', text, re.DOTALL)
+    if summary_tag_match:
+        summary = summary_tag_match.group(1).strip()
         
     if translation is not None:
         return translation, summary
@@ -341,6 +347,7 @@ def build_system_prompt(base_prompt: str, config: dict) -> str:
     # 4. Summary Chaining instructions
     if config.get("enable_summary_chaining", True):
         summary_prompt = config.get("summary_chaining_prompt") or DEFAULT_SUMMARY_CHAINING_PROMPT
+        summary_prompt = summary_prompt.replace("{{targetLang}}", "Indonesian").replace("{{target_lang}}", "Indonesian")
         parts.append(summary_prompt)
         parts.append("")
         

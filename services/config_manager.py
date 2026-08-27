@@ -71,7 +71,14 @@ DEFAULT_CONFIG = {
     # Summary Chaining (Memori Estafet) & Fiction Mode
     "enable_summary_chaining": True,
     "current_story_summary": "",
-    "summary_chaining_prompt": "If the <running_story_summary> is provided, use it to maintain narrative continuity, character voices, and emotional tone.\nIn your JSON response, provide both: {\"translation\": \"...\", \"updated_summary\": \"ringkasan singkat cerita terkini dalam bahasa Indonesia\"}",
+    "summary_chaining_prompt": "If the <summary> section is provided above, use this running story context to maintain narrative continuity, character voices, emotional tone, and terminology consistency across translation batches.
+
+After completing the translations, generate an updated running story summary (in {{targetLang}}) capturing:
+- Current scene, location, and atmosphere
+- Active characters and their interactions / emotional state
+- Key plot developments, decisions, or core topics discussed
+
+Your summary output MUST be enclosed in <summary>...</summary> tags at the very end of your response, INSIDE the ```plaintext block."translation\": \"...\", \"updated_summary\": \"ringkasan singkat cerita terkini dalam bahasa Indonesia\"}",
     "enable_adult_content_mode": True 
 }
 
