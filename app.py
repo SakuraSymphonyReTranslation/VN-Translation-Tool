@@ -307,6 +307,21 @@ async def launch_webai_login():
 
 # ─── LLM Endpoints ───────────────────────────────────────────────────────────
 
+@app.get("/api/llm/summary")
+async def get_story_summary():
+    return {"summary": llm_service.get_story_summary()}
+
+@app.post("/api/llm/summary/clear")
+async def clear_story_summary():
+    return llm_service.clear_story_summary()
+
+@app.post("/api/llm/summary/save")
+async def save_story_summary(payload: dict = Body(...)):
+    summary = payload.get("summary", "")
+    llm_service.update_story_summary(summary)
+    return {"status": "success", "message": "Story summary updated."}
+
+
 @app.get("/api/llm/models")
 async def get_available_llm_models():
     return await llm_service.test_connection()

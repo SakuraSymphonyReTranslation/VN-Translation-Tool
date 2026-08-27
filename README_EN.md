@@ -76,6 +76,13 @@ The tool integrates a clean side-by-side editor, automatic Furigana parsing, int
   * `gemini-3.5-flash-lite` (3.5 Flash-Lite — Fastest answers)
   * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
 <!-- GEMINI_MODELS_END -->
+* **🔗 Summary Chaining (Memori Estafet)**:
+  * Chains running story memory across consecutive translation batches.
+  * Prevents AI hallucinations and maintains narrative continuity, emotional tone, and character relationships across scene transitions.
+  * Includes editable *Current Summary* and custom *Summary Prompt* controls.
+* **💖 Adult / 18+ Visual Novel Support (H-Scene Safe & Uncensored)**:
+  * Tailored with specialized fictional Visual Novel localization system directives.
+  * Faithfully translates dramatic, romantic, intimate, and adult (H-scene) dialogues and Japanese vocal onomatopoeia (e.g., gasps, moans, breaths) with 100% emotional fidelity without censorship, filtering, or refusals.
 * **Dynamic `🔄 Fetch Models`**: Fetch all available active models dynamically from your AI endpoint.
 * **Batch Translation & Polishing**: Translate or polish full scenarios in bulk with real-time SSE progress streaming.
 * **Automatic Glossary Injection**: Preserves character names, genders, and honorifics consistently across AI calls.

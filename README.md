@@ -76,6 +76,13 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
   * `gemini-3.5-flash-lite` (3.5 Flash-Lite — Fastest answers)
   * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
 <!-- GEMINI_MODELS_END -->
+* **🔗 Memori Estafet (Summary Chaining)**:
+  * Menghubungkan ingatan AI antar-baris/batch terjemahan secara bersambung.
+  * Mencegah AI berhalusinasi (*anti-hallucination*) dan menjaga konsistensi nada emosi, panggilan karakter, dan konteks adegan dari awal hingga akhir cerita.
+  * Dilengkapi kolom *Current Summary* dan *Summary Prompt* yang dapat diedit atau dikosongkan kapan saja.
+* **💖 Dukungan Naskah Dewasa / 18+ (H-Scene Safe & Uncensored)**:
+  * Menggunakan direktif lokalisasi naskah Visual Novel fiksi profesional.
+  * Menerjemahkan seluruh adegan romantis, intim, dan efek suara onomatope (desahan/suara napas seperti 「んっ……」「あっ……」 $\rightarrow$ 「Nghh……」「Ahhh……」) secara akurat dan mengalir alami tanpa sensor atau penolakan (*no false-positive refusal*).
 * **Tombol `🔄 Fetch Models`**: Ambil daftar model aktif secara dinamis dari endpoint AI Anda.
 * **Batch Translation & Polishing**: Terjemahkan atau poles seluruh skenario dalam satu klik dengan pemantauan progress real-time (*Server-Sent Events*).
 * **Glosarium Otomatis**: Aturan penerjemahan nama karakter, gender, dan panggilan (misal: `Sora-nee`, `Icchan`) disuntikkan secara otomatis ke prompt AI.

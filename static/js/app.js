@@ -515,6 +515,20 @@ createApp({
             }
         };
 
+        // Summary Chaining
+        const clearSummary = async () => {
+            config.value.current_story_summary = '';
+            try {
+                await fetch('/api/llm/summary/clear', { method: 'POST' });
+            } catch (e) {
+                console.error("Failed to clear summary", e);
+            }
+        };
+
+        const resetSummaryPrompt = () => {
+            config.value.summary_chaining_prompt = `If the <running_story_summary> section is provided above, use this running story context to maintain narrative continuity, character voices, emotional tone, and terminology consistency across translation batches.\nIn your JSON response, you MUST provide both the translation and a brief updated running story summary (in Indonesian, 1-2 sentences capturing who is present and what just happened):\n{"translation": "your translated text", "updated_summary": "ringkasan singkat cerita terkini dalam bahasa Indonesia"}`;
+        };
+
         // Project Management
         const fetchProjects = async () => {
             try {
@@ -1951,6 +1965,8 @@ createApp({
             llmTestLoading,
             llmTestResult,
             testLlmConnection,
+            clearSummary,
+            resetSummaryPrompt,
             fetchLlmModels,
             fetchedModels,
             isFetchingModels,
