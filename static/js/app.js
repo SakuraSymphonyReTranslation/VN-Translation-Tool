@@ -242,7 +242,17 @@ createApp({
         // LLM State
         const showLlmBatchModal = ref(false);
         const llmBatchMode = ref('retranslate');
+        // Auto set target tab based on mode
+        watch(llmBatchMode, (newMode) => {
+            if (newMode === 'retranslate') {
+                llmBatchTargetTab.value = 'machine';
+            } else if (newMode === 'polish') {
+                llmBatchTargetTab.value = 'polished';
+                llmBatchSourceTab.value = 'machine';
+            }
+        });
         const llmBatchSourceTab = ref('initial');
+        const llmBatchTargetTab = ref('machine');
         const llmBatchRange = ref('all');
         const llmBatchCustomStart = ref(1);
         const llmBatchCustomEnd = ref(100);
@@ -1640,7 +1650,8 @@ createApp({
                 });
                 const data = await res.json();
                 if (data.status === 'success' && data.result) {
-                    row.translations.polished = data.result;
+                    const target = (activeTab.value === 'machine' || activeTab.value === 'initial') ? 'machine' : activeTab.value;
+                    row.translations[target] = data.result;
                 } else {
                     alert('LLM error: ' + (data.message || 'Unknown error'));
                 }
@@ -1686,7 +1697,8 @@ createApp({
         const llmBatchItemCount = computed(() => {
             if (!translationData.value.length) return 0;
             if (llmBatchRange.value === 'empty') {
-                return translationData.value.filter(r => !r.translations.polished).length;
+                const targetKey = llmBatchTargetTab.value || 'polished';
+                return translationData.value.filter(r => !r.translations[targetKey]).length;
             }
             if (llmBatchRange.value === 'custom') {
                 const total = translationData.value.length;
@@ -1696,6 +1708,25 @@ createApp({
             }
             return translationData.value.length;
         });
+
+        // Quick Tab Content Transfer
+        const quickCopyActiveTab = async (fromTab, toTab) => {
+            if (!translationData.value || !translationData.value.length) return;
+            const confirmCopy = confirm(`Salin semua teks dari tab "${fromTab.toUpperCase()}" ke tab "${toTab.toUpperCase()}" untuk seluruh skenario ini?`);
+            if (!confirmCopy) return;
+
+            let copiedCount = 0;
+            for (const row of translationData.value) {
+                const srcText = row.translations ? (row.translations[fromTab] || '') : '';
+                if (srcText && row.translations) {
+                    row.translations[toTab] = srcText;
+                    copiedCount++;
+                }
+            }
+            markDirty();
+            await saveTranslation();
+            alert(`✅ Sukses! ${copiedCount} baris berhasil disalin ke tab "${toTab.toUpperCase()}".`);
+        };
 
         // Start LLM batch
         const startLlmBatch = async () => {
@@ -1711,7 +1742,8 @@ createApp({
             let startOffset = 0;
 
             if (llmBatchRange.value === 'empty') {
-                items = allRows.filter(r => !r.translations.polished);
+                const targetKey = llmBatchTargetTab.value || 'polished';
+                items = allRows.filter(r => !r.translations[targetKey]);
             } else if (llmBatchRange.value === 'custom') {
                 const total = allRows.length;
                 const start = Math.max(1, Math.min(total, llmBatchCustomStart.value || 1));
@@ -1772,10 +1804,11 @@ createApp({
                                     result: event.result
                                 };
 
-                                // Update the actual data
+                                // Update the actual data in selected target tab
                                 const row = translationData.value.find(r => r.id === event.id);
                                 if (row && event.result) {
-                                    row.translations.polished = event.result;
+                                    const targetKey = llmBatchTargetTab.value || 'polished';
+                                    row.translations[targetKey] = event.result;
                                 }
                             } else if (event.type === 'error') {
                                 llmBatchProgress.value = { current: event.index + 1, total: event.total };
@@ -1981,6 +2014,7 @@ createApp({
             showLlmBatchModal,
             llmBatchMode,
             llmBatchSourceTab,
+            llmBatchTargetTab,
             llmBatchRange,
             llmBatchCustomStart,
             llmBatchCustomEnd,
