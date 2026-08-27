@@ -6,6 +6,7 @@
   [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
   [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
   [![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.7%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
   [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
   <br>
@@ -14,75 +15,84 @@
 
 </div>
 
-**VN Translation Tool** is a modern local web application purpose-built for translating, editing, polishing, and localizing **Visual Novel (VN)** script files (such as Circus Engine / D.C. Series, LucaSystem, and generic JSON-based game scripts).
+**VN Translation Tool** is a modern local web application designed to streamline the translation, editing, polishing, and localization workflow for **Visual Novel (VN)** scripts (including Circus / D.C. Series engines, LucaSystem, and JSON-based game formats).
 
-It features a streamlined *side-by-side editor*, automatic Furigana annotations, character glossary management, intelligent Romaji & Regex search, and deep AI/LLM integration (**Local LLM / WebAI-to-API Gemini**) without cumbersome manual copy-pasting.
+The tool integrates a clean side-by-side editor, automatic Furigana parsing, intelligent glossary injection, Romaji & Regex search, and a **Hybrid AI Engine** (supporting direct native connections to **Google Gemini Web 3.7** via browser cookies without requiring external servers, as well as **Local LLMs / OpenAI API**).
 
 ---
 
 ## 📑 Table of Contents
 - [Key Features](#-key-features)
-- [Interface Overview](#-interface-overview)
+- [UI Layout](#-ui-layout)
 - [System Requirements](#-system-requirements)
-- [Installation & Running](#-installation--running)
-- [User Guide (Step-by-Step)](#-user-guide-step-by-step)
-  - [1. Project Profile & Directory Setup](#1-project-profile--directory-setup)
-  - [2. Script Navigation & Editing](#2-script-navigation--editing)
-  - [3. AI / LLM Translation & Polishing](#3-ai--llm-translation--polishing)
-  - [4. Glossary & Character Consistency](#4-glossary--character-consistency)
+- [Installation & Getting Started](#-installation--getting-started)
+- [Step-by-Step Guide](#-step-by-step-guide)
+  - [1. Project Setup & Game Directories](#1-project-setup--game-directories)
+  - [2. Script Navigation & Translation](#2-script-navigation--translation)
+  - [3. AI-Powered Translation (Hybrid: Direct Gemini Web & Custom LLM)](#3-ai-powered-translation-hybrid-direct-gemini-web--custom-llm)
+  - [4. Glossary & Character Names](#4-glossary--character-names)
   - [5. Global Search & Find-and-Replace](#5-global-search--find-and-replace)
 - [Keyboard Shortcuts](#-keyboard-shortcuts)
 - [Troubleshooting & FAQ](#-troubleshooting--faq)
-- [Contributing & License](#-contributing--license)
+- [License & Contributions](#-license--contributions)
 
 ---
 
 ## ✨ Key Features
 
 ### 🎮 1. Multi-Project Management & Cache Isolation
-* **Multiple Game Support**: Manage and switch between multiple visual novel projects (e.g., *D.C.4 Plus Harmony*, *Da Capo 4*, *D.C.III Platinum Partner*, *D.C.III Dream Days*, etc.) within a single instance.
-* **Isolated Cache (`project_data/<slug>`)**: Each project maintains its own dedicated cache directory, ensuring rich saves, editing states, and translation histories remain strictly separated.
-* **Dropdown Sync & Custom Paths**: Easily select existing cache folders via dropdown or define custom directories directly from the settings modal.
+* **Multiple Game Profiles**: Seamlessly switch between projects (e.g. *D.C.4 Plus Harmony*, *Da Capo 4*, *D.C.III Platinum Partner*, *D.C.III Dream Days*, etc.).
+* **Independent Cache Folders (`project_data/<slug>`)**: Keeps progress status, rich saves, and translation cache completely isolated between different games.
+* **Auto-Sync & Custom Paths**: Easily select existing cache folders or generate new ones dynamically from Settings.
 
 ### 📝 2. Modern Side-by-Side Script Editor
-* **Original Japanese (Raw JP) vs. Translation Columns**: Clean parallel layout for effortless context comparison.
-* **5 Tiered Translation Layers**:
-  * `Initial` — Base translation / raw game import.
+* **Raw JP vs Translated Side-by-Side**: Clear contextual alignment for rapid reading and editing.
+* **5 Translation Tiers**:
+  * `Initial` — Original base translation from game extract.
   * `Machine` — Raw machine translation (MTL).
-  * `Better` — First-pass draft improvements.
-  * `Best` — Refined and verified translations.
-  * `Polished` — Final publication-ready localized script.
-* **Smart Priority Export**: On save, the system automatically exports the highest available translation layer (`Polished` > `Best` > `Better` > `Initial` > `Machine`) to the game-ready JSON.
-* **Split View**: Compare two translation tabs side-by-side (e.g., `Initial` vs. `Polished`).
-* **Auto-Healing & Auto-Sync**: Automatically repairs and synchronizes missing Japanese raw text whenever the original JSON directory is properly linked.
+  * `Better` — First draft improvements.
+  * `Best` — Filtered, high-quality revisions.
+  * `Polished` — Final localized prose ready for in-game release.
+* **Smart Export Priority**: Automatically exports the highest available tier (`Polished` > `Best` > `Better` > `Initial` > `Machine`) when saving to game JSON.
+* **Split View**: Side-by-side comparison of any two tiers (e.g. `Initial` vs `Polished`).
+* **Auto-Heal & Auto-Sync**: Automatically repairs and re-populates missing Japanese source text if directory paths were misconfigured.
 
 ### 📖 3. Furigana Parser & Smart Romaji Search
-* **Automatic Kanji Readings**: Integrated MeCab / UniDic engine to display furigana over kanji in real-time.
-* **Romaji-Powered Search**: Searching `arisu` instantly matches kanji `有里栖`, hiragana `ありす`, or katakana `アリス`.
-* **Regex & In-File Search**: Filter lines using regular expressions and jump directly to target dialogue matches.
+* **Kanji Furigana Generation**: Built-in MeCab / UniDic support for real-time furigana ruby display over kanji.
+* **Romaji-to-Japanese Matching**: Typing `arisu` finds `有里栖`, `ありす`, and `アリス`.
+* **Regex & In-File Search**: Filter lines using regular expressions and jump directly to matches.
 
-### 🤖 4. LLM & WebAI-to-API Manager Integration
-* **OpenAI API & Gemini Compatible**: Works out-of-the-box with standard `/v1/chat/completions` endpoints (e.g., Ollama, LM Studio, vLLM, WebAI-to-API).
-* **Built-in WebAI-to-API Manager**:
-  * Seamlessly connects to the local `WebAI-to-API` server (port `6969`) to utilize browser-based Gemini models.
-  * **GitHub Auto-Update**: 1-click *Check Update* and *Update Now* buttons to upgrade the local WebAI-to-API runtime directly from official GitHub releases.
-* **Batch Translation & Polishing**: Retranslate or polish entire scenario files in batches with real-time SSE progress indicators.
-* **Automated Glossary Injection**: Character names, honorifics (e.g., `Sora-nee`, `Icchan`), and translation conventions are injected into prompts automatically.
+### 🤖 4. Hybrid AI Engine (Direct Gemini Web & Custom LLM)
+* **Mode 1: Gemini Web Direct API (Native & Zero-Server Setup)**:
+  * Connects directly to **Google Gemini Web** using browser session cookies (`__Secure-1PSID` & `__Secure-1PSIDTS`).
+  * **No external local server (`start_webai.bat`) required**.
+  * Features **Auto-Extract** (extracts cookies from Chrome/Edge/Firefox) and **Launch Login** (opens Google Gemini in browser).
+* **Mode 2: Custom LLM / OpenAI API / WebAI Server**:
+  * Fully compatible with standard OpenAI endpoints (`/v1/chat/completions`) such as **Ollama**, **LM Studio**, **vLLM**, or local **WebAI-to-API** on port `6969`.
+* **Latest Gemini Model Lineup**:
+  * `gemini-3.7-flash` (3.7 Flash — All-around help / Default)
+  * `gemini-3.7-flash-thinking` (Extended thinking — Complex problem solving)
+  * `gemini-3.5-flash-lite` (3.5 Flash-Lite — Fastest answers)
+  * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
+* **Dynamic `🔄 Fetch Models`**: Fetch all available active models dynamically from your AI endpoint.
+* **Batch Translation & Polishing**: Translate or polish full scenarios in bulk with real-time SSE progress streaming.
+* **Automatic Glossary Injection**: Preserves character names, genders, and honorifics consistently across AI calls.
+* **Automated GitHub Actions Sync**: Includes a daily automated GitHub Actions workflow to update the upstream WebAI module safely without breaking custom integrations.
 
 ---
 
-## 🖥️ Interface Overview
+## 🖥️ UI Layout
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🌐 VN Translation Tool [🎮 D.C.4 Plus Harmony]         🤖 LLM  📚 Bulk  ⚙️ Settings│
 ├───────────────────┬─────────────────────────────────────────────────────────┤
-│ 🔍 Search files.. │ Scenario: dc4_nin20190511b.json           [💾 Save] [📋 Copy]   │
+│ 🔍 Search scenario│ Scenario: dc4_nin20190511b.json           [💾 Save] [📋 Copy]   │
 ├───────────────────┼────────────────────────────┬────────────────────────────┤
-│ 📁 PROLOGUE       │ #1 「諳子」ご飯はちゃんと..│ #1 「Sorane」Is the food.. │
-│  ├─ page 1 line 1 │ #2 「諳子」食べ過ぎには..  │ #2 「Sorane」Don't overeat.│
+│ 📁 PROLOGUE       │ #1 「諳子」ご飯はちゃんと..│ #1 「Sorane」Eat your meals│
+│  ├─ page 1 line 1 │ #2 「諳子」食べ過ぎには..  │ #2 「Sorane」Don't overeat │
 │  └─ page 1 line 2 │ #3 一登                     │ #3 Ichito                  │
-│ 📁 ROUTE NINO     │ #4 「了解ー……っと」        │ #4 「Roger that...」       │
+│ 📁 ROUTE NINO     │ #4 「了解ー……っと」        │ #4 「All right... got it」 │
 └───────────────────┴────────────────────────────┴────────────────────────────┘
 ```
 
@@ -92,11 +102,11 @@ It features a streamlined *side-by-side editor*, automatic Furigana annotations,
 
 * **Operating System**: Windows 10 / 11, macOS, or Linux
 * **Python**: Version `3.10` or higher
-* **Browser**: Microsoft Edge, Google Chrome, Mozilla Firefox, or Chromium-based browsers
+* **Browser**: Google Chrome, Microsoft Edge, Mozilla Firefox, or Chromium-based browsers
 
 ---
 
-## 🚀 Installation & Running
+## 🚀 Installation & Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -104,75 +114,65 @@ git clone https://github.com/SakuraSymphonyReTranslation/VN-Translation-Tool.git
 cd VN-Translation-Tool
 ```
 
-### 2. Install Python Dependencies
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Start the Application
+### 3. Start the Server
 ```bash
 python app.py
 ```
-Open your browser and navigate to:  
+Open your browser and navigate to:
 👉 **`http://127.0.0.1:8000`**
 
 ---
 
-## 📖 User Guide (Step-by-Step)
+## 📖 Step-by-Step Guide
 
-### 1. Project Profile & Directory Setup
-1. Press **`Ctrl + ,`** or click the **Settings (⚙️)** gear icon in the top right.
-2. Under **Project Profile & Identifier**:
-   * Choose an existing profile or click **`+ New Project`** to create a profile for a new game.
-   * Provide the **Project Identifier** (e.g., `dc3_platinum_partner`).
-3. Under **Directories**, configure the paths:
-   * **Original JSON Directory**: Folder containing original Japanese script JSON files.
-   * **Translated JSON Directory**: Target folder for game-import JSON files.
-   * **Excel Structure File (Optional)**: `.xlsx` file defining scenario flow and categorization.
-   * **Project Data Directory**: Working rich save directory (select from dropdown or type custom path).
+### 1. Project Setup & Game Directories
+1. Press **`Ctrl + ,`** or click the **Settings (⚙️)** gear icon in the top header.
+2. In **Project Profile & Identifier**:
+   * Choose an existing profile (e.g. `D.C.4 Plus Harmony`) or click **`+ New Project`**.
+   * Specify the **Project Identifier** (e.g., `dc3_platinum_partner`).
+3. In **Directories**, set your target game folders:
+   * **Original JSON Directory**: Folder containing raw Japanese `.json` files.
+   * **Translated JSON Directory**: Target output folder for translated `.json` files.
+   * **Excel Structure File (Optional)**: `.xlsx` scenario index.
+   * **Project Data Directory**: Cache folder name for the project.
 4. Click **Save Changes**.
 
 ---
 
-### 2. Script Navigation & Editing
-1. Select a scenario from the sidebar hierarchy.
-2. The dialogue rows will render side-by-side:
-   * **Left Column**: Original Japanese text (with Furigana annotations if enabled).
-   * **Right Column**: Translation input matching your active layer (`Initial`, `Machine`, `Better`, `Best`, `Polished`).
-3. Edit dialogue lines directly in the text boxes.
-4. Press **`Ctrl + S`** or click **Save** to persist changes.
+### 2. Script Navigation & Translation
+1. Select any scenario from the left sidebar.
+2. The scenario will display side-by-side:
+   * **Left Column**: Original Japanese script (with Furigana if enabled).
+   * **Right Column**: Translation input area for the active tier (`Initial`, `Machine`, `Better`, `Best`, `Polished`).
+3. Edit any line directly in the table.
+4. Press **`Ctrl + S`** or click **Save** to write changes to disk.
 
 ---
 
-### 3. AI / LLM Translation & Polishing
-1. **Start the WebAI Server**:
-   * Double-click [`start_webai.bat`](start_webai.bat) in the project root folder.
-   * The `WebAI-to-API` server will launch on port `6969`.
-2. **Verify Connection**:
-   * Navigate to **Settings (⚙️) → LLM Configuration**.
-   * Set API URL to `http://localhost:6969/v1` and Model to `gemini-3.0-flash` or `gemini-3.7-flash`.
-   * Click **Test Connection** to confirm status shows **Connected!**.
-3. **Single Line Translation**:
-   * Click the AI action icons next to any individual row to retranslate or polish on the fly.
-4. **Batch Translation**:
-   * Click **LLM Batch (🤖)** on the top sidebar.
-   * Choose mode (*Retranslate* / *Polish*), line range, and click **Start**.
+### 3. AI-Powered Translation (Hybrid Mode)
 
----
+#### Option A: Direct Google Gemini Web (Recommended - Zero Server Setup)
+1. Open **Settings (`Ctrl + ,`) → LLM Configuration**.
+2. Select **`Gemini Web (Direct API)`**.
+3. Under **Gemini Web Token & Cookies**:
+   * Click **`Auto-Extract`** to grab cookies automatically from your browser, **OR**:
+   * Click **`Edit Cookies`** and paste `__Secure-1PSID` & `__Secure-1PSIDTS` from DevTools (`gemini.google.com` > F12 > Application > Cookies), then click **`Save Cookies`**.
+4. Click **Test Connection** — status will show 🟢 **Connected**!
 
-### 4. Glossary & Character Consistency
-1. Open **Settings (⚙️) → LLM Configuration → Glossary**.
-2. Click **`+ Add`** to insert terms:
-   * Source (JP): `芳乃 さくら` $\rightarrow$ Target: `Yoshino Sakura` | Info: `Female`
-   * Source (JP): `俺` $\rightarrow$ Target: `I / Me` | Info: `First-person pronoun`
-3. Export and import glossaries as JSON for cross-project sharing.
+#### Option B: Custom LLM / OpenAI API / WebAI Server
+1. Open **Settings (`Ctrl + ,`) → LLM Configuration**.
+2. Select **`Custom LLM / OpenAI API`**.
+3. Set your **API Base URL** (e.g., `http://localhost:11434/v1` for Ollama or `http://localhost:6969/v1` for WebAI-to-API).
+4. Click **Test Connection**.
 
----
-
-### 5. Global Search & Find-and-Replace
-* **Global Search (`Ctrl + F`)**: Scan across all scenario files with support for Japanese, Romaji, and regular expressions.
-* **Find & Replace (`Ctrl + H`)**: Mass replace terminology across scenarios with optional *Preserve Case*.
-* **In-File Search (`Ctrl + G`)**: Jump quickly across lines within the currently open scenario.
+#### Translating Text:
+* **Per Row**: Click the robot/lightning icon next to any row to retranslate or polish that line.
+* **Bulk Translation**: Click **LLM Batch (🤖)** in the sidebar header, select target range, and click **Start**.
 
 ---
 
@@ -185,26 +185,11 @@ Open your browser and navigate to:
 | **`Ctrl + H`** | Open Find & Replace modal |
 | **`Ctrl + G`** | Open In-File Search bar |
 | **`Ctrl + ,`** | Open Settings modal |
-| **`Ctrl + Shift + S`** | Open Save Copy As dialog |
-| **`Esc`** | Close open modals and search overlays |
+| **`Ctrl + Shift + S`** | Save Copy As |
+| **`Esc`** | Close any active modal or drawer |
 
 ---
 
-## ❓ Troubleshooting & FAQ
+## 🤝 License & Contributions
 
-#### Q: Why is the original Japanese column blank?
-> **Answer**: Ensure **Original JSON Directory** in Settings points directly to the folder containing raw Japanese `.json` files. Once pointed correctly, opening any file will automatically restore and backfill the Japanese raw text (*auto-heal*).
-
-#### Q: Test Connection fails with "Cannot connect to http://localhost:6969/v1"?
-> **Answer**: Ensure `start_webai.bat` is running in a separate terminal window.
-
-#### Q: Browser UI displays cached older scripts?
-> **Answer**: Press **`Ctrl + F5`** (or `Ctrl + Shift + R`) to force a hard refresh and bypass stale browser caches.
-
----
-
-## 📄 License & Credits
-
-* **License**: Released under the [MIT License](LICENSE).
-* **Maintainer**: [Sakura Symphony Re; Translation](https://github.com/SakuraSymphonyReTranslation)
-* **WebAI-to-API**: Based on upstream runtime by [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API).
+Licensed under the **MIT License**. Contributions, issues, and feature requests are welcome at [SakuraSymphonyReTranslation/VN-Translation-Tool](https://github.com/SakuraSymphonyReTranslation/VN-Translation-Tool).
