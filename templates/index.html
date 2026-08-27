@@ -650,6 +650,61 @@
                             {{ webaiUpdateMsg }}
                         </div>
                     </div>
+
+                    <!-- Gemini Web Authentication & Cookie Extraction Card -->
+                    <div class="bg-slate-900/80 p-3.5 rounded-lg border border-slate-700 space-y-3">
+                        <div class="flex items-center justify-between flex-wrap gap-2">
+                            <div class="flex items-center gap-2 flex-wrap">
+                                <i class="fa-brands fa-google text-amber-400"></i>
+                                <span class="text-sm font-semibold text-slate-200">Gemini Web Token & Cookies</span>
+                                <span v-if="geminiCookies.has_cookies" class="text-xs px-2 py-0.5 rounded bg-emerald-950/80 text-emerald-300 border border-emerald-700/60 font-medium">
+                                    <i class="fa-solid fa-key text-[10px]"></i> Cookies Configured
+                                </span>
+                                <span v-else class="text-xs px-2 py-0.5 rounded bg-amber-950/80 text-amber-300 border border-amber-700/60 font-medium">
+                                    <i class="fa-solid fa-triangle-exclamation text-[10px]"></i> Login Required
+                                </span>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <button type="button" @click="autoExtractCookies" :disabled="isExtractingCookies" class="px-2.5 py-1 text-xs rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-medium transition-colors border border-slate-700 flex items-center gap-1.5 disabled:opacity-50" title="Extract cookies from Chrome/Edge/Firefox">
+                                    <i class="fa-solid fa-wand-magic-sparkles text-[11px]" :class="{ 'fa-spin': isExtractingCookies }"></i> Auto-Extract
+                                </button>
+                                <button type="button" @click="launchWebLogin" class="px-2.5 py-1 text-xs rounded bg-indigo-950/80 hover:bg-indigo-900 text-indigo-200 font-medium transition-colors border border-indigo-700/60 flex items-center gap-1.5" title="Launch browser login helper window">
+                                    <i class="fa-solid fa-arrow-up-right-from-square text-[11px]"></i> Launch Login
+                                </button>
+                                <button type="button" @click="showCookieFields = !showCookieFields" class="text-xs text-slate-400 hover:text-white px-2 py-1 rounded bg-slate-800 border border-slate-700">
+                                    {{ showCookieFields ? 'Hide Inputs' : 'Edit Cookies' }}
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Cookie Fields (Collapsible / Editable) -->
+                        <div v-show="showCookieFields" class="space-y-2 border-t border-slate-800/80 pt-3">
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+                                <div>
+                                    <label class="block text-[11px] font-medium text-slate-400 mb-1">__Secure-1PSID</label>
+                                    <input v-model="geminiCookies.psid" type="password" placeholder="Paste __Secure-1PSID cookie..."
+                                        class="w-full bg-slate-950 border border-slate-700 rounded p-1.5 text-xs text-white font-mono focus:outline-none focus:border-indigo-500">
+                                </div>
+                                <div>
+                                    <label class="block text-[11px] font-medium text-slate-400 mb-1">__Secure-1PSIDTS</label>
+                                    <input v-model="geminiCookies.psidts" type="password" placeholder="Paste __Secure-1PSIDTS cookie..."
+                                        class="w-full bg-slate-950 border border-slate-700 rounded p-1.5 text-xs text-white font-mono focus:outline-none focus:border-indigo-500">
+                                </div>
+                            </div>
+                            <div class="flex items-center justify-between pt-1">
+                                <span class="text-[11px] text-slate-500">
+                                    Cara ambil manual: Buka <code>gemini.google.com</code> &gt; F12 &gt; Application &gt; Cookies &gt; Salin <code>__Secure-1PSID</code> &amp; <code>__Secure-1PSIDTS</code>.
+                                </span>
+                                <button type="button" @click="saveCookies" class="px-3 py-1 text-xs rounded bg-emerald-600 hover:bg-emerald-500 text-white font-medium transition-colors shadow-sm flex items-center gap-1.5">
+                                    <i class="fa-solid fa-floppy-disk text-[11px]"></i> Save Cookies
+                                </button>
+                            </div>
+                        </div>
+
+                        <div v-if="cookieMsg" class="text-xs p-2 rounded bg-indigo-950/40 border border-indigo-800/50 text-indigo-200">
+                            {{ cookieMsg }}
+                        </div>
+                    </div>
                     <div class="grid grid-cols-2 gap-4">
                         <div>
                             <label class="block text-sm font-medium text-slate-400 mb-1">API Base URL</label>
@@ -1310,7 +1365,7 @@
 
 
     <!-- App JS -->
-    <script src="/static/js/app.js?v=2.8.0"></script>
+    <script src="/static/js/app.js?v=2.9.0"></script>
 </body>
 
 </html>

@@ -25,6 +25,10 @@ createApp({
         const webaiUpdateInfo = ref(null);
         const isCheckingWebaiUpdate = ref(false);
         const isUpdatingWebai = ref(false);
+        const geminiCookies = ref({ psid: '', psidts: '', browser: 'chrome', has_cookies: false });
+        const showCookieFields = ref(false);
+        const isExtractingCookies = ref(false);
+        const cookieMsg = ref('');
         const webaiUpdateMsg = ref('');
         let editRevision = 0;
         let activeSavePromise = null;
@@ -425,6 +429,69 @@ createApp({
                 alert("Update error: " + e.message);
             } finally {
                 isUpdatingWebai.value = false;
+            }
+        };
+
+        // Gemini Web Cookies & Auth
+        const fetchCookies = async () => {
+            try {
+                const res = await fetch('/api/llm/webai/cookies');
+                if (res.ok) {
+                    geminiCookies.value = await res.json();
+                }
+            } catch (e) {
+                console.error("Failed to load Gemini cookies", e);
+            }
+        };
+
+        const saveCookies = async () => {
+            try {
+                const res = await fetch('/api/llm/webai/cookies', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(geminiCookies.value)
+                });
+                const data = await res.json();
+                cookieMsg.value = data.message;
+                await fetchCookies();
+                alert(data.message);
+            } catch (e) {
+                cookieMsg.value = "Failed to save: " + e.message;
+            }
+        };
+
+        const autoExtractCookies = async () => {
+            isExtractingCookies.value = true;
+            cookieMsg.value = 'Extracting cookies from installed browsers...';
+            try {
+                const res = await fetch('/api/llm/webai/extract-cookies', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ browser: geminiCookies.value.browser || 'chrome' })
+                });
+                const data = await res.json();
+                cookieMsg.value = data.message;
+                if (data.status === 'success') {
+                    await fetchCookies();
+                    alert(data.message);
+                } else {
+                    alert(data.message);
+                }
+            } catch (e) {
+                cookieMsg.value = "Extraction error: " + e.message;
+            } finally {
+                isExtractingCookies.value = false;
+            }
+        };
+
+        const launchWebLogin = async () => {
+            try {
+                const res = await fetch('/api/llm/webai/launch-login', { method: 'POST' });
+                const data = await res.json();
+                cookieMsg.value = data.message;
+                alert(data.message);
+            } catch (e) {
+                cookieMsg.value = "Error launching login: " + e.message;
             }
         };
 
@@ -1703,6 +1770,14 @@ createApp({
             fetchWebaiStatus,
             checkWebaiUpdate,
             performWebaiUpdate,
+            geminiCookies,
+            showCookieFields,
+            isExtractingCookies,
+            cookieMsg,
+            fetchCookies,
+            saveCookies,
+            autoExtractCookies,
+            launchWebLogin,
 
             // Projects & Cache Management
             projectList,
