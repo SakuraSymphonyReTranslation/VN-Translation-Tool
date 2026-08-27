@@ -218,9 +218,10 @@ def perform_update():
 
 def get_gemini_cookies():
     conf_path = get_config_conf_path()
+    app_cfg = config_manager.load_config()
     cookies = {
-        "psid": "",
-        "psidts": "",
+        "psid": app_cfg.get("gemini_cookie_1psid", ""),
+        "psidts": app_cfg.get("gemini_cookie_1psidts", ""),
         "browser": "chrome",
         "has_cookies": False
     }
@@ -273,9 +274,19 @@ def save_gemini_cookies(psid: str, psidts: str, browser: str = "chrome"):
     try:
         with open(conf_path, "w", encoding="utf-8") as f:
             cfg.write(f)
+            
+        # Also sync to VN Translation Tool config.json
+        try:
+            app_cfg = config_manager.load_config()
+            app_cfg["gemini_cookie_1psid"] = (psid or "").strip()
+            app_cfg["gemini_cookie_1psidts"] = (psidts or "").strip()
+            config_manager.save_config(app_cfg)
+        except Exception:
+            pass
+
         return {
             "status": "success",
-            "message": "Gemini Web cookies saved successfully to config.conf!",
+            "message": "Gemini Web cookies saved successfully!",
             "has_cookies": bool(psid and psidts)
         }
     except Exception as e:
@@ -328,25 +339,13 @@ def extract_cookies_from_browser(browser_name: str = "chrome"):
         return {"status": "error", "message": f"Cookie extractor error: {str(e)}"}
 
 def launch_verify_login():
-    """Launch verify_login.py in a separate console window."""
-    webai_dir = get_webai_dir()
-    script_path = os.path.join(webai_dir, "verify_login.py")
-    if not os.path.exists(script_path):
-        return {"status": "error", "message": "verify_login.py not found in WebAI-to-API"}
-        
+    """Open Gemini Web in browser for login."""
+    import webbrowser
     try:
-        if sys.platform == "win32":
-            subprocess.Popen(
-                ["cmd", "/c", "start", "cmd", "/k", f"cd /d \"{webai_dir}\" && python verify_login.py"],
-                cwd=webai_dir,
-                shell=True
-            )
-        else:
-            subprocess.Popen([sys.executable, script_path], cwd=webai_dir)
-            
+        webbrowser.open("https://gemini.google.com")
         return {
             "status": "success",
-            "message": "Launched Gemini Web Login window! Please complete the login in the browser window."
+            "message": "Opened gemini.google.com in your browser! Please log in, then copy __Secure-1PSID & __Secure-1PSIDTS or click Auto-Extract."
         }
     except Exception as e:
-        return {"status": "error", "message": f"Failed to launch login script: {str(e)}"}
+        return {"status": "error", "message": f"Failed to open browser: {str(e)}"}
