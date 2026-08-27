@@ -1327,23 +1327,51 @@
                     <!-- Range Options -->
                     <div class="mb-4">
                         <label class="block text-sm font-medium text-slate-400 mb-2">Range:</label>
-                        <div class="flex gap-3">
+                        <div class="grid grid-cols-1 md:grid-cols-3 gap-2.5">
                             <label
-                                class="flex items-center gap-2 text-sm text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
-                                :class="{ '': llmBatchRange === 'all' }"
+                                class="flex items-center gap-2 text-xs text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
                                 :style="llmBatchRange === 'all' ? { borderColor: secondaryColor, backgroundColor: secondaryColor + '1A' } : {}">
                                 <input type="radio" v-model="llmBatchRange" value="all"
                                     class="focus:ring-offset-slate-900" :style="{ accentColor: secondaryColor }">
                                 All rows
                             </label>
                             <label
-                                class="flex items-center gap-2 text-sm text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
-                                :class="{ '': llmBatchRange === 'empty' }"
+                                class="flex items-center gap-2 text-xs text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
                                 :style="llmBatchRange === 'empty' ? { borderColor: secondaryColor, backgroundColor: secondaryColor + '1A' } : {}">
                                 <input type="radio" v-model="llmBatchRange" value="empty"
                                     class="focus:ring-offset-slate-900" :style="{ accentColor: secondaryColor }">
                                 Empty polished only
                             </label>
+                            <label
+                                class="flex items-center gap-2 text-xs text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
+                                :style="llmBatchRange === 'custom' ? { borderColor: secondaryColor, backgroundColor: secondaryColor + '1A' } : {}">
+                                <input type="radio" v-model="llmBatchRange" value="custom"
+                                    class="focus:ring-offset-slate-900" :style="{ accentColor: secondaryColor }">
+                                Custom Range (Baris)
+                            </label>
+                        </div>
+
+                        <!-- Custom Range Inputs -->
+                        <div v-show="llmBatchRange === 'custom'" class="mt-3 p-3 bg-slate-950/80 border border-slate-700 rounded-lg space-y-2">
+                            <div class="flex items-center gap-3 flex-wrap text-xs text-slate-300">
+                                <div class="flex items-center gap-1.5">
+                                    <span class="text-slate-400">Dari Baris:</span>
+                                    <input type="number" v-model.number="llmBatchCustomStart" min="1" :max="translationData.length"
+                                        class="w-20 bg-slate-900 border border-slate-700 rounded px-2 py-1 text-xs text-white font-mono focus:outline-none focus:border-indigo-500">
+                                </div>
+                                <div class="flex items-center gap-1.5">
+                                    <span class="text-slate-400">Sampai Baris:</span>
+                                    <input type="number" v-model.number="llmBatchCustomEnd" min="1" :max="translationData.length"
+                                        class="w-20 bg-slate-900 border border-slate-700 rounded px-2 py-1 text-xs text-white font-mono focus:outline-none focus:border-indigo-500">
+                                </div>
+                                <div class="text-xs text-indigo-300 ml-auto font-mono">
+                                    (Akan memproses {{ llmBatchItemCount }} baris)
+                                </div>
+                            </div>
+                            <p class="text-[11px] text-slate-500">
+                                <i class="fa-solid fa-lightbulb text-amber-400 mr-1"></i>
+                                <strong>Smart Context Analysis:</strong> AI otomatis menganalisa baris sebelum rentang ini untuk mempertahankan alur cerita dan memori estafet agar tidak berhalusinasi.
+                            </p>
                         </div>
                     </div>
 
@@ -1453,7 +1481,7 @@
 
 
     <!-- App JS -->
-    <script src="/static/js/app.js?v=3.4.0"></script>
+    <script src="/static/js/app.js?v=3.6.0"></script>
 </body>
 
 </html>

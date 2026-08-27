@@ -377,29 +377,30 @@ async def llm_batch(request: LLMBatchRequest):
     async def event_stream():
         config = llm_service.get_llm_config()
         total = len(request.items)
+        all_context_rows = request.full_rows if request.full_rows else request.items
 
         for idx, item in enumerate(request.items):
             try:
                 original = item.get("original", "")
                 translation = item.get("translation", "")
                 row_id = item.get("id", idx)
-
-                # Build context from all items
-                all_rows = request.items
+                
+                # Context target index in the full scenario
+                full_index = request.start_offset + idx if request.full_rows else idx
 
                 if request.mode == "retranslate":
                     result = await llm_service.retranslate(
                         original_text=original,
-                        all_rows=all_rows,
-                        target_index=idx,
+                        all_rows=all_context_rows,
+                        target_index=full_index,
                         config=config
                     )
                 else:  # polish
                     result = await llm_service.polish(
                         original_text=original,
                         translated_text=translation,
-                        all_rows=all_rows,
-                        target_index=idx,
+                        all_rows=all_context_rows,
+                        target_index=full_index,
                         config=config
                     )
 
