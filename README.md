@@ -43,6 +43,7 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 ### 🎮 1. Manajemen Multi-Proyek & Isolasi Cache
 * **Dukungan Banyak Game**: Kelola berbagai proyek game sekaligus (misalnya *D.C.4 Plus Harmony*, *Da Capo 4*, *D.C.III Platinum Partner*, *D.C.III Dream Days*, dll.) dalam satu aplikasi.
 * **Isolasi Cache Mandiri (`project_data/<slug>`)**: Setiap proyek memiliki folder cache tersendiri sehingga data rich save, status pengerjaan, dan riwayat terjemahan antar-game tidak akan saling menimpa.
+* **⚡ 1-Click Full Project Auto-Indexer**: Fitur tombol `⚡ Index Semua File Game` di menu pengaturan untuk mem-pre-cache dan mengindeks ratusan file game sekaligus ke `project_data/` dalam hitungan detik (~2-3 detik untuk 500+ file).
 * **Dropdown Sync & Custom Path**: Sinkronkan folder cache yang sudah ada atau buat nama folder baru langsung dari menu pengaturan.
 
 ### 📝 2. Editor Naskah Side-by-Side Modern
@@ -57,9 +58,11 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 * **Split View**: Bandingkan dua tab terjemahan secara berdampingan (misal `Initial` vs `Polished`).
 * **Auto-Heal & Auto-Sync**: Jika teks naskah Jepang asli sebelumnya kosong akibat salah folder, aplikasi akan memulihkan dan mengisi ulang teks Jepang secara otomatis begitu folder raw diarahkan dengan benar.
 
-### 📖 3. Furigana Parser & Pencarian Romaji Cerdas
-* **Pembacaan Kanji Otomatis**: Dilengkapi modul MeCab / UniDic untuk menampilkan furigana di atas kanji secara instan.
-* **Pencarian Berbasis Romaji**: Mengetik `arisu` akan otomatis menemukan kanji `有里栖`, `ありす`, maupun katakana `アリス`.
+### 📖 3. Furigana Parser & Mesin Pencarian Multi-Threaded
+* **Pencarian Super Cepat Mirip VS Code (< 0.4 Detik)**: Mesin pencarian multi-threaded (*16-Worker Parallel*) yang mampu memindai ratusan file JSON naskah game dan rich save secara instan tanpa lag.
+* **Dukungan Otomatis UTF-8 BOM (`utf-8-sig`)**: Mampu membaca dan mencari teks pada seluruh file game mentah (raw import) maupun cache pengerjaan tanpa risiko file terlewati.
+* **Pembacaan Kanji & Furigana Otomatis**: Dilengkapi modul MeCab / UniDic untuk menampilkan furigana di atas kanji secara instan.
+* **Pencarian Berbasis Romaji Cerdas**: Mengetik `arisu` akan otomatis menemukan kanji `有里栖`, `ありす`, maupun katakana `アリス`.
 * **Pencarian Regex & In-File Search**: Filter naskah dengan regular expression dan lompat langsung ke baris target dengan cepat.
 
 ### 🤖 4. Hybrid AI Engine (Direct Gemini Web & Custom LLM)

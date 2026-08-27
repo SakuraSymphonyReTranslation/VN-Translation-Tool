@@ -43,6 +43,7 @@ The tool integrates a clean side-by-side editor, automatic Furigana parsing, int
 ### 🎮 1. Multi-Project Management & Cache Isolation
 * **Multiple Game Profiles**: Seamlessly switch between projects (e.g. *D.C.4 Plus Harmony*, *Da Capo 4*, *D.C.III Platinum Partner*, *D.C.III Dream Days*, etc.).
 * **Independent Cache Folders (`project_data/<slug>`)**: Keeps progress status, rich saves, and translation cache completely isolated between different games.
+* **⚡ 1-Click Full Project Auto-Indexer**: `⚡ Index All Game Files` button in Settings to pre-cache and index hundreds of game scenarios into `project_data/` in just seconds (~2-3 seconds for 500+ files).
 * **Auto-Sync & Custom Paths**: Easily select existing cache folders or generate new ones dynamically from Settings.
 
 ### 📝 2. Modern Side-by-Side Script Editor
@@ -57,9 +58,11 @@ The tool integrates a clean side-by-side editor, automatic Furigana parsing, int
 * **Split View**: Side-by-side comparison of any two tiers (e.g. `Initial` vs `Polished`).
 * **Auto-Heal & Auto-Sync**: Automatically repairs and re-populates missing Japanese source text if directory paths were misconfigured.
 
-### 📖 3. Furigana Parser & Smart Romaji Search
+### 📖 3. Furigana Parser & High-Speed Multi-Threaded Search
+* **Lightning-Fast VS Code-Like Search (< 0.4s)**: High-speed multi-threaded search engine (*16-Worker Parallel*) capable of scanning hundreds of script files and rich saves instantly.
+* **Seamless UTF-8 BOM Support (`utf-8-sig`)**: Reads and searches all raw game imports and working caches without skipping any files.
 * **Kanji Furigana Generation**: Built-in MeCab / UniDic support for real-time furigana ruby display over kanji.
-* **Romaji-to-Japanese Matching**: Typing `arisu` finds `有里栖`, `ありす`, and `アリス`.
+* **Smart Romaji-to-Japanese Matching**: Typing `arisu` finds `有里栖`, `ありす`, and `アリス`.
 * **Regex & In-File Search**: Filter lines using regular expressions and jump directly to matches.
 
 ### 🤖 4. Hybrid AI Engine (Direct Gemini Web & Custom LLM)
