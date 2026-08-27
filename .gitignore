@@ -38,3 +38,7 @@ Thumbs.db
 *.log
 scratch/
 .system_generated/
+
+# User Data & Private Configuration
+project_data/
+config.json

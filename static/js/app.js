@@ -21,6 +21,8 @@ createApp({
         const newProjName = ref('');
         const availableCacheFolders = ref([]);
         const isRefreshingCaches = ref(false);
+        const isIndexingAll = ref(false);
+        const indexAllMsg = ref('');
         const webaiStatus = ref({ local_version: '0.6.0', folder: '', folder_exists: true });
         const webaiUpdateInfo = ref(null);
         const isCheckingWebaiUpdate = ref(false);
