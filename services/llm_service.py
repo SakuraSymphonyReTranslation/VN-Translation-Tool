@@ -427,23 +427,28 @@ async def polish(original_text: str, translated_text: str, all_rows=None, target
     return trans
 
 
-async def test_connection(api_url_override=None, model_override=None, provider_override=None) -> dict:
-    """Test connection for active mode."""
+async def test_connection(api_url_override=None, model_override=None, provider_override=None, psid_override=None, psidts_override=None) -> dict:
+    """Test connection for active mode with strict cookie validation."""
     config = get_llm_config()
     provider = provider_override or config["provider"]
     model = model_override or config["model"]
     api_url = (api_url_override or config["api_url"]).rstrip("/")
     
     if provider == "gemini_web":
-        cookies = config.get("cookies", {})
-        if not cookies.get("has_cookies"):
+        psid = psid_override if psid_override is not None else config.get("cookies", {}).get("psid", "")
+        psidts = psidts_override if psidts_override is not None else config.get("cookies", {}).get("psidts", "")
+        
+        # Strict validation: Cookies cannot be empty
+        if not (psid and psid.strip()) or not (psidts and psidts.strip()):
             return {
                 "status": "error",
                 "provider": "gemini_web",
-                "message": "Gemini Web cookies are missing! Please paste __Secure-1PSID & __Secure-1PSIDTS in 'Edit Cookies' and click 'Save Cookies'."
+                "message": "Cookie __Secure-1PSID dan __Secure-1PSIDTS masih kosong! Silakan isi cookie atau klik tombol 'Auto-Extract' terlebih dahulu."
             }
         try:
-            client = await _get_or_init_gemini_client(force_reconnect=True)
+            from gemini_webapi import GeminiClient
+            client = GeminiClient(psid.strip(), psidts.strip())
+            await client.init(timeout=25, auto_close=False, close_delay=600)
             res = await client.generate_content('Respond with JSON: {"status": "ok"}', model="gemini-3.0-flash")
             return {
                 "status": "connected",
