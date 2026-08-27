@@ -1538,13 +1538,97 @@ createApp({
             config.value.llm_glossary.push({ src: '', dst: '', info: '', case_sensitive: false });
         };
 
-                const isAllGlossarySelected = computed(() => {
+        // VNDB Glossary Extractor
+        const extractVndbGlossary = async (replaceAll = false) => {
+            const rawId = (vndbExtractId.value || '').trim();
+            if (!rawId) {
+                alert("Silakan masukkan ID VNDB terlebih dahulu (contoh: v22741 atau 22741).");
+                return;
+            }
+
+            if (replaceAll && (config.value.llm_glossary || []).length > 0) {
+                if (!confirm("Ganti seluruh isi glosarium saat ini dengan hasil ekstraksi baru dari VNDB?")) {
+                    return;
+                }
+            }
+
+            isExtractingVndb.value = true;
+            try {
+                const res = await fetch('/api/glossary/extract-vndb', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ vn_id: rawId })
+                });
+                const data = await res.json();
+                if (data.status === 'success' && data.entries && data.entries.length > 0) {
+                    if (!config.value.llm_glossary || replaceAll) {
+                        config.value.llm_glossary = [];
+                    }
+
+                    const existingSrcs = new Set(config.value.llm_glossary.map(e => e.src));
+                    let addedCount = 0;
+                    for (const entry of data.entries) {
+                        if (!existingSrcs.has(entry.src)) {
+                            config.value.llm_glossary.push(entry);
+                            existingSrcs.add(entry.src);
+                            addedCount++;
+                        }
+                    }
+
+                    selectedGlossaryIndices.value = [];
+                    alert(`✅ Sukses! ${data.message} (${addedCount} entri baru dimasukkan ke glosarium).`);
+                } else if (data.status === 'warning') {
+                    alert(`⚠️ ${data.message}`);
+                } else {
+                    alert(`❌ Gagal: ${data.message || 'Terjadi kesalahan'}`);
+                }
+            } catch (e) {
+                console.error("VNDB extract error:", e);
+                alert("Gagal mengekstrak dari VNDB: " + e.message);
+            } finally {
+                isExtractingVndb.value = false;
+            }
+        };
+
+        // Toggle Select All
+        const toggleSelectAllGlossary = (event) => {
+            const list = config.value.llm_glossary || [];
+            if (event.target.checked) {
+                selectedGlossaryIndices.value = list.map((_, i) => i);
+            } else {
+                selectedGlossaryIndices.value = [];
+            }
+        };
+
+        // Bulk Delete Selected
+        const bulkDeleteGlossary = () => {
+            if (!selectedGlossaryIndices.value.length) return;
+            const count = selectedGlossaryIndices.value.length;
+            if (!confirm(`Hapus ${count} entri glosarium yang dipilih?`)) return;
+
+            const selectedSet = new Set(selectedGlossaryIndices.value);
+            config.value.llm_glossary = (config.value.llm_glossary || []).filter((_, idx) => !selectedSet.has(idx));
+            selectedGlossaryIndices.value = [];
+        };
+
+        // Delete All
+        const deleteAllGlossary = () => {
+            const list = config.value.llm_glossary || [];
+            if (!list.length) return;
+            if (!confirm(`Hapus SEMUA (${list.length}) entri glosarium ini? Tindakan ini tidak dapat dibatalkan.`)) return;
+
+            config.value.llm_glossary = [];
+            selectedGlossaryIndices.value = [];
+        };
+
+        const isAllGlossarySelected = computed(() => {
             const list = config.value.llm_glossary || [];
             return list.length > 0 && selectedGlossaryIndices.value.length === list.length;
         });
 
         const removeGlossaryEntry = (idx) => {
             config.value.llm_glossary.splice(idx, 1);
+            selectedGlossaryIndices.value = selectedGlossaryIndices.value.filter(i => i !== idx);
         };
 
         const importGlossaryFile = () => {
