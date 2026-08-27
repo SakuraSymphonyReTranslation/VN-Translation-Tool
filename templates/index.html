@@ -670,9 +670,23 @@
                                     <i class="fa-solid fa-triangle-exclamation text-[10px]"></i> Login Required
                                 </span>
                             </div>
-                            <div class="flex items-center gap-2">
-                                <button type="button" @click="autoExtractCookies" :disabled="isExtractingCookies" class="px-2.5 py-1 text-xs rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-medium transition-colors border border-slate-700 flex items-center gap-1.5 disabled:opacity-50" title="Extract cookies from Chrome/Edge/Firefox">
-                                    <i class="fa-solid fa-wand-magic-sparkles text-[11px]" :class="{ 'fa-spin': isExtractingCookies }"></i> Auto-Extract
+                            <div class="flex items-center gap-2 flex-wrap">
+                                <div class="flex items-center gap-1.5">
+                                    <span class="text-[11px] text-slate-400">Browser:</span>
+                                    <select v-model="geminiCookies.browser" class="bg-slate-950 border border-slate-700 rounded px-2 py-1 text-xs text-slate-200 focus:outline-none focus:border-indigo-500 font-sans">
+                                        <option value="auto">🌐 Auto (Semua Browser)</option>
+                                        <option value="chrome">🌐 Google Chrome</option>
+                                        <option value="edge">🌐 Microsoft Edge</option>
+                                        <option value="brave">🦁 Brave Browser</option>
+                                        <option value="firefox">🦊 Firefox / Zen / LibreWolf</option>
+                                        <option value="opera">🔴 Opera</option>
+                                        <option value="opera_gx">🎮 Opera GX</option>
+                                        <option value="vivaldi">🎭 Vivaldi</option>
+                                        <option value="thorium">⚡ Thorium / Arc</option>
+                                    </select>
+                                </div>
+                                <button type="button" @click="autoExtractCookies" :disabled="isExtractingCookies" class="px-2.5 py-1 text-xs rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-medium transition-colors border border-slate-700 flex items-center gap-1.5 disabled:opacity-50" title="Extract cookies from chosen / installed browser">
+                                    <i class="fa-solid fa-wand-magic-sparkles text-[11px] text-amber-400" :class="{ 'fa-spin': isExtractingCookies }"></i> Auto-Extract
                                 </button>
                                 <button type="button" @click="launchWebLogin" class="px-2.5 py-1 text-xs rounded bg-indigo-950/80 hover:bg-indigo-900 text-indigo-200 font-medium transition-colors border border-indigo-700/60 flex items-center gap-1.5" title="Launch browser login helper window">
                                     <i class="fa-solid fa-arrow-up-right-from-square text-[11px]"></i> Launch Login

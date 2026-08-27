@@ -30,7 +30,7 @@ createApp({
         const webaiUpdateInfo = ref(null);
         const isCheckingWebaiUpdate = ref(false);
         const isUpdatingWebai = ref(false);
-        const geminiCookies = ref({ psid: '', psidts: '', browser: 'chrome', has_cookies: false });
+        const geminiCookies = ref({ psid: '', psidts: '', browser: 'auto', has_cookies: false });
         const showCookieFields = ref(false);
         const isExtractingCookies = ref(false);
         const cookieMsg = ref('');
