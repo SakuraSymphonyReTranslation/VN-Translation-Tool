@@ -292,53 +292,266 @@ def save_gemini_cookies(psid: str, psidts: str, browser: str = "chrome"):
     except Exception as e:
         return {"status": "error", "message": f"Failed to save config.conf: {str(e)}"}
 
-def extract_cookies_from_browser(browser_name: str = "chrome"):
-    """Extract Google/Gemini cookies directly from installed browser."""
-    webai_src = os.path.join(get_webai_dir(), "src")
-    if webai_src not in sys.path:
-        sys.path.insert(0, webai_src)
-        
+def _read_locked_file_win(src_path):
+    """Read a locked file safely on Windows using kernel32 CreateFileW with full sharing."""
+    import ctypes
+    from ctypes import wintypes
+    GENERIC_READ = 0x80000000
+    FILE_SHARE_READ = 0x00000001
+    FILE_SHARE_WRITE = 0x00000002
+    FILE_SHARE_DELETE = 0x00000004
+    OPEN_EXISTING = 3
+    FILE_ATTRIBUTE_NORMAL = 0x80
+    INVALID_HANDLE_VALUE = ctypes.c_void_p(-1).value
+
+    handle = ctypes.windll.kernel32.CreateFileW(
+        src_path,
+        GENERIC_READ,
+        FILE_SHARE_READ | FILE_SHARE_WRITE | FILE_SHARE_DELETE,
+        None,
+        OPEN_EXISTING,
+        FILE_ATTRIBUTE_NORMAL,
+        None
+    )
+    if handle == INVALID_HANDLE_VALUE:
+        return None
     try:
-        from app.utils.browser import CrossPlatformCookieExtractor
-        extractor = CrossPlatformCookieExtractor()
-        
-        # Try requested browser first, then fallbacks
-        browsers_to_try = [browser_name] + [b for b in ["chrome", "edge", "brave", "firefox"] if b != browser_name]
-        
-        for b in browsers_to_try:
-            try:
-                cookies = extractor.get_cookies_with_fallback(b)
-                if cookies:
-                    psid = ""
-                    psidts = ""
-                    for c in cookies:
-                        if hasattr(c, 'domain') and "google" in c.domain:
-                            if c.name == "__Secure-1PSID" and c.value:
-                                psid = c.value
-                            elif c.name == "__Secure-1PSIDTS" and c.value:
-                                psidts = c.value
-                                
+        file_size = ctypes.windll.kernel32.GetFileSize(handle, None)
+        if file_size <= 0:
+            return None
+        buf = ctypes.create_string_buffer(file_size)
+        bytes_read = wintypes.DWORD()
+        success = ctypes.windll.kernel32.ReadFile(handle, buf, file_size, ctypes.byref(bytes_read), None)
+        if success:
+            return buf.raw[:bytes_read.value]
+    finally:
+        ctypes.windll.kernel32.CloseHandle(handle)
+    return None
+
+def _win_decrypt_dpapi(cipher_bytes):
+    try:
+        import win32crypt
+        return win32crypt.CryptUnprotectData(cipher_bytes, None, None, None, 0)[1]
+    except Exception:
+        pass
+    try:
+        import ctypes
+        from ctypes import wintypes
+        class DATA_BLOB(ctypes.Structure):
+            _fields_ = [('cbData', wintypes.DWORD), ('pbData', ctypes.POINTER(ctypes.c_byte))]
+        blob_in = DATA_BLOB(len(cipher_bytes), ctypes.cast(ctypes.create_string_buffer(cipher_bytes), ctypes.POINTER(ctypes.c_byte)))
+        blob_out = DATA_BLOB()
+        if ctypes.windll.crypt32.CryptUnprotectData(ctypes.byref(blob_in), None, None, None, None, 0, ctypes.byref(blob_out)):
+            out_bytes = ctypes.string_at(blob_out.pbData, blob_out.cbData)
+            ctypes.windll.kernel32.LocalFree(blob_out.pbData)
+            return out_bytes
+    except Exception:
+        pass
+    return None
+
+def _win_decrypt_aes_gcm(key, iv, ciphertext, tag):
+    try:
+        from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+        aesgcm = AESGCM(key)
+        return aesgcm.decrypt(iv, ciphertext + tag, None)
+    except Exception:
+        pass
+    try:
+        from Cryptodome.Cipher import AES
+        cipher = AES.new(key, AES.MODE_GCM, nonce=iv)
+        return cipher.decrypt_and_verify(ciphertext, tag)
+    except Exception:
+        pass
+    return None
+
+def extract_cookies_from_browser(browser_name: str = "auto"):
+    """
+    Universal multi-browser cookie extractor supporting:
+    Chrome, Edge, Brave, Firefox, LibreWolf, Waterfox, Floorp, Zen, Opera, Opera GX, Vivaldi, Thorium, Arc.
+    """
+    browser_clean = (browser_name or "auto").lower()
+
+    # 1. Try browser_cookie3 if installed
+    try:
+        import browser_cookie3
+        b3_map = {
+            "chrome": browser_cookie3.chrome,
+            "edge": browser_cookie3.edge,
+            "brave": browser_cookie3.brave,
+            "firefox": browser_cookie3.firefox,
+            "opera": browser_cookie3.opera,
+            "opera_gx": browser_cookie3.opera_gx if hasattr(browser_cookie3, "opera_gx") else browser_cookie3.opera,
+            "vivaldi": browser_cookie3.vivaldi if hasattr(browser_cookie3, "vivaldi") else None
+        }
+        order = [browser_clean] if browser_clean in b3_map else list(b3_map.keys())
+        for b_key in order:
+            b_fn = b3_map.get(b_key)
+            if b_fn:
+                try:
+                    cj = b_fn(domain_name="google.com")
+                    psid, psidts = "", ""
+                    for c in cj:
+                        if c.name == "__Secure-1PSID":
+                            psid = c.value
+                        elif c.name == "__Secure-1PSIDTS":
+                            psidts = c.value
                     if psid and psidts:
-                        save_gemini_cookies(psid, psidts, b)
+                        save_gemini_cookies(psid, psidts, b_key)
                         return {
                             "status": "success",
-                            "message": f"Successfully extracted Gemini cookies from {b.title()}!",
-                            "browser": b,
+                            "message": f"Berhasil mengekstrak cookie Gemini dari browser {b_key.title()}!",
+                            "browser": b_key,
                             "psid_preview": psid[:12] + "...",
                             "psidts_preview": psidts[:12] + "...",
                             "has_cookies": True
                         }
-            except Exception as b_err:
-                print(f"Extraction failed for {b}: {b_err}")
-                
-        return {
-            "status": "error",
-            "message": "Could not auto-extract cookies from browser. Please ensure your browser has logged into gemini.google.com, or enter __Secure-1PSID & __Secure-1PSIDTS manually, or launch Web Login."
-        }
-    except Exception as e:
-        return {"status": "error", "message": f"Cookie extractor error: {str(e)}"}
+                except Exception:
+                    pass
+    except Exception:
+        pass
 
-def launch_verify_login():
+    # 2. Try Firefox & Gecko engines (Unencrypted SQLite)
+    firefox_base_dirs = [
+        ("firefox", os.path.expandvars(r"%APPDATA%\Mozilla\Firefox\Profiles")),
+        ("waterfox", os.path.expandvars(r"%APPDATA%\Waterfox\Profiles")),
+        ("librewolf", os.path.expandvars(r"%APPDATA%\LibreWolf\Profiles")),
+        ("floorp", os.path.expandvars(r"%APPDATA%\Floorp\Profiles")),
+        ("zen", os.path.expandvars(r"%APPDATA%\zen\Profiles"))
+    ]
+
+    if browser_clean in ["auto", "firefox", "waterfox", "librewolf", "floorp", "zen"]:
+        for b_label, f_dir in firefox_base_dirs:
+            if not os.path.exists(f_dir):
+                continue
+            for prof in os.listdir(f_dir):
+                db_path = os.path.join(f_dir, prof, "cookies.sqlite")
+                if os.path.exists(db_path):
+                    raw_db = _read_locked_file_win(db_path)
+                    if not raw_db:
+                        continue
+                    temp_db = tempfile.NamedTemporaryFile(delete=False)
+                    temp_db.write(raw_db)
+                    temp_db.close()
+                    try:
+                        conn = sqlite3.connect(temp_db.name)
+                        cursor = conn.cursor()
+                        cursor.execute("SELECT name, value FROM moz_cookies WHERE host LIKE '%google%' AND name IN ('__Secure-1PSID', '__Secure-1PSIDTS')")
+                        ff_cookies = dict(cursor.fetchall())
+                        conn.close()
+                        if "__Secure-1PSID" in ff_cookies and "__Secure-1PSIDTS" in ff_cookies:
+                            psid = ff_cookies["__Secure-1PSID"]
+                            psidts = ff_cookies["__Secure-1PSIDTS"]
+                            save_gemini_cookies(psid, psidts, b_label)
+                            return {
+                                "status": "success",
+                                "message": f"Berhasil mengekstrak cookie Gemini dari {b_label.title()}!",
+                                "browser": b_label,
+                                "psid_preview": psid[:12] + "...",
+                                "psidts_preview": psidts[:12] + "...",
+                                "has_cookies": True
+                            }
+                    except Exception:
+                        pass
+                    finally:
+                        try:
+                            os.unlink(temp_db.name)
+                        except Exception:
+                            pass
+
+    # 3. Direct Chromium Decryption Engine (DPAPI + AES-GCM for Chrome, Edge, Brave, Opera, Vivaldi, Thorium, Arc)
+    chromium_paths = {
+        "chrome": [os.path.expandvars(r"%LOCALAPPDATA%\Google\Chrome\User Data"), os.path.expandvars(r"%LOCALAPPDATA%\Google\Chrome Beta\User Data")],
+        "edge": [os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Edge\User Data"), os.path.expandvars(r"%LOCALAPPDATA%\Microsoft\Edge Dev\User Data")],
+        "brave": [os.path.expandvars(r"%LOCALAPPDATA%\BraveSoftware\Brave-Browser\User Data")],
+        "opera": [os.path.expandvars(r"%APPDATA%\Opera Software\Opera Stable")],
+        "opera_gx": [os.path.expandvars(r"%APPDATA%\Opera Software\Opera GX Stable")],
+        "vivaldi": [os.path.expandvars(r"%LOCALAPPDATA%\Vivaldi\User Data")],
+        "thorium": [os.path.expandvars(r"%LOCALAPPDATA%\Thorium\User Data")],
+        "arc": [os.path.expandvars(r"%LOCALAPPDATA%\The Browser Company\Arc\User Data")],
+        "chromium": [os.path.expandvars(r"%LOCALAPPDATA%\Chromium\User Data")]
+    }
+
+    chrom_order = [browser_clean] if browser_clean in chromium_paths else list(chromium_paths.keys())
+
+    for b_key in chrom_order:
+        for base_dir in chromium_paths.get(b_key, []):
+            if not os.path.exists(base_dir):
+                continue
+            local_state_path = os.path.join(base_dir, "Local State")
+            if not os.path.exists(local_state_path):
+                continue
+            decrypted_key = None
+            try:
+                raw_ls = _read_locked_file_win(local_state_path)
+                local_state = json.loads(raw_ls.decode('utf-8', errors='ignore')) if raw_ls else {}
+                enc_key_b64 = local_state.get("os_crypt", {}).get("encrypted_key")
+                if enc_key_b64:
+                    enc_key = base64.b64decode(enc_key_b64)[5:]
+                    decrypted_key = _win_decrypt_dpapi(enc_key)
+            except Exception:
+                pass
+
+            profiles = ["Default", "Profile 1", "Profile 2", "Profile 3", "Profile 4", "Guest Profile"]
+            for prof in profiles:
+                for c_sub in [os.path.join(prof, "Network", "Cookies"), os.path.join(prof, "Cookies"), "Cookies"]:
+                    c_path = os.path.join(base_dir, c_sub)
+                    if os.path.exists(c_path):
+                        raw_db = _read_locked_file_win(c_path)
+                        if not raw_db:
+                            continue
+                        temp_db = tempfile.NamedTemporaryFile(delete=False)
+                        temp_db.write(raw_db)
+                        temp_db.close()
+                        cookies_found = {}
+                        try:
+                            conn = sqlite3.connect(temp_db.name)
+                            cursor = conn.cursor()
+                            cursor.execute("SELECT name, value, encrypted_value FROM cookies WHERE host_key LIKE '%google%'")
+                            for name, value, enc_val in cursor.fetchall():
+                                if name in ["__Secure-1PSID", "__Secure-1PSIDTS"]:
+                                    if value:
+                                        cookies_found[name] = value
+                                    elif enc_val and decrypted_key:
+                                        if enc_val.startswith(b"v10") or enc_val.startswith(b"v11"):
+                                            iv = enc_val[3:15]
+                                            ciphertext = enc_val[15:-16]
+                                            tag = enc_val[-16:]
+                                            dec = _win_decrypt_aes_gcm(decrypted_key, iv, ciphertext, tag)
+                                            if dec:
+                                                cookies_found[name] = dec.decode('utf-8', errors='ignore')
+                                        else:
+                                            dec = _win_decrypt_dpapi(enc_val)
+                                            if dec:
+                                                cookies_found[name] = dec.decode('utf-8', errors='ignore')
+                            conn.close()
+                        except Exception:
+                            pass
+                        finally:
+                            try:
+                                os.unlink(temp_db.name)
+                            except Exception:
+                                pass
+
+                        if "__Secure-1PSID" in cookies_found and "__Secure-1PSIDTS" in cookies_found:
+                            psid = cookies_found["__Secure-1PSID"]
+                            psidts = cookies_found["__Secure-1PSIDTS"]
+                            save_gemini_cookies(psid, psidts, b_key)
+                            return {
+                                "status": "success",
+                                "message": f"Berhasil mengekstrak cookie Gemini dari browser {b_key.title()}!",
+                                "browser": b_key,
+                                "psid_preview": psid[:12] + "...",
+                                "psidts_preview": psidts[:12] + "...",
+                                "has_cookies": True
+                            }
+
+    return {
+        "status": "warning",
+        "message": "Fitur keamanan Windows/Chromium (App-Bound Encryption) membatasi akses file cookie saat browser aktif. Silakan klik tombol 'Launch Login' (atau buka gemini.google.com), tekan F12 > Application > Cookies, salin nilai __Secure-1PSID & __Secure-1PSIDTS ke kolom lalu klik 'Save Cookies'."
+    }
+
+
+():
     """Open Gemini Web in browser for login."""
     import webbrowser
     try:
