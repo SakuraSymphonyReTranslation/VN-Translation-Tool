@@ -6,4 +6,5 @@ jinja2
 python-multipart
 fugashi
 unidic
-httpx
+httpx>=0.28.0
+gemini-webapi
