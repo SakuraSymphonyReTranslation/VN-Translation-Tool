@@ -1,0 +1,2576 @@
+[
+    {
+        "id": 0,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "「……なので、西洋における錬金術や、東洋における陰陽五行等の思想・学問は全く以て科学であったのだ」",
+        "translations": {
+            "initial": "「...Oleh karena itu, pemikiran dan disiplin ilmu seperti alkimia di Barat atau Yin-Yang dan Lima Elemen di Timur, dulunya sepenuhnya dianggap sebagai sains」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "「現在ではオカルティックなもの扱いで、似非科学なんかの題材として小説漫画ゲームなどの題材にされることが多いが、当時は最新科学だった」",
+        "translations": {
+            "initial": "「Saat ini hal-hal tersebut sering dianggap okultisme dan dijadikan bahan novel, manga, atau game sebagai pseudosains, tapi pada masanya, itu adalah sains mutakhir」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "「神学や西洋音楽もそうだ。音楽は現在でいうところの神の数式、もしくは標準理論へ近づける最も近い学問だと思われていた」",
+        "translations": {
+            "initial": "「Begitu juga dengan teologi atau musik Barat. Dulu, musik dianggap sebagai disiplin ilmu yang paling mendekati 'rumus Tuhan' atau teori standar di masa kini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "「もちろん、現在『神の数式』と表現される概念と、当時の人間の考える『神』との間には大きな乖離があるが、どちらもこの『世界』へ近づく手がかりの模索だ」",
+        "translations": {
+            "initial": "「Tentu saja, ada perbedaan besar antara konsep yang sekarang disebut 'rumus Tuhan' dengan sosok 'Tuhan' dalam pikiran manusia kala itu, namun keduanya adalah upaya mencari petunjuk untuk memahami 'dunia' ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "「ニュートン力学は古典で最先端科学と辻褄の合わない部分もあるが、現代に通じる科学で神学や音楽や錬金術とは一線を画する……というのも一つの見方だ」",
+        "translations": {
+            "initial": "「Meskipun mekanika Newton adalah fisika klasik yang punya beberapa bagian yang tidak sinkron dengan sains mutakhir saat ini, ada pandangan bahwa ia tetaplah sains modern yang berbeda jauh dari teologi, musik, ataupun alkimia」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "「しかしニュートンは例えば虹の色が７つだと言い、それをドレミファソラシの７つの音階と紐付けて説明した」",
+        "translations": {
+            "initial": "「Namun, Newton misalnya, menyebutkan bahwa warna pelangi ada tujuh, lalu menjelaskannya dengan mengaitkannya pada tujuh tangga nada do-re-mi-fa-sol-la-si」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "「単に当時の学会で納得されやすいように神学や音楽を使っただけという見方もあるし、実際のところは本人に聞かなければわからない」",
+        "translations": {
+            "initial": "「Ada pandangan bahwa beliau hanya menggunakan teologi atau musik agar lebih mudah diterima oleh kalangan akademisi saat itu, tapi kebenarannya gak akan tahu kalau gak tanya langsung pada orangnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "「これは一例だが、やはり現代オカルトと思われている物事と科学との間にはそう簡単に区別や分離のできない歴史があるのは事実なのだ」",
+        "translations": {
+            "initial": "「Ini hanyalah satu contoh, namun fakta sejarah menunjukkan bahwa tidak semudah itu memisahkan atau membedakan antara hal-hal yang kini dianggap okultisme dengan sains」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "「今歴史と私は言ったが、それは現在進行形でもある。西洋の話が続いたので東洋、我が日本についての話もしておこうか」",
+        "translations": {
+            "initial": "「Tadi aku menyebutkan sejarah, tapi hal ini juga masih berlangsung hingga sekarang. Karena tadi terus membahas Barat, mari kita bahas tentang Timur, tentang negara kita, Jepang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "泉先生がスクリーンに文字を書いていく。",
+        "translations": {
+            "initial": "Izumi-sensei mulai menuliskan huruf di layar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "「この文字を見て、さて何をイメージする？」",
+        "translations": {
+            "initial": "「Lihat huruf ini, nah, apa yang kalian bayangkan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "そこには『式』と書かれた。",
+        "translations": {
+            "initial": "Di sana tertulis kata 'Shiki'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "「そうだな、じゃあ白河。どうだ？」",
+        "translations": {
+            "initial": "「Begitu ya, kalau begitu Shirakawa-kun, bagaimana menurutmu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "さされた白河が立って答える。",
+        "translations": {
+            "initial": "Shirakawa yang ditunjuk pun berdiri untuk menjawab.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "「数式や方程式をイメージしました」",
+        "translations": {
+            "initial": "「Aku membayangkan rumus dan persamaan matematika」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "「うむ。多くの場合そうだろう。他には無いか？そうだな。じゃあ鷺澤」",
+        "translations": {
+            "initial": "「Umu. Memang seringnya begitu. Ada yang lain？ Begitu ya. Kalau begitu, Sagisawa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "「はい」",
+        "translations": {
+            "initial": "「Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "今度は有里栖が立ち上がり、少し考えてから口を開いた。",
+        "translations": {
+            "initial": "Kali ini Arisu yang berdiri, ia berpikir sejenak sebelum mulai berbicara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "「入学式や卒業式、結婚式やお葬式でしょうか？」",
+        "translations": {
+            "initial": "「Maksudnya seperti upacara penerimaan siswa baru, kelulusan, pernikahan, atau pemakaman？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "「そうだな。学校で式というとそういうのもイメージされる。古代日本においては最先端の科学は陰陽師らが司っていた。そこで式といえば式神のことをいう」",
+        "translations": {
+            "initial": "「Benar juga. Kalau di sekolah, kata 'upacara' memang identik dengan hal-hal itu. Tapi di Jepang kuno, ilmu pengetahuan mutakhir dikendalikan oleh para Onmyouji. Makanya, kalau bicara soal 'Shiki', yang dimaksud adalah Shikigami」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "「式神というと、なんかお札が霊獣や人型になって戦うような作品も多いが、式とは元来はツールやものを用いるというような意味をもつ」",
+        "translations": {
+            "initial": "「Kalau bicara soal Shikigami, banyak karya yang menggambarkannya sebagai jimat yang berubah jadi makhluk spiritual atau manusia untuk bertarung, tapi sebenarnya 'Shiki' itu awalnya berarti menggunakan alat atau sarana」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "「１と２を足すと３になる、という数式はこのプラスというツールを用いて、２つの数を合わせた合計を求めることを表している」",
+        "translations": {
+            "initial": "「Satu ditambah dua sama dengan tiga, rumus ini menunjukkan bahwa kita menggunakan alat bernama tambah untuk mencari jumlah total dari dua angka tersebut」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "「数式から離れて、例えばペーパーナイフというツールを用いて、紙をなぞると、なぞった線を境にして切れるというのも古来の式の考え方のひとつだ」",
+        "translations": {
+            "initial": "「Terlepas dari rumus matematika, misalnya menggunakan alat seperti pisau kertas untuk menggores kertas, lalu kertasnya terpotong mengikuti garis goresan tersebut, itu juga merupakan salah satu cara berpikir tentang formula sejak zaman dahulu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "「実際にどうかはおいといて、例えばてるてる坊主を掲げると明日は晴れるとかも式の一種だ」",
+        "translations": {
+            "initial": "「Terlepas dari benar atau tidaknya, misalnya menggantung teruteru bouzu agar besok cerah juga termasuk salah satu jenis Shiki」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "「そして、そこから一定の手順に沿って行われる儀式をも式と言うようになった。我々が式という言葉からイメージされるものに繋がってきている」",
+        "translations": {
+            "initial": "「Dan dari sana, ritual yang dilakukan mengikuti prosedur tertentu pun mulai disebut sebagai Shiki. Inilah yang kemudian terhubung dengan citra Shiki yang kita kenal sekarang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "「しかし言葉の持つ本質的な意味を辿り、また時代時代の事情を考慮すれば、今我々がオカルトとして科学と区別している概念もより広義には同種のものだと判る」",
+        "translations": {
+            "initial": "「Namun, jika kita menelusuri makna esensial dari kata tersebut dan mempertimbangkan kondisi di setiap zaman, kita akan menyadari bahwa konsep yang sekarang kita bedakan dari sains sebagai okultisme, dalam arti luas, sebenarnya adalah hal yang serupa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "「科学的とか非科学的と現代人の視点で区別すると、物事を見落とすことがあるかもしれない。過去の考え方は決して淘汰された無用のものではない」",
+        "translations": {
+            "initial": "「Kalau kita membedakan sesuatu berdasarkan sudut pandang modern antara ilmiah atau tidak ilmiah, kita mungkin akan melewatkan sesuatu. Pemikiran masa lalu bukanlah sesuatu yang tidak berguna atau sudah ketinggalan zaman」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "「また今正しいと思っていることが未来から振り返った時にオカルトと思われているかもしれないと考えれば等価であることが判るはずだ」",
+        "translations": {
+            "initial": "「Jika kamu berpikir bahwa apa yang dianggap benar saat ini mungkin saja dianggap klenik di masa depan, kamu akan paham kalau keduanya setara」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「@t60@se520ようするに固定観念にとらわれず、視野を広くもって生きて欲しいという私の願いだ」",
+        "translations": {
+            "initial": "「@t60@se520Intinya, keinginanku adalah agar kalian hidup dengan pandangan luas tanpa terjebak oleh stereotip」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "泉",
+        "translations": {
+            "initial": "Izumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "「む、時間か。お前ら付属三年は今週この時間帯はロングホームルームになってるが、明日で最後だな。また適当な話をするのでよろしく。じゃ」",
+        "translations": {
+            "initial": "「Hm, sudah waktunya ya. Kalian kelas 3 subsidiari ada jam wali kelas di waktu begini selama seminggu ini, tapi besok adalah hari terakhir. Aku akan membicarakan hal santai lagi nanti, jadi mohon bantuannya. Dah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "と言って、例によって礼をせずに教壇を降りていく泉先生。",
+        "translations": {
+            "initial": "Ucap Izumi-sensei sambil turun dari podium tanpa membungkuk seperti biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "「さて、今日も屋上かな」",
+        "translations": {
+            "initial": "「Nah, hari ini ke atap lagi ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "と周囲を見るとみんなもう移動の態勢に入っている。",
+        "translations": {
+            "initial": "Saat aku melihat sekeliling, semua orang sudah bersiap-siap untuk pindah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "白河と二乃がやってきた。",
+        "translations": {
+            "initial": "Shirakawa dan Nino datang menghampiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "「@t5@d1それじゃあ移動しましょうか」",
+        "translations": {
+            "initial": "「@t5@d1Kalau begitu, ayo kita pergi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "「@t17@d1今日も良いかな？午前中降ってた雨も、いつの間にか上がってるから大丈夫そう」",
+        "translations": {
+            "initial": "「@t17@d1Hari ini boleh gabung juga？ Hujan yang turun tadi pagi sepertinya sudah berhenti, jadi harusnya aman」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "「おう、もちろん。それにしても、屋上だと雨の日は使えないかあ……」",
+        "translations": {
+            "initial": "「Oh, tentu saja. Tapi dipikir-pikir, kalau hujan kita nggak bisa pakai atap ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "「こんなに毎日集まるのは今だけでしょうし、クリスマスまで晴れてくれれば助かりますね」",
+        "translations": {
+            "initial": "「Kita cuma kumpul setiap hari begini untuk sekarang saja, jadi akan sangat membantu kalau cuaca tetap cerah sampai Natal nanti」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "「それもそうか。んじゃ、行こうか。今日もまたそら姉が何か用意してるんだっけ？」",
+        "translations": {
+            "initial": "「Benar juga. Ya sudah, ayo pergi. Hari ini Sora-nee menyiapkan sesuatu lagi nggak ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "「そう言えば勝手にそうだと思い込んでて何も用意してなかったです……。朝、準備とかしてましたっけ？」",
+        "translations": {
+            "initial": "「Ngomong-ngomong, aku main asumsi saja kalau dia bakal siapkan sesuatu sampai nggak bawa apa-apa... Tadi pagi, apa dia ada persiapan sesuatu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "「うーん、おぼえてない」",
+        "translations": {
+            "initial": "「Hmm, aku nggak ingat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "「無かったら後で購買か学食に行きましょう」",
+        "translations": {
+            "initial": "「Kalau nggak ada, nanti kita ke kantin atau koperasi saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "「んだな」",
+        "translations": {
+            "initial": "「Oke deh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "「ふう……やっと終わった」",
+        "translations": {
+            "initial": "「Fuu... Akhirnya selesai juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "有里栖もやってきた。",
+        "translations": {
+            "initial": "Arisu pun datang menghampiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "「鷺澤、ずっとノートとっていたね」",
+        "translations": {
+            "initial": "「Sagisawa-san, dari tadi kamu mencatat terus ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "「@t16@d1@t74@d2泉先生、ほとんど板書をしないから話してる内容を書き取るのが大変で。一応、ちゃんと録音はしてるんだけどその場でまとめた方が良いノートになるから」",
+        "translations": {
+            "initial": "「@t16@d1@t74@d2Izumi-sensei hampir nggak pernah nulis di papan tulis, jadi susah banget buat nyatat omongannya. Yah, aku sih tetap rekam suaranya, tapi rasanya catatan bakal jauh lebih bagus kalau dirangkum langsung saat itu juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "「先生の話、いちいちノートとってるのか。テストに出るわけじゃないのに」",
+        "translations": {
+            "initial": "「Kamu mencatat semua omongan guru? Padahal nggak bakal keluar di ujian juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "「うん、でも面白い話だし、先生の授業好きだから」",
+        "translations": {
+            "initial": "「Iya, soalnya ceritanya menarik dan aku suka pelajaran guru itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "「なるほどな」",
+        "translations": {
+            "initial": "「Oalah, begitu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "「鷺澤は本当に優等生」",
+        "translations": {
+            "initial": "「Sagisawa beneran murid teladan ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "「そういうわけじゃないよー」",
+        "translations": {
+            "initial": "「Bukan gitu juga kok-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "「@t30@d1同志たち、時は限られている。行くぞ！」",
+        "translations": {
+            "initial": "「@t30@d1Kawan-kawan, waktu kita terbatas. Ayo berangkat！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "教室のドアを開け、今まさに出て行こうとする杉並が俺たちの方へと声をかけてきた。",
+        "translations": {
+            "initial": "Sambil membuka pintu kelas dan bersiap untuk keluar, Suginami memanggil kami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "「先に行ってるよー」",
+        "translations": {
+            "initial": "「Aku duluan ya-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "叶方も杉並とともに教室から出て行った。",
+        "translations": {
+            "initial": "Kanata pun pergi meninggalkan kelas bersama Suginami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "「それじゃあ、俺たちも移動するか」",
+        "translations": {
+            "initial": "「Kalau begitu, ayo kita juga pindah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "空はスッカリ晴れ渡り、太陽が眩しく輝いていた。",
+        "translations": {
+            "initial": "Langit telah benar-benar cerah, dan matahari bersinar dengan teriknya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "コンクリートはまだ乾ききっていないが、冬晴れの空の下だ。すぐのことだろう。",
+        "translations": {
+            "initial": "Meskipun aspalnya belum sepenuhnya kering, di bawah langit musim dingin yang cerah ini, sepertinya akan segera mengering.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "「今日はおにぎりです！」",
+        "translations": {
+            "initial": "「Hari ini menunya onigiri！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "と言って、そら姉が手にしたバスケットの蓋を開けると、中に可愛らしいおにぎりたちが並んでいた。",
+        "translations": {
+            "initial": "Ucap Sora-nee sambil membuka tutup keranjang yang dibawanya, memperlihatkan deretan onigiri yang tampak lucu di dalamnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "大小様々あるあたり、男子への気遣いも相変わらずバッチリだ。",
+        "translations": {
+            "initial": "Ukurannya yang bervariasi menunjukkan perhatiannya yang luar biasa terhadap porsi makan laki-laki, seperti biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "そら姉の料理の腕を充分思い知ってる面々は次々に手を出していく。",
+        "translations": {
+            "initial": "Satu per satu dari mereka yang sudah tahu betul kehebatan masakan Sora-nee mulai mengambil onigiri tersebut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "「@t69@d1@t102@d2てっぺんにちっちゃく具が乗ってて一目見て判るのがすごく気遣いを感じます。美味しい」",
+        "translations": {
+            "initial": "「@t69@d1@t102@d2Ada sedikit isian di bagian atasnya jadi kita bisa langsung tahu isinya apa, perhatian sekali. Enak banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "「@t22@d1@t89@d2@t132@d3大感激。しかも判る人は少ないかもしれないけれど、握り方が達人の域ですよ。相当な数を握って初めて会得できるフワフワ感。それでいて崩れない」",
+        "translations": {
+            "initial": "「@t22@d1@t89@d2@t132@d3Aku terharu banget. Dan mungkin gak banyak yang sadar, tapi cara mengepal nasinya sudah setingkat ahli. Tekstur lembut yang cuma bisa didapat setelah membuat ribuan kepalan. Padahal begitu, bentuknya gak hancur」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "「@t38@d1この道５０年の女将が到達できる領域……いや、それ以上かも！」",
+        "translations": {
+            "initial": "「@t38@d1Ini adalah tingkat yang cuma bisa dicapai oleh pemilik kedai yang sudah berpengalaman 50 tahun... Tidak, mungkin lebih dari itu！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "「@b2@t57@w1ふふ、もうみんなそんなに褒めても何も出ないよー。はい、こっちのから揚げもどうぞー」",
+        "translations": {
+            "initial": "「@b2@t57@w1Fufu, kalian ini, meskipun dipuji setinggi langit pun aku gak bakal kasih apa-apa lagi lho-. Nah, ini karaage-nya juga silakan dicoba-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "何も出ないと言いながら、次々おかずが出てくる。",
+        "translations": {
+            "initial": "Meskipun dia bilang gak akan memberikan apa-apa lagi, lauk-pauk terus saja berdatangan satu per satu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "ある意味普段食べ慣れてしまっているそら姉の料理に対するみんなのリアクションを見て、改めてその腕を思い知らされる。",
+        "translations": {
+            "initial": "Melihat reaksi semua orang terhadap masakan Sora-nee yang sudah biasa kami makan sehari-hari, membuatku kembali menyadari betapa hebat kemampuannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "ほぼ三食世話になってる俺たち兄妹としては、忘れがちになるからな。",
+        "translations": {
+            "initial": "Karena kami, kakak beradik yang hampir makan tiga kali sehari dari masakannya, sering kali melupakan hal itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "「この梅干し、もしかして自家製ですか？」",
+        "translations": {
+            "initial": "「Umeboshi ini, apa mungkin buatan sendiri？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "「@b2@t18@w1うん、そうだよー。酸っぱすぎたりした？」",
+        "translations": {
+            "initial": "「@b2@t18@w1Iya, benar-. Apa terlalu asam？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "「いえ、浸かり具合も最高です。すごくオレ好みですし、この酸味と塩味のバランスは誰でも好きになるんじゃないかなあ。最高です」",
+        "translations": {
+            "initial": "「Gak, tingkat kematangannya sempurna. Ini benar-benar seleraku, dan aku rasa keseimbangan antara rasa asam dan asinnya bakal disukai siapa saja. Mantap banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "「えへへ、みんな沢山食べてねー！」",
+        "translations": {
+            "initial": "「Ehehe, ayo semuanya makan yang banyak ya-！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "「とはいえ、食べてるだけで昼休みが終わっても困るし、今日の放課後の方針も一応決めておきたいかな」",
+        "translations": {
+            "initial": "「Tapi ya, bakal gawat kalau waktu istirahat habis cuma buat makan, jadi aku ingin setidaknya kita tentukan rencana buat sepulang sekolah nanti」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "「うむ。やることは連日変わらない。同志たちには引きつづき露払いをやってもらう」",
+        "translations": {
+            "initial": "「Umu. Yang harus dilakukan tidak berubah dari hari ke hari. Para kawan sekalian akan terus bertugas membuka jalan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "「おう、まかせとけ。ちょっとリスト確認しておくか」",
+        "translations": {
+            "initial": "「Sip, serahkan saja padaku. Coba aku cek daftar-nya dulu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "片手におにぎりを持ちつつ、もう一方の手で取りだしたＴＡＢをむりやり片手で操作する。",
+        "translations": {
+            "initial": "Sambil memegang onigiri di satu tangan, tangan lainnya mengeluarkan tablet dan mengoperasikannya secara paksa hanya dengan satu tangan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "「昨日からまた増えてるんだな」",
+        "translations": {
+            "initial": "「Jumlahnya bertambah lagi sejak kemarin, ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "「クリスマス駆け込みって本当にこんなにギリギリに駆け込みがあるものなんですね……」",
+        "translations": {
+            "initial": "「Pelanggan menit terakhir saat Natal benar-benar ada sampai sedetik terakhir begini ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "二乃の言い分には俺も共感するところがある。",
+        "translations": {
+            "initial": "Aku pun setuju dengan apa yang dikatakan Nino.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "なんというか、もっとじっくりやるべきことというか、駆け込みカップルってどうなんだ、みたいな。",
+        "translations": {
+            "initial": "Maksudku, ini adalah sesuatu yang seharusnya dilakukan dengan lebih tenang dan perlahan. Pasangan yang jadian di menit terakhir itu rasanya bagaimana gitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "「@b1@t33@w1@b1@t88@w2常坂妹の言いたい事は判るけど、世の中案外そういうものっていうか、それで良いというか、もっというとそれが良いっていう人たちもいるんだよね」",
+        "translations": {
+            "initial": "「@b1@t33@w1@b1@t88@w2Aku paham apa yang ingin dikatakan adiknya Tokisaka-kun, tapi dunia ini memang terkadang seperti itu. Malah ada orang-orang yang menganggap hal itu bagus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "「はぁ……そういうもんなんですね。もっとこう、積み重ねとか、そういうことじゃないんですね……」",
+        "translations": {
+            "initial": "「Hah... Jadi memang begitu ya. Padahal kupikir yang terpenting itu adalah proses pendekatan yang lama atau semacamnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "「ずっと秘めてきた想いが今になって、とか運命的な一目惚れとか、そんな風に肯定的に受け止めても良いかもしれないね」",
+        "translations": {
+            "initial": "「Mungkin sebaiknya kita menganggapnya positif saja, seperti perasaan yang selama ini terpendam akhirnya terungkap, atau mungkin cinta pandangan pertama yang ditakdirkan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "「そういう風に言われると少し理解できます」",
+        "translations": {
+            "initial": "「Kalau Kak Kanata yang bilang begitu, aku jadi sedikit bisa paham」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "「しかし、すごいな。二乃がゴメンナサイした後から見事に二乃案件が激減しているな」",
+        "translations": {
+            "initial": "「Tapi, hebat ya. Sejak Nino mulai menolak mereka, jumlah kasus yang mengejar Nino langsung berkurang drastis」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "「というかほぼゼロ。効果てきめんだったわけだな」",
+        "translations": {
+            "initial": "「Bahkan hampir nol. Efeknya benar-benar terasa ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "「やった甲斐があった……と、言って良いのか難しいところですが」",
+        "translations": {
+            "initial": "「Yah, usahaku tidak sia-sia... meski agak sulit untuk mengatakannya dengan bangga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "「しかし、有里栖やそら姉もほとんど無いんだなあ。正直たくさんいるんだと思ってた」",
+        "translations": {
+            "initial": "「Tapi, Arisu dan Sora-nee juga hampir tidak ada yang mengejar ya. Sejujurnya aku mengira bakal ada banyak sekali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "「あ、別に変な意味じゃなくて！」",
+        "translations": {
+            "initial": "「Ah, maksudku bukan sesuatu yang aneh ya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "「あはは、別に良いよ。鷺澤さんはどうか判らないけど、わたしの場合は理由は単純」",
+        "translations": {
+            "initial": "「Ahaha, nggak apa-apa kok. Aku nggak tahu kalau Arisu-san, tapi kalau kasusku alasannya sederhana」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "「え、理由なんてあるの？」",
+        "translations": {
+            "initial": "「Eh, memangnya ada alasannya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "「うん。最初から断るように白河さんにお願いしてるし、日頃からそういうつもりが無い事はそれとなく公言してるからね」",
+        "translations": {
+            "initial": "「Iya. Dari awal aku sudah minta Shirakawa-san untuk menolak semuanya, dan aku juga sudah sering bilang secara halus kalau aku tidak tertarik dengan hal semacam itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "「@t15@d1正解。逢見先輩はもちろん人気があるけど、かなりハッキリ恋人を作るつもりは無い、って言ってるからね。鷺澤の場合は牽制の結果かな……」",
+        "translations": {
+            "initial": "「@t15@d1Benar sekali. Oumi-senpai tentu saja populer, tapi dia sudah bilang dengan sangat jelas kalau nggak berniat mencari pacar. Kalau dalam kasus Sagisawa, mungkin itu hasil dari saling jaga jarak...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "「そう言えば協定みたいなのがあるんだっけ……」",
+        "translations": {
+            "initial": "「Kalau nggak salah, memang ada semacam perjanjian begitu ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "「なんか、そうみたいで……」",
+        "translations": {
+            "initial": "「Sepertinya memang begitu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "「@t92@d1また正解。鷺澤は男子たちの間に抜け駆け禁止の暗黙の協定ができていてね。それが大きい。ただ何かのきっかけで崩れるかもね。暗黙は暗黙でしかないし」",
+        "translations": {
+            "initial": "「@t92@d1Tepat lagi. Di antara para cowok, ada perjanjian tak tertulis untuk dilarang curi start dalam mendekati Sagisawa. Itu pengaruh besarnya. Tapi mungkin saja itu akan hancur karena suatu pemicu. Lagipula, perjanjian tak tertulis hanyalah sekadar kesepakatan lisan saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "「@b1@t39@w1そうなったら面倒になるかもしれないね、ふふ」",
+        "translations": {
+            "initial": "「@b1@t39@w1Kalau sampai itu terjadi, mungkin bakal jadi merepotkan ya, fufu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "「@t64@d1光栄なことなんだけどね。私も今はそれどころじゃないかな……」",
+        "translations": {
+            "initial": "「@t64@d1Padahal itu sebuah kehormatan bagiku. Tapi saat ini sepertinya aku nggak sempat memikirkan hal itu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "「@b1@t19@w1今は。ふふ、意味深」",
+        "translations": {
+            "initial": "「@b1@t19@w1Saat ini, ya. Fufu, penuh makna sekali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "「@t14@d1わわわ！？そんな、深い意味はないからね！ひよりん深読みしすぎ」",
+        "translations": {
+            "initial": "「@t14@d1Wa-wa-wa！？ Enggak, nggak ada maksud mendalam kok！ Hiyorin terlalu berlebihan dalam menafsirkan kata-kataku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "「どうだろうね。ふふふ」",
+        "translations": {
+            "initial": "「Yah, siapa yang tahu ya. Fufufu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "「まあ、それで次にやることだが……」",
+        "translations": {
+            "initial": "「Nah, soal apa yang akan kita lakukan selanjutnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "でもそうか。",
+        "translations": {
+            "initial": "Begitu ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "なるほどなあ、公言してしまうというのは手だな。",
+        "translations": {
+            "initial": "Ternyata begitu, mengumumkannya secara terbuka bisa jadi salah satu cara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "「おい、二乃」",
+        "translations": {
+            "initial": "「Hei, Nino」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "俺は傍らの二乃に耳打ちをする。",
+        "translations": {
+            "initial": "Aku berbisik ke telinga Nino yang berada di sampingku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "「二乃もまたほとぼりさめたら来るかもしれないし、公言しちゃえば良いんじゃないか？」",
+        "translations": {
+            "initial": "「Nino juga, kalau nanti suasananya sudah tenang, mungkin mereka akan datang lagi. Bukankah sebaiknya kamu umumkan saja secara terbuka？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "「公言……？何をですか？」",
+        "translations": {
+            "initial": "「Umumkan secara terbuka...？ Apa maksudnya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "「え？だから恋愛するつもりがないって」",
+        "translations": {
+            "initial": "「Eh？ Ya itu, kalau kamu nggak berniat untuk pacaran」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "「誰がですか？」",
+        "translations": {
+            "initial": "「Siapa yang nggak berniat？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "「お前がだよ」",
+        "translations": {
+            "initial": "「Ya kamulah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "「私が恋愛するつもりが無い、ですか……？」",
+        "translations": {
+            "initial": "「Maksudnya aku nggak ada niatan buat pacaran, begitu...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "「そうだろ？だから断りまくってるじゃんか」",
+        "translations": {
+            "initial": "「Benar, kan？ Makanya kamu nolak terus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "「…………はぁ」",
+        "translations": {
+            "initial": "「............Haaah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "「なんだよ、そのため息は……」",
+        "translations": {
+            "initial": "「Apaan sih, helaan napas itu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "「同志はどう思う……？」",
+        "translations": {
+            "initial": "「Bagaimana menurutmu, kawan...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "「いえ、そうですね……。兄さんの仰る通りです」",
+        "translations": {
+            "initial": "「Enggak, ya benar juga sih... Seperti yang Nii-san katakan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 216,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 217,
+        "original": "「な、なんだ……なんか納得いかない感じだな」",
+        "translations": {
+            "initial": "「A-apaan... Kok rasanya kamu kayak nggak puas gitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 218,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 219,
+        "original": "「いえ、良いんです。兄さんらしいので」",
+        "translations": {
+            "initial": "「Enggak apa-apa kok. Soalnya ini khas Nii-san banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 220,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 221,
+        "original": "「同志よ……」",
+        "translations": {
+            "initial": "「Kawan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 222,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 223,
+        "original": "「なんだそれ――」",
+        "translations": {
+            "initial": "「Apa maksudnya itu-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 224,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 225,
+        "original": "「同志！聞いているのか？」",
+        "translations": {
+            "initial": "「Kawan！ Kamu dengerin nggak sih？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 226,
+        "original": "おっと、杉並に呼ばれてしまった。",
+        "translations": {
+            "initial": "Waduh, aku dipanggil Suginami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 227,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 228,
+        "original": "「すまんすまん。ちゃんと聞いてる」",
+        "translations": {
+            "initial": "「Sori, sori. Aku dengerin kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 229,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 230,
+        "original": "「@b2@t37@w1やれやれ、それにはツッコまないでおこう。では改めて……」",
+        "translations": {
+            "initial": "「@b2@t37@w1Aduh aduh, aku nggak bakal komentar soal itu deh. Mari kita lanjut...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 231,
+        "original": "それから昼休みいっぱい、役割分担や手順などについて話合った。",
+        "translations": {
+            "initial": "Setelah itu, kami menghabiskan seluruh waktu istirahat siang untuk mendiskusikan pembagian tugas dan prosedurnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 232,
+        "original": "放課後、俺たちはそれぞれの役目に没頭した。",
+        "translations": {
+            "initial": "Sepulang sekolah, kami pun mulai fokus pada tugas masing-masing.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 233,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

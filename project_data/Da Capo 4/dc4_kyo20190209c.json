@@ -1,0 +1,1410 @@
+[
+    {
+        "id": 0,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "「うーん……」",
+        "translations": {
+            "initial": "「Hmm......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "大体昼過ぎくらいだったか。",
+        "translations": {
+            "initial": "Kira-kira sudah lewat tengah hari.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "怪しい、怪しいと思っていたけど……。",
+        "translations": {
+            "initial": "Aku sudah merasa curiga dari tadi, tapi.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "これは本格的に怪しくなってきたな。",
+        "translations": {
+            "initial": "Sepertinya ini benar-benar mulai mencurigakan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "「いっちゃん、洗濯物は大丈夫？」",
+        "translations": {
+            "initial": "「Icchan, jemurannya nggak apa-apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "「朝に予報は見てたから、部屋干しにしてあるけど……」",
+        "translations": {
+            "initial": "「Tadi pagi sudah cek ramalan cuaca, jadi sudah kujemur di dalam ruangan, tapi......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "「そっちの心配よりも、むしろ今はここで降ってこないことを祈るだけですね」",
+        "translations": {
+            "initial": "「Daripada mengkhawatirkan itu, lebih baik kita berdoa saja supaya di sini nggak turun hujan ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "「だよなぁ」",
+        "translations": {
+            "initial": "「Benar juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "降水確率がもの凄く微妙だったからな。",
+        "translations": {
+            "initial": "Soalnya peluang hujannya sangat membingungkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "４０％って数字ほど、人を悩ませる値はない。",
+        "translations": {
+            "initial": "Nggak ada angka yang lebih membuat orang bimbang selain 40%.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "だから悲しいことに傘は持ってない。",
+        "translations": {
+            "initial": "Dan sayangnya, aku nggak bawa payung.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "自然と足も早歩きになってきそうだ。",
+        "translations": {
+            "initial": "Langkah kakiku pun otomatis jadi semakin cepat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "「……お？」",
+        "translations": {
+            "initial": "「......Oh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "「あ、来ちゃいましたね」",
+        "translations": {
+            "initial": "「Ah, akhirnya turun juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "「あららら、大変。ちょっと急ごっか」",
+        "translations": {
+            "initial": "「Aduh, gawat. Ayo agak cepat sedikit」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "「だな、本降りになる前に帰ろう」",
+        "translations": {
+            "initial": "「Iya, ayo pulang sebelum hujannya makin deras」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "「それじゃあまた夜ね」",
+        "translations": {
+            "initial": "「Kalau begitu, sampai nanti malam ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "「うん、じゃあねそら姉」",
+        "translations": {
+            "initial": "「Ehm, sampai nanti Sora-nee」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "「ちょっと濡れちゃったんで、風邪引かないようにしてくださいね」",
+        "translations": {
+            "initial": "「Karena tadi sempat kena hujan, jangan sampai masuk angin ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "「ふふ、はーい」",
+        "translations": {
+            "initial": "「Fufu, iyaa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "さて、さっさと家に入ろう。",
+        "translations": {
+            "initial": "Nah, ayo cepat masuk ke rumah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "二乃の言う通り、少し濡れちゃったしな。",
+        "translations": {
+            "initial": "Sesuai kata Nino, aku jadi agak basah begini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "早いところ着替えたいし。",
+        "translations": {
+            "initial": "Aku juga ingin segera ganti baju.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "「ただいまーっと」",
+        "translations": {
+            "initial": "「Aku pulang-!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "鞄も雨で濡れているが、この様子だと中身はセーフだろ。",
+        "translations": {
+            "initial": "Tasnya juga basah kena hujan, tapi sepertinya isinya aman.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "「あ、兄さん、シャワー浴びて来てもいいですか？」",
+        "translations": {
+            "initial": "「Anu, Nii-san, boleh nggak aku mandi duluan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "「…………あぁ、いいぞ」",
+        "translations": {
+            "initial": "「............ Oh, boleh kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "「……なんですか、今の間は」",
+        "translations": {
+            "initial": "「...... Kenapa jeda barusan itu?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "「いや、言葉の響きが尊いなーって」",
+        "translations": {
+            "initial": "「Enggak, cuma ngerasa suara kata-katanya itu suci banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "「意味が分かりません」",
+        "translations": {
+            "initial": "「Maksudnya apa sih, nggak paham」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "伝わらなくていい。",
+        "translations": {
+            "initial": "Nggak perlu paham juga nggak apa-apa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "男の琴線はあまり知られたくないし。",
+        "translations": {
+            "initial": "Aku juga nggak mau sisi sensitif laki-laki terlalu diketahui orang lain.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "「兄さん、はっきり言っておきますけど」",
+        "translations": {
+            "initial": "「Nii-san, aku mau memperingatkanmu satu hal ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "「お、おう？」",
+        "translations": {
+            "initial": "「O-Oh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "「……覗かないでくださいね」",
+        "translations": {
+            "initial": "「...Jangan mengintip, ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "「そんなジト目をしなくても分かってるって」",
+        "translations": {
+            "initial": "「Aku tahu, nggak usah melirik tajam begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "「絶対、絶対ですからね！」",
+        "translations": {
+            "initial": "「Pokoknya, janji ya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "「念を押さなくていいって。そもそも俺が覗いたことなんて今まであるかっての」",
+        "translations": {
+            "initial": "「Nggak usah terus-terusan diingetin. Lagi pula, mana pernah sih aku mengintip selama ini?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "「……あれは確か」",
+        "translations": {
+            "initial": "「...Kalau tidak salah, itu kan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "「無いことを思い出すな！」",
+        "translations": {
+            "initial": "「Jangan ingat-ingat hal yang nggak ada！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "「……注意はしましたからね」",
+        "translations": {
+            "initial": "「...Padahal aku sudah memperingatkanmu tadi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "「はいはい」",
+        "translations": {
+            "initial": "「Iya, iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "シャワーを浴びる気はないし、俺もさっさと部屋で着替えるか。",
+        "translations": {
+            "initial": "Aku tidak berniat mandi, lebih baik aku segera ganti baju di kamar saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "いい加減、濡れたワイシャツも脱いでおきたいし。",
+        "translations": {
+            "initial": "Lagi pula, aku ingin segera melepas kemeja yang basah ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "「ふぅー……」",
+        "translations": {
+            "initial": "「Fuuuh...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "スウェットに着替えると、途端に温もりが全身に広がっていくのが分かる。",
+        "translations": {
+            "initial": "Begitu berganti ke setelan sweatshirt, aku bisa merasakan kehangatan langsung menjalar ke seluruh tubuh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "短い時間とはいえ、雨に打たれたわけだからな。体感以上に冷えていたのかもしれない。",
+        "translations": {
+            "initial": "Meski hanya sebentar, aku sempat kehujanan tadi. Mungkin tubuhku sudah merasa lebih dingin dari yang kukira.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "？？？",
+        "translations": {
+            "initial": "？？？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "「にやーにやー」",
+        "translations": {
+            "initial": "「Meong, meong」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "「ん？」",
+        "translations": {
+            "initial": "「Hm？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "今の妙な鳴き声は……。",
+        "translations": {
+            "initial": "Suara aneh tadi itu...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "「さて、どこだ？」",
+        "translations": {
+            "initial": "「Nah, di mana ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "窓を開けてっと……。",
+        "translations": {
+            "initial": "Coba buka jendelanya...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "ちぇし",
+        "translations": {
+            "initial": "Cheshi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "「にやー」",
+        "translations": {
+            "initial": "「Meong」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "お、いたいた。",
+        "translations": {
+            "initial": "Oh, itu dia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "「よう、ちぇし。また来たのか」",
+        "translations": {
+            "initial": "「Yo, Cheshi. Kamu datang lagi ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "ちぇし",
+        "translations": {
+            "initial": "Cheshi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "「にや」",
+        "translations": {
+            "initial": "「Meong」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "「……結構濡れてるな。もしかして雨宿りに来たのか？」",
+        "translations": {
+            "initial": "「...Kamu lumayan basah ya. Apa kamu ke sini buat berteduh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "ちぇし",
+        "translations": {
+            "initial": "Cheshi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "「にや、にや」",
+        "translations": {
+            "initial": "「Meong, meong」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "なんとなく、そうだと言われた気がする。",
+        "translations": {
+            "initial": "Entah kenapa, aku merasa dia baru saja mengiyakannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "「うーん……」",
+        "translations": {
+            "initial": "「Hmm......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "濡れてはいるけど、野良にしては意外と汚れていないように見えるな……。",
+        "translations": {
+            "initial": "Walaupun basah, buat ukuran kucing liar kelihatannya dia nggak sekotor itu ya.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "「……部屋に入るか？猫用の飯とかは無いから、もてなしは出来ないけど」",
+        "translations": {
+            "initial": "「......Mau masuk？ Tapi aku nggak punya makanan kucing, jadi nggak bisa menyambutmu dengan layak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "ちぇし",
+        "translations": {
+            "initial": "Cheshi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "「にやっ」",
+        "translations": {
+            "initial": "「Ngeong!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "「そうか、よし入れ入れ。あ、制服に爪を立てたら出禁だからな」",
+        "translations": {
+            "initial": "「Gitu ya, oke, ayo masuk. Ah, kalau kau cakar seragamku, kau bakal dilarang masuk lagi lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "ちぇし",
+        "translations": {
+            "initial": "Cheshi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "「にやー」",
+        "translations": {
+            "initial": "「Meong~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "夕飯まで時間はあるし、こいつで暇を潰してみよう。",
+        "translations": {
+            "initial": "Masih ada waktu sampai makan malam, mending aku main sama dia buat membunuh waktu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "猫好きの二乃にも教えようと思ったけど……。",
+        "translations": {
+            "initial": "Tadinya aku ingin memberitahu Nino-san yang suka kucing, tapi.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "「……風呂だもんなあ」",
+        "translations": {
+            "initial": "「......Dia lagi mandi, sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "わざわざ教えに行くのも変だし、別にいいか。",
+        "translations": {
+            "initial": "Aneh juga kalau sengaja ke sana buat kasih tahu, ya sudahlah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "しゃーない、後でたくさん自慢してやろう。",
+        "translations": {
+            "initial": "Ya mau gimana lagi, nanti bakal kupameri banyak-banyak ke dia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "ちぇし",
+        "translations": {
+            "initial": "Cheshi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "「にやー、にやー」",
+        "translations": {
+            "initial": "「Meong, meong~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "「ん？寒いのか？よし、軽く拭いてやろう」",
+        "translations": {
+            "initial": "「Hmm？ Kau kedinginan？ Sini, biar kuseka pelan-pelan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "ちぇし",
+        "translations": {
+            "initial": "Cheshi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "「にやっ」",
+        "translations": {
+            "initial": "「Ngeong!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "乾いたタオルを手にして、膝の上に猫を乗せる。",
+        "translations": {
+            "initial": "Aku mengambil handuk kering dan menaruh kucing itu di atas pangkuanku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "毛並みはかなり柔らかいな……。",
+        "translations": {
+            "initial": "Bulu-bulunya lembut sekali.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "「二乃の気持ちも分かるな……」",
+        "translations": {
+            "initial": "「Aku jadi paham perasaan Nino-san......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "これはこれで気持ちいい。",
+        "translations": {
+            "initial": "Rasanya nyaman juga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "あと丸くなった猫は、言葉にならないくらい可愛い。",
+        "translations": {
+            "initial": "Lalu, kucing yang meringkuk itu imutnya nggak ketulungan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "普段はあまり仕事をしない降水確率だけど……今日のところは軽く感謝しておくことにしよう。",
+        "translations": {
+            "initial": "Biasanya perkiraan peluang hujan nggak pernah akurat, tapi untuk hari ini, aku sedikit berterima kasih karenanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

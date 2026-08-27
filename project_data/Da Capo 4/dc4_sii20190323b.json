@@ -1,0 +1,3104 @@
+[
+    {
+        "id": 0,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "「二乃、今日の午後って空いてるか？」",
+        "translations": {
+            "initial": "「Nino, kamu luang nggak nanti sore？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "昨日ちょこから偶然聞いた鳳城のバイト先。",
+        "translations": {
+            "initial": "Kemarin, aku kebetulan mendengar dari CHOCO tentang tempat kerja sambilan Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "せっかくなら一人で行くよりも、みんなで行った方が楽しいと思い、まずは二乃に声をかけてみた。",
+        "translations": {
+            "initial": "Kupikir daripada pergi sendirian, bakal lebih seru kalau bareng-bareng, jadi aku coba mengajak Nino dulu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "っていうか、もし鳳城がいなかったら寂し過ぎるし。",
+        "translations": {
+            "initial": "Lagipula, kalau ternyata Houjou nggak ada di sana, bakal kerasa sepi banget.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "「@t21@d1はい、空いていますよ。何かご用ですか？」",
+        "translations": {
+            "initial": "「@t21@d1Iya, aku luang kok. Ada perlu apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "「島のスパ施設に行かないか？そら姉なんかも誘って」",
+        "translations": {
+            "initial": "「Gimana kalau kita pergi ke fasilitas spa di pulau？ Ajak Sora-nee juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "「急にどうしたんです？」",
+        "translations": {
+            "initial": "「Tiba-tiba banget, ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "どうしたって言われると、ちょっと困る。",
+        "translations": {
+            "initial": "Kalau ditanya kenapa, aku jadi agak bingung menjawabnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "鳳城のバイト姿を見に行きたいって言うのもなんだし。",
+        "translations": {
+            "initial": "Nggak mungkin juga aku bilang kalau ingin melihat Houjou yang sedang bekerja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "であれば、真正面から。",
+        "translations": {
+            "initial": "Kalau begitu, pakai alasan jujur saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "「お風呂に入りたくなったんだ」",
+        "translations": {
+            "initial": "「Aku lagi pengen berendam di pemandian」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "「え？家にあるじゃないですか……」",
+        "translations": {
+            "initial": "「Eh？ Kan di rumah juga ada...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "確かに。",
+        "translations": {
+            "initial": "Benar juga sih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "「家はほら、一人で入るものだし。たまにはみんなでお風呂に入りたいなって」",
+        "translations": {
+            "initial": "「Maksudku, kalau di rumah kan berendamnya sendirian. Sesekali aku ingin kita semua berendam bareng-bareng」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "「…………何言ってんだ俺？」",
+        "translations": {
+            "initial": "「......Aku ngomong apa sih？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "「……ホント、何言ってるんですか？」",
+        "translations": {
+            "initial": "「......Beneran deh, Nii-san ngomong apa sih？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "呆れられてしまった。",
+        "translations": {
+            "initial": "Dia malah jadi ilfeel padaku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "「まあ、今日の放課後、ちょっと行ってみようと思うんだけど、どうだ？」",
+        "translations": {
+            "initial": "「Pokoknya, sepulang sekolah nanti aku mau coba ke sana, gimana menurutmu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "「はい、べつに良いですよ？他の方もお誘いしましょうか♪」",
+        "translations": {
+            "initial": "「Iya, boleh saja kok. Mau sekalian aku ajak yang lainnya juga？♪」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "「だな！じゃあそら姉は二乃に任せた。俺は有里栖に声をかけてみるよ」",
+        "translations": {
+            "initial": "「Boleh！ Kalau gitu aku titip Sora-nee ke kamu ya. Aku bakal coba ajak Arisu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "「わかりました」",
+        "translations": {
+            "initial": "「Siap, aku mengerti」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "それから、そら姉、有里栖からも二つ返事でＯＫをもらい放課後４人でスパに向かうことになった。",
+        "translations": {
+            "initial": "Setelah itu, Sora-nee dan Arisu juga langsung setuju, jadi kami berempat memutuskan untuk pergi ke spa sepulang sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "「おお、結構広いんだな」",
+        "translations": {
+            "initial": "「Wah, tempatnya lumayan luas ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "水着になって、更衣室からスパに入場する。",
+        "translations": {
+            "initial": "Setelah berganti ke baju renang, aku masuk ke area spa dari ruang ganti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "タイミングがよかったのか、人はそこまで多くないみたいだ。",
+        "translations": {
+            "initial": "Sepertinya waktunya tepat, soalnya nggak terlalu ramai orang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "「他のみんなは……」",
+        "translations": {
+            "initial": "「Yang lain di mana ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "出入口付近を見てみるが、まだ誰も来ていない。",
+        "translations": {
+            "initial": "Aku mencoba melihat ke area pintu masuk, tapi belum ada satu pun yang datang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "まあ女の子だし、時間はかかるんだろう。",
+        "translations": {
+            "initial": "Yah, karena mereka cewek, wajar kalau butuh waktu lama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "普段なら、待ってることくらいなんでもないけど、裸で立っているのもなんだ。",
+        "translations": {
+            "initial": "Biasanya menunggu bukan masalah besar bagiku, tapi berdiri begini tanpa busana rasanya agak aneh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "まだかかると思うし、お湯に入ってのんびり待つとしよう。",
+        "translations": {
+            "initial": "Sepertinya mereka masih lama, jadi sebaiknya aku berendam sambil menunggu dengan santai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "「ついでに、鳳城がいる場所を探しておくか」",
+        "translations": {
+            "initial": "「Sekalian saja aku cari di mana Houjou berada」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "恥ずかしがりそうだから、声はかけない方がいいかもな。",
+        "translations": {
+            "initial": "Karena dia sepertinya pemalu, lebih baik aku nggak usah menyapanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "俺としては、彼女が働いてる様子を、遠くからちょっと見るだけでいい。",
+        "translations": {
+            "initial": "Bagiku, cukup melihat dia sedang bekerja dari kejauhan saja sudah cukup.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "そう思い、風呂に移動しようとすると――",
+        "translations": {
+            "initial": "Saat aku berpikir begitu dan hendak beranjak ke kolam berendam-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「うわ！？」",
+        "translations": {
+            "initial": "「Uwah！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "床がやけに滑って、そこに足を取られ、お風呂に落下してしまった。",
+        "translations": {
+            "initial": "Lantainya sangat licin hingga aku terpeleset dan tercebur ke dalam kolam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "「……なんなんだよ」",
+        "translations": {
+            "initial": "「...Apa-apaan sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "そう悪態をつきながら、俺の通った場所を見ると、清掃中のポールがたてられていた。",
+        "translations": {
+            "initial": "Sambil menggerutu, aku melihat ke arah jalur yang baru kulewati dan ternyata ada tiang penanda sedang dibersihkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "洗剤もまかれている。",
+        "translations": {
+            "initial": "Cairan pembersih juga sudah disemprotkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "うん……完全に俺の責任だ。",
+        "translations": {
+            "initial": "Ya... ini sepenuhnya salahku sendiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "？？？",
+        "translations": {
+            "initial": "？？？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "「大丈夫ですかお客様！お怪我はありませんか！？」",
+        "translations": {
+            "initial": "「Apa Anda baik-baik saja, Pelanggan?！ Ada yang terluka?！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "「あ、はい、ケガはないです。すみません……ボーっとしてて、立札が目に入らなかった」",
+        "translations": {
+            "initial": "「Ah, iya, nggak ada yang luka kok. Maaf ya... aku melamun sampai nggak melihat papan peringatannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "？？？",
+        "translations": {
+            "initial": "？？？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "「そうですか。他にも滑りやすい場所もあるので、お気を付けくださいね？」",
+        "translations": {
+            "initial": "「Syukurlah kalau begitu. Masih ada beberapa tempat lain yang licin, jadi tolong berhati-hati ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "誠実そうで、気持ちのいい対応。そして、完璧なスマイルと気遣い。",
+        "translations": {
+            "initial": "Pelayanan yang tulus dan sangat ramah. Ditambah lagi, senyum dan perhatiannya benar-benar sempurna.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "「ありがとうございます」",
+        "translations": {
+            "initial": "「Terima kasih banyak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "お礼を言いながら、そのスタッフさんの顔を見てみると……。",
+        "translations": {
+            "initial": "Sambil mengucapkan terima kasih, aku menatap wajah staf tersebut....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "……完璧なスマイルは、いぶかしげな顔に変わった。",
+        "translations": {
+            "initial": "...Senyum sempurna itu langsung berubah menjadi ekspresi penuh curiga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "「……鳳……城？」",
+        "translations": {
+            "initial": "「...Houjou...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "遠くから見るつもりが……見つめ合う距離で見つけてしまった。",
+        "translations": {
+            "initial": "Rencananya mau melihat dari jauh... malah ketemu dalam jarak sedekat ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "見つからないようにと思った数秒後の出来事だ。",
+        "translations": {
+            "initial": "Padahal baru beberapa detik lalu aku bertekad agar tidak ketahuan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "「な……何でいるんですか常坂さんっ！？」",
+        "translations": {
+            "initial": "「Ke... kenapa Tokisaka-san bisa ada di sini！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "「なんでって……」",
+        "translations": {
+            "initial": "「Kenapa, ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "鳳城のバイト姿が見たかったから……と言ったら、たぶん怒られるだろう。",
+        "translations": {
+            "initial": "Kalau aku bilang mau melihat Houjou-san yang lagi kerja part-time... dia pasti bakal marah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "この前、釘を刺されたし。",
+        "translations": {
+            "initial": "Apalagi kemarin dia sudah memperingatiku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "「女の子と、合法的にお風呂に入りたかったんだ」",
+        "translations": {
+            "initial": "「Aku cuma mau mandi bareng cewek secara legal kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "「…………私いま、割りばしにささくれがあった時のような気持であなたを見ています」",
+        "translations": {
+            "initial": "「............Saat ini, aku menatap Anda dengan perasaan seperti saat menemukan serat tajam di sumpit kayu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "「とても面倒くさくて、触れたくない存在ってことか……」",
+        "translations": {
+            "initial": "「Maksudmu aku ini sosok merepotkan yang nggak mau kamu sentuh, ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "よくわかりましたね、と言わんばかりに軽く拍手をしてくれた。",
+        "translations": {
+            "initial": "Dia bertepuk tangan pelan, seolah ingin bilang 'wah, kamu paham juga ya'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "世界一嬉しくない称賛だ。",
+        "translations": {
+            "initial": "Itu pujian yang paling nggak bikin senang sedunia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "「あの……様子を見に来たんだと思いますけど、私、働いてる姿とか見られたくないって言いましたよね？お店の迷惑にもなるかもとも」",
+        "translations": {
+            "initial": "「Anu... aku tahu Anda datang buat mengecek keadaanku, tapi bukannya aku sudah bilang kalau aku nggak mau dilihat saat sedang bekerja？ Itu juga bisa mengganggu toko」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "「そ、そうだな。でも実は、友達と遊びに来てて。それで偶然……」",
+        "translations": {
+            "initial": "「I-iya sih. Tapi sebenarnya aku lagi main bareng teman, terus nggak sengaja...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "「……日野原さんですか？」",
+        "translations": {
+            "initial": "「...Bersama Hinohara-san？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "鳳城の目が何かを見透かすように、すっと細くなる。",
+        "translations": {
+            "initial": "Mata Houjou-san menyipit tajam, seolah bisa melihat tembus segalanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "「ちがうちがう！ちょこは悪くないんだ！」",
+        "translations": {
+            "initial": "「Bukan, bukan！ CHOCO-san nggak salah apa-apa kok！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "「悪くないって言ったら、彼女が元凶だとばらしてるようなものだと思うんですが」",
+        "translations": {
+            "initial": "「Kalau aku bilang nggak buruk, itu sama saja membocorkan kalau dia pelakunya kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "「おお、誘導尋問だ」",
+        "translations": {
+            "initial": "「Ooh, pertanyaan menjebak nih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "「勝手に墓穴に落ちただけじゃないですか。それにしてもばらすとは……日野原さんには少し、可哀想な目にあってもらわないと……」",
+        "translations": {
+            "initial": "「Kamu sendiri kan yang masuk ke lubang yang kamu gali sendiri? Lagipula, membocorkannya ya... Sepertinya Hinohara-san harus sedikit merasakan akibatnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "ああ、ちょこが数時間無視されてしまう。",
+        "translations": {
+            "initial": "Aduh, CHOCO bakal dicuekin selama beberapa jam nih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "「いや、ホントにちょこは口を滑らせただけだからさ」",
+        "translations": {
+            "initial": "「Nggak, beneran deh, CHOCO cuma nggak sengaja keceplosan kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "「……はぁ。まあ、日野原さんが、何かのはずみで言ってしまうことは想定してました。でもまさか、実際に常坂さんが来るとは……」",
+        "translations": {
+            "initial": "「...Haaah. Yah, aku sudah menduga kalau Hinohara-san mungkin saja mengatakannya secara nggak sengaja. Tapi aku nggak menyangka kalau Tokisaka-san beneran bakal datang...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "冷ややかに見つめる視線に俺は観念した。",
+        "translations": {
+            "initial": "Aku menyerah saat ditatap dengan pandangan dingin itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "「悪い。バイトっていうのが気になって、ちょっと見に来たんだよ。でも友達と来たっていうのは、本当だからさ」",
+        "translations": {
+            "initial": "「Maaf. Aku penasaran soal kerja paruh waktumu, jadi aku mampir sebentar buat melihatnya. Tapi soal aku datang bareng teman itu beneran kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "鳳城は顔をしかめ、キョロキョロと周りを見て俺の友達を探す。",
+        "translations": {
+            "initial": "Houjou mengerutkan dahi, celingukan mencari temanku di sekitar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "けれど、ここにはいない。",
+        "translations": {
+            "initial": "Tapi, mereka nggak ada di sini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "「二乃とそら姉とかだ。着替えに時間がかかってるんだよ」",
+        "translations": {
+            "initial": "「Sama Nino dan Sora-nee. Mereka butuh waktu lama buat ganti baju」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "ため息と共に、その表情はやれやれといった感じになる。",
+        "translations": {
+            "initial": "Sambil menghela napas, ekspresinya berubah jadi seolah bilang 'ya ampun'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "「鳳城に黙って来たのは本当に悪かった」",
+        "translations": {
+            "initial": "「Maaf banget karena datang tanpa bilang-bilang dulu, Houjou」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "「もう……。いいですよ。ここに来ること自体は常坂さんの自由ですから」",
+        "translations": {
+            "initial": "「Sudahlah... Nggak apa-apa kok. Datang ke sini kan memang haknya Tokisaka-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "「そう言ってくれて助かるよ」",
+        "translations": {
+            "initial": "「Syukurlah kalau kamu bilang begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "「ですがこの行動は、一歩間違えばストーカー行為に抵触します」",
+        "translations": {
+            "initial": "「Tapi tindakan ini, kalau salah langkah sedikit saja, sudah termasuk perilaku penguntit lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "ぴしゃりと言い放った。",
+        "translations": {
+            "initial": "Dia mengatakannya dengan tegas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "「ス、ストーカーってそれは、ちょっと大袈裟じゃ……。俺としては、妹を心配する兄のような気持で」",
+        "translations": {
+            "initial": "「Pe-penguntit? Itu agak berlebihan deh... Bagiku, ini rasanya seperti kakak yang mengkhawatirkan adiknya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "キッと睨まれて、それ以上何も言えなくなってしまう。",
+        "translations": {
+            "initial": "Aku langsung terdiam setelah dipelototi tajam olehnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "「悪い。好奇心６割、心配４割でした」",
+        "translations": {
+            "initial": "「Maaf. Enam puluh persen rasa penasaran, empat puluh persen rasa khawatir」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "「はい、以後気を付けてください。にしても、心配４割って変なバイトでもしてると思ったんですか？」",
+        "translations": {
+            "initial": "「Ya, tolong lebih hati-hati ke depannya. Ngomong-ngomong, 40% rasa khawatir itu... apa Kakak mikir aku kerja paruh waktu yang aneh-aneh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "「いや……そうじゃないよ」",
+        "translations": {
+            "initial": "「Bukan... bukan gitu kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "「ほら、家事もやってるみたいだし、今は春休みだからいいけど、普段は授業もあるし、あんまりきついバイトだったら心配だなって」",
+        "translations": {
+            "initial": "「Maksudku, kamu kan juga ngerjain tugas rumah tangga. Sekarang sih lagi libur musim semi jadi nggak apa-apa, tapi biasanya kan ada kuliah juga. Aku cuma khawatir kalau kerjaanmu terlalu berat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "「……べ、別に、心配されなくても、自己管理は出来ているつもりです」",
+        "translations": {
+            "initial": "「...T-Tidak perlu khawatir, aku merasa bisa mengatur diriku sendiri kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "「まあ、言われてみればそうだな」",
+        "translations": {
+            "initial": "「Yah, kalau dipikir-pikir benar juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "しっかりしてるし俺が心配するまでもない。",
+        "translations": {
+            "initial": "Dia orang yang mandiri, tidak seharusnya aku merasa khawatir.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "「それに、よく考えたら、俺にしてやれることって、ご飯に呼んであげることぐらいしかないな。……しかも作るの、俺じゃなくてそら姉だし」",
+        "translations": {
+            "initial": "「Lagipula, kalau diingat-ingat, hal yang bisa kulakukan cuma mengajakmu makan bareng. ...Padahal yang masak juga bukan aku, tapi Sora-nee」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "なんだ俺、何にもできない奴じゃないか。",
+        "translations": {
+            "initial": "Apa-apaan aku ini, ternyata aku orang yang nggak berguna.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "これじゃあ心配してきたんじゃなくて、本当にストーカーだ。",
+        "translations": {
+            "initial": "Kalau begini sih, aku bukan datang karena khawatir, tapi malah kayak penguntit beneran.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "「まあ……ありがとうございます……」",
+        "translations": {
+            "initial": "「Yah... terima kasih ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "「いや、むしろ何もできないことがわかったし」",
+        "translations": {
+            "initial": "「Nggak, aku malah sadar kalau nggak bisa bantu apa-apa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "すると、鳳城の頬が少しだけ緩み。",
+        "translations": {
+            "initial": "Tiba-tiba, pipi Houjou sedikit mengendur dan ia tersenyum tipis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "「そんなことないです。心配して、ここまできてくれたわけですし。なかなか、できることじゃありません。それは……ちょっとだけ、うれしかったりします」",
+        "translations": {
+            "initial": "「Nggak juga kok. Kakak sudah mau datang ke sini karena khawatir sama aku. Itu bukan hal yang mudah dilakukan. Sebenarnya... aku sedikit merasa senang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "そんなことを言ってくれた……。",
+        "translations": {
+            "initial": "Dia benar-benar mengatakannya padaku...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "「鳳城……」",
+        "translations": {
+            "initial": "「Houjou...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "「まあ……結果、迷惑ではありましたけど」",
+        "translations": {
+            "initial": "「Yah... tapi ujung-ujungnya tetap merepotkan sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "「迷惑だったか……」",
+        "translations": {
+            "initial": "「Jadi merepotkan ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "「気持ち的には、嬉しい１割。お節介だな４割、うっとうしい５割です」",
+        "translations": {
+            "initial": "「Secara perasaan, rasa senangku 10%. Merasa dicampuri 40%, dan sisanya 50% itu menyebalkan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "結構うっとうしがられてる！",
+        "translations": {
+            "initial": "Ternyata dia merasa aku sangat menyebalkan！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "でも、視線を外して少し頬を緩める鳳城。",
+        "translations": {
+            "initial": "Tapi, Houjou memalingkan pandangannya dengan sedikit tersenyum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "そしてしばらく黙った後、俺の方に向き直る。",
+        "translations": {
+            "initial": "Lalu setelah terdiam sejenak, dia berbalik menghadapku kembali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "「でも、心配はいりませんよ？オーナーさんもよくしてくれますし、真面目にやり過ぎると、それこそ常坂さんみたいに心配してくれますから」",
+        "translations": {
+            "initial": "「Tapi, nggak perlu khawatir, kok？ Pemilik sini memperlakukanku dengan baik, dan kalau aku terlalu serius bekerja, dia bakal mengkhawatirkanku sama seperti Tokisaka-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "「学生の本分は勉強……と。だから、適度に休ませていただきながらやっています」",
+        "translations": {
+            "initial": "「Tugas utama pelajar itu belajar... katanya. Jadi, aku melakukannya sambil mengambil waktu istirahat yang cukup」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "「そうか。そういうオーナーさんなら安心だな。……あっと、そういえば仕事中だったな。手を止めさせて悪かった」",
+        "translations": {
+            "initial": "「Begitu ya. Kalau pemiliknya seperti itu, aku jadi tenang. ...Ah, benar juga, kamu kan lagi kerja. Maaf ya sudah mengganggu waktumu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "「いえ、今日はそこまで忙しくないので大丈夫です。折角なので、今日は私といるよりも、このスパを楽しんでいってください」",
+        "translations": {
+            "initial": "「Enggak kok, hari ini nggak terlalu sibuk jadi nggak masalah. Sayang banget kalau cuma mengobrol, jadi silakan nikmati spa ini daripada menghabiskan waktu denganku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "「まあ、それはそうだな。じゃあ、いっぱい楽しんでくる。で、楽しかったら常連になるよ」",
+        "translations": {
+            "initial": "「Yah, benar juga sih. Kalau begitu, aku akan menikmatinya sepuas mungkin. Terus, kalau seru, aku bakal jadi pelanggan tetap」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "「はい……どうぞよろしくおねがいします……」",
+        "translations": {
+            "initial": "「Iya... mohon bantuannya ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "「いいですよって声じゃないな。本音のところはどうなんだ？」",
+        "translations": {
+            "initial": "「Suaramu nggak kedengaran seperti setuju, tuh. Gimana perasaan jujurmu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "「来ていただいた方は皆さんお客様です。常坂さんも例外ではありませんので、来るかどうか決めるのは自由です」",
+        "translations": {
+            "initial": "「Semua yang datang adalah pelanggan. Tokisaka-san juga bukan pengecualian, jadi kamu bebas memutuskan mau datang lagi atau tidak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "「ありがとう。それじゃ、常連になる」",
+        "translations": {
+            "initial": "「Terima kasih. Kalau gitu, aku bakal jadi pelanggan tetap」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "「えぇー……」",
+        "translations": {
+            "initial": "「Eeehh...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "「明確に『えぇー……』はダメだろ？」",
+        "translations": {
+            "initial": "「Jelas-jelas bilang 'Eeehh...' itu nggak boleh, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "「と言いますか、お友達を待たせてるんじゃないんですか？」",
+        "translations": {
+            "initial": "「Maksudku, bukannya kamu sedang membuat temanmu menunggu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "「あ！そうだった！」",
+        "translations": {
+            "initial": "「Ah！ Benar juga！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "女の子の着替えに時間がかかるとはいえ、こんなにはかからないだろう。",
+        "translations": {
+            "initial": "Meski cewek butuh waktu lama untuk ganti baju, tapi harusnya nggak selama ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "「ああ、じゃあえっと鳳城、また！」",
+        "translations": {
+            "initial": "「Duh, kalau begitu Houjou, sampai nanti！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "「はい、楽しんでいってください」",
+        "translations": {
+            "initial": "「Iya, silakan dinikmati ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "鳳城に見送られながら更衣室の出口に戻る。",
+        "translations": {
+            "initial": "Aku kembali ke pintu keluar ruang ganti sambil diantar oleh pandangan Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "と、いつの間にか着替えを終わらせたみんなが俺を待っていてくれた。",
+        "translations": {
+            "initial": "Dan ternyata, tanpa kusadari yang lain sudah selesai berganti pakaian dan sedang menungguku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "「@t38@d1兄さん。女の子を待たせるなんて、あまり褒められたことではないですよ？」",
+        "translations": {
+            "initial": "「@t38@d1Nii-san. Membuat cewek menunggu itu bukan hal yang patut dipuji, lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "「待たせて悪かったな。友達がバイトしてて、つい……」",
+        "translations": {
+            "initial": "「Maaf ya sudah menunggu. Tadi ada teman yang lagi kerja sambilan, jadi aku keasyikan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "「@t50@d1まぁまぁ、いっちゃんも反省してることだし二乃ちゃんも、そこら辺にしておこう？」",
+        "translations": {
+            "initial": "「@t50@d1Sudah-sudah, Icchan juga sudah menyesal kok, jadi Nino-chan, sampai di situ saja ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "「本当に反省してます？」",
+        "translations": {
+            "initial": "「Apa benar-benar menyesal？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "「ああ、もちろん！」",
+        "translations": {
+            "initial": "「Iya, tentu saja！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "「@t25@d1はぁ……分かりました。このままでは私が悪者みたいですし」",
+        "translations": {
+            "initial": "「@t25@d1Haa... Baiklah kalau begitu. Kalau diteruskan, nanti malah aku yang kelihatan seperti orang jahat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "「@t44@d1それじゃ、常坂君と二乃ちゃんが仲直りしたところで、改めてスパを楽しんじゃおっか♪」",
+        "translations": {
+            "initial": "「@t44@d1Nah, karena Tokisaka-kun dan Nino-chan sudah baikan, ayo kita mulai menikmati spa-nya!♪」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "「@t24@d1ふふ、だね♪あ、それよりもいっちゃん。重要なことを忘れてない？」",
+        "translations": {
+            "initial": "「@t24@d1Fufu, benar juga♪ Ah, tapi tunggu dulu, Icchan. Apa kamu enggak melupakan hal yang penting？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "「重要なこと？」",
+        "translations": {
+            "initial": "「Hal yang penting？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 216,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 217,
+        "original": "「@t24@d1女の子が水着なんだから、褒めてあげないと♪」",
+        "translations": {
+            "initial": "「@t24@d1Cewek-cewek sudah pakai baju renang begini, kamu harus memuji mereka dong♪」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 218,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 219,
+        "original": "「……そ、そういうの、やらなきゃダメ……？」",
+        "translations": {
+            "initial": "「...A-apa hal seperti itu wajib dilakukan...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 220,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 221,
+        "original": "「@t50@d1女の子が頑張って薄着でいるんだから、誉めなきゃダメだよ。そうすると女の子は喜んでくれるんだよ？」",
+        "translations": {
+            "initial": "「@t50@d1Cewek sudah berusaha keras tampil terbuka begini, jadi harus dipuji. Kalau begitu, mereka bakal senang tahu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 222,
+        "original": "めんどくさい。けどまあ。",
+        "translations": {
+            "initial": "Merepotkan juga. Tapi ya sudahlah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 223,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 224,
+        "original": "「みんな、似合ってると思う」",
+        "translations": {
+            "initial": "「Semuanya, aku rasa bajunya cocok buat kalian」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 225,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 226,
+        "original": "「ありがとー♪」",
+        "translations": {
+            "initial": "「Makasih ya-♪」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 227,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 228,
+        "original": "「別に兄さんの為に着てきたわけじゃありません」",
+        "translations": {
+            "initial": "「Bukannya aku sengaja pakai ini demi Nii-san ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 229,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 230,
+        "original": "「それより初めはどこに行こうか？」",
+        "translations": {
+            "initial": "「Terlepas dari itu, awal kita mau pergi ke mana dulu nih？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 231,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 232,
+        "original": "「そら姉以外、全然喜んでないんだけど」",
+        "translations": {
+            "initial": "「Kecuali Sora-nee, kok kayaknya nggak ada yang senang sama sekali sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 233,
+        "original": "こうしてしばらく、みんなでスパを満喫した。",
+        "translations": {
+            "initial": "Begitulah, kami semua pun menikmati fasilitas spa untuk beberapa saat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 234,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 235,
+        "original": "「ふぅ～……ちょっと疲れたね」",
+        "translations": {
+            "initial": "「Fuu~... agak capek juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 236,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 237,
+        "original": "「ちょっとはしゃぎ過ぎちゃったかも」",
+        "translations": {
+            "initial": "「Mungkin kita tadi memang sedikit keasyikan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 238,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 239,
+        "original": "「じゃあ、そろそろ帰るか？」",
+        "translations": {
+            "initial": "「Kalau gitu, apa kita pulang sekarang？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 240,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 241,
+        "original": "「うん、そうだね」",
+        "translations": {
+            "initial": "「Ehm, iya boleh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 242,
+        "original": "充分満喫した俺たちは、更衣室の方へと向かう。",
+        "translations": {
+            "initial": "Setelah merasa puas menikmati spa, kami pun berjalan menuju ruang ganti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 243,
+        "original": "でもまあ、女性陣の着替えは時間がかかるだろう。",
+        "translations": {
+            "initial": "Yah, ganti baju bagi para cewek pasti bakal makan waktu lama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 244,
+        "original": "特に私服に着替える時には、髪を乾かしたりとか、さっきよりも時間がかかるだろうし。",
+        "translations": {
+            "initial": "Apalagi saat ganti ke baju biasa, mereka perlu mengeringkan rambut dan lainnya, pasti lebih lama dari sebelumnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 245,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 246,
+        "original": "「あ……」",
+        "translations": {
+            "initial": "「Ah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 247,
+        "original": "『また来た』って顔をしている。",
+        "translations": {
+            "initial": "Ekspresinya seolah bilang 'datang lagi deh'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 248,
+        "original": "あ……そういえば。",
+        "translations": {
+            "initial": "Ah... kalau dipikir-pikir.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 249,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 250,
+        "original": "「そろそろ帰ろうと思うんだけどさ、ちょっと言っておかないとと思うことがあったんだ」",
+        "translations": {
+            "initial": "「Kami mau segera pulang, tapi ada sesuatu yang ingin kusampaikan padamu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 251,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 252,
+        "original": "「@t11@d1はぁ。別に挨拶とか、そういうのはしにこなくてもいいですよ？」",
+        "translations": {
+            "initial": "「@t11@d1Haa. Kamu nggak perlu repot-repot datang cuma buat berpamitan atau semacamnya, tahu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 253,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 254,
+        "original": "「ああ、そうじゃなくて、一応言っておこうと思って」",
+        "translations": {
+            "initial": "「Ah, bukan itu, aku cuma ingin mengatakannya saja buat berjaga-jaga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 255,
+        "original": "鳳城が、警戒するような表情を浮かべた。",
+        "translations": {
+            "initial": "Houjou memasang ekspresi waspada.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 256,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 257,
+        "original": "「その制服……似合ってるな」",
+        "translations": {
+            "initial": "「Seragam itu... cocok kok buatmu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 258,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 259,
+        "original": "「@t11@d1@t37@d2ふえ？あ、はい……。あ、ありがとうございます」",
+        "translations": {
+            "initial": "「@t11@d1@t37@d2Eh？ Ah, iya.... Te-terima kasih banyak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 260,
+        "original": "想定外の言葉だったのか、一瞬キョトンとして、ぺこりと頭を下げた。",
+        "translations": {
+            "initial": "Mungkin karena kata-katanya tak terduga, dia sempat melongo sejenak sebelum akhirnya membungkukkan kepala.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 261,
+        "original": "そら姉から言われたし、ちゃんと水着を誉めておかないと。",
+        "translations": {
+            "initial": "Sora-nee sudah berpesan padaku, jadi aku harus memuji baju renangnya dengan benar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 262,
+        "original": "そう思って来たけど、何というか……。",
+        "translations": {
+            "initial": "Itulah niatku datang ke sini, tapi ya gimana ya....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 263,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 264,
+        "original": "「常坂さん、顔……赤いですよ」",
+        "translations": {
+            "initial": "「Tokisaka-san, wajahmu.... merah lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 265,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 266,
+        "original": "「しかたないだろ。こういうこと言いなれてないし」",
+        "translations": {
+            "initial": "「Ya habis gimana lagi. Aku nggak terbiasa ngomong begini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 267,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 268,
+        "original": "「なんでわざわざ、らしくないことしに来てるんですか」",
+        "translations": {
+            "initial": "「Kenapa malah repot-repot datang buat ngelakuin hal yang nggak mirip dirimu sih?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 269,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 270,
+        "original": "「まあ色々あるんだよ。じゃあ……帰るな」",
+        "translations": {
+            "initial": "「Yah, ada banyak alasan. Kalau gitu... aku pulang dulu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 271,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 272,
+        "original": "「@t25@d1はい、お気をつけて。本日は当施設のご利用、ありがとうございました」",
+        "translations": {
+            "initial": "「@t25@d1Iya, hati-hati di jalan. Terima kasih telah menggunakan fasilitas kami hari ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 273,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 274,
+        "original": "「ああ。また今度、ゆっくり来るよ」",
+        "translations": {
+            "initial": "「Sip. Kapan-kapan aku bakal mampir lagi buat santai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 275,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 276,
+        "original": "「またのお越しをお待ちしております……」",
+        "translations": {
+            "initial": "「Kami tunggu kedatangan Anda berikutnya....」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 277,
+        "original": "声のテンションが明らかに低い。",
+        "translations": {
+            "initial": "Nada suaranya jelas-jelas merosot lesu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 278,
+        "original": "本心では来てほしくなさそうなのはバレバレだった。",
+        "translations": {
+            "initial": "Kelihatan banget kalau sebenarnya dia nggak mau aku datang lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 279,
+        "original": "営業のスマイルや、わかりやすく嫌がる表情は、普段の鳳城とのギャップでちょっとだけ面白かった。",
+        "translations": {
+            "initial": "Senyum bisnis maupun ekspresi ogah-ogahannya itu terasa agak lucu karena kontras dengan sosok Houjou yang biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 280,
+        "original": "絶対に本人には言えないけど。",
+        "translations": {
+            "initial": "Tapi aku nggak bakal bisa mengatakannya langsung padanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 281,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

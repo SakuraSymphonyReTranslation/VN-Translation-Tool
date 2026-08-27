@@ -1,0 +1,986 @@
+[
+    {
+        "id": 0,
+        "original": "有里咲との出会いという名の再会。",
+        "translations": {
+            "initial": "Sebuah pertemuan kembali yang dinamakan sebagai perjumpaan dengan Arisa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆうりさとのであいというなのさいかい。"
+    },
+    {
+        "id": 1,
+        "original": "それから丁度一週間が経過した。",
+        "translations": {
+            "initial": "Tepat satu minggu telah berlalu sejak saat itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それからちょうどいちしゅうかんがけいかするた。"
+    },
+    {
+        "id": 2,
+        "original": "この一週間、有里咲はもちろん学校に通うこともなく、出掛けたり籠もったりを繰り返していた。",
+        "translations": {
+            "initial": "Selama seminggu ini, Arisa tentu saja tidak pergi ke sekolah, dia terus mengulang rutinitas antara pergi keluar atau mengurung diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このいちしゅうかん、ゆりさきはもちろんがっこうにかようこともない、でかけるたりこもるたりをくりかえすているた。"
+    },
+    {
+        "id": 3,
+        "original": "何をしているのかは俺たちにはよく判らない。",
+        "translations": {
+            "initial": "Kami tidak tahu pasti apa yang sebenarnya dia lakukan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにをするているのかはおれたちにはよくわかるない。"
+    },
+    {
+        "id": 4,
+        "original": "ただ、話し相手になったり、そら姉の作ったご飯を食べてもらえれば、と毎日実家の方を訪れていた。",
+        "translations": {
+            "initial": "Hanya saja, aku mengunjungi rumah utama setiap hari dengan harapan bisa menjadi teman bicara atau setidaknya dia mau memakan masakan buatan Sora-nee.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ただ、はなすあいてになるたり、それねえのつくるたごはんをたべるてもらうば、とまいにちじっかのほうをおとずれるているた。"
+    },
+    {
+        "id": 5,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 6,
+        "original": "「有里咲……？いるかー？」",
+        "translations": {
+            "initial": "「Arisa......？ Kamu ada di dalam？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき……？いるか？」"
+    },
+    {
+        "id": 7,
+        "original": "見当たらないな。",
+        "translations": {
+            "initial": "Tidak kelihatan ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みあたるないな。"
+    },
+    {
+        "id": 8,
+        "original": "眠っているとしたら居間だと思ったけど。",
+        "translations": {
+            "initial": "Kalau dia sedang tidur, kupikir dia bakal ada di ruang tamu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ねむるているとするたいまだとおもうたけれど。"
+    },
+    {
+        "id": 9,
+        "original": "もしかしたら今日は朝早くに出掛けてしまったのかもしれない。",
+        "translations": {
+            "initial": "Mungkin saja hari ini dia sudah pergi keluar sejak pagi-pagi buta.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もしかするたきょうはあさはやくにでかけるてしまうたのかもしれるない。"
+    },
+    {
+        "id": 10,
+        "original": "一応、念のため……。",
+        "translations": {
+            "initial": "Yah, buat jaga-jaga saja.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いちおう、ねんのため……。"
+    },
+    {
+        "id": 11,
+        "original": "……ま、いないよな。",
+        "translations": {
+            "initial": "......Yah, emang gak ada ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……ま、いるないよな。"
+    },
+    {
+        "id": 12,
+        "original": "残りは――",
+        "translations": {
+            "initial": "Sisanya tinggal-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "のこりは――"
+    },
+    {
+        "id": 13,
+        "original": "もしかしたら……と思ったジジイの部屋にも有里咲の姿はなかった。",
+        "translations": {
+            "initial": "Arisa juga tidak terlihat di kamar Kakek, tempat yang sempat membuatku berpikir 'mungkin saja dia di sana'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もしかするた……とおもうたじいのへやにもゆりさきのすがたはないた。"
+    },
+    {
+        "id": 14,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 15,
+        "original": "「ふうむ……」",
+        "translations": {
+            "initial": "「Hmm......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふむ……」"
+    },
+    {
+        "id": 16,
+        "original": "どこかで倒れてるってことも無いと思うけど、念のためＣＯＭＵっておくか。",
+        "translations": {
+            "initial": "Kurasa dia gak mungkin pingsan di suatu tempat sih, tapi buat jaga-jaga coba aku hubungi lewat COMU deh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どこかでたおれるてるつうこともないとおもうけれど、ねんのためＣＯＭＵっておくか。"
+    },
+    {
+        "id": 17,
+        "original": "「一登」おーっす。出掛けちゃった？",
+        "translations": {
+            "initial": "「一登」 Halo. Kamu lagi di luar ya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おーです。でかけるちゃうた？"
+    },
+    {
+        "id": 18,
+        "original": "しばらくレスがつくのを待ってみる。",
+        "translations": {
+            "initial": "Aku menunggu balasan darinya untuk beberapa saat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しばらくれすがつくのをまつてみる。"
+    },
+    {
+        "id": 19,
+        "original": "するとほどなくして――",
+        "translations": {
+            "initial": "Lalu tidak lama kemudian-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "するとほどなくすて――"
+    },
+    {
+        "id": 20,
+        "original": "「有里咲」あ、もしかして様子見に来てくれた？",
+        "translations": {
+            "initial": "「有里咲」 Apa kamu datang untuk       menjengukku?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」あっ、もしかするてようすみるにくるてくれるた？"
+    },
+    {
+        "id": 21,
+        "original": "「有里咲」ごめんね。今日はちょっと早めに出ちゃった。",
+        "translations": {
+            "initial": "「有里咲」 Maaf, aku pergi lebih awal  hari ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ごめんね。きょうはちょっとはやめだでるちゃうた。"
+    },
+    {
+        "id": 22,
+        "original": "レスがきた。",
+        "translations": {
+            "initial": "Balasannya datang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "れすがくるた。"
+    },
+    {
+        "id": 23,
+        "original": "「一登」身体は大丈夫かー？疲れが溜まってるだろ。",
+        "translations": {
+            "initial": "「一登」 Gimana kondisimu? Kamu      pasti lelah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」しんたいはだいじょうぶか？つかれがたまるてるだ。"
+    },
+    {
+        "id": 24,
+        "original": "「有里咲」ありがと！でも大丈夫。時間も無いしね。",
+        "translations": {
+            "initial": "「有里咲」 Aku oke, waktuku sudah      tidak banyak lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ありがとう！でもだいじょうぶ。じかんもないしね。"
+    },
+    {
+        "id": 25,
+        "original": "そう言うだろうなとは思ったけど。",
+        "translations": {
+            "initial": "Sudah kuduga dia bakal bilang begitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そういうだなとはおもうたけれど。"
+    },
+    {
+        "id": 26,
+        "original": "でも、心配になる。",
+        "translations": {
+            "initial": "Tetap saja, aku jadi khawatir.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だも、しんぱいだなる。"
+    },
+    {
+        "id": 27,
+        "original": "「一登」紅茶でも入れてやろうと思ったけど、今度だな。",
+        "translations": {
+            "initial": "「一登」 Padahal ingin kubuatkan     teh, ya sudahlah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」こうちゃでもいれるてやるとおもうたけれど、こんどだな。"
+    },
+    {
+        "id": 28,
+        "original": "「有里咲」ふふ、ありがと。常坂君の紅茶美味しいね",
+        "translations": {
+            "initial": "「有里咲」 Terima kasih, teh buatanmu  enak sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ふふ、ありがとう。つねさかくんのこうちゃおいしいね"
+    },
+    {
+        "id": 29,
+        "original": "有里咲はＳＳＲキャンプでも、いつも紅茶を飲んでいたもんな。",
+        "translations": {
+            "initial": "Arisa memang selalu minum teh bahkan saat di SSR Camp dulu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆうりさはえすえすあーるきゃんぷでも、いつもこうちゃをのむているたものな。"
+    },
+    {
+        "id": 30,
+        "original": "「有里咲」有里栖も紅茶好きだったから自然にいけたかな",
+        "translations": {
+            "initial": "「有里咲」 Arisu suka teh, jadi aku    terbiasa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ゆりすみかもこうちゃすきだたからしぜんだいくたかな"
+    },
+    {
+        "id": 31,
+        "original": "「有里咲」それは助かったかも。苦手なのだとちょっとね",
+        "translations": {
+            "initial": "「有里咲」 Untung aku suka, kalau      tidak bakal repot.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」それはたすかるたかも。にがてだのだとちょっとね"
+    },
+    {
+        "id": 32,
+        "original": "「一登」確かに演じるために我慢するのはキツイよな",
+        "translations": {
+            "initial": "「一登」 Pasti berat harus berakting menahan diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」たしかだえんずるためにがまんするのはきついよな"
+    },
+    {
+        "id": 33,
+        "original": "ジジイも紅茶が好きだったな。",
+        "translations": {
+            "initial": "Kakek juga dulu suka banget sama teh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "じいもこうちゃがすきだたな。"
+    },
+    {
+        "id": 34,
+        "original": "この部屋を見てそんなことも思いだした。",
+        "translations": {
+            "initial": "Melihat ruangan ini bikin aku jadi teringat hal itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このへやをみるてそんなこともおもいだすた。"
+    },
+    {
+        "id": 35,
+        "original": "おかげで子供ながらに、それなりの紅茶のいれかたを教え込まれたんだった。",
+        "translations": {
+            "initial": "Gara-gara itu, sejak kecil aku sampai diajari cara menyeduh teh yang benar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おかげでこどもながらに、それなりのこうちゃのいれるかたをおしえこむれるたのだた。"
+    },
+    {
+        "id": 36,
+        "original": "「一登」どこにいる？手伝いにいこうか？",
+        "translations": {
+            "initial": "「一登」 Kamu di mana? Perlu         bantuan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」どこにいる？てつだいにいくか？"
+    },
+    {
+        "id": 37,
+        "original": "俺に出来る事があるのかは判らないが、もしあれば少しでも助けになりたい。",
+        "translations": {
+            "initial": "Aku gak tahu apa ada yang bisa aku lakukan, tapi kalau ada, aku ingin bantu sedikit pun gak apa-apa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれにできることがあるのかはわかるないが、もしあるばすこしでもたすけるになるたい。"
+    },
+    {
+        "id": 38,
+        "original": "「有里咲」ありがとう。でも大丈夫。気持ちだけもらっておくね",
+        "translations": {
+            "initial": "「有里咲」 Terima kasih. aman. Niat    baik saja sudah cukup.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ありがとう。でもだいじょうぶ。きもちだけもらうておくね"
+    },
+    {
+        "id": 39,
+        "original": "ま、そう言うだろうとは思ってたけどさ。",
+        "translations": {
+            "initial": "Yah, aku sudah menduga dia bakal jawab begitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "む、そういうだとはおもうてるたけれどさ。"
+    },
+    {
+        "id": 40,
+        "original": "「一登」それで、進展とかもある感じ？",
+        "translations": {
+            "initial": "「一登」 Lalu, apa sudah ada         kemajuan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」それで、しんてんとかもあるかんじ？"
+    },
+    {
+        "id": 41,
+        "original": "少し間が空いてから――",
+        "translations": {
+            "initial": "Setelah ada jeda sejenak-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すこしあいだがあくてから――"
+    },
+    {
+        "id": 42,
+        "original": "「有里咲」それがねえ…なかなか難しい感じ。",
+        "translations": {
+            "initial": "「有里咲」 Itu dia... rasanya agak     sulit.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」それがね…なかなかむずかしいかんじ。"
+    },
+    {
+        "id": 43,
+        "original": "やはり一筋縄ではいかない、か。",
+        "translations": {
+            "initial": "Ternyata memang gak semudah itu, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "やはりひとすじなわだはいくない、か。"
+    },
+    {
+        "id": 44,
+        "original": "「一登」資料探しとか何か出来ればやるけど？",
+        "translations": {
+            "initial": "「一登」 Butuh referensi? Aku bisa   bantu carikan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」しりょうさがしとかなにかできるばやるけれど？"
+    },
+    {
+        "id": 45,
+        "original": "「有里咲」ありがとう。でももう充分やってもらってる",
+        "translations": {
+            "initial": "「有里咲」 Makasih, tapi bantuanmu     sudah cukup kok.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ありがとう。でももうじゅうぶんやるてもらうてる"
+    },
+    {
+        "id": 46,
+        "original": "「有里咲」常坂君にはいっぱい感謝してる",
+        "translations": {
+            "initial": "「有里咲」 Aku sungguh berterima       kasih padamu, Tokisaka-kun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」つねさかくんにはいっぱいかんしゃするてる"
+    },
+    {
+        "id": 47,
+        "original": "「一登」そっか。何かあったら遠慮無く言ってくれよな",
+        "translations": {
+            "initial": "「一登」 Oke. Kabari saja kalau      butuh apa-apa lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」そうか。なにかあるたえんりょないいうてくれるよな"
+    },
+    {
+        "id": 48,
+        "original": "「一登」俺がヒール系の使える魔法使いだったらな（笑）",
+        "translations": {
+            "initial": "「一登」 Andai aku penyihir          penyembuh, ya (tertawa).",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おれがひーるけいのつかうまほうつかいだたな（わらい）"
+    },
+    {
+        "id": 49,
+        "original": "そしたら有里咲の体力回復とかできただろうに。",
+        "translations": {
+            "initial": "Kalau begitu, aku pasti bisa memulihkan stamina Arisa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そうするたゆりさきのたいりょくかいふくとかできるただに。"
+    },
+    {
+        "id": 50,
+        "original": "できることと言えばあの手鏡の魔法ぐらいだしなあ……。",
+        "translations": {
+            "initial": "Satu-satunya yang bisa kulakukan cuma sihir cermin genggam itu sih...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "できることというばあのてかがみのまほうくらいだしな……。"
+    },
+    {
+        "id": 51,
+        "original": "「有里咲」ヒール系ってゲームでＨＰ回復とかするやつ？",
+        "translations": {
+            "initial": "「有里咲」 Healer itu yang memulihkan  HP di gim ya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ひーるけいつうげーむでえいちぴーかいふくとかするやつ？"
+    },
+    {
+        "id": 52,
+        "original": "「一登」そうそう、それ。あれがあれば助けられるなって",
+        "translations": {
+            "initial": "「一登」 Benar, dengan itu aku bisa  membantumu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」そうそう、それ。あれがあるばたすけるられるなって"
+    },
+    {
+        "id": 53,
+        "original": "「有里咲」あはは。そうだね。でもあの手の魔法は難しいね",
+        "translations": {
+            "initial": "「有里咲」 Haha benar, tapi sihir itu  sepertinya sulit.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」あはは。そうだね。でもあのてのまほうはむずかしいね"
+    },
+    {
+        "id": 54,
+        "original": "「有里咲」専門の魔法使いじゃないと代償も大きいかも",
+        "translations": {
+            "initial": "「有里咲」 Kalau bukan spesialis,      bayarannya pasti mahal.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」せんもんのまほうつかいだないとだいしょうもおおきいかも"
+    },
+    {
+        "id": 55,
+        "original": "「一登」代償？",
+        "translations": {
+            "initial": "「一登」 Bayaran?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」だいしょう？"
+    },
+    {
+        "id": 56,
+        "original": "なんかちょっと怖い言葉だな。",
+        "translations": {
+            "initial": "Kedengarannya agak serem ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにかちょっとこわいことばだな。"
+    },
+    {
+        "id": 57,
+        "original": "「有里咲」ベタなのだと治す怪我と同じ怪我を負うとか",
+        "translations": {
+            "initial": "「有里咲」 Luka yang kau sembuhkan     akan berpindah padamu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」べただのだとなおすけがとおなじけがをおうとか"
+    },
+    {
+        "id": 58,
+        "original": "「一登」うへ。それはキツイな（汗）",
+        "translations": {
+            "initial": "「一登」 Wah, bayarannya berat       sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」うへ。それはきついな（あせ）"
+    },
+    {
+        "id": 59,
+        "original": "「有里咲」むしろ同じだけ回復できたら相当優秀だよ",
+        "translations": {
+            "initial": "「有里咲」 Bisa memulihkan sebanyak    itu sudah hebat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」むしろおなじだけかいふくできるたそうとうゆうしゅうだよ"
+    },
+    {
+        "id": 60,
+        "original": "「有里咲」まして代償以上の回復できる使い手なんて",
+        "translations": {
+            "initial": "「有里咲」 Apalagi jika pemulihannya   melebihi beban luka,",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ましてだいしょういじょうのかいふくできるつかいてなんて"
+    },
+    {
+        "id": 61,
+        "original": "「有里咲」世界的な魔法使いかな。カテゴリー５とか",
+        "translations": {
+            "initial": "「有里咲」 itu sudah sekelas penyihir  Dunia Kategori 5.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」せかいてきだまほうつかいかな。かてごりー５とか"
+    },
+    {
+        "id": 62,
+        "original": "「一登」カテゴリー５…？",
+        "translations": {
+            "initial": "「一登」 Kategori 5 itu apa?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」かてごりー５…？"
+    },
+    {
+        "id": 63,
+        "original": "何かの暗号だろうか。",
+        "translations": {
+            "initial": "Apa itu semacam kode rahasia?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにかのあんごうだか。"
+    },
+    {
+        "id": 64,
+        "original": "「有里咲」あー…、大魔法使いって意味にとってもらえれば",
+        "translations": {
+            "initial": "「有里咲」 Itu sebutan penyihir yang   sangat hebat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ああ…、だいまほうつかいっていみにとるてもらうば"
+    },
+    {
+        "id": 65,
+        "original": "「一登」なるほどな。すごくハードル高いんだな",
+        "translations": {
+            "initial": "「一登」 Paham, standarnya tinggi    sekali ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」なるほどな。すごいはーどるたかいのだな"
+    },
+    {
+        "id": 66,
+        "original": "「有里咲」私はマナバランス調整特化で育てられたし他は苦手",
+        "translations": {
+            "initial": "「有里咲」 Aku cuma ahli atur mana,    bidang lain tidak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」わたくしはまなばらんすちょうせいとっかでそだてるられるたしたはにがて"
+    },
+    {
+        "id": 67,
+        "original": "「一登」とにかく、無理はするなよな",
+        "translations": {
+            "initial": "「一登」 Intinya, jangan terlalu     memaksakan diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」とにかく、むりはするなよな"
+    },
+    {
+        "id": 68,
+        "original": "「有里咲」心配してくれる人がいるだけで心強いよ",
+        "translations": {
+            "initial": "「有里咲」 Perhatianmu membuatku       merasa tenang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」しんぱいするてくれるひとがいるだけでこころづよいよ"
+    },
+    {
+        "id": 69,
+        "original": "「有里咲」ありがとう～。それじゃあまたね",
+        "translations": {
+            "initial": "「有里咲」 Terima kasih ya. Sampai     jumpa!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ありがとう～。それでまたね"
+    },
+    {
+        "id": 70,
+        "original": "「一登」おう。夕食用にそら姉の惣菜を冷蔵庫いれておくな",
+        "translations": {
+            "initial": "「一登」 Oke. Lauk makan malam ada   di kulkas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おお。ゆうしょくようにそれねえのそうざいをれいぞうこいれるておくな"
+    },
+    {
+        "id": 71,
+        "original": "「有里咲」ほんと助かる！",
+        "translations": {
+            "initial": "「有里咲」 Wah, terima kasih banyak!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ほんとうたすかる！"
+    },
+    {
+        "id": 72,
+        "original": "「有里咲」とにかく何か他に方法が無いか探してみる",
+        "translations": {
+            "initial": "「有里咲」 Aku akan coba cari cara     lain.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」とにかくなにかほかにほうほうがないかさがすてみる"
+    },
+    {
+        "id": 73,
+        "original": "「一登」おう！今日は早めに休んでおけよ！",
+        "translations": {
+            "initial": "「一登」 Oke! Istirahatlah lebih     awal hari ini!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おお！きょうははやめだやすむておく！"
+    },
+    {
+        "id": 74,
+        "original": "ここで一旦会話は終了。",
+        "translations": {
+            "initial": "Percakapan berakhir di sini untuk sementara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ここでいったんかいわはしゅうりょう。"
+    },
+    {
+        "id": 75,
+        "original": "とにかく、無理をしないで欲しいもんだ。",
+        "translations": {
+            "initial": "Pokoknya, aku harap dia tidak memaksakan diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "とにかく、むりをするないてほしいものだ。"
+    },
+    {
+        "id": 76,
+        "original": "世界の前に有里咲自身が倒れちゃ元も子もないしな。",
+        "translations": {
+            "initial": "Sebab akan percuma saja jika Arisa sendiri tumbang sebelum menyelamatkan dunia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "せかいのまえにゆうりさじしんがたおれるてもともこもないしな。"
+    },
+    {
+        "id": 77,
+        "original": "それにしても――",
+        "translations": {
+            "initial": "Meski begitu-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それにするても――"
+    },
+    {
+        "id": 78,
+        "original": "有里咲は『何か他に方法が無いか探してみる』と言った。",
+        "translations": {
+            "initial": "Arisa bilang dia akan 'coba cari kalau ada cara lain'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆうりさは『なにかほかにほうほうがないかさがすてみる』というた。"
+    },
+    {
+        "id": 79,
+        "original": "きっと何かしらの方法は既に見つかっているのだろう。",
+        "translations": {
+            "initial": "Pasti sebenarnya sudah ada suatu cara yang ditemukan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "きっとなにかしらのほうほうはすでにみつかるているのだ。"
+    },
+    {
+        "id": 80,
+        "original": "けど、それはきっとなるべくなら避けたい方法なのかもしれないな。",
+        "translations": {
+            "initial": "Tapi, mungkin itu adalah cara yang jika bisa, ingin dia hindari.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けれど、それはきっとなるべくださけるたいほうほうだのかもしれるないな。"
+    },
+    {
+        "id": 81,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

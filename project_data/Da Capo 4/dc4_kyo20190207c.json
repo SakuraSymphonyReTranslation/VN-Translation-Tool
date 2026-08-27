@@ -1,0 +1,4303 @@
+[
+    {
+        "id": 0,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "「……と、こんな感じで、鷺澤さんの傍には常に誰かがいるようにするんです」",
+        "translations": {
+            "initial": "「...Jadi, begitulah rencananya. Kita pastikan selalu ada seseorang di sisi Sagisawa-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "「告白とかデートのお誘いとかで近づいてくる人が来たら、その場でノーと言ってあげれば……」",
+        "translations": {
+            "initial": "「Kalau ada yang mendekat buat nembak atau mengajak kencan, kita bisa bantu bilang nggak secara langsung...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "「んー、でもそれは難しいよ。登下校までずーっと一緒っていうのは無理があるし。家だってバラバラだしね。特に男子のお誘いって放課後が狙い目だから」",
+        "translations": {
+            "initial": "「Hmm, tapi itu sulit, lho. Nggak mungkin bisa bareng terus sampai waktu berangkat dan pulang sekolah. Rumah kita juga mencar-mencar. Apalagi cowok biasanya ngincar waktu sepulang sekolah buat ngajak jalan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "「あー、うー……やっぱり駄目ですか？」",
+        "translations": {
+            "initial": "「Ah, uh... tetap nggak bisa ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "「でもアイデアとしてはいいと思うな。やっぱり他の誰かが傍にいたりすると、デートのお願いとかってしにくいはずだもんね」",
+        "translations": {
+            "initial": "「Tapi menurutku idenya bagus kok. Kalau ada orang lain di dekatnya, pasti mereka jadi segan mau ngajak kencan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "「うん、方向性としてはバッチリ」",
+        "translations": {
+            "initial": "「Iya, arahnya sudah benar banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "「……思っていた以上に難しい問題ですね」",
+        "translations": {
+            "initial": "「...Ternyata masalah ini lebih sulit dari yang kubayangkan ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "昨日有里栖からお願いされたばかりなのに、みんなも結構考えてきたんだな。",
+        "translations": {
+            "initial": "Padahal Arisu baru minta tolong kemarin, tapi ternyata semuanya sudah memikirkannya dengan serius.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "話し合いを始めてから３０分近く経つけど、アイデアはもう１０個近くは出ている。",
+        "translations": {
+            "initial": "Sudah hampir 30 menit sejak diskusi dimulai, dan sudah ada sekitar 10 ide yang terkumpul.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "現実的なものから無謀なもの、男子目線や女子目線まで様々だ。",
+        "translations": {
+            "initial": "Mulai dari yang realistis sampai yang mustahil, serta berbagai macam sudut pandang baik dari cowok maupun cewek.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "けど、決定打となるようなアイデアは、残念ながらまだ出ていない。",
+        "translations": {
+            "initial": "Sayangnya, belum ada satu pun ide yang bisa menjadi solusi pamungkas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "あと一歩感がとてももどかしい。",
+        "translations": {
+            "initial": "Rasanya sangat gregetan karena tinggal selangkah lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "「……やっぱり迷惑だったかな」",
+        "translations": {
+            "initial": "「...Apa aku sudah merepotkan kalian ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "「ん？いや、そんなことないんじゃないか？」",
+        "translations": {
+            "initial": "「Hm? Nggak, nggak begitu kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "「本当に？」",
+        "translations": {
+            "initial": "「Benarkah？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "「んー……みんなは分からないけど、少なくとも俺はそうは思ってない……かも」",
+        "translations": {
+            "initial": "「Hmm... Kalau yang lain aku nggak tahu, tapi setidaknya aku nggak merasa begitu... mungkin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "「あはは、かもが付くんだ」",
+        "translations": {
+            "initial": "「Ahaha, pakai 'mungkin' segala」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "「いちいち今の気持ちになった理由とか考えたりしないからな。いまいち分からん」",
+        "translations": {
+            "initial": "「Habisnya aku nggak pernah kepikiran alasan kenapa aku merasa begini. Jadi aku sendiri kurang paham」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "「ただ、困った人間を困ったままにさせておくのは、誰だって嫌だし」",
+        "translations": {
+            "initial": "「Hanya saja, siapa pun pasti nggak suka membiarkan orang yang lagi kesulitan begitu saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "「それに……ＳＳＲの理念は、みんなを笑顔にする、だからな」",
+        "translations": {
+            "initial": "「Lagi pula... filosofi SSR adalah membuat semua orang tersenyum, 'kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "「……うん」",
+        "translations": {
+            "initial": "「...Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "「それってほら、裏返してみれば、誰か困ってる人がいたらとことん助けるってことだし」",
+        "translations": {
+            "initial": "「Artinya, kalau ada orang yang sedang kesulitan, kita bakal bantu mereka habis-habisan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "勿論、無理な時だってあるかもしれない。",
+        "translations": {
+            "initial": "Tentu saja, mungkin akan ada saat di mana hal itu tidak memungkinkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "物事には限界がつきものだ。",
+        "translations": {
+            "initial": "Segala sesuatu pasti ada batasnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "でも今はその限界は全然見えない。",
+        "translations": {
+            "initial": "Tapi untuk saat ini, batas itu sama sekali tidak terlihat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "可能性は有り余ってる。",
+        "translations": {
+            "initial": "Masih banyak kemungkinan yang tersisa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "「有里栖だって、俺たちの誰かが同じ悩みを相談してきたらどうする？」",
+        "translations": {
+            "initial": "「Arisu sendiri, apa yang akan kamu lakukan kalau salah satu dari kami datang berkonsultasi tentang masalah yang sama？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "「@b1@t11@w1それは……いっぱい、いーっぱい悩んで、何かいい方法はないかなって一緒に考える」",
+        "translations": {
+            "initial": "「@b1@t11@w1Itu... aku akan memikirkannya baik-baik, dan bersama-sama mencari jalan keluar terbaik」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "「それと一緒なんじゃないか？俺もみんなも。それに頭を使うだけならタダだしな」",
+        "translations": {
+            "initial": "「Sama saja, 'kan？ Aku dan yang lainnya juga begitu. Lagipula, cuma pakai otak itu gratis, kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "「……ふふっ、そっか」",
+        "translations": {
+            "initial": "「...Fufu, benar juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "いざ相談されて、はいそうですかとは終わらせることは出来ないし。",
+        "translations": {
+            "initial": "Begitu ada yang berkonsultasi, aku tidak bisa menyelesaikannya begitu saja dengan kata-kata sederhana.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「本当にありがとね、常坂君」",
+        "translations": {
+            "initial": "「Terima kasih banyak ya, Tokisaka-kun」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "「お礼は解決した後でいいって」",
+        "translations": {
+            "initial": "「Terima kasihnya nanti saja setelah masalahnya selesai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "それに、その感謝を俺一人に向けられると、少しくすぐったい。",
+        "translations": {
+            "initial": "Lagipula, aku merasa sedikit malu kalau rasa terima kasih itu hanya ditujukan padaku sendiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "大団円を迎えた時に、みんなの前で軽く言葉にするくらいが丁度いい。",
+        "translations": {
+            "initial": "Rasanya lebih pas kalau diungkapkan secara santai di depan semua orang saat kita mencapai akhir yang bahagia nanti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "「ん～……やっぱり難しいね。ＡとＢをくっ付けるのはバリバリ守備範囲なんだけど……」",
+        "translations": {
+            "initial": "「Hmm~... memang sulit ya. Kalau menjodohkan si A dan si B sih itu sudah keahlianku, tapi...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "「ＡにＢが近寄らないようにするっていうのは、ボクは守備範囲外とさせてもらっているからなあ」",
+        "translations": {
+            "initial": "「Tapi kalau mencegah si B mendekati si A, itu sudah di luar kendaliku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "「むしろやろうと思えば出来ちゃうって言い草がこえーよ」",
+        "translations": {
+            "initial": "「Malah caramu bilang seolah-olah kamu sebenarnya bisa melakukannya itu yang bikin ngeri」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "「@b2@t36@w1ふふふ、ボクにかかればね。……ちなみに、常坂兄は何かアイデアとかあったりは？」",
+        "translations": {
+            "initial": "「@b2@t36@w1Fufufu, kalau aku yang turun tangan sih gampang. ......Ngomong-ngomong, apa Tokisaka-ani punya ide？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "「む……」",
+        "translations": {
+            "initial": "「Mmm......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "「そうですよ、さっきから兄さんだけアイデアを出していませんよ？」",
+        "translations": {
+            "initial": "「Benar juga, sedari tadi cuma Nii-san saja lho yang belum kasih ide？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "「まぁな……」",
+        "translations": {
+            "initial": "「Yah, begitulah......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "そこを指摘されるとちょっと痛いな。",
+        "translations": {
+            "initial": "Disindir begitu rasanya agak menusuk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "傍観や観察に徹していたわけじゃない。",
+        "translations": {
+            "initial": "Bukannya aku cuma mau jadi penonton atau pengamat saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "ただ、まだ考えがまとまっていないだけで……。",
+        "translations": {
+            "initial": "Hanya saja, pikiranku memang belum terkumpul sepenuhnya.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "「何かあるのであれば、出し惜しみするのは得策ではないぞ、同志よ」",
+        "translations": {
+            "initial": "「Kalau ada sesuatu, bukan langkah yang bijak untuk menyembunyikannya, kawan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "「え？いや、けど……」",
+        "translations": {
+            "initial": "「Eh？ Enggak, tapi......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "「ふっ、ただ無意味な思考に耽って、時間を浪費するような人間でないことは分かっている」",
+        "translations": {
+            "initial": "「Heh, aku tahu kamu bukan tipe orang yang membuang-buang waktu hanya untuk melamun tanpa arti」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "「今朝その手に持った風呂敷、もう大方広げ終わっているのではないか？」",
+        "translations": {
+            "initial": "「Rencana yang kamu siapkan sejak pagi tadi, bukankah sekarang sudah hampir matang？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "「……相変わらず、人の頭の中を推理するのは得意だよな、お前って」",
+        "translations": {
+            "initial": "「......Seperti biasa ya, kamu memang paling jago kalau soal menebak isi kepala orang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "「ふっ、もっと褒めていいぞ」",
+        "translations": {
+            "initial": "「Heh, boleh kok kalau mau memujiku lebih banyak lagi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "確かに朝話した段階では、作戦の芽になりそうなものがぴょこっと顔を出した。",
+        "translations": {
+            "initial": "Memang benar saat kami mengobrol tadi pagi, benih rencana mulai muncul di kepalaku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "それからずーっと、その芽をどう育てるか考えてはきたんだけど……。",
+        "translations": {
+            "initial": "Sejak saat itu, aku terus memikirkan bagaimana cara mengembangkan benih itu, tapi.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "どうしても過激になり過ぎるというか、有里栖を利用することになってしまいそうな予感がして……。",
+        "translations": {
+            "initial": "Entah kenapa rasanya akan jadi terlalu ekstrem, atau lebih tepatnya, aku merasa ini akan berakhir seperti memanfaatkan Arisu.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "「@t8@d1@t32@d2常坂君、何かいい考えがあるなら教えて？」",
+        "translations": {
+            "initial": "「@t8@d1@t32@d2Tokisaka-kun, kalau ada ide bagus, tolong beri tahu kami ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "「んー……」",
+        "translations": {
+            "initial": "「Hmm......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "……まだ全然固まってはいないけど、とりあえず口に出してみるか。",
+        "translations": {
+            "initial": "......Meskipun belum benar-benar matang, lebih baik coba aku bicarakan saja dulu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "そこから先は、みんなで建設的にってことで。",
+        "translations": {
+            "initial": "Sisanya tinggal didiskusikan secara konstruktif bersama yang lain.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "「俺は……来週の恋パを上手いこと利用すれば、どうにかなりそうな気がしてるんだよな」",
+        "translations": {
+            "initial": "「Aku merasa... kalau kita memanfaatkan acara Festival Cinta minggu depan dengan baik, sepertinya masalah ini bisa diatasi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "「恋パを？」",
+        "translations": {
+            "initial": "「Memanfaatkan Festival Cinta？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "「うん、こういうイベントって生徒全員大好きだし、注目度はかなり高い」",
+        "translations": {
+            "initial": "「Iya, seluruh murid kan suka acara seperti ini, jadi tingkat perhatian mereka pasti tinggi banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "「その注目度を利用して、『有里栖は恋人を作るつもりはありません』と大々的に伝えるんだ」",
+        "translations": {
+            "initial": "「Nah, kita gunakan perhatian itu untuk mengumumkan secara besar-besaran kalau 『Arisu tidak berniat mencari pacar』.」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "「そうすれば、大半の男子は引いてくれるかも……って感じだけど」",
+        "translations": {
+            "initial": "「Dengan begitu, mungkin sebagian besar cowok bakal mundur... yah, itu sih rencanaku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "「なるほど、そういうことね……」",
+        "translations": {
+            "initial": "「Begitu ya, aku paham maksudmu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "有里栖といえば香々見学園のアイドル。",
+        "translations": {
+            "initial": "Kalau bicara soal Arisu, dia adalah idola Akademi Kagami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "その地位は絶対で、おそらく卒業まで揺るがない。",
+        "translations": {
+            "initial": "Status itu sudah mutlak, dan sepertinya tidak akan tergoyahkan sampai kelulusan nanti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "その有里栖が何かしらアクションを起こせば、ほとんどの生徒は……主に男子は注目するはずだ。",
+        "translations": {
+            "initial": "Jika Arisu melakukan sesuatu, hampir semua murid... terutama para cowok, pasti akan memperhatikannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "「ちなみに一登、大々的に伝えるって言ってるけど、具体的にはどうやってするの？」",
+        "translations": {
+            "initial": "「Ngomong-ngomong Ichito, kamu bilang mau mengumumkannya secara besar-besaran, tapi cara spesifiknya gimana？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "「まぁ、問題はそこなんだよな」",
+        "translations": {
+            "initial": "「Yah, masalahnya memang di situ sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "「色々考えたんだけど、その点がどうしても出てこないんだ」",
+        "translations": {
+            "initial": "「Aku sudah memikirkan berbagai hal, tapi bagian itu sama sekali nggak ketemu ide yang pas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "「だよね……方法を問わず、とにかく宣伝することに集中するなら、可能性は無限大だし」",
+        "translations": {
+            "initial": "「Benar juga ya... kalau cuma fokus buat promosi tanpa peduli caranya, kemungkinannya sih memang nggak terbatas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "とにかく目立てばいいってだけだからな。",
+        "translations": {
+            "initial": "Karena yang penting kan cuma cari perhatian saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "だからといって、あまりに無法な行動に出るのも考え物だ。",
+        "translations": {
+            "initial": "Tapi, melakukan tindakan yang terlalu nekat juga perlu dipertimbangkan lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "目立つのはあくまでいい形で。",
+        "translations": {
+            "initial": "Menarik perhatiannya harus dengan cara yang baik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "悪目立ちだけして終わることだけは避けたい。",
+        "translations": {
+            "initial": "Aku ingin menghindari jangan sampai berakhir dengan sensasi negatif.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "だから可能性が狭まってしまうんだけど……。",
+        "translations": {
+            "initial": "Karena itulah pilihannya jadi semakin sempit...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "「恋パで有里栖がいい感じで目立って、かつ生徒にメッセージが届く方法って、何か思いついたりするか？」",
+        "translations": {
+            "initial": "「Kira-kira kalian terpikir nggak, cara supaya Arisu bisa menarik perhatian dengan keren di Festival Cinta sekaligus menyampaikan pesannya ke para murid？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "「う～ん……あまりオススメしないけど、コスプレして『彼氏不要』って書いたビラを配ったりとか？」",
+        "translations": {
+            "initial": "「Hmm... aku nggak terlalu menyarankan sih, tapi gimana kalau dia pakai kostum cosplay sambil bagi-bagi selebaran bertuliskan 'Tidak Butuh Pacar'？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "「間違いなくビラははけるだろうけど、印象最悪じゃないか……？」",
+        "translations": {
+            "initial": "「Brosurnya pasti bakal laku keras sih, tapi bukannya itu bakal ninggalin kesan yang paling buruk ya...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "「でも男子受けは良さそうじゃない？有里栖ちゃんのコスプレとかかなりウケそうだけど」",
+        "translations": {
+            "initial": "「Tapi bukannya bakal populer di kalangan cowok？ Arisu-chan kalau cosplay pasti bakal dapet sambutan meriah banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "「……そこには同意見だけどさ」",
+        "translations": {
+            "initial": "「...Kalau yang itu sih aku setuju」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "見たくないって言ったら嘘になるな。",
+        "translations": {
+            "initial": "Bohong kalau aku bilang nggak mau lihat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "メイドでも男装でも絶対似合うと断言できる。",
+        "translations": {
+            "initial": "Aku berani jamin dia bakal cocok banget pakai baju maid atau pun baju cowok.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "「そ、そういうのはちょっと嫌かな。変に角が立っちゃいそうだし……」",
+        "translations": {
+            "initial": "「I-itu sih aku agak keberatan ya. Soalnya kayaknya malah bakal bikin suasana jadi nggak enak...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "「ってことで却下だな」",
+        "translations": {
+            "initial": "「Makanya, usul itu ditolak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "「うーん残念、となると他には……」",
+        "translations": {
+            "initial": "「Yah sayang banget, kalau gitu apa lagi ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "「放送室をジャックし、校内放送で意思表明するというのはどうだ」",
+        "translations": {
+            "initial": "「Bagaimana kalau membajak ruang siaran dan menyatakan niatmu lewat pengumuman sekolah?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "「潜入から機器の操作、長時間の籠城、最後の言い訳まで、俺が懇切丁寧に指南すれば成功確実だ」",
+        "translations": {
+            "initial": "「Mulai dari penyusupan, pengoperasian alat, barikade dalam waktu lama, sampai alasan terakhir untuk mengelak, aku akan memandumu dengan teliti agar keberhasilannya terjamin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "「却下だ却下、物騒すぎるわ」",
+        "translations": {
+            "initial": "「Ditolak, ditolak! Itu terlalu berbahaya!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "「というか、言い訳っていうアフターフォローがある時点で失敗だしね……」",
+        "translations": {
+            "initial": "「Lagian, kalau sampai harus mikirin alasan buat ngelak, itu namanya sudah gagal dari awal...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "「肉を切らせて骨を断つ、最優先事項を思えば最善だと思ったんだが」",
+        "translations": {
+            "initial": "「Rela berkorban demi kemenangan besar, aku pikir itu cara terbaik kalau mengingat prioritas utamanya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "出血量と得られる成果が釣り合ってないっつーの。",
+        "translations": {
+            "initial": "Masalahnya jumlah darah yang tumpah nggak sebanding sama hasil yang didapat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "「他には……」",
+        "translations": {
+            "initial": "「Ada yang lain...?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "「提案。お約束だけど、ＳＳＲ主催でミスコンを開催するというのはどうかな？」",
+        "translations": {
+            "initial": "「Usul. Memang sudah biasa sih, tapi gimana kalau SSR mengadakan kontes kecantikan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "「ミスコンか」",
+        "translations": {
+            "initial": "「Kontes kecantikan, ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "お、ちょっと面白い発想だな。",
+        "translations": {
+            "initial": "Oh, ide yang cukup menarik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "「エントリー可能な女子は本校も含めて全員。勿論投票可能な男子も同じく全員」",
+        "translations": {
+            "initial": "「Semua cewek, termasuk dari sekolah kita, bisa ikut mendaftar. Dan tentu saja, semua cowok juga bisa ikut memberikan suara」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "「@t30@d1男子ってこの手のイベントは大好きだし、ボクたちで上手く運営すれば注目を浴びれると思います」",
+        "translations": {
+            "initial": "「@t30@d1Cowok-cowok biasanya suka banget sama acara semacam ini, jadi kalau kita bisa mengelolanya dengan baik, aku yakin ini bakal menarik banyak perhatian」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "「それで、わたしたちの誰かが司会者を担当して、エントリーしてくれた女の子にインタビューをして……」",
+        "translations": {
+            "initial": "「Lalu, salah satu dari kita bakal jadi pembawa acaranya dan mewawancarai cewek-cewek yang sudah mendaftar...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "「鷺澤さんの番の時に、上手に誘導して、今は恋人を作るつもりはありませんって言葉を引き出す……と」",
+        "translations": {
+            "initial": "「Lalu saat giliran Sagisawa-san, kita arahkan dia dengan baik supaya dia bilang kalau saat ini dia nggak ada niat buat cari pacar... begitu kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "「道筋は見えてきたな……」",
+        "translations": {
+            "initial": "「Alurnya sudah mulai kelihatan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "となると、肝となるのはインタビューだけだ。",
+        "translations": {
+            "initial": "Kalau begitu, kunci utamanya cuma ada pada sesi wawancara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "後は普通のミスコンを運営すればいい。",
+        "translations": {
+            "initial": "Sisanya, kita tinggal menjalankan kontes kecantikan seperti biasa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "有里栖が優勝したらより効果は大きいし、その可能性も十分アリだけど。",
+        "translations": {
+            "initial": "Efeknya bakal makin besar kalau Arisu sampai menang, dan kemungkinan itu pun sangat besar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "こちらとしては、アピールが出来た時点で目的は達成となるし……。",
+        "translations": {
+            "initial": "Tapi bagi kami, tujuan utamanya sudah tercapai begitu dia berhasil menyampaikan pernyataannya itu...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "「やっ、ちょ、ちょっといいですか？ひとつ確認と言いますか、質問があるんですけど」",
+        "translations": {
+            "initial": "「E-eh, anu, tunggu sebentar？ Ada satu hal yang mau aku pastikan, atau lebih tepatnya, ada yang mau aku tanyakan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "「お、どうした？」",
+        "translations": {
+            "initial": "「Oh, ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "「あの……ミスコンを開催するってなると、かなり大掛かりなイベントになりますよね」",
+        "translations": {
+            "initial": "「Anu... kalau kita mau mengadakan kontes kecantikan, bukannya itu bakal jadi acara yang sangat besar ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "「そうだな、むしろそれが狙い目だ。注目が高いほど有里栖の声も届きやすくなるし」",
+        "translations": {
+            "initial": "「Benar, justru itu tujuannya. Semakin banyak perhatian, semakin mudah suara Arisu tersampaikan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "「@b2@t56@w1いえ、そこはいいんです。私が聞きたいのはそこじゃなくて……間に合うんですか？」",
+        "translations": {
+            "initial": "「@b2@t56@w1Bukan, bukan itu maksudku. Yang ingin kutanyakan bukan soal itu, tapi... apa bakal keburu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "「……あっ」",
+        "translations": {
+            "initial": "「...Ah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "そっか、うっかりしてた……。",
+        "translations": {
+            "initial": "Benar juga, aku sampai lupa soal itu...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "恋パは来週なんだ。",
+        "translations": {
+            "initial": "Pesta cinta itu minggu depan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "「機材を準備したり、エントリーしてくれる候補者を募ったり、当日のスケジュールを決めたり……」",
+        "translations": {
+            "initial": "「Menyiapkan peralatan, mencari peserta yang mau mendaftar, menentukan jadwal acaranya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "「あと、校庭か体育館を使いますよね？これって申請とか必要なんじゃ……」",
+        "translations": {
+            "initial": "「Terus, kita bakal pakai lapangan sekolah atau gedung olahraga, kan? Bukannya itu perlu izin juga ya...?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "「……杉並、恋パの申請先って生徒会だよな？何時まで待って貰えそうだ？」",
+        "translations": {
+            "initial": "「......Suginami, pengajuan untuk Koi-Pa itu ke OSIS, kan？ Kira-kira mereka bisa nunggu sampai jam berapa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "「向こうも多忙だから、帰宅するのはかなり遅くなりそうだな。だが、ミスコンレベルの草案をまとめる時間はないな。現実味はかなり薄い」",
+        "translations": {
+            "initial": "「Pihak sana juga sibuk, jadi sepertinya mereka baru pulang larut malam. Tapi, kita nggak punya waktu buat nyusun draf setingkat kontes kecantikan. Rasanya mustahil」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "「だよなぁ……」",
+        "translations": {
+            "initial": "「Bener juga ya......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "今からまとめたとしても、終わるのは何時になるか分からない。",
+        "translations": {
+            "initial": "Sekalipun aku mulai menyusunnya sekarang, entah jam berapa baru akan selesai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "そもそも、体育館や校庭の競争率を考えると……。",
+        "translations": {
+            "initial": "Apalagi kalau memikirkan tingkat persaingan untuk memakai gym atau lapangan sekolah.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "「今からじゃ間に合わないか……」",
+        "translations": {
+            "initial": "「Kalau mulai sekarang nggak bakal keburu ya......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "「うーん、残念ですね……。思いついた瞬間は名案だと思ったんだけどなあ」",
+        "translations": {
+            "initial": "「Hmm, sayang banget ya....... Pas terpikir tadi, aku yakin banget itu ide yang bagus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "「でも方向性としてはかなりいいと思うんです。ちょっと準備に時間が掛かるというだけで」",
+        "translations": {
+            "initial": "「Tapi menurutku arahnya sudah bagus kok. Cuma butuh waktu lebih banyak buat persiapannya saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "「だよな、アイデアとしてはかなりいい」",
+        "translations": {
+            "initial": "「Iya, sebagai sebuah ide, ini lumayan bagus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "規模と時間がセットになって邪魔になっただけだ。",
+        "translations": {
+            "initial": "Masalahnya cuma skala dan waktu yang nggak sinkron saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "となると、ミスコン以下のレベルで何か出来ることを探したらいい。",
+        "translations": {
+            "initial": "Kalau begitu, aku harus cari sesuatu yang bisa dilakukan di bawah skala kontes kecantikan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "有里栖に注目が集まり、恋愛に興味はないとアピールする。",
+        "translations": {
+            "initial": "Sesuatu yang membuat Arisu jadi pusat perhatian, tapi sekaligus menegaskan kalau dia nggak tertarik dengan cinta.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "それを伝える相手は有里栖に想いを寄せる男子生徒。",
+        "translations": {
+            "initial": "Target yang ingin disampaikan adalah para murid laki-laki yang menyukai Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "彼らを一気に釣る……いやいや興味を惹きつけるイベントは……。",
+        "translations": {
+            "initial": "Acara yang bisa memancing...... bukan, menarik perhatian mereka sekaligus adalah.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "「……告白する権利を与えるっていうのはどうだ？」",
+        "translations": {
+            "initial": "「......Gimana kalau kita kasih hak untuk menyatakan cinta？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 216,
+        "original": "「えっ！？」",
+        "translations": {
+            "initial": "「Eh！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 217,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 218,
+        "original": "「ちょ……ちょっと兄さん、それってどういうことですか？告白をどうにかしなくちゃいけないのに、それをする権利をあげるって……」",
+        "translations": {
+            "initial": "「Tu-tunggu dulu Nii-san, apa maksudnya itu？ Kita kan harus melakukan sesuatu soal pernyataan cinta itu, tapi kenapa malah kasih hak buat melakukannya......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 219,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 220,
+        "original": "「や、ただの思いつきなんだけどさ。告白権利みたいなものをプレゼントで用意するんだよ」",
+        "translations": {
+            "initial": "「Nggak, ini cuma sekilas ide sih. Kita siapkan semacam 'Hak Menembak' sebagai hadiahnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 221,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 222,
+        "original": "「その権利を巡って、謎解きレースとか開催して、まずは参加者を募る」",
+        "translations": {
+            "initial": "「Lalu kita adakan lomba teka-teki untuk memperebutkan hak itu, dan kumpulkan pesertanya dulu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 223,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 224,
+        "original": "「で、フィナーレでその権利をプレゼントし、その優勝者を有里栖は思いっきり振るわけだ」",
+        "translations": {
+            "initial": "「Jadi, di bagian akhir nanti hak istimewanya diberikan, lalu Arisu bakal nolak si pemenangnya mentah-mentah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 225,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 226,
+        "original": "「他の参加者も集まってる前で、『今は恋愛に興味ありません、お友達からで』ってな感じで」",
+        "translations": {
+            "initial": "「Di depan peserta lainnya, kamu tinggal bilang, 'Sekarang aku lagi nggak minat pacaran, kita temenan aja ya,' atau semacamnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 227,
+        "original": "そうすれば、告白やデートの申し込みは無駄だとアピールできる。",
+        "translations": {
+            "initial": "Dengan begitu, dia bisa menegaskan kalau pernyataan cinta atau ajakan kencan itu cuma bakal sia-sia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 228,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 229,
+        "original": "「で、でもそれって……振られた人があんまりじゃないかな。せっかく頑張って優勝したのに、私のアピールに付き合わされるだけで終わるなんて……」",
+        "translations": {
+            "initial": "「Ta-tapi itu... bukannya kasihan banget buat orang yang ditolak? Padahal sudah berjuang buat menang, tapi malah cuma dimanfaatin buat aksi penolakanku saja...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 230,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 231,
+        "original": "「まぁな」",
+        "translations": {
+            "initial": "「Yah, benar juga sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 232,
+        "original": "確かにこのままだと、優勝者はピエロ。",
+        "translations": {
+            "initial": "Memang kalau dibiarkan begitu, si pemenang cuma akan jadi bahan tertawaan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 233,
+        "original": "ただの晒し者になるだけだ。",
+        "translations": {
+            "initial": "Dia hanya akan dipermalukan di depan umum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 234,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 235,
+        "original": "「けど、優勝者をこっちで決めれば大丈夫だろ。あらかじめ、こんな段取りで進めますって説明してさ」",
+        "translations": {
+            "initial": "「Tapi kalau kita yang nentuin pemenangnya, harusnya nggak masalah, kan? Kita jelasin dulu rencana prosedurnya bakal kayak gimana ke dia」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 236,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 237,
+        "original": "「え？それってつまり……」",
+        "translations": {
+            "initial": "「Eh？ Itu maksudnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 238,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 239,
+        "original": "「そ、出来レースってこと」",
+        "translations": {
+            "initial": "「Yap, semacam pengaturan skor」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 240,
+        "original": "協力者を作ってお願いすれば、そう難しいことじゃない。",
+        "translations": {
+            "initial": "Kalau ada orang yang mau diajak kerja sama, itu bukan hal yang sulit.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 241,
+        "original": "説明して納得して貰えれば、晒し者になったダメージだって低いだろうしな。",
+        "translations": {
+            "initial": "Selama dia paham dan setuju setelah dijelaskan, rasa malunya karena dipermalukan di depan umum juga bakal berkurang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 242,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 243,
+        "original": "「なるほど、こんな裏技をよく思いついたね、一登。面白いじゃん」",
+        "translations": {
+            "initial": "「Begitu ya, pinter juga kamu bisa kepikiran trik curang kayak gini, Ichito. Menarik nih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 244,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 245,
+        "original": "「ま、問題はどうやって協力者を作るかってところだけどな」",
+        "translations": {
+            "initial": "「Yah, masalahnya tinggal gimana cara nyari orang yang mau diajak kerja sama itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 246,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 247,
+        "original": "「そこそこ信頼が置けて、食券くらいの報酬で引き受けたりしてくれる奴とかいればいいけど……」",
+        "translations": {
+            "initial": "「Kalau ada orang yang cukup bisa dipercaya dan mau nerima bayaran cuma pakai kupon makan sih enak...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 248,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 249,
+        "original": "「え？そこは別に悩む必要はないでしょ」",
+        "translations": {
+            "initial": "「Eh? Itu sih nggak perlu dipusingin lagi, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 250,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 251,
+        "original": "「え、まさかアテがあるのか？あっさり引き受けてくれる友人とか」",
+        "translations": {
+            "initial": "「Lho, apa kamu sudah ada kandidatnya? Teman yang bakal setuju begitu saja?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 252,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 253,
+        "original": "「@b1@t55@w1いや、そうじゃなくてさ。なんていうか、所謂…………言い出しっぺの法則？」",
+        "translations": {
+            "initial": "「@b1@t55@w1Nggak, bukan gitu. Maksudku, itu lho... Hukum siapa yang kasih ide, dia yang jalanin？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 254,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 255,
+        "original": "「は？」",
+        "translations": {
+            "initial": "「Hah？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 256,
+        "original": "言い出しっぺって、それってつまり。",
+        "translations": {
+            "initial": "Maksudnya, itu berarti yang harus memulai adalah...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 257,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 258,
+        "original": "「お、俺がやれってことか！？」",
+        "translations": {
+            "initial": "「Ma-maksudnya aku yang harus melakukannya！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 259,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 260,
+        "original": "「え、ええええっ！？」",
+        "translations": {
+            "initial": "「E-eeeeh！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 261,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 262,
+        "original": "「うん、だってそれが一番手っ取り早いんじゃない？事情は全部知ってるし、問題ないでしょ」",
+        "translations": {
+            "initial": "「Iya, soalnya itu yang paling cepat dan praktis, kan? Kamu sudah tahu semua situasinya, jadi nggak ada masalah, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 263,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 264,
+        "original": "「というかデメリットなんかないし。普通に考えて、やらない手はないと思うんだけど」",
+        "translations": {
+            "initial": "「Lagipula nggak ada ruginya juga. Kalau dipikir secara normal, sayang banget kalau nggak dilakukan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 265,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 266,
+        "original": "「ぐっ……」",
+        "translations": {
+            "initial": "「Ugh...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 267,
+        "original": "確かに俺がその役目を引き受ければ、ノーリスクハイリターン……あっさりと解決するけど。",
+        "translations": {
+            "initial": "Memang benar kalau aku mengambil peran itu, risikonya nol tapi untungnya besar... masalah bakal selesai dengan cepat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 268,
+        "original": "いや、でも俺が優勝ってことは、あらゆる男子に醜態を晒すわけで……。",
+        "translations": {
+            "initial": "Tapi, kalau aku yang menang, itu artinya aku akan mempermalukan diri sendiri di depan semua laki-laki...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 269,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 270,
+        "original": "「いや、でも誰がやっても同じだろ。ここは叶方や杉並でもいいんじゃないか？」",
+        "translations": {
+            "initial": "「Tapi kan siapa pun pelakunya sama saja. Bagaimana kalau Kanata atau Suginami saja？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 271,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 272,
+        "original": "「一登、それ本気で言ってる？」",
+        "translations": {
+            "initial": "「Ichito, kamu serius bilang begitu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 273,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 274,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 275,
+        "original": "叶方の場合、キャラが立ち過ぎて、有里栖への注目度が薄れる可能性が大。",
+        "translations": {
+            "initial": "Kalau Kanata, karakternya terlalu kuat sehingga kemungkinan besar perhatian ke Arisu malah akan memudar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 276,
+        "original": "杉並の場合、もう陰謀の匂いしかしない。",
+        "translations": {
+            "initial": "Kalau Suginami, yang tercium cuma bau konspirasi saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 277,
+        "original": "出来レースがバレたら一環の終わりだし。",
+        "translations": {
+            "initial": "Kalau ketahuan ini settingan, tamat sudah riwayat kami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 278,
+        "original": "そうなると……もう善良かつ凡俗な一市民でもある俺がやるしかないってことか……。",
+        "translations": {
+            "initial": "Kalau begitu... nggak ada pilihan lain selain aku, warga biasa yang baik hati dan pasaran ini, yang melakukannya...?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 279,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 280,
+        "original": "「こんなこと言い出さなきゃよかった……」",
+        "translations": {
+            "initial": "「Harusnya aku nggak usah mengusulkan hal ini tadi...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 281,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 282,
+        "original": "「でもでもいっちゃん、本当にナイスアイデアだと思うよ？」",
+        "translations": {
+            "initial": "「Tapi Icchan, aku benar-benar berpikir ini ide yang bagus lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 283,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 284,
+        "original": "「ですね、運営と進行を頑張って、後は兄さんが恥をかけば大成功ってことですから！」",
+        "translations": {
+            "initial": "「Benar. Kita kerja keras untuk urusan manajemen dan progresnya, lalu sisanya Nii-san tinggal menanggung malu, maka semuanya sukses besar！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 285,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 286,
+        "original": "「最後！最後の要因にダメージ集約してるから！」",
+        "translations": {
+            "initial": "「Yang terakhir！ Poin yang terakhir itu bikin nyesek banget！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 287,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 288,
+        "original": "「ふむ、同志が奮闘するとなると、俺も黙ってられんな。内容そのものを面白くしつつ、１週間で集客が可能なイベントを作るとしよう」",
+        "translations": {
+            "initial": "「Hmm, kalau kawan akan berjuang keras, aku juga nggak bisa tinggal diam. Mari kita buat acara yang menarik sekaligus bisa menggaet banyak orang dalam satu minggu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 289,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 290,
+        "original": "「@t58@d1そうなると、やっぱり場所とか借りて、一気にやっちゃった方が早いかな？ほら、クイズ番組みたいに、○だと思う人は右側に移動してーって感じで」",
+        "translations": {
+            "initial": "「@t58@d1Kalau gitu, kayaknya bakal lebih cepat kalau kita sewa tempat terus langsung diberesin sekaligus？ Itu lho, kayak acara kuis di TV, yang merasa jawabannya benar pindah ke sisi kanan gitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 291,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 292,
+        "original": "「いや、参加人数は多い方がいいが、出来レースだと看破されるとマズい」",
+        "translations": {
+            "initial": "「Enggak, meski jumlah peserta yang banyak itu bagus, tapi bakal gawat kalau ketahuan kalau ini settingan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 293,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 294,
+        "original": "「結果発表のみ特設ステージに集合させ、それ以外では人数がバラける仕様にした方がいいだろう」",
+        "translations": {
+            "initial": "「Lebih baik kita buat sistem di mana orang-orang berpencar, dan baru berkumpul di panggung khusus saat pengumuman hasil saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 295,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 296,
+        "original": "「あっ、それならアレがいいです。去年商店街でやってたスタンプラリー！これと謎解きを組み合わせて、タイムと得点を競ったりするのはどうでしょうか？」",
+        "translations": {
+            "initial": "「Ah, kalau gitu pakai itu saja bagus! Stamp rally yang diadakan di pertokoan tahun lalu! Bagaimana kalau kita gabungkan itu dengan teka-teki, terus mereka balapan waktu dan skor？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 297,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 298,
+        "original": "「大いに盛り上がりそうだな、それにステージも拡大できるとなれば、採用しないわけにはいかないな」",
+        "translations": {
+            "initial": "「Kelihatannya bakal seru banget ya, apalagi kalau skalanya bisa diperluas, rasanya tidak mungkin kalau tidak kita pakai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 299,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 300,
+        "original": "「謎解きに関してはどうしますか？」",
+        "translations": {
+            "initial": "「Lalu untuk teka-tekinya bagaimana？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 301,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 302,
+        "original": "「んー、鷺澤への告白権利が商品になるなら、やっぱり問題も鷺澤にちなんだものがいいんじゃないかな？」",
+        "translations": {
+            "initial": "「Hmm, kalau hadiahnya hak untuk menyatakan cinta pada Sagisawa, kayaknya soal-soalnya lebih baik yang berhubungan dengan dia juga, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 303,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 304,
+        "original": "「好きな食べ物、最近ハマっているものとか。普通の問題の中にいくつか混ぜるとどうかな」",
+        "translations": {
+            "initial": "「Makanan kesukaan, atau hal yang lagi dia gemari belakangan ini. Gimana kalau kita campur beberapa soal seperti itu di antara soal-soal biasa?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 305,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 306,
+        "original": "「@b1@t69@w1鷺澤嬢への恋慕が計れるとなると、それっぽさを演出することが出来るな、採用」",
+        "translations": {
+            "initial": "「@b1@t69@w1Kalau ini bisa mengukur rasa cinta mereka pada Sagisawa-jou, kita bisa menciptakan suasana yang pas. Diterima」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 307,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 308,
+        "original": "「@t53@d1単純な謎解きだけじゃなく、もうちょっと面白さが欲しいね、例えば……」",
+        "translations": {
+            "initial": "「@t53@d1Bukan cuma teka-teki biasa, aku mau yang sedikit lebih menarik lagi, misalnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 309,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 310,
+        "original": "「……はぁ」",
+        "translations": {
+            "initial": "「...Haaah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 311,
+        "original": "こっちの意見とかお構いなしに、勝手に盛り上がりやがって。",
+        "translations": {
+            "initial": "Mereka asyik sendiri tanpa mempedulikan pendapatku sama sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 312,
+        "original": "まぁ提出期限が今日までだし、時間もないからな。",
+        "translations": {
+            "initial": "Yah, berhubung batas pengumpulannya hari ini dan waktu kita sudah mepet.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 313,
+        "original": "急いでるっていうのもあるんだけど。",
+        "translations": {
+            "initial": "Mungkin itu juga alasan kenapa mereka terburu-buru.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 314,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 315,
+        "original": "「というか、有里栖はこれでいいと思うか？」",
+        "translations": {
+            "initial": "「Ngomong-ngomong, Arisu, apa menurutmu ini sudah oke？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 316,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 317,
+        "original": "「@b1@t25@w1……ふふっ、うん、私もこの案に賛成かな。ちょっと目立っちゃうのは嫌だけど……でも丸く収まりそうだし」",
+        "translations": {
+            "initial": "「@b1@t25@w1......Fufu, iya, aku juga setuju sama usulan ini. Agak malas sih kalau harus jadi pusat perhatian... tapi sepertinya ini bakal berakhir baik」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 318,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 319,
+        "original": "「そ、そっか」",
+        "translations": {
+            "initial": "「O-oh, begitu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 320,
+        "original": "否が応でも有里栖が目立ってしまうことと、俺が恥を晒してしまうこと以外、デメリットはないしな。",
+        "translations": {
+            "initial": "Kecuali fakta bahwa Arisu mau tidak mau bakal jadi pusat perhatian dan aku harus menanggung malu, memang tidak ada ruginya sih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 321,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 322,
+        "original": "「それに……ちょっと面白そうじゃない？こういうのを一緒に考えたりするのもそうだし、本番はどうなるのかなって想像すると……」",
+        "translations": {
+            "initial": "「Lagipula... bukannya ini kelihatan seru？ Bisa memikirkan hal seperti ini bareng-bareng, dan membayangkan bakal seseru apa acaranya nanti...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 323,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 324,
+        "original": "「ちょっとだけ、ワクワクしちゃうかも」",
+        "translations": {
+            "initial": "「Aku jadi sedikit bersemangat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 325,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 326,
+        "original": "「……だな」",
+        "translations": {
+            "initial": "「......Benar juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 327,
+        "original": "そういえば、思い付きで提案したけど、意外な形になりそうだな。",
+        "translations": {
+            "initial": "Kalau dipikir-pikir, meski tadi cuma usul asal-asalan, sepertinya ini bakal jadi sesuatu yang tak terduga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 328,
+        "original": "それは、ＳＳＲの本分。",
+        "translations": {
+            "initial": "Itulah tugas utama SSR.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 329,
+        "original": "みんなを笑顔にすること。",
+        "translations": {
+            "initial": "Membuat semua orang tersenyum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 330,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 331,
+        "original": "「俺もこんなに楽しいものになるとは思わなかった」",
+        "translations": {
+            "initial": "「Aku juga nggak nyangka bakal jadi seseru ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 332,
+        "original": "有里栖の気持ちをみんなに伝えること、それが本来の目的ではあったけど。",
+        "translations": {
+            "initial": "Tujuan utamanya memang menyampaikan perasaan Arisu kepada semua orang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 333,
+        "original": "いつの間にか、どうしたら楽しくなるか、どんなことをしたら喜んで貰えるか、それを考える流れになってる。",
+        "translations": {
+            "initial": "Tapi tanpa sadar, alurnya berubah jadi memikirkan gimana caranya biar seru, dan apa yang harus dilakukan supaya orang-orang senang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 334,
+        "original": "そういえば……クリスマスの時も、こんな感じになったっけ。",
+        "translations": {
+            "initial": "Kalau diingat-ingat... pas Natal dulu juga suasananya mirip seperti ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 335,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 336,
+        "original": "「……しゃーない、覚悟を決めようぜ、有里栖」",
+        "translations": {
+            "initial": "「......Ya sudahlah, ayo kita bulatkan tekad, Arisu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 337,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 338,
+        "original": "「@t11@d1ふふ、だね」",
+        "translations": {
+            "initial": "「@t11@d1Fufu, iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 339,
+        "original": "今更ノーとは言えないしな。",
+        "translations": {
+            "initial": "Lagian sekarang sudah nggak bisa bilang tidak lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 340,
+        "original": "何より……頭のどこかでは、本気でやったら楽しいぞと好奇心が騒いでるし。",
+        "translations": {
+            "initial": "Lagipula... jauh di dalam kepalaku, rasa penasaranku bergejolak bilang kalau ini bakal seru kalau dilakukan dengan serius.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 341,
+        "original": "ここは大人しく、全男子に向けての不名誉を預かろう。",
+        "translations": {
+            "initial": "Di sini aku akan mengalah saja, dan membiarkan diriku dicap buruk oleh seluruh laki-laki.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 342,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 343,
+        "original": "「台本通り、本番は思い切り振っちゃうけど、よろしくね」",
+        "translations": {
+            "initial": "「Sesuai naskah, aku bakal menolakmu mentah-mentah saat hari-H nanti, jadi mohon bantuannya ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 344,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 345,
+        "original": "「あいよ、任せとけ」",
+        "translations": {
+            "initial": "「Sip, serahkan saja padaku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 346,
+        "original": "とりあえず、この後やることは……。",
+        "translations": {
+            "initial": "Pokoknya, hal yang harus dilakukan setelah ini adalah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 347,
+        "original": "中央幹事会――いわゆる生徒会の面々が帰るまでに、企画書を作り上げることだな。",
+        "translations": {
+            "initial": "Menyelesaikan draf proposalnya sebelum anggota Dewan Pengurus Pusat-atau yang biasa disebut OSIS-pulang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 348,
+        "original": "正式名称は中央幹事会だけど、割とみんな生徒会と呼んでいる。",
+        "translations": {
+            "initial": "Nama resminya adalah Dewan Pengurus Pusat, namun hampir semua orang menyebutnya sebagai OSIS.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 349,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 350,
+        "original": "「間に合って良かったねー」",
+        "translations": {
+            "initial": "「Syukurlah bisa tepat waktu ya~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 351,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 352,
+        "original": "「ギリギリだったけどな」",
+        "translations": {
+            "initial": "「Tadi itu nyaris banget ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 353,
+        "original": "仮提出はひとまず受理されたので一安心だ。",
+        "translations": {
+            "initial": "Draft proposal sementara sudah diterima, jadi aku bisa bernapas lega.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 354,
+        "original": "一週間後の木曜日に、ＳＳＲ主催で行う、有里栖への告白権利を掛けたイベント。",
+        "translations": {
+            "initial": "Satu minggu lagi pada hari Kamis, acara perebutan hak untuk menyatakan cinta pada Arisu yang diselenggarakan oleh SSR...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 355,
+        "original": "『恋のレジェンドバトルパーティー』が開催される運びになった。",
+        "translations": {
+            "initial": "...yaitu 『Festival Pertandingan Cinta Legendaris』 akan segera dilaksanakan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 356,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 357,
+        "original": "「明日から頑張らないとね」",
+        "translations": {
+            "initial": "「Mulai besok kita harus semangat, ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 358,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 359,
+        "original": "「まずは問題の作成、当日のタイムスケジュール、あとチェックポイントの箇所の設定と許可……」",
+        "translations": {
+            "initial": "「Pertama pembuatan soal, jadwal acara, lalu penentuan lokasi pos pemeriksaan dan perizinannya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 360,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 361,
+        "original": "「笑っちゃうくらいやることが山積みだね」",
+        "translations": {
+            "initial": "「Tugasnya menumpuk sampai bikin pengen ketawa ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 362,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 363,
+        "original": "「バレンタインの件もあるし、無理はしないようにしないとな」",
+        "translations": {
+            "initial": "「Ada urusan Valentine juga, jadi kita jangan sampai terlalu memaksakan diri」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 364,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 365,
+        "original": "「そこは平気かな。恋愛相談は順調に進んでいるから」",
+        "translations": {
+            "initial": "「Kalau itu sih aman. Soalnya konsultasi asmaranya berjalan lancar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 366,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 367,
+        "original": "「それに、ふふっ、楽しいことを頑張るんだもん。疲れなんてすぐ忘れちゃうよ」",
+        "translations": {
+            "initial": "「Lagipula, hehe, karena kita berusaha demi hal yang menyenangkan, rasa lelah pasti bakal langsung hilang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 368,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 369,
+        "original": "「確かに、それはあるかもな」",
+        "translations": {
+            "initial": "「Benar juga, mungkin kamu ada benarnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 370,
+        "original": "どんなに走り回っても、確かな喜びがあれば、疲労なんてすぐ忘れるようになってるんだ。",
+        "translations": {
+            "initial": "Seberapa banyak pun kita berlarian kesana-kemari, jika ada kegembiraan yang nyata, rasa lelah akan terlupakan begitu saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 371,
+        "original": "人間の身体って、本当に上手いこと出来てる。",
+        "translations": {
+            "initial": "Tubuh manusia itu benar-benar dirancang dengan sangat luar biasa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 372,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 373,
+        "original": "「あ、イベントの規模が大きくなりそうだから、先生の誰かに顧問して貰うよう言われたんだけど。……常坂君、これはどうする？」",
+        "translations": {
+            "initial": "「Ah, karena skala acaranya sepertinya bakal besar, aku diminta untuk mencari guru sebagai pembimbing. ...Tokisaka-kun, bagaimana menurutmu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 374,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 375,
+        "original": "「ああ、泉先生に頼んでもいいかなーって」",
+        "translations": {
+            "initial": "「Ah, aku kepikiran buat minta tolong ke Izumi-sensei」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 376,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 377,
+        "original": "「@t15@d1なるほど。うん、泉先生、なんだかんだ言いながらも引き受けてくれそうだね」",
+        "translations": {
+            "initial": "「@t15@d1Begitu ya. Hmm, Izumi-sensei sepertinya bakal mau menerima meskipun mungkin bakal sedikit mengeluh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 378,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 379,
+        "original": "「問題起こさないなら勝手にやっていーよ、みたいな感じでな」",
+        "translations": {
+            "initial": "「Paling bilangnya, asal nggak bikin masalah, terserah kalian mau ngapain aja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 380,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 381,
+        "original": "「あはは、それ凄く言いそう」",
+        "translations": {
+            "initial": "「Ahaha, itu mirip banget sama yang bakal beliau omongin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 382,
+        "original": "泉先生が無理だったら……まぁ、それでもなんとかなるだろう。",
+        "translations": {
+            "initial": "Kalau Izumi-sensei tidak bisa pun... yah, kurasa bakal tetap ada jalan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 383,
+        "original": "生徒がお祭り好きなら、先生もお祭り好きだ。",
+        "translations": {
+            "initial": "Jika murid-muridnya suka festival, maka guru-gurunya pun sama saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 384,
+        "original": "そうじゃなかったら恋パなんて行事はないだろうし。",
+        "translations": {
+            "initial": "Kalau enggak begitu, mana mungkin ada acara kayak Festival Cinta.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 385,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 386,
+        "original": "「さて、後はどうなるかだな……」",
+        "translations": {
+            "initial": "「Yah, tinggal lihat saja nanti bagaimana jadinya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 387,
+        "original": "ＳＳＲが主催するイベントとしては、クリスマス以来の規模になる。",
+        "translations": {
+            "initial": "Sebagai acara yang diselenggarakan oleh SSR, skalanya akan menjadi yang terbesar sejak Natal.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 388,
+        "original": "有里栖が好きな男子がどれだけいるのか、ちょっと想像しにくいけど……。",
+        "translations": {
+            "initial": "Agak sulit membayangkan seberapa banyak cowok yang menyukai Arisu, tapi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 389,
+        "original": "クイズで悩ませて、スタンプラリーで走り回せてと、楽しませてあげないとな。",
+        "translations": {
+            "initial": "Aku harus bikin mereka senang dengan cara kasih kuis yang bikin pusing dan bikin mereka lari-lari buat stamp rally.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 390,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

@@ -1,0 +1,981 @@
+[
+    {
+        "id": 0,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "@t70@d1「これが今年の本校の行事一覧表で、こっちが付属の一覧表。テストの時期もばっちり一緒だねー」",
+        "translations": {
+            "initial": "@t70@d1「Ini daftar acara sekolah utama tahun ini, dan yang ini daftar acara sekolah cabang. Waktu ujiannya juga benar-benar barengan lho~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "「ふむふむ……行事のほとんどは被ってるんだなあ」",
+        "translations": {
+            "initial": "「Hmm, hmm... Ternyata hampir semua acaranya bentrok ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "まぁ、その方が運営としても楽だもんな。",
+        "translations": {
+            "initial": "Yah, kalau begini pihak pengelola juga jadi lebih mudah sih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "@t49@d1「イベントを起こすのであれば、やはり鉄板は文化祭になるが……残念ながら遠い話になるな」",
+        "translations": {
+            "initial": "@t49@d1「Kalau mau bikin acara, pilihan paling pas memang festival budaya... tapi sayangnya itu masih lama」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "「だなぁ、他に何かイベントを興せそうな時期っていうと……球技大会とか？」",
+        "translations": {
+            "initial": "「Bener juga, kalau waktu lain yang bisa dijadiin acara... mungkin kompetisi olahraga？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "@t39@d1「でも部活関連では何もしないもんねー。クラス対抗でバレーとかサッカーやるだけだもん」",
+        "translations": {
+            "initial": "@t39@d1「Tapi kita nggak bakal ngapa-ngapa-in soal kegiatan klub, kan? Cuma pertandingan voli atau sepak bola antar kelas aja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "@t85@d1「暦に合わせた方がやりやすいかもしれん。七夕然り、ハロウィン然り。それと……ふっ、こちらには鷺澤嬢がいるのだ。そこを利用しない手はない」",
+        "translations": {
+            "initial": "@t85@d1「Mungkin bakal lebih gampang kalau disesuaikan dengan kalender. Kayak Tanabata atau Halloween. Lagipula... heh, di sini ada Arisu-jou. Nggak ada alasan untuk nggak memanfaatkannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "@t37@d1「え？……ってことはまたレジェパ！？だからそれは困るってもうー」",
+        "translations": {
+            "initial": "@t37@d1「Eh？ ...Berarti Legend Party lagi！？ Kan sudah kubilang aku bakal repot kalau gitu-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "「誤解するな、そういう意味ではない。俺が言っているのはワンダーランドだ」",
+        "translations": {
+            "initial": "「Jangan salah paham, bukan itu maksudku. Yang aku bicarakan adalah Wonderland」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "「……あぁ、そっか。ワンダーランドのイベントか」",
+        "translations": {
+            "initial": "「...Oh, begitu. Acara di Wonderland ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "「そこでは季節関係なく、短いスパンでイベントがあるだろう。それに合わせ、ＳＳＲも動くということだ。クリスマスの時と一緒だな」",
+        "translations": {
+            "initial": "「Di sana selalu ada acara dalam jangka pendek tanpa peduli musim. Jadi, SSR juga bakal bergerak menyesuaikan itu. Sama seperti waktu Natal kemarin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "あの時もプレオープン期間に合わせて、溜まっていたデートの依頼を一斉消化したんだっけ。",
+        "translations": {
+            "initial": "Waktu itu juga kita menyelesaikan semua permintaan kencan yang menumpuk barengan sama periode pre-open, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "「そういうわけで鷺澤嬢、今年中のワンダーランドのイベント一覧を教えてくれると助かるな」",
+        "translations": {
+            "initial": "「Karena itulah Arisu-jou, bakal sangat membantu kalau kamu bisa kasih tahu daftar acara Wonderland sepanjang tahun ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "「分かった、聞いてみる。まだ計画段階のものは明かせないけど……とっくにお知らせされてるものとかは、一覧にまとめておくね」",
+        "translations": {
+            "initial": "「Oke, aku coba tanyakan. Meski yang masih tahap rencana nggak bisa dibocorin... yang sudah diumumin bakal kususun jadi daftar ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "「よろしく頼んだ」",
+        "translations": {
+            "initial": "「Mohon bantuannya ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "クリスマスの時も、レジェパに負けず劣らずで楽しかったもんな。",
+        "translations": {
+            "initial": "Waktu Natal kemarin juga nggak kalah serunya sama Legend Party.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "ワンダーランドさまさまだ。",
+        "translations": {
+            "initial": "Benar-benar berkat Wonderland.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "「それじゃあ、ワンダーランドで行えそうなイベントについてだけど……」",
+        "translations": {
+            "initial": "「Kalau begitu, soal acara yang bisa kita adakan di Wonderland...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "「あ、あのー……すみません、ちょっといいですか？」",
+        "translations": {
+            "initial": "「A-Anu... Permisi, boleh minta waktunya sebentar？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "「二乃ちゃん、何かきになることある？」",
+        "translations": {
+            "initial": "「Nino-chan, ada sesuatu yang mengganjal？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "「ちょっと買い物する予定があるので、私はこの辺で失礼しても大丈夫そうですか？」",
+        "translations": {
+            "initial": "「Aku ada rencana belanja, jadi apa boleh aku pamit duluan sekarang？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "「あぁ、平気だけど……買い物って？補充しなきゃいけないものとかあったっけ？」",
+        "translations": {
+            "initial": "「Oh, nggak masalah sih... Tapi belanja apa？ Ada barang yang perlu diisi ulang？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "「それならわたしも一緒に帰った方がいいかな。ひとりじゃ大変でしょ？」",
+        "translations": {
+            "initial": "「Kalau begitu lebih baik aku ikut pulang bareng juga. Sendirian bakal repot, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "「あ、いえいえ私ひとりで十分です。大した買い物じゃないので、はい！」",
+        "translations": {
+            "initial": "「Ah, nggak usah, aku sendiri saja sudah cukup kok. Cuma belanjaan kecil, kok！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "「そ、そう？」",
+        "translations": {
+            "initial": "「Be-begitu ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "……なんか怪しいな。",
+        "translations": {
+            "initial": "...Agak mencurigakan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "「二乃、大した買い物って、一体何を買うんだ？」",
+        "translations": {
+            "initial": "「Nino, belanjaan kecil itu maksudnya mau beli apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "@t25@d1「え？あーえーっと……ほ、本です、漫画です！あのーほら、逃げ恋の新刊！あれを買うんです」",
+        "translations": {
+            "initial": "@t25@d1「Eh？ Ah-emm... Bu-buku, komik！ Itu lho, volume terbaru Nigekoi！ Aku mau beli itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "「逃げ恋？」",
+        "translations": {
+            "initial": "「Nigekoi？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "あーそういえばドラマを熱心に見てたっけ。",
+        "translations": {
+            "initial": "Ah, kalau tidak salah dia memang semangat sekali menonton dramanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "いやそれにしても取って付けたようなこのリアクションは……。",
+        "translations": {
+            "initial": "Tapi tetap saja, reaksinya barusan terlihat sangat dibuat-buat...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "「なぁ二乃、ほんとうに――」",
+        "translations": {
+            "initial": "「Hei Nino, apa benar-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "「それでは私はこの辺で！また明日さようならー！」",
+        "translations": {
+            "initial": "「Kalau begitu aku duluan ya！ Sampai jumpa besok, dadah！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "あ……。",
+        "translations": {
+            "initial": "Ah....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "「あら、行っちゃった」",
+        "translations": {
+            "initial": "「Aduh, dia sudah pergi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "「しかもダッシュでな。転ばなきゃいいけど……」",
+        "translations": {
+            "initial": "「Malah lari kencang lagi. Semoga dia nggak jatuh....」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "@t34@d1「でも漫画を買いに行くって本当かな？しかも逃げ恋の新刊？」",
+        "translations": {
+            "initial": "@t34@d1「Tapi apa benar dia mau beli komik？ Apalagi volume terbaru Nigekoi？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "「人気だから売れ切れが心配とか？」",
+        "translations": {
+            "initial": "「Mungkin takut kehabisan karena populer？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "「いや、逃げ恋の新刊は先々月の１５日だ」",
+        "translations": {
+            "initial": "「Nggak, volume terbaru Nigekoi sudah terbit tanggal 15 dua bulan lalu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "「……意外に詳しいな、しかも日付まで」",
+        "translations": {
+            "initial": "「...Ternyata kamu tahu banyak ya, sampai ke tanggalnya segala」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "「ふん、世相の流行を押さえておくのは、俺様の務めのひとつだからな」",
+        "translations": {
+            "initial": "「Hmph, mengikuti tren dunia adalah salah satu tugasku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "「いや、それはよく分からん」",
+        "translations": {
+            "initial": "「Yah, aku nggak begitu paham soal itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "「でもそうなると、十中八九口実だろうね。真意はまったく別のところにあるとみた」",
+        "translations": {
+            "initial": "「Kalau begitu, kemungkinan besar itu cuma alasan saja. Sepertinya niat aslinya ada di hal lain」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "「だよな……一体なんで帰ったんだあいつ」",
+        "translations": {
+            "initial": "「Benar juga.... Kenapa sih dia tiba-tiba pulang?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "急いで帰らなきゃならない理由って言ったら……。",
+        "translations": {
+            "initial": "Kalau bicara soal alasan harus buru-buru pulang....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "見逃したくない番組？あるいはタイムセール？",
+        "translations": {
+            "initial": "Acara TV yang nggak mau dilewatkan？ Atau mungkin diskon terbatas？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "「帰宅が楽しみになってきたか？同志よ」",
+        "translations": {
+            "initial": "「Kamu mulai menantikan waktu pulangmu？ Wahai kawan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "「……半々ってところだな」",
+        "translations": {
+            "initial": "「...Yah, antara iya dan nggak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "想像つかないから、期待と不安がせめぎ合ってる。",
+        "translations": {
+            "initial": "Karena tidak bisa membayangkannya, rasa harap dan cemas jadi campur aduk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "……どうか期待の方に転ぶことを祈っておこう。",
+        "translations": {
+            "initial": "...Aku hanya bisa berdoa semoga ini berakhir sesuai harapanku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

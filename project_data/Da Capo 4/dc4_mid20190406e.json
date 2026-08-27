@@ -1,0 +1,1322 @@
+[
+    {
+        "id": 0,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 1,
+        "original": "「さて、こんなもんか」",
+        "translations": {
+            "initial": "「Nah, kurasa begini saja cukup」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「さて、こんなものか」"
+    },
+    {
+        "id": 2,
+        "original": "色々なことがあった春休みも、いよいよ明日で終わり。",
+        "translations": {
+            "initial": "Libur musim semi yang penuh dengan berbagai kejadian ini akhirnya akan berakhir besok.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いろいろだことがあるたはるやすみも、いよいよあすでおわり。"
+    },
+    {
+        "id": 3,
+        "original": "明後日からは新学期が始まり、俺たちは本校生として学園に通うことになる。",
+        "translations": {
+            "initial": "Lusa semester baru akan dimulai, dan kami akan mulai pergi ke sekolah sebagai siswa kampus utama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みょうごにちからはしんがっきがはじまる、おれたちはほんこうせいとするてがくえんにかようことになる。"
+    },
+    {
+        "id": 4,
+        "original": "今は、そのために簡単な準備をしていたところ。",
+        "translations": {
+            "initial": "Sekarang, aku sedang melakukan persiapan sederhana untuk hal itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いまは、そのためにかんたんだじゅんびをするているたところ。"
+    },
+    {
+        "id": 5,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 6,
+        "original": "「ま、とは言ってもそこまで大きな変化があるわけじゃないけど」",
+        "translations": {
+            "initial": "「Yah, meski kubilang begitu, bukan berarti akan ada perubahan yang besar sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあ、とはいうてもそこまでおおきなへんかがあるわけだないけれど」"
+    },
+    {
+        "id": 7,
+        "original": "通う場所が大幅に変わるとか、引っ越しが必要になるなんてことは無い。",
+        "translations": {
+            "initial": "Tempat yang harus didatangi nggak bakal berubah drastis, dan nggak perlu sampai pindah rumah segala kok.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かようばしょがおおはばだかわるとか、ひっこしがひつようだなるなんてことはない。"
+    },
+    {
+        "id": 8,
+        "original": "というわけで、準備も早々に終わってしまった。",
+        "translations": {
+            "initial": "Karena itulah, persiapanku selesai dengan cepat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "というわけだ、じゅんびもそうそうにおわるてしまうた。"
+    },
+    {
+        "id": 9,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 10,
+        "original": "「そこは気楽でいいんだけど……有里栖は大丈夫かな」",
+        "translations": {
+            "initial": "「Memang enak karena santai, tapi... apa Arisu bakal baik-baik saja ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そこはきらくだよいのだけれど……ゆりすみかはだいじょうぶかな」"
+    },
+    {
+        "id": 11,
+        "original": "あれから有里栖とは会えていない。",
+        "translations": {
+            "initial": "Sejak saat itu aku belum bertemu lagi dengan Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あれからゆりすみかとはあうているない。"
+    },
+    {
+        "id": 12,
+        "original": "新学期がはじまる前に少しでも不安は薄めてあげたいところだけど……。",
+        "translations": {
+            "initial": "Aku ingin sedikit meredakan kecemasannya sebelum semester baru dimulai, tapi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しんがっきがはじまるまえにすこしでもふあんはうすめるてあげるたいところだけれど……。"
+    },
+    {
+        "id": 13,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 14,
+        "original": "「なにかメッセージでも送ってみるか」",
+        "translations": {
+            "initial": "「Coba kirim pesan saja kali ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なにかめっせーじでもおくるてみるか」"
+    },
+    {
+        "id": 15,
+        "original": "ＴＡＢを取り出し、ＣＯＭＵを起動した。",
+        "translations": {
+            "initial": "Aku mengeluarkan TAB dan membuka aplikasi COMU.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たぶをとりだす、ＣＯＭＵをきどうするた。"
+    },
+    {
+        "id": 16,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 17,
+        "original": "「新学期の用意は終わったか……っと。送信」",
+        "translations": {
+            "initial": "「Apa persiapan buat semester barunya sudah selesai? ...Oke, kirim」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しんがっきのよういはおわるたか……っと。そうしん」"
+    },
+    {
+        "id": 18,
+        "original": "それから少し後、有里栖からレスが来た。",
+        "translations": {
+            "initial": "Beberapa saat kemudian, balasan dari Arisu datang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それからすこしあと、ゆりすみかかられすがくるた。"
+    },
+    {
+        "id": 19,
+        "original": "「有里栖」うん……って言っても、",
+        "translations": {
+            "initial": "「有里栖」 Emm, tapi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」うん……っていうても、"
+    },
+    {
+        "id": 20,
+        "original": "「有里栖」新しい制服を用意したくらいだけどね（笑）",
+        "translations": {
+            "initial": "「有里栖」 Cuma siapkan seragam baru   saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」あたらしいせいふくをよういするたくらいだけれどね（わらい）"
+    },
+    {
+        "id": 21,
+        "original": "「一登」だよな。俺も同じ感じ",
+        "translations": {
+            "initial": "「一登」 Aku pun sama saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」だよな。おれもおなじかんじ"
+    },
+    {
+        "id": 22,
+        "original": "「一登」いろんなところに行ってたからか、",
+        "translations": {
+            "initial": "「一登」 Karena kita pergi ke banyak tempat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」いろんなところにいくてるたからか、"
+    },
+    {
+        "id": 23,
+        "original": "「一登」春休みが一瞬で過ぎたような気がするよ",
+        "translations": {
+            "initial": "「一登」 Libur musim semi berlalu    sangat cepat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」はるやすみがいっしゅんですぎるたようだきがするよ"
+    },
+    {
+        "id": 24,
+        "original": "「有里栖」だねー。短い間にあれだけ出かけたの、初めてかもだよ",
+        "translations": {
+            "initial": "「有里栖」 Iya, aku sering pergi dalam waktu singkat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」だね。みじかいあいだにあれだけでかけるたの、はじめてかもだよ"
+    },
+    {
+        "id": 25,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 26,
+        "original": "「うん、それは俺も同じだな」",
+        "translations": {
+            "initial": "「Ya, aku juga merasakan hal yang sama」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うん、それはおれもおなじだな」"
+    },
+    {
+        "id": 27,
+        "original": "家族以外の女の子とこんなに出かけたのは初めてかもしれない。",
+        "translations": {
+            "initial": "Mungkin ini pertama kalinya aku sering pergi jalan dengan cewek selain keluargaku sendiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かぞくいがいのおんなのことこんなだでかけるたのははじめてかもしれるない。"
+    },
+    {
+        "id": 28,
+        "original": "厳密に言うと二乃やそら姉とどこかに行くことはちょくちょくあるけど、それとは少し違うからな。",
+        "translations": {
+            "initial": "Tepatnya, aku memang lumayan sering pergi dengan Nino atau Sora-nee, tapi rasanya sedikit berbeda dari itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "げんみつだいうとにのやそれねえとどこかにいくことはちょくちょくあるけれど、それとはすこしちがうからな。"
+    },
+    {
+        "id": 29,
+        "original": "「有里栖」でも、ここ数日はあんまりお出かけできてないんだ",
+        "translations": {
+            "initial": "「有里栖」 Tapi akhir-akhir ini aku    jarang keluar rumah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」でも、ここすうじつはあまりおでかけるできるてるないのだ"
+    },
+    {
+        "id": 30,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 31,
+        "original": "「ん……？」",
+        "translations": {
+            "initial": "「Hm...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「んっ……？」"
+    },
+    {
+        "id": 32,
+        "original": "どうしたんだろう、体調でも悪いのかな？",
+        "translations": {
+            "initial": "Ada apa ya, apa dia lagi nggak enak badan？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうするたのだ、たいちょうでもわるいのかな？"
+    },
+    {
+        "id": 33,
+        "original": "短い間にたくさん出かけた分、疲れが出てしまったのかもしれない。",
+        "translations": {
+            "initial": "Mungkin dia kecapekan gara-gara belakangan ini kita sering banget pergi keluar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みじかいあいだにたくさんでかけるたぶん、つかれがでるてしまうたのかもしれるない。"
+    },
+    {
+        "id": 34,
+        "original": "これは心配だ。",
+        "translations": {
+            "initial": "Ini bikin aku khawatir.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これはしんぱいだ。"
+    },
+    {
+        "id": 35,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 36,
+        "original": "「……大げさかもしれないけど、電話してみるか」",
+        "translations": {
+            "initial": "「...Mungkin agak berlebihan, tapi coba kutelepon saja deh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……おおげさかもしれるないけれど、でんわするてみるか」"
+    },
+    {
+        "id": 37,
+        "original": "連絡先リストから有里栖を選択し、通話のアイコンをタップする。",
+        "translations": {
+            "initial": "Aku memilih Arisu dari daftar kontak dan mengetuk ikon panggilan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "れんらくさきりすとからゆりすみかをせんたくする、つうわのあいこんをたっぷする。"
+    },
+    {
+        "id": 38,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 39,
+        "original": "「はいはい。常坂君、どうしたの？」",
+        "translations": {
+            "initial": "「Halo halo. Tokisaka-kun, ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はいはい。つねさかくん、どうするたの？」"
+    },
+    {
+        "id": 40,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 41,
+        "original": "「いや、少し気になってさ」",
+        "translations": {
+            "initial": "「Enggak, cuma agak kepikiran saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いや、すこしきになるてさ」"
+    },
+    {
+        "id": 42,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 43,
+        "original": "「ここ数日は出かけられてないって言ってたけど、具合でも悪いのか？」",
+        "translations": {
+            "initial": "「Katanya beberapa hari ini kamu nggak bisa keluar rumah, apa kamu lagi sakit？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ここすうじつはでかけるられるてるないっていうてるたけれど、ぐあいでもわるいのか？」"
+    },
+    {
+        "id": 44,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 45,
+        "original": "「あはは、心配してくれたの？でも大丈夫だよ。体調悪いわけじゃないから。ただ……なんだか自分が怖いっていうか、不安なの」",
+        "translations": {
+            "initial": "「Ahaha, kamu khawatir ya？ Tapi aku nggak apa-apa kok. Bukannya sakit, cuma... entah kenapa aku merasa takut pada diriku sendiri, maksudku, aku merasa cemas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あはは、しんぱいするてくれるたの？でもだいじょうぶだよ。たいちょうわるいわけだないから。ただ……なにだかじぶんがこわいっていうか、ふあんだの」"
+    },
+    {
+        "id": 46,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 47,
+        "original": "「不安？」",
+        "translations": {
+            "initial": "「Cemas？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふあん？」"
+    },
+    {
+        "id": 48,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 49,
+        "original": "「そう。またいつ記憶が曖昧になるかわからないから。どこかに出かけて、自分が知らないうちに何かしてたら怖いなって思っちゃって……」",
+        "translations": {
+            "initial": "「Iya. Soalnya aku nggak tahu kapan ingatanku bakal samar lagi. Aku jadi takut kalau pergi ke suatu tempat, lalu melakukan sesuatu tanpa kusadari...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう。またいつきおくがあいまいだなるかわかるないから。どこかにでかけるて、じぶんがしるないうちになにかするてるたこわいなっておもうちゃうて……」"
+    },
+    {
+        "id": 50,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 51,
+        "original": "「今までは常坂君がいてくれたけど、一人でって考えると腰が引けちゃうんだよね」",
+        "translations": {
+            "initial": "「Selama ini kan ada Tokisaka-kun, tapi kalau dipikir harus sendirian, aku jadi ragu buat melangkah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いままではつねさかくんがいるてくれるたけれど、ひとりでってかんがえるとこしがひくちゃうのだよね」"
+    },
+    {
+        "id": 52,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 53,
+        "original": "「ああー……」",
+        "translations": {
+            "initial": "「Ah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ああー……」"
+    },
+    {
+        "id": 54,
+        "original": "有里栖の気持ちはわかる。",
+        "translations": {
+            "initial": "Aku mengerti perasaan Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかのきもちはわかる。"
+    },
+    {
+        "id": 55,
+        "original": "記憶が曖昧な期間、自分が自分じゃないような感覚なら無理もないだろう。",
+        "translations": {
+            "initial": "Wajar saja jika dia merasa seperti bukan dirinya sendiri saat ingatannya sedang samar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "きおくがあいまいだきかん、じぶんがじぶんだないようだかんかくだむりもないだ。"
+    },
+    {
+        "id": 56,
+        "original": "外出して、自分が知らないうちに活動していたらと思うと、どうしても躊躇ってしまうだろうしな。",
+        "translations": {
+            "initial": "Pasti dia merasa ragu jika membayangkan dirinya beraktivitas di luar sana tanpa dia sadari.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "がいしゅつするて、じぶんがしるないうちにかつどうするているたとおもうと、どうするてもためらうてしまうだしな。"
+    },
+    {
+        "id": 57,
+        "original": "でも、それじゃあんまりだよな。",
+        "translations": {
+            "initial": "Tapi, kalau terus begini kan kasihan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だも、それであまりだよな。"
+    },
+    {
+        "id": 58,
+        "original": "これから新学期が始まるし、俺たちは本校生になる。",
+        "translations": {
+            "initial": "Semester baru akan segera dimulai, dan kami akan menjadi murid sekolah utama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これからしんがっきがはじまるし、おれたちはほんこうせいになる。"
+    },
+    {
+        "id": 59,
+        "original": "本来なら希望というか、色々楽しみなことが増えてもいいはずなのに。",
+        "translations": {
+            "initial": "Seharusnya ini menjadi waktu di mana harapan dan hal-hal menyenangkan mulai bertambah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほんらいだきぼうというか、いろいろたのしみだことがふえるてもよいはずだのに。"
+    },
+    {
+        "id": 60,
+        "original": "よし、それじゃあ――。",
+        "translations": {
+            "initial": "Oke, kalau begitu-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "よし、それで――。"
+    },
+    {
+        "id": 61,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 62,
+        "original": "「じゃあ良かったら明日、俺とどこかに出かけないか？俺も一緒なら少しは安心だろうし、なにか変化がないか隣で見ておくからさ」",
+        "translations": {
+            "initial": "「Kalau gitu, besok mau nggak pergi keluar denganku？ Kalau bersamaku mungkin kamu bakal sedikit lebih tenang, dan aku bisa menjagamu kalau-kalau ada perubahan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「でよいたあす、おれとどこかにでかけるないか？おれもいっしょだすこしはあんしんだし、なにかへんかがないかとなりでみるておくからさ」"
+    },
+    {
+        "id": 63,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 64,
+        "original": "「それは嬉しいけど……迷惑じゃないかな？面倒をかけちゃうかもだし……」",
+        "translations": {
+            "initial": "「Aku senang mendengarnya... tapi apa nggak merepotkan？ Aku takut bakal menyusahkanmu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それはうれしいけれど……めいわくだないかな？めんどうをかけるちゃうかもだし……」"
+    },
+    {
+        "id": 65,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 66,
+        "original": "「全然迷惑じゃないよ。有里栖と一緒に出かけられるなら楽しいから」",
+        "translations": {
+            "initial": "「Sama sekali nggak merepotkan kok. Bisa pergi bareng Arisu itu rasanya menyenangkan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ぜんぜんめいわくだないよ。ゆりすみかといっしょにでかけるられるだたのしいから」"
+    },
+    {
+        "id": 67,
+        "original": "そう言った、少し間が空いた。",
+        "translations": {
+            "initial": "Setelah aku mengatakannya, suasana sempat hening sejenak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そういうた、すこしあいだがあくた。"
+    },
+    {
+        "id": 68,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 69,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 70,
+        "original": "……無神経だったかな？",
+        "translations": {
+            "initial": "...Apa aku kurang peka, ya？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……むしんけいだたかな？"
+    },
+    {
+        "id": 71,
+        "original": "外に出るのが怖いって言ってる人に、遊びに出かける誘いを入れるのはまずかったかもしれない。",
+        "translations": {
+            "initial": "Mungkin nggak seharusnya aku mengajak orang yang bilang kalau dia takut keluar rumah untuk pergi bermain.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そとにでるのがこわいっていうてるひとに、あそびにでかけるさそいをいれるのはまずいたかもしれるない。"
+    },
+    {
+        "id": 72,
+        "original": "いや……『有里栖と一緒に出かけられるなら楽しい』の一言に引かれたのかも？",
+        "translations": {
+            "initial": "Atau... apa dia merasa aneh karena kalimat 'Bisa pergi bareng Arisu itu menyenangkan' tadi？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いや……『ゆりすみかといっしょにでかけるられるだたのしい』のひとことにひくれるたのかも？"
+    },
+    {
+        "id": 73,
+        "original": "少し攻めすぎたか……でも本心だしな。",
+        "translations": {
+            "initial": "Mungkin aku terlalu agresif... tapi itu kan memang perasaanku yang sejujurnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すこしせめるすぎるたか……でもほんしんだしな。"
+    },
+    {
+        "id": 74,
+        "original": "なんて考えていたら、ＴＡＢから有里栖の声が聞こえてきた。",
+        "translations": {
+            "initial": "Selagi aku berpikir begitu, suara Arisu terdengar dari TAB.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なんてかんがえるているた、たぶからゆりすみかのこえがきこえるてくるた。"
+    },
+    {
+        "id": 75,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 76,
+        "original": "「ふふ……ありがと。それじゃ、お言葉に甘えさせてもらっちゃおうかな？」",
+        "translations": {
+            "initial": "「Fufu... terima kasih. Kalau begitu, aku terima tawaran baikmu, ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふふ……ありがとう。それで、おことばにあまえるさせるてもらうちゃうかな？」"
+    },
+    {
+        "id": 77,
+        "original": "……よかった。",
+        "translations": {
+            "initial": "...Syukurlah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……よいた。"
+    },
+    {
+        "id": 78,
+        "original": "どうやら有里栖は、俺の誘いについて考えてくれていたらしい。",
+        "translations": {
+            "initial": "Sepertinya Arisu tadi sedang mempertimbangkan ajakanku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうやらゆりすみかは、おれのさそいにつくてかんがえるてくれるているたらしい。"
+    },
+    {
+        "id": 79,
+        "original": "それでも不安なことに変わりはないだろうし、なんとか元気付けてあげたいな。",
+        "translations": {
+            "initial": "Meski begitu, rasa cemasnya pasti belum hilang, aku ingin sekali bisa menyemangatinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それでもふあんだことにかわりはないだし、なにとかげんきつけるてあげるたいな。"
+    },
+    {
+        "id": 80,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 81,
+        "original": "「全然甘えてくれていいぞ。さっきも言った通り、俺は有里栖と出かけるのが好きだから」",
+        "translations": {
+            "initial": "「Andalkan saja aku. Seperti yang kubilang tadi, aku suka kok pergi bareng Arisu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ぜんぜんあまえるてくれるてよいぞ。さっきもいうたとおり、おれはゆりすみかとでかけるのがすきだから」"
+    },
+    {
+        "id": 82,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 83,
+        "original": "「それに女の子と出かける場合、普通はこっちからお願いしますって依頼するくらいなんだし」",
+        "translations": {
+            "initial": "「Lagipula kalau pergi bareng cewek, biasanya kan pihak cowok yang sampai memohon-mohon minta ditemani」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それにおんなのことでかけるばあい、ふつうはこちらからおねがうするますつういらいするくらいだのだし」"
+    },
+    {
+        "id": 84,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 85,
+        "original": "「あはっ、今回は逆だね。ちょっと困ってるから、常坂君が一緒にいてくれると助かるな」",
+        "translations": {
+            "initial": "「Ahaha, kali ini malah sebaliknya ya. Karena aku sedang agak kesulitan, aku akan sangat terbantu kalau Tokisaka-kun mau menemaniku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あは、こんかいはぎゃくだね。ちょっとこまるてるから、つねさかくんがいっしょにいるてくれるとたすかるな」"
+    },
+    {
+        "id": 86,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 87,
+        "original": "「よし。その依頼、請け負った」",
+        "translations": {
+            "initial": "「Oke. Permintaan itu kuterima」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「よし。そのいらい、うけおうた」"
+    },
+    {
+        "id": 88,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 89,
+        "original": "「じゃあ依頼の報酬は、なにか美味しいものをごちそうする……でどうでしょうか？」",
+        "translations": {
+            "initial": "「Kalau begitu untuk imbalannya, bagaimana kalau aku traktir sesuatu yang enak？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「でいらいのほうしゅうは、なにかおいしいものをごちそうする……でどうですか？」"
+    },
+    {
+        "id": 90,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 91,
+        "original": "「いや、有里栖と出かけられるのがすでに報酬なので」",
+        "translations": {
+            "initial": "「Nggak usah, bisa pergi bareng Arisu saja sudah jadi imbalan buatku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いや、ゆりすみかとでかけるられるのがすでにほうしゅうだのだ」"
+    },
+    {
+        "id": 92,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 93,
+        "original": "「お～、こんなところに紳士がいるよ！」",
+        "translations": {
+            "initial": "「Ooh, ternyata ada pria sejati di sini！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「お～、こんなところにしんしがいるよ！」"
+    },
+    {
+        "id": 94,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 95,
+        "original": "「はははっ。だろ？」",
+        "translations": {
+            "initial": "「Hahaha. Iya, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はははっ。だ？」"
+    },
+    {
+        "id": 96,
+        "original": "……少しは元気になってくれたかな？",
+        "translations": {
+            "initial": "...Apa dia sudah sedikit lebih bersemangat？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……すこしはげんきだなるてくれるたかな？"
+    },
+    {
+        "id": 97,
+        "original": "声でしか判断できないけど、有里栖がいつもの調子を少しだけ取り戻してくれたような気がする。",
+        "translations": {
+            "initial": "Meskipun aku hanya bisa menilai dari suaranya, rasanya Arisu sudah sedikit kembali ke dirinya yang biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "こえだしかはんだんできるないけれど、ゆりすみかがいつものちょうしをすこしだけとりもどすてくれるたようだきがする。"
+    },
+    {
+        "id": 98,
+        "original": "でも、これで元気になってくれるなら嬉しい。",
+        "translations": {
+            "initial": "Tapi, aku bakal senang kalau ini bisa membuatnya semangat lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だも、これでげんきだなるてくれるだうれしい。"
+    },
+    {
+        "id": 99,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 100,
+        "original": "「これから新学期になっても大丈夫だと思う。通う校舎は変わるけど、ＳＳＲのみんなもいるし」",
+        "translations": {
+            "initial": "「Kurasa nanti saat semester baru dimulai pun bakal baik-baik saja. Walaupun gedung sekolahnya berubah, teman-teman SSR juga ada di sana」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「これからしんがっきになるてもだいじょうぶだとおもう。かようこうしゃはかわるけれど、えすえすあーるのみなもいるし」"
+    },
+    {
+        "id": 101,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 102,
+        "original": "「気休めかもしれないけど、なるべく有里栖に辛い思いをさせないようにするつもりだから」",
+        "translations": {
+            "initial": "「Mungkin ini cuma penghibur saja, tapi aku berniat sebisa mungkin nggak akan membiarkan Arisu merasa sedih lagi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きやすめかもしれるないけれど、なるべくゆりすみかにつらいおもいをするせるないようだするつもりだから」"
+    },
+    {
+        "id": 103,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 104,
+        "original": "「うん……本当にありがとうね、常坂君」",
+        "translations": {
+            "initial": "「Iya... Makasih banyak ya, Tokisaka-kun」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うん……ほんとうにありがとうね、つねさかくん」"
+    },
+    {
+        "id": 105,
+        "original": "有里栖のために、俺ができることは少ない。",
+        "translations": {
+            "initial": "Hanya sedikit hal yang bisa kulakukan untuk Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかのために、おれができることはすくない。"
+    },
+    {
+        "id": 106,
+        "original": "それでも、何もないってことは無いはずだ。",
+        "translations": {
+            "initial": "Meski begitu, bukan berarti tidak ada yang bisa kuperbuat sama sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それでも、なにもないつうことはないはずだ。"
+    },
+    {
+        "id": 107,
+        "original": "ＳＳＲのみんなは心強い仲間だし、いざという時はきっと力になってくれるはず。",
+        "translations": {
+            "initial": "Teman-teman di SSR adalah rekan yang bisa diandalkan, dan saat keadaan mendesak pun mereka pasti akan membantu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "えすえすあーるのみなはこころづよいなかまだし、いざというときはきっとちからになるてくれるはず。"
+    },
+    {
+        "id": 108,
+        "original": "ひとまず明日は、有里栖には目一杯楽しんでもらおう。",
+        "translations": {
+            "initial": "Untuk sekarang, besok aku akan membiarkan Arisu bersenang-senang sepuasnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひとまずあすは、ゆりすみかにはめいっぱいたのしむてもらう。"
+    },
+    {
+        "id": 109,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

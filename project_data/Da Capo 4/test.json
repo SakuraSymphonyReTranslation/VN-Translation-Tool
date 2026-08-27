@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "original": "Hello World",
+        "translations": {
+            "best": "Hallo Welt"
+        }
+    },
+    {
+        "id": 2,
+        "original": "Testing regex 123",
+        "translations": {
+            "best": "Testing regular expression"
+        }
+    }
+]
