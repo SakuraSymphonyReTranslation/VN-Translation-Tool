@@ -1314,14 +1314,28 @@
                         </button>
                     </div>
 
-                    <!-- Source Tab (for polish mode) -->
-                    <div v-if="llmBatchMode === 'polish'" class="mb-4">
-                        <label class="block text-sm font-medium text-slate-400 mb-1">Polish from (source tab):</label>
-                        <select v-model="llmBatchSourceTab"
-                            class="bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white focus:outline-none w-full">
-                            <option v-for="t in ['initial', 'machine', 'better', 'best']" :key="t" :value="t">{{ t }}
-                            </option>
-                        </select>
+                    <!-- Source and Target Tab Selectors -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+                        <div v-if="llmBatchMode === 'polish'">
+                            <label class="block text-xs font-semibold text-slate-400 mb-1 uppercase tracking-wider">Sumber Teks (Source Tab):</label>
+                            <select v-model="llmBatchSourceTab"
+                                class="bg-slate-900 border border-slate-700 rounded p-2 text-xs text-white focus:outline-none w-full font-mono">
+                                <option value="initial">Initial (Teks Game Awal)</option>
+                                <option value="machine">Machine (Hasil AI Mentah)</option>
+                                <option value="better">Better (Draf Revisi 1)</option>
+                                <option value="best">Best (Draf Terbaik)</option>
+                            </select>
+                        </div>
+                        <div :class="llmBatchMode === 'polish' ? '' : 'col-span-2'">
+                            <label class="block text-xs font-semibold text-slate-400 mb-1 uppercase tracking-wider">Tujuan Output (Target Tab):</label>
+                            <select v-model="llmBatchTargetTab"
+                                class="bg-slate-900 border border-slate-700 rounded p-2 text-xs text-emerald-300 font-semibold focus:outline-none w-full font-mono">
+                                <option value="machine">Machine (AI Machine Translation / MTL)</option>
+                                <option value="polished">Polished (Penyuntingan Final / Siap Rilis)</option>
+                                <option value="better">Better (Draf Perbaikan Human/HTL)</option>
+                                <option value="best">Best (Draf Terbaik)</option>
+                            </select>
+                        </div>
                     </div>
 
                     <!-- Range Options -->
@@ -1340,7 +1354,7 @@
                                 :style="llmBatchRange === 'empty' ? { borderColor: secondaryColor, backgroundColor: secondaryColor + '1A' } : {}">
                                 <input type="radio" v-model="llmBatchRange" value="empty"
                                     class="focus:ring-offset-slate-900" :style="{ accentColor: secondaryColor }">
-                                Empty polished only
+                                Hanya baris {{ llmBatchTargetTab }} yang kosong
                             </label>
                             <label
                                 class="flex items-center gap-2 text-xs text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
@@ -1383,9 +1397,9 @@
                             Will process <span class="font-bold text-white">{{ llmBatchItemCount }}</span> rows
                             from <span class="font-mono" :style="{ color: secondaryColor }">{{ activeFile.file }}</span>
                         </div>
-                        <div class="text-xs text-slate-500 mt-1">
-                            Output will be written to the <span class="font-mono text-emerald-400">polished</span>
-                            column.
+                        <div class="text-xs text-slate-400 mt-1 flex items-center gap-1.5">
+                            <i class="fa-solid fa-arrow-right-to-bracket text-emerald-400"></i>
+                            Hasil terjemahan akan ditulis ke kolom tab <span class="font-mono font-bold text-emerald-300 px-1.5 py-0.5 rounded bg-slate-800 border border-emerald-700/50 uppercase text-[11px]">{{ llmBatchTargetTab }}</span>.
                         </div>
                     </div>
 
@@ -1481,7 +1495,7 @@
 
 
     <!-- App JS -->
-    <script src="/static/js/app.js?v=3.6.0"></script>
+    <script src="/static/js/app.js?v=3.7.0"></script>
 </body>
 
 </html>
