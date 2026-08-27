@@ -88,7 +88,9 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
   * Menerjemahkan seluruh adegan romantis, intim, dan efek suara onomatope (desahan/suara napas seperti 「んっ……」「あっ……」 $\rightarrow$ 「Nghh……」「Ahhh……」) secara akurat dan mengalir alami tanpa sensor atau penolakan (*no false-positive refusal*).
 * **Tombol `🔄 Fetch Models`**: Ambil daftar model aktif secara dinamis dari endpoint AI Anda.
 * **Batch Translation & Polishing**: Terjemahkan atau poles seluruh skenario dalam satu klik dengan pemantauan progress real-time (*Server-Sent Events*).
-* **Glosarium Otomatis**: Aturan penerjemahan nama karakter, gender, dan panggilan (misal: `Sora-nee`, `Icchan`) disuntikkan secara otomatis ke prompt AI.
+* **📚 VNDB Character Glossary Extractor**: Cukup masukkan ID VNDB game (misal: `v22741` atau URL VNDB), sistem akan mengekstrak seluruh nama lengkap, nama panggilan, marga, alias, dan gender karakter resmi dari database VNDB secara instan ke glosarium.
+* **🗑️ Bulk Delete & Delete All Glosarium**: Dilengkapi fitur multi-pilih (checkbox) untuk menghapus banyak entri glosarium sekaligus atau mengosongkan seluruh glosarium dalam satu klik.
+* **Injeksi Glosarium Otomatis**: Aturan penerjemahan nama karakter, gender, dan panggilan (misal: `Sora-nee`, `Icchan`) disuntikkan secara otomatis ke prompt AI untuk mencegah salah terjemah jenis kelamin atau sebutan.
 * **Auto-Update WebAI-to-API GitHub Actions**: Repositori dilengkapi GitHub Actions workflow otomatis untuk memperbarui modul WebAI saat ada rilis baru tanpa merusak pengaturan kustom.
 
 ---

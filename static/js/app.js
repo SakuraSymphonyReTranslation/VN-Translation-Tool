@@ -20,6 +20,9 @@ createApp({
         const newProjIdentifier = ref('');
         const newProjName = ref('');
         const availableCacheFolders = ref([]);
+        const vndbExtractId = ref('');
+        const isExtractingVndb = ref(false);
+        const selectedGlossaryIndices = ref([]);
         const isRefreshingCaches = ref(false);
         const isIndexingAll = ref(false);
         const indexAllMsg = ref('');
@@ -1535,6 +1538,11 @@ createApp({
             config.value.llm_glossary.push({ src: '', dst: '', info: '', case_sensitive: false });
         };
 
+                const isAllGlossarySelected = computed(() => {
+            const list = config.value.llm_glossary || [];
+            return list.length > 0 && selectedGlossaryIndices.value.length === list.length;
+        });
+
         const removeGlossaryEntry = (idx) => {
             config.value.llm_glossary.splice(idx, 1);
         };
@@ -2035,6 +2043,14 @@ createApp({
             isFetchingModels,
             addGlossaryEntry,
             removeGlossaryEntry,
+            vndbExtractId,
+            isExtractingVndb,
+            selectedGlossaryIndices,
+            isAllGlossarySelected,
+            extractVndbGlossary,
+            toggleSelectAllGlossary,
+            bulkDeleteGlossary,
+            deleteAllGlossary,
             importGlossaryFile,
             exportGlossary,
             llmRetranslateRow,

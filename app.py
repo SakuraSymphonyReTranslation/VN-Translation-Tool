@@ -428,6 +428,150 @@ async def llm_batch(request: LLMBatchRequest):
 
     return StreamingResponse(event_stream(), media_type="text/event-stream")
 
+def is_japanese(text: str) -> bool:
+    return bool(re.search(r'[぀-ヿ㐀-䶿一-鿿]', text or ''))
+
+@app.post("/api/glossary/extract-vndb")
+async def extract_vndb_glossary(request: Request):
+    """Extract character glossary from VNDB Kana API."""
+    import httpx
+    body = await request.json()
+    raw_vn_id = body.get("vn_id", "").strip()
+    
+    if not raw_vn_id:
+        return {"status": "error", "message": "VNDB ID tidak boleh kosong (contoh: v22741 atau 22741)."}
+        
+    m = re.search(r'v?(\d+)', raw_vn_id.lower())
+    if not m:
+        return {"status": "error", "message": f"Format VNDB ID tidak valid: '{raw_vn_id}'. Gunakan format seperti v22741."}
+    clean_vn_id = "v" + m.group(1)
+
+    url = "https://api.vndb.org/kana/character"
+    headers = {
+        "User-Agent": "VNTranslationTool/3.7.0 (https://github.com/SakuraSymphonyReTranslation)",
+        "Content-Type": "application/json"
+    }
+    query = {
+        "filters": ["vn", "=", ["id", "=", clean_vn_id]],
+        "fields": "name, original, gender, aliases",
+        "results": 100
+    }
+
+    try:
+        async with httpx.AsyncClient(timeout=25.0) as client:
+            resp = await client.post(url, json=query, headers=headers)
+            if resp.status_code != 200:
+                return {"status": "error", "message": f"VNDB API error ({resp.status_code}): {resp.text}"}
+            data = resp.json()
+            characters = data.get("results", [])
+            
+            # If 0 characters, check if it's a release or needs relations
+            if not characters:
+                # Try querying VN info to check title
+                vn_resp = await client.post("https://api.vndb.org/kana/vn", json={"filters": ["id", "=", clean_vn_id], "fields": "title, relations.id, relations.relation_official"}, headers=headers)
+                if vn_resp.status_code == 200:
+                    vn_data = vn_resp.json().get("results", [])
+                    if vn_data:
+                        relations = vn_data[0].get("relations", [])
+                        # Try parent or original game relations
+                        for rel in relations:
+                            rel_id = rel.get("id")
+                            if rel_id:
+                                rel_query = {"filters": ["vn", "=", ["id", "=", rel_id]], "fields": "name, original, gender, aliases", "results": 100}
+                                rel_resp = await client.post(url, json=rel_query, headers=headers)
+                                if rel_resp.status_code == 200:
+                                    rel_chars = rel_resp.json().get("results", [])
+                                    if rel_chars:
+                                        characters = rel_chars
+                                        break
+    except Exception as e:
+        return {"status": "error", "message": f"Gagal menghubungi server VNDB: {str(e)}"}
+
+    if not characters:
+        return {"status": "warning", "count": 0, "entries": [], "message": f"Tidak ada karakter yang ditemukan untuk VNDB ID '{clean_vn_id}'. Pastikan ID benar."}
+
+    glossary = []
+    seen_src = set()
+    gender_map = {"m": "male", "f": "female", "o": "both/other"}
+
+    for char in characters:
+        full_romaji = char.get('name', 'Unknown')
+        full_kanji = char.get('original')
+
+        gender_data = char.get('gender', 'unknown')
+        gender_code = gender_data[0] if isinstance(gender_data, list) and gender_data else gender_data
+        gender_text = gender_map.get(gender_code, "unknown")
+
+        has_space_romaji = " " in full_romaji
+        has_space_kanji = bool(full_kanji and " " in full_kanji)
+
+        first_romaji = full_romaji.split(" ")[-1] if has_space_romaji else full_romaji
+        first_kanji = full_kanji.split(" ")[-1] if has_space_kanji else full_kanji
+
+        last_romaji = full_romaji.split(" ")[0] if has_space_romaji else None
+        last_kanji = full_kanji.split(" ")[0] if has_space_kanji else None
+
+        # 1. Full name
+        if full_kanji and is_japanese(full_kanji) and full_kanji not in seen_src:
+            glossary.append({
+                "src": full_kanji,
+                "dst": full_romaji,
+                "info": f"{full_romaji} is {gender_text}",
+                "case_sensitive": False
+            })
+            seen_src.add(full_kanji)
+
+        # 2. First name
+        if has_space_kanji and first_kanji and is_japanese(first_kanji) and first_kanji not in seen_src:
+            glossary.append({
+                "src": first_kanji,
+                "dst": first_romaji,
+                "info": f"{first_romaji} is {gender_text}",
+                "case_sensitive": False
+            })
+            seen_src.add(first_kanji)
+
+        # 3. Last name (marga)
+        if last_kanji and is_japanese(last_kanji) and last_kanji not in seen_src:
+            glossary.append({
+                "src": last_kanji,
+                "dst": last_romaji,
+                "info": last_romaji,
+                "case_sensitive": False
+            })
+            seen_src.add(last_kanji)
+
+        # 4. Aliases
+        aliases = char.get('aliases', [])
+        jp_aliases = [a for a in aliases if is_japanese(a)]
+        ro_aliases = [a for a in aliases if not is_japanese(a)]
+
+        max_idx = max(len(jp_aliases), len(ro_aliases)) if (jp_aliases or ro_aliases) else 0
+        for i in range(max_idx):
+            try:
+                src_val = jp_aliases[i]
+                dst_val = ro_aliases[i] if i < len(ro_aliases) else first_romaji
+
+                if src_val not in seen_src:
+                    glossary.append({
+                        "src": src_val,
+                        "dst": dst_val,
+                        "info": f"{dst_val} is {gender_text}",
+                        "case_sensitive": False
+                    })
+                    seen_src.add(src_val)
+            except IndexError:
+                continue
+
+    return {
+        "status": "success",
+        "vn_id": clean_vn_id,
+        "characters_count": len(characters),
+        "count": len(glossary),
+        "entries": glossary,
+        "message": f"Berhasil mengekstrak {len(glossary)} entri glosarium ({len(characters)} karakter) dari VNDB {clean_vn_id}!"
+    }
+
 @app.post("/api/llm/test")
 async def llm_test_connection(request: Request):
     """Test LLM connection using values from frontend with strict cookie check."""
