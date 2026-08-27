@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 import json
 import os
 import shutil
@@ -264,8 +265,6 @@ def search_project_data(query: str, is_regex: bool = False, search_in_keys: list
     original_dir = config_manager.get_path("original_dir")
     translated_dir = config_manager.get_path("translated_dir")
     
-    results = []
-    
     project_files = set()
     if project_dir and os.path.exists(project_dir):
         project_files = {f for f in os.listdir(project_dir) if f.endswith(".json")}
@@ -278,166 +277,130 @@ def search_project_data(query: str, is_regex: bool = False, search_in_keys: list
     if translated_dir and os.path.exists(translated_dir):
         translated_files = {f for f in os.listdir(translated_dir) if f.endswith(".json")}
 
-    all_files = project_files.union(original_files).union(translated_files)
+    all_files = sorted(project_files.union(original_files).union(translated_files))
     
     if scenario_modes:
         allowed_files = excel_manager.get_files_by_modes(scenario_modes)
         if allowed_files:
             allowed_json_files = {f if f.endswith('.json') else f + '.json' for f in allowed_files}
-            all_files = all_files.intersection(allowed_json_files)
+            all_files = [f for f in all_files if f in allowed_json_files]
 
-    try:
-        if is_regex:
-            flags = 0 if match_case else re.IGNORECASE
-            pattern = re.compile(query, flags)
-        else:
-            if match_case:
-                query_compare = query
-            else:
-                query_lower = query.lower()
-
-            query_kana = ""
-            query_kata = ""
-            if search_romaji and _looks_like_romaji(query):
-                try:
-                    converted = furigana_service.romaji_to_kana(query)
-                    if converted and converted != query.lower():
-                        query_kana = converted
-                        query_kata = furigana_service._hira_to_kata(converted)
-                except Exception:
-                    pass
-
-        for filename in sorted(all_files):
-            is_project_data = filename in project_files
-            is_translated_file = filename in translated_files and not is_project_data
-            
-            filepath = ""
-            if is_project_data:
-                filepath = os.path.join(project_dir, filename)
-            elif is_translated_file:
-                filepath = os.path.join(translated_dir, filename)
-            else:
-                filepath = os.path.join(original_dir, filename)
-
+    if is_regex:
+        flags = 0 if match_case else re.IGNORECASE
+        pattern = re.compile(query, flags)
+    else:
+        query_compare = query if match_case else query.lower()
+        query_lower = query.lower()
+        query_kana = ""
+        query_kata = ""
+        if search_romaji and _looks_like_romaji(query):
             try:
-                encoding = 'utf-8'
-                if not is_project_data and not is_translated_file:
-                    encoding = 'utf-8-sig'
-                
-                with open(filepath, 'r', encoding=encoding) as f:
-                    data = json.load(f)
-                    
-                if is_project_data:
-                    for item in data:
-                        row_id = item.get('id')
-                        original = item.get('original', '')
-                        translations = item.get('translations', {})
-                        
-                        if search_in_keys is None or "Original" in search_in_keys:
-                            match_found = False
-                            matched_text = ""
-                            
-                            if is_regex:
-                                if pattern.search(original):
-                                    match_found = True
-                                    matched_text = original
-                            else:
-                                if match_case:
-                                    if query_compare in original:
-                                        match_found = True
-                                        matched_text = original
-                                else:
-                                    original_lower = original.lower()
-                                    if query_lower in original_lower:
-                                        match_found = True
-                                        matched_text = original
-                                    elif query_kana and query_kana in original:
-                                        match_found = True
-                                        matched_text = original
-                                    elif query_kana and query_kana in furigana_service.get_reading(original):
-                                        match_found = True
-                                        matched_text = original
-                                    elif query_kata and query_kata in original:
-                                        match_found = True
-                                        matched_text = original
-                            
-                            if match_found:
-                                results.append({
-                                    "file": filename.replace(".json", ""),
-                                    "id": row_id,
-                                    "key": "Original",
-                                    "text": matched_text
-                                })
+                converted = furigana_service.romaji_to_kana(query)
+                if converted and converted != query_lower:
+                    query_kana = converted
+                    query_kata = furigana_service._hira_to_kata(converted)
+            except Exception:
+                pass
 
-                        for key, text in translations.items():
-                            if not text: continue
-                            if search_in_keys is not None and key not in search_in_keys:
-                                continue
-                            
-                            match_found = False
-                            if is_regex:
-                                if pattern.search(text):
-                                    match_found = True
-                            else:
-                                if match_case:
-                                    if query_compare in text:
-                                        match_found = True
-                                else:
-                                    text_lower = text.lower()
-                                    if query_lower in text_lower:
-                                        match_found = True
-                                    elif query_kana and query_kana in text:
-                                        match_found = True
-                                    elif query_kata and query_kata in text:
-                                        match_found = True
-                            
-                            if match_found:
-                                results.append({
-                                    "file": filename.replace(".json", ""),
-                                    "id": row_id,
-                                    "key": key,
-                                    "text": text
-                                })
-                else:
-                    target_key = "Original" if not is_translated_file else "initial"
-
-                    if search_in_keys is None or target_key in search_in_keys:
-                        for i, item in enumerate(data):
-                            text = item.get('message', '') if isinstance(item, dict) else str(item)
-                                
-                            match_found = False
-                            if is_regex:
-                                if pattern.search(text):
-                                    match_found = True
-                            else:
-                                if match_case:
-                                    if query_compare in text:
-                                        match_found = True
-                                else:
-                                    text_lower = text.lower()
-                                    if query_lower in text_lower:
-                                        match_found = True
-                                    elif query_kana and query_kana in text:
-                                        match_found = True
-                                    elif query_kana and query_kana in furigana_service.get_reading(text):
-                                        match_found = True
-                                    elif query_kata and query_kata in text:
-                                        match_found = True
-                                    
-                            if match_found:
-                                results.append({
-                                    "file": filename.replace(".json", ""),
-                                    "id": i,
-                                    "key": target_key, 
-                                    "text": text
-                                })
-
-            except Exception as e:
+    def _safe_load_json(filepath):
+        for enc in ['utf-8-sig', 'utf-8', 'cp932', 'latin-1']:
+            try:
+                with open(filepath, 'r', encoding=enc) as f:
+                    return json.load(f)
+            except Exception:
                 continue
+        return None
+
+    def _process_file(filename):
+        file_results = []
+        is_project_data = filename in project_files
+        is_translated_file = filename in translated_files and not is_project_data
+        
+        if is_project_data:
+            filepath = os.path.join(project_dir, filename)
+        elif is_translated_file:
+            filepath = os.path.join(translated_dir, filename)
+        else:
+            filepath = os.path.join(original_dir, filename)
+            
+        data = _safe_load_json(filepath)
+        if data is None:
+            return file_results
+
+        if is_project_data:
+            for item in data:
+                row_id = item.get('id')
+                original = item.get('original', '')
+                translations = item.get('translations', {})
                 
-    except Exception as e:
-        print(f"Search error: {e}")
-    
+                # 1. Search in Original
+                if search_in_keys is None or "Original" in search_in_keys:
+                    if original:
+                        m = False
+                        if is_regex:
+                            m = bool(pattern.search(original))
+                        elif match_case:
+                            m = query_compare in original
+                        else:
+                            m = (query_lower in original.lower()) or (query_kana and query_kana in original) or (query_kata and query_kata in original)
+                        if m:
+                            file_results.append({
+                                "file": filename.replace(".json", ""),
+                                "id": row_id,
+                                "key": "Original",
+                                "text": original
+                            })
+
+                # 2. Search in Translations
+                for key, text in translations.items():
+                    if not text:
+                        continue
+                    if search_in_keys is not None and key not in search_in_keys:
+                        continue
+                    m = False
+                    if is_regex:
+                        m = bool(pattern.search(text))
+                    elif match_case:
+                        m = query_compare in text
+                    else:
+                        m = (query_lower in text.lower()) or (query_kana and query_kana in text) or (query_kata and query_kata in text)
+                    if m:
+                        file_results.append({
+                            "file": filename.replace(".json", ""),
+                            "id": row_id,
+                            "key": key,
+                            "text": text
+                        })
+        else:
+            # Raw Circus game file format
+            target_key = "initial" if is_translated_file else "Original"
+            if search_in_keys is None or target_key in search_in_keys:
+                for i, item in enumerate(data):
+                    text = item.get('message', '') if isinstance(item, dict) else str(item)
+                    if not text:
+                        continue
+                    m = False
+                    if is_regex:
+                        m = bool(pattern.search(text))
+                    elif match_case:
+                        m = query_compare in text
+                    else:
+                        m = (query_lower in text.lower()) or (query_kana and query_kana in text) or (query_kata and query_kata in text)
+                    if m:
+                        file_results.append({
+                            "file": filename.replace(".json", ""),
+                            "id": i,
+                            "key": target_key,
+                            "text": text
+                        })
+        return file_results
+
+    results = []
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        for res_list in executor.map(_process_file, all_files):
+            if res_list:
+                results.extend(res_list)
+
     if first_match_only and results:
         seen_files = set()
         filtered_results = []
@@ -465,17 +428,23 @@ def replace_in_project_data(query: str, replacement: str, is_regex: bool = False
     
     project_dir = config_manager.get_path("project_data_dir")
     translated_dir = config_manager.get_path("translated_dir")
+    original_dir = config_manager.get_path("original_dir")
     
-    if not project_dir or not os.path.exists(project_dir):
-        return {"replaced_count": 0, "file_count": 0}
-    
-    project_files = [f for f in os.listdir(project_dir) if f.endswith(".json")]
+    project_files = set()
+    if project_dir and os.path.exists(project_dir):
+        project_files = {f for f in os.listdir(project_dir) if f.endswith(".json")}
+        
+    translated_files = set()
+    if translated_dir and os.path.exists(translated_dir):
+        translated_files = {f for f in os.listdir(translated_dir) if f.endswith(".json")}
+
+    all_files = sorted(project_files.union(translated_files))
     
     if scenario_modes:
         allowed_files = excel_manager.get_files_by_modes(scenario_modes)
         if allowed_files:
             allowed_json_files = {f if f.endswith('.json') else f + '.json' for f in allowed_files}
-            project_files = [f for f in project_files if f in allowed_json_files]
+            all_files = [f for f in all_files if f in allowed_json_files]
     
     if is_regex:
         flags = 0 if match_case else re.IGNORECASE
@@ -484,40 +453,45 @@ def replace_in_project_data(query: str, replacement: str, is_regex: bool = False
     total_replaced = 0
     files_modified = 0
     
-    for filename in sorted(project_files):
-        filepath = os.path.join(project_dir, filename)
-        try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            
+    def _safe_load_json(filepath):
+        for enc in ['utf-8-sig', 'utf-8', 'cp932', 'latin-1']:
+            try:
+                with open(filepath, 'r', encoding=enc) as f:
+                    return json.load(f)
+            except Exception:
+                continue
+        return None
+
+    for filename in all_files:
+        is_project_data = filename in project_files
+        
+        if is_project_data:
+            filepath = os.path.join(project_dir, filename)
+            data = _safe_load_json(filepath)
+            if not data:
+                continue
+                
             file_changed = False
-            
             for item in data:
                 translations = item.get('translations', {})
-                
                 for key, text in translations.items():
                     if not text:
                         continue
-                    
-                    query_kana = ""
-                    query_kata = ""
-                    if search_romaji and _looks_like_romaji(query):
-                        try:
-                            converted = furigana_service.romaji_to_kana(query)
-                            if converted and converted != query.lower():
-                                query_kana = converted
-                                query_kata = furigana_service._hira_to_kata(converted)
-                        except Exception:
-                            pass
-
+                    if search_in_keys is not None and key not in search_in_keys:
+                        continue
+                        
                     new_text = text
                     if is_regex:
                         if preserve_case:
                             def _repl(m):
                                 return _apply_preserve_case(m.group(0), replacement)
-                            new_text = pattern.sub(_repl, text)
+                            new_text, count = pattern.subn(_repl, text)
                         else:
-                            new_text = pattern.sub(replacement, text)
+                            new_text, count = pattern.subn(replacement, text)
+                        if count > 0:
+                            total_replaced += count
+                            translations[key] = new_text
+                            file_changed = True
                     else:
                         match_found = False
                         if match_case:
@@ -526,11 +500,7 @@ def replace_in_project_data(query: str, replacement: str, is_regex: bool = False
                         else:
                             if query.lower() in text.lower():
                                 match_found = True
-                            elif query_kana and query_kana in text:
-                                match_found = True
-                            elif query_kata and query_kata in text:
-                                match_found = True
-                        
+                                
                         if match_found:
                             if match_case:
                                 if preserve_case:
@@ -544,89 +514,117 @@ def replace_in_project_data(query: str, replacement: str, is_regex: bool = False
                                         result.append(text[idx:pos])
                                         result.append(_apply_preserve_case(text[pos:pos+len(query)], replacement))
                                         idx = pos + len(query)
+                                        total_replaced += 1
                                     new_text = ''.join(result)
                                 else:
+                                    total_replaced += text.count(query)
                                     new_text = text.replace(query, replacement)
                             else:
-                                ci_pattern = re.compile(re.escape(query), re.IGNORECASE)
                                 if preserve_case:
-                                    def _repl_ci(m):
+                                    pattern_nocase = re.compile(re.escape(query), re.IGNORECASE)
+                                    def _repl(m):
                                         return _apply_preserve_case(m.group(0), replacement)
-                                    new_text = ci_pattern.sub(_repl_ci, text)
+                                    new_text, count = pattern_nocase.subn(_repl, text)
+                                    total_replaced += count
                                 else:
-                                    new_text = ci_pattern.sub(replacement, text)
-                    
-                    if new_text != text:
-                        translations[key] = new_text
-                        total_replaced += text.count(query) if (match_case and not is_regex) else (len(new_text) != len(text) and 1 or 1)
-                        file_changed = True
-                
-                item['translations'] = translations
-            
+                                    pattern_nocase = re.compile(re.escape(query), re.IGNORECASE)
+                                    new_text, count = pattern_nocase.subn(replacement, text)
+                                    total_replaced += count
+                                    
+                            translations[key] = new_text
+                            file_changed = True
+                            
             if file_changed:
-                files_modified += 1
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, indent=4, ensure_ascii=False)
+                try:
+                    with open(filepath, 'w', encoding='utf-8') as f:
+                        json.dump(data, f, indent=4, ensure_ascii=False)
+                    files_modified += 1
+                    # Also export to game translated JSON
+                    save_project_data(filename.replace(".json", ""), data)
+                except Exception as e:
+                    print(f"Error saving {filepath}: {e}")
+        else:
+            # File is in translated_dir, load game file into rich format, apply replace, and save
+            game_rows = load_project_data(filename.replace(".json", ""))
+            if not game_rows:
+                continue
                 
-                if translated_dir and os.path.exists(translated_dir):
-                    trans_path = os.path.join(translated_dir, filename)
-                    output_data = []
-                    for item in data:
-                        translations = item.get('translations', {})
-                        text = next(
-                            (translations.get(k, '') for k in TRANSLATION_EXPORT_PRIORITY if translations.get(k)),
-                            '',
-                        )
-                        output_data.append({"message": text})
-                    try:
-                        with open(trans_path, 'w', encoding='utf-8') as f:
-                            json.dump(output_data, f, indent=4, ensure_ascii=False)
-                    except Exception as e:
-                        print(f"Error updating game file {trans_path}: {e}")
+            file_changed = False
+            for item in game_rows:
+                translations = item.get('translations', {})
+                for key, text in translations.items():
+                    if not text:
+                        continue
+                    if search_in_keys is not None and key not in search_in_keys:
+                        continue
+                    match_found = False
+                    if query.lower() in text.lower():
+                        match_found = True
+                    if match_found:
+                        pattern_nocase = re.compile(re.escape(query), re.IGNORECASE)
+                        new_text, count = pattern_nocase.subn(replacement, text)
+                        translations[key] = new_text
+                        total_replaced += count
+                        file_changed = True
                         
-        except Exception as e:
-            print(f"Error replacing in file {filename}: {e}")
-            continue
-    
+            if file_changed:
+                save_project_data(filename.replace(".json", ""), game_rows)
+                files_modified += 1
+                
     return {"replaced_count": total_replaced, "file_count": files_modified}
 
-def save_as(current_filename, new_filename, data):
-    new_filename = ensure_json_extension(new_filename)
-    return save_project_data(new_filename, data)
 
-def scan_for_modified_files(columns: list = None):
-    if columns is None:
-        columns = ['better', 'best']
-        
+
+def index_all_game_files(overwrite_existing=False):
+    """
+    Pre-indexes and caches all game scenarios from original_dir & translated_dir into project_data/<slug>.
+    High-speed parallel execution using ThreadPoolExecutor.
+    """
     project_dir = config_manager.get_path("project_data_dir")
-    modified_files = []
+    original_dir = config_manager.get_path("original_dir")
+    translated_dir = config_manager.get_path("translated_dir")
     
-    if not project_dir or not os.path.exists(project_dir):
-        return modified_files
-        
-    for filename in os.listdir(project_dir):
-        if not filename.endswith(".json"):
-            continue
-            
-        filepath = os.path.join(project_dir, filename)
+    if not project_dir:
+        return {"status": "error", "message": "Project data directory is not configured."}
+    
+    os.makedirs(project_dir, exist_ok=True)
+    
+    orig_files = set(os.listdir(original_dir)) if original_dir and os.path.exists(original_dir) else set()
+    trans_files = set(os.listdir(translated_dir)) if translated_dir and os.path.exists(translated_dir) else set()
+    
+    all_json_names = sorted({f.replace(".json", "") for f in orig_files.union(trans_files) if f.endswith(".json")})
+    if not all_json_names:
+        return {"status": "warning", "message": "No JSON files found in original or translated directories."}
+    
+    def _index_single(base_name):
+        dest_path = os.path.join(project_dir, f"{base_name}.json")
+        if not overwrite_existing and os.path.exists(dest_path):
+            return "skipped"
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                
-            has_changes = False
-            for item in data:
-                translations = item.get('translations', {})
-                for col in columns:
-                    if translations.get(col):
-                        has_changes = True
-                        break
-                if has_changes:
-                    break
-            
-            if has_changes:
-                modified_files.append(filename.replace(".json", ""))
-                
+            rows = load_project_data(base_name)
+            if rows:
+                with open(dest_path, "w", encoding="utf-8") as f:
+                    json.dump(rows, f, indent=4, ensure_ascii=False)
+                return "indexed"
         except Exception as e:
-            print(f"Error scanning {filename}: {e}")
-            
-    return modified_files
+            print(f"Error indexing {base_name}: {e}")
+            return "error"
+        return "skipped"
+
+    indexed_count = 0
+    skipped_count = 0
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        for res in executor.map(_index_single, all_json_names):
+            if res == "indexed":
+                indexed_count += 1
+            elif res == "skipped":
+                skipped_count += 1
+
+    return {
+        "status": "success",
+        "total_files": len(all_json_names),
+        "indexed_count": indexed_count,
+        "existing_count": skipped_count,
+        "project_dir": project_dir,
+        "message": f"Berhasil mengindeks {indexed_count} file baru. Total {len(all_json_names)} file naskah kini siap dicari secara instan!"
+    }
