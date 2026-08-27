@@ -550,8 +550,7 @@ def extract_cookies_from_browser(browser_name: str = "auto"):
         "message": "Fitur keamanan Windows/Chromium (App-Bound Encryption) membatasi akses file cookie saat browser aktif. Silakan klik tombol 'Launch Login' (atau buka gemini.google.com), tekan F12 > Application > Cookies, salin nilai __Secure-1PSID & __Secure-1PSIDTS ke kolom lalu klik 'Save Cookies'."
     }
 
-
-():
+def launch_verify_login():
     """Open Gemini Web in browser for login."""
     import webbrowser
     try:
