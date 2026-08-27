@@ -1470,6 +1470,27 @@ createApp({
             URL.revokeObjectURL(url);
         };
 
+        // Fetch LLM models
+        const fetchLlmModels = async () => {
+            isFetchingModels.value = true;
+            try {
+                const res = await fetch('/api/llm/models');
+                if (res.ok) {
+                    const data = await res.json();
+                    if (data.status === 'connected' && data.models && data.models.length > 0) {
+                        fetchedModels.value = data.models;
+                        alert(`Found ${data.models.length} model(s):\n` + data.models.join('\n'));
+                    } else if (data.status === 'error') {
+                        alert(data.message);
+                    }
+                }
+            } catch (e) {
+                console.error("Failed to fetch models", e);
+            } finally {
+                isFetchingModels.value = false;
+            }
+        };
+
         // Test LLM connection
         const testLlmConnection = async () => {
             llmTestLoading.value = true;
@@ -1483,7 +1504,11 @@ createApp({
                         model: config.value.llm_model,
                     }),
                 });
-                llmTestResult.value = await res.json();
+                const data = await res.json();
+                llmTestResult.value = data;
+                if (data.status === 'connected' && data.models && data.models.length > 0) {
+                    fetchedModels.value = data.models;
+                }
             } catch (e) {
                 llmTestResult.value = { status: 'error', message: 'Request failed: ' + e.message };
             } finally {
