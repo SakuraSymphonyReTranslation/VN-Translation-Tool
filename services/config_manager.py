@@ -57,6 +57,7 @@ DEFAULT_CONFIG = {
     "project_data_dir": os.path.join(DEFAULT_PROJECT_DATA_BASE, "Da Capo 4 Plus Harmony"),
     "unidic_dir": "",
     # LLM Configuration
+    "llm_provider": "gemini_web",
     "llm_api_url": "http://localhost:6969/v1",
     "llm_model": "gemini-3.7-flash",
     "llm_temperature": 0.7,
