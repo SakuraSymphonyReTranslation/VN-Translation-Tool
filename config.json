@@ -524,5 +524,9 @@
     "active_project": "dc4_plus_harmony",
     "gemini_cookie_1psid": "g.a000AwkVopZn4fWju3YBFof0kIsayW6XyWv7plPmMM7V64mgoVNtgF9-24yni6Qy84JlFmX2RwACgYKASUSARQSFQHGX2Mi4Wt6QyBsaWlZXx0H4KgfFBoVAUF8yKq3tOhbonLfMzRSeJB1H77i0076",
     "gemini_cookie_1psidts": "sidts-CjcBXMw41XNiESO5yFnwUEWbOwWc5mVtEN0jDDwgs8IaJowWnZM6Y7thb_rrf1ZUb72iFoOq9PqwEAA",
-    "llm_provider": "gemini_web"
+    "llm_provider": "gemini_web",
+    "enable_summary_chaining": true,
+    "current_story_summary": "Ichito dan Sorane sedang menikmati momen intim berduaan di kamar pada malam hari setelah saling mengungkapkan perasaan cinta.",
+    "summary_chaining_prompt": "If the <running_story_summary> is provided, use it to maintain narrative continuity, character voices, and emotional tone.\nIn your JSON response, provide both: {\"translation\": \"...\", \"updated_summary\": \"ringkasan singkat cerita terkini dalam bahasa Indonesia\"}",
+    "enable_adult_content_mode": true
 }

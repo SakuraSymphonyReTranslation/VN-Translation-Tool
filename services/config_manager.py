@@ -67,7 +67,12 @@ DEFAULT_CONFIG = {
     "llm_retranslate_prompt": "",
     "llm_polish_prompt": "",
     "gemini_cookie_1psid": "",
-    "gemini_cookie_1psidts": "" 
+    "gemini_cookie_1psidts": "",
+    # Summary Chaining (Memori Estafet) & Fiction Mode
+    "enable_summary_chaining": True,
+    "current_story_summary": "",
+    "summary_chaining_prompt": "If the <running_story_summary> is provided, use it to maintain narrative continuity, character voices, and emotional tone.\nIn your JSON response, provide both: {\"translation\": \"...\", \"updated_summary\": \"ringkasan singkat cerita terkini dalam bahasa Indonesia\"}",
+    "enable_adult_content_mode": True 
 }
 
 def _sanitize_identifier(identifier: str) -> str:
