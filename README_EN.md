@@ -202,6 +202,26 @@ Open your browser and navigate to:
 
 ---
 
+## ❓ Troubleshooting & FAQ
+
+#### Q: Why do I see the "Windows/Chromium App-Bound Encryption" warning when clicking Auto-Extract?
+> **Answer**: Recent versions of Google Chrome (v127+) and Microsoft Edge on Windows implement *App-Bound Encryption*, which restricts third-party external processes from reading cookie files directly while the browser is running.
+> * **Quick 15-Second Solution (Manual Copy)**:
+>   1. Click **`🚀 Launch Login`** (or open `https://gemini.google.com` in your browser).
+>   2. Press **`F12`** to open DevTools $\rightarrow$ navigate to the **`Application`** tab (or click `>>` if hidden).
+>   3. On the left sidebar, expand **`Storage`** $\rightarrow$ **`Cookies`** $\rightarrow$ select `https://gemini.google.com`.
+>   4. Copy the values for **`__Secure-1PSID`** and **`__Secure-1PSIDTS`** into the application inputs and click **`💾 Save Cookies`**.
+> * **Automatic Extraction (Firefox / Zen / LibreWolf)**:
+>   * If you log into Gemini using **Mozilla Firefox**, **Zen Browser**, or **LibreWolf**, simply select it in the Browser dropdown and click **`⚡ Auto-Extract`** (Gecko/Firefox engines do not enforce App-Bound Encryption locks).
+
+#### Q: How do I switch between Direct Gemini Web and Local LLM?
+> **Answer**: Open **Settings (Ctrl + ,) → LLM Configuration**. You can toggle between **Gemini Web (Direct API)** and **Custom LLM / OpenAI API** via the radio selector. Your cookie tokens and custom endpoints are preserved independently.
+
+#### Q: Why are my Japanese raw lines empty?
+> **Answer**: Ensure your **Original JSON Directory** in Settings points to the folder containing raw Japanese `.json` files. The app automatically heals and restores original lines once the path is set.
+
+---
+
 ## 🤝 License & Contributions
 
 Licensed under the **MIT License**. Contributions, issues, and feature requests are welcome at [SakuraSymphonyReTranslation/VN-Translation-Tool](https://github.com/SakuraSymphonyReTranslation/VN-Translation-Tool).
