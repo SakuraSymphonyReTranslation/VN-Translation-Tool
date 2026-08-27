@@ -8,6 +8,10 @@
   [![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
+  <br>
+
+  **[🇮🇩 Bahasa Indonesia](README.md)** | **[🇬🇧 English](README_EN.md)**
+
 </div>
 
 **VN Translation Tool** adalah aplikasi web lokal modern yang dirancang khusus untuk mempermudah proses penerjemahan, penyuntingan (*editing/polishing*), dan lokalisasi naskah **Visual Novel (VN)** (seperti engine Circus / D.C. Series, LucaSystem, dan format game berbasis JSON lainnya). 
