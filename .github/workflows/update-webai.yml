@@ -1,0 +1,145 @@
+name: Auto-Update WebAI-to-API
+
+on:
+  schedule:
+    # Runs everyday at 00:00 UTC (07:00 WIB)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab anytime
+
+permissions:
+  contents: write
+
+jobs:
+  check-and-update-webai:
+    name: Check & Update WebAI-to-API
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Check for Upstream WebAI-to-API Updates
+        id: check_update
+        run: |
+          python - << 'EOF'
+          import urllib.request
+          import json
+          import re
+          import os
+
+          UPSTREAM_REPO = "Amm1rr/WebAI-to-API"
+          API_URL = f"https://api.github.com/repos/{UPSTREAM_REPO}/releases/latest"
+
+          # 1. Read local version
+          local_ver = "0.0.0"
+          pyproj_path = "WebAI-to-API/pyproject.toml"
+          if os.path.exists(pyproj_path):
+              with open(pyproj_path, "r", encoding="utf-8") as f:
+                  content = f.read()
+              m = re.search(r'version\s*=\s*["\']([^"\']+)["\']', content)
+              if m:
+                  local_ver = m.group(1)
+
+          print(f"Current local version: {local_ver}")
+
+          # 2. Fetch latest release from upstream
+          req = urllib.request.Request(API_URL, headers={"User-Agent": "GitHub-Action-AutoUpdater"})
+          try:
+              with urllib.request.urlopen(req, timeout=15) as resp:
+                  data = json.loads(resp.read().decode())
+                  latest_tag = data.get("tag_name", "").strip()
+                  clean_latest = re.sub(r'^[^\d]*', '', latest_tag)
+                  clean_local = re.sub(r'^[^\d]*', '', local_ver)
+                  
+                  def ver_tuple(v):
+                      parts = []
+                      for x in v.split('.'):
+                          num = re.match(r'^\d+', x)
+                          parts.append(int(num.group(0)) if num else 0)
+                      return tuple(parts)
+                  
+                  has_update = ver_tuple(clean_latest) > ver_tuple(clean_local)
+                  print(f"Latest upstream tag: {latest_tag}")
+                  print(f"Has update: {has_update}")
+                  
+                  zip_url = data.get("zipball_url") or f"https://github.com/{UPSTREAM_REPO}/archive/refs/tags/{latest_tag}.zip"
+                  
+                  with open(os.environ["GITHUB_OUTPUT"], "a") as gh_out:
+                      gh_out.write(f"has_update={'true' if has_update else 'false'}\n")
+                      gh_out.write(f"latest_version={latest_tag}\n")
+                      gh_out.write(f"local_version={local_ver}\n")
+                      gh_out.write(f"download_url={zip_url}\n")
+          except Exception as e:
+              print(f"Error checking upstream releases: {e}")
+              with open(os.environ["GITHUB_OUTPUT"], "a") as gh_out:
+                  gh_out.write("has_update=false\n")
+          EOF
+
+      - name: Download and Apply Update
+        if: steps.check_update.outputs.has_update == 'true'
+        run: |
+          python - << 'EOF'
+          import urllib.request
+          import zipfile
+          import shutil
+          import tempfile
+          import os
+
+          download_url = "${{ steps.check_update.outputs.download_url }}"
+          webai_dir = "WebAI-to-API"
+
+          conf_backup = None
+          conf_path = os.path.join(webai_dir, "config.conf")
+          if os.path.exists(conf_path):
+              with open(conf_path, "r", encoding="utf-8") as f:
+                  conf_backup = f.read()
+
+          temp_dir = tempfile.mkdtemp()
+          zip_path = os.path.join(temp_dir, "update.zip")
+
+          print(f"Downloading release archive from {download_url}...")
+          req = urllib.request.Request(download_url, headers={"User-Agent": "GitHub-Action-AutoUpdater"})
+          with urllib.request.urlopen(req, timeout=30) as resp, open(zip_path, "wb") as f:
+              shutil.copyfileobj(resp, f)
+
+          extract_dir = os.path.join(temp_dir, "extracted")
+          with zipfile.ZipFile(zip_path, "r") as z:
+              z.extractall(extract_dir)
+
+          extracted_items = os.listdir(extract_dir)
+          source_root = extract_dir
+          if len(extracted_items) == 1 and os.path.isdir(os.path.join(extract_dir, extracted_items[0])):
+              source_root = os.path.join(extract_dir, extracted_items[0])
+
+          os.makedirs(webai_dir, exist_ok=True)
+          for item in os.listdir(source_root):
+              src_item = os.path.join(source_root, item)
+              dst_item = os.path.join(webai_dir, item)
+              if os.path.isdir(src_item):
+                  if os.path.exists(dst_item):
+                      shutil.rmtree(dst_item)
+                  shutil.copytree(src_item, dst_item)
+              else:
+                  shutil.copy2(src_item, dst_item)
+
+          if conf_backup is not None:
+              with open(conf_path, "w", encoding="utf-8") as f:
+                  f.write(conf_backup)
+
+          shutil.rmtree(temp_dir, ignore_errors=True)
+          print("Successfully updated WebAI-to-API folder!")
+          EOF
+
+      - name: Commit and Push to Repository
+        if: steps.check_update.outputs.has_update == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add WebAI-to-API/
+          git commit -m "chore(webai): Auto-update WebAI-to-API to ${{ steps.check_update.outputs.latest_version }} [skip ci]"
+          git push origin main
