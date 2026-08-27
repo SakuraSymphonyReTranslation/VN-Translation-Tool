@@ -56,6 +56,7 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
   * `Polished` — Hasil akhir penyuntingan naskah yang mengalir alami (*lokalisasi final*).
 * **Prioritas Ekspor Otomatis**: Saat menyimpan (*Save*), aplikasi secara cerdas mengekspor lapisan terjemahan tertinggi yang tersedia (`Polished` > `Best` > `Better` > `Initial` > `Machine`) ke file JSON game.
 * **Split View**: Bandingkan dua tab terjemahan secara berdampingan (misal `Initial` vs `Polished`).
+* **📋 Tombol Salin Antar-Tab (Quick Tab Transfer)**: Salin seluruh naskah dari satu tab ke tab lain dalam satu klik (misal: `Initial → Machine`, `Machine → Polished`).
 * **Auto-Heal & Auto-Sync**: Jika teks naskah Jepang asli sebelumnya kosong akibat salah folder, aplikasi akan memulihkan dan mengisi ulang teks Jepang secara otomatis begitu folder raw diarahkan dengan benar.
 
 ### 📖 3. Furigana Parser & Mesin Pencarian Multi-Threaded
