@@ -131,8 +131,24 @@ jobs:
               with open(conf_path, "w", encoding="utf-8") as f:
                   f.write(conf_backup)
 
+          # Re-apply custom model aliases for Gemini 3.7 / 3.5 / 3.1
+          client_p = os.path.join(webai_dir, "src", "app", "services", "providers", "gemini", "webapi_client.py")
+          if os.path.exists(client_p):
+              try:
+                  with open(client_p, "r", encoding="utf-8") as f:
+                      cc = f.read()
+                  if '"gemini-3.7-flash"' not in cc:
+                      cc = cc.replace(
+                          '"pro":      "gemini-3-pro",',
+                          '"pro":      "gemini-3-pro",\n    "gemini-3.7-flash": "gemini-3-flash",\n    "gemini-3.7-flash-high": "gemini-3-flash-thinking",\n    "gemini-3.7-flash-thinking": "gemini-3-flash-thinking",\n    "gemini-3.5-flash": "gemini-3-flash",\n    "gemini-3.5-flash-lite": "gemini-3.1-flash-lite",\n    "gemini-3.1-flash-lite": "gemini-3.1-flash-lite",\n    "gemini-3.1-pro": "gemini-3-pro",'
+                      )
+                      with open(client_p, "w", encoding="utf-8") as f:
+                          f.write(cc)
+              except Exception as e:
+                  print(f"Warning: Failed to patch client aliases: {e}")
+
           shutil.rmtree(temp_dir, ignore_errors=True)
-          print("Successfully updated WebAI-to-API folder!")
+          print("Successfully updated WebAI-to-API folder with custom patches preserved!")
           EOF
 
       - name: Commit and Push to Repository

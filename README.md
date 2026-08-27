@@ -6,6 +6,7 @@
   [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
   [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
   [![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.7%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
   [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
   <br>
@@ -16,7 +17,7 @@
 
 **VN Translation Tool** adalah aplikasi web lokal modern yang dirancang khusus untuk mempermudah proses penerjemahan, penyuntingan (*editing/polishing*), dan lokalisasi naskah **Visual Novel (VN)** (seperti engine Circus / D.C. Series, LucaSystem, dan format game berbasis JSON lainnya). 
 
-Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana otomatis, sistem glosarium naskah, pencarian cerdas berbasis Romaji & Regex, serta integrasi penuh dengan kecerdasan buatan (**Local LLM / WebAI-to-API Gemini**) tanpa perlu bolak-balik copy-paste manual.
+Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana otomatis, sistem glosarium naskah cerdas, pencarian berbasis Romaji & Regex, serta **Hybrid AI Engine** (terkoneksi langsung ke **Google Gemini Web 3.7** via browser cookies tanpa perlu server tambahan, maupun ke **Local LLM / OpenAI API**).
 
 ---
 
@@ -28,7 +29,7 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 - [Panduan Penggunaan (Step-by-Step)](#-panduan-penggunaan-step-by-step)
   - [1. Konfigurasi Proyek & Folder Game](#1-konfigurasi-proyek--folder-game)
   - [2. Navigasi & Penerjemahan Naskah](#2-navigasi--penerjemahan-naskah)
-  - [3. Menerjemahkan dengan AI / LLM](#3-menerjemahkan-dengan-ai--llm)
+  - [3. Menerjemahkan dengan AI (Hybrid Mode: Direct Gemini Web & Custom LLM)](#3-menerjemahkan-dengan-ai-hybrid-mode-direct-gemini-web--custom-llm)
   - [4. Glosarium Istilah & Nama Karakter](#4-glosarium-istilah--nama-karakter)
   - [5. Pencarian Global & Find-and-Replace](#5-pencarian-global--find-and-replace)
 - [Pintasan Keyboard (Shortcuts)](#-pintasan-keyboard-shortcuts)
@@ -61,13 +62,22 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 * **Pencarian Berbasis Romaji**: Mengetik `arisu` akan otomatis menemukan kanji `有里栖`, `ありす`, maupun katakana `アリス`.
 * **Pencarian Regex & In-File Search**: Filter naskah dengan regular expression dan lompat langsung ke baris target dengan cepat.
 
-### 🤖 4. Integrasi LLM & WebAI-to-API Manager
-* **Kompatibel dengan OpenAI API & Gemini**: Terhubung ke endpoint standar `/v1/chat/completions` (seperti Ollama, LM Studio, vLLM, maupun WebAI-to-API).
-* **Manajer Alat WebAI-to-API**:
-  * Terintegrasi langsung dengan server lokal `WebAI-to-API` (port `6969`) untuk memanfaatkan akun Gemini browser secara gratis.
-  * **Auto-Update Rilis GitHub**: Dilengkapi tombol *Check Update* dan *Update Now* 1-klik untuk memperbarui versi WebAI-to-API langsung dari repositori GitHub resmi.
+### 🤖 4. Hybrid AI Engine (Direct Gemini Web & Custom LLM)
+* **Mode 1: Gemini Web Direct API (Natif & Tanpa Server Tambahan)**:
+  * Terhubung langsung ke **Google Gemini Web** menggunakan token browser (`__Secure-1PSID` & `__Secure-1PSIDTS`).
+  * **Tidak memerlukan server lokal eksternal** (`start_webai.bat`).
+  * Dilengkapi tombol **Auto-Extract** (deteksi otomatis cookie dari Chrome/Edge/Firefox) dan **Launch Login** (pembuka login Google di browser).
+* **Mode 2: Custom LLM / OpenAI API / WebAI-to-API Server**:
+  * Kompatibel dengan endpoint OpenAI-compatible standar (`/v1/chat/completions`) seperti **Ollama**, **LM Studio**, **vLLM**, atau server lokal **WebAI-to-API** di port `6969`.
+* **Dukungan Model Gemini Generasi Terbaru**:
+  * `gemini-3.7-flash` (3.7 Flash — All-around help / Default)
+  * `gemini-3.7-flash-thinking` (Extended thinking — Complex problem solving)
+  * `gemini-3.5-flash-lite` (3.5 Flash-Lite — Fastest answers)
+  * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
+* **Tombol `🔄 Fetch Models`**: Ambil daftar model aktif secara dinamis dari endpoint AI Anda.
 * **Batch Translation & Polishing**: Terjemahkan atau poles seluruh skenario dalam satu klik dengan pemantauan progress real-time (*Server-Sent Events*).
 * **Glosarium Otomatis**: Aturan penerjemahan nama karakter, gender, dan panggilan (misal: `Sora-nee`, `Icchan`) disuntikkan secara otomatis ke prompt AI.
+* **Auto-Update WebAI-to-API GitHub Actions**: Repositori dilengkapi GitHub Actions workflow otomatis untuk memperbarui modul WebAI saat ada rilis baru tanpa merusak pengaturan kustom.
 
 ---
 
@@ -92,7 +102,7 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 
 * **Sistem Operasi**: Windows 10 / 11, macOS, atau Linux
 * **Python**: Versi `3.10` atau lebih baru
-* **Browser**: Microsoft Edge, Google Chrome, Mozilla Firefox, atau browser berbasis Chromium lainnya
+* **Browser**: Microsoft Edge, Google Chrome, Mozilla Firefox, atau browser Chromium lainnya
 
 ---
 
@@ -128,7 +138,7 @@ Buka browser dan akses alamat:
 3. Di bagian **Directories**, tentukan jalur folder game Anda:
    * **Original JSON Directory**: Folder berisi file JSON naskah Jepang asli (raw).
    * **Translated JSON Directory**: Folder tujuan penyimpanan JSON terjemahan game.
-   * **Excel Structure File (Opsional)**: File `.xlsx` pengelompokan bab skenario (jika tidak ada, aplikasi otomatis mengelompokkan file dari folder game).
+   * **Excel Structure File (Opsional)**: File `.xlsx` pengelompokan bab skenario.
    * **Project Data Directory**: Folder cache pengerjaan (pilih dari dropdown atau ketik nama folder).
 4. Klik **Save Changes**.
 
@@ -144,30 +154,36 @@ Buka browser dan akses alamat:
 
 ---
 
-### 3. Menerjemahkan dengan AI / LLM
-Aplikasi mendukung integrasi AI lokal via `WebAI-to-API`:
+### 3. Menerjemahkan dengan AI (Hybrid Mode: Direct Gemini Web & Custom LLM)
 
-1. **Jalankan Server AI**:
-   * Double-click file [`start_webai.bat`](start_webai.bat) yang berada di root folder aplikasi.
-   * Server `WebAI-to-API` akan aktif di port `6969`.
-2. **Uji Koneksi**:
-   * Masuk ke **Settings (⚙️) → LLM Configuration**.
-   * Pastikan URL diset ke `http://localhost:6969/v1` dan nama model `gemini-3.0-flash` atau `gemini-3.7-flash`.
-   * Klik **Test Connection** hingga muncul status **Connected!**.
-3. **Menerjemahkan Satu Baris**:
-   * Klik ikon petir/robot di samping baris yang ingin diterjemahkan atau dipoles.
-4. **Menerjemahkan Massal (Batch)**:
-   * Klik tombol **LLM Batch (🤖)** di bagian atas sidebar.
-   * Pilih mode (*Retranslate* / *Polish*), rentang baris, dan klik **Start**.
+Aplikasi memiliki **Hybrid AI Engine** yang sangat fleksibel:
+
+#### Opsi A: Menggunakan Gemini Web Langsung (Rekomendasi - Tanpa Server Tambahan)
+1. Buka **Settings (`Ctrl + ,`) → LLM Configuration**.
+2. Pilih mode **`Gemini Web (Direct API)`**.
+3. Di kartu **Gemini Web Token & Cookies**:
+   * Klik tombol **`Auto-Extract`** untuk mendeteksi token akun Google Anda yang sudah login di browser, **ATAU**:
+   * Klik **`Edit Cookies`** dan tempelkan token `__Secure-1PSID` & `__Secure-1PSIDTS` dari DevTools browser (`gemini.google.com` > F12 > Application > Cookies), lalu klik **`Save Cookies`**.
+4. Klik **Test Connection** — status akan langsung hijau (**Connected**)!
+
+#### Opsi B: Menggunakan Custom LLM / OpenAI API / WebAI Server
+1. Buka **Settings (`Ctrl + ,`) → LLM Configuration**.
+2. Pilih mode **`Custom LLM / OpenAI API`**.
+3. Masukkan **API Base URL** (misalnya `http://localhost:11434/v1` untuk Ollama atau `http://localhost:6969/v1` untuk WebAI-to-API).
+4. Klik **Test Connection**.
+
+#### Menerjemahkan Naskah:
+* **Per Baris**: Klik tombol petir/robot di samping baris yang ingin diterjemahkan atau dipoles.
+* **Massal (Batch Translation)**: Klik tombol **LLM Batch (🤖)** di bagian atas sidebar, pilih rentang baris, dan klik **Start**.
 
 ---
 
 ### 4. Glosarium Istilah & Nama Karakter
-Untuk menjaga nama karakter dan panggilan tidak diterjemahkan keliru oleh AI:
+Untuk menjaga konsistensi nama karakter dan panggilan:
 1. Buka **Settings (⚙️) → LLM Configuration → Glossary**.
 2. Klik **`+ Add`** untuk menambah aturan baru, contoh:
-   * Source (JP): `芳乃 さくら` $\rightarrow$ Target: `Yoshino Sakura` | Info: `Female`
-   * Source (JP): `俺` $\rightarrow$ Target: `Aku` | Info: `Gunakan kata Aku/Kamu`
+   * Source (JP): `芳乃 さくら` $ightarrow$ Target: `Yoshino Sakura` | Info: `Female`
+   * Source (JP): `俺` $ightarrow$ Target: `Aku` | Info: `Gunakan kata Aku/Kamu`
 3. Anda juga bisa mengekspor atau mengimpor glosarium dalam format JSON.
 
 ---
@@ -195,19 +211,17 @@ Untuk menjaga nama karakter dan panggilan tidak diterjemahkan keliru oleh AI:
 
 ## ❓ Troubleshooting & FAQ
 
+#### Q: Bagaimana cara beralih antara Direct Gemini Web dan Local LLM?
+> **Jawaban**: Buka **Settings (Ctrl + ,) → LLM Configuration**. Anda cukup mengklik pilihan radio button antara **Gemini Web (Direct API)** dan **Custom LLM / OpenAI API**. Pengaturan cookies dan base URL akan tersimpan masing-masing secara independen.
+
+#### Q: Mengapa muncul pesan "No module named 'gemini_webapi'"?
+> **Jawaban**: Pastikan dependensi sudah terpasang dengan menjalankan perintah `pip install -r requirements.txt` pada versi Python yang Anda gunakan untuk menjalankan server.
+
 #### Q: Mengapa kolom naskah Jepang asli kosong / tidak muncul?
-> **Jawaban**: Pastikan jalur **Original JSON Directory** pada menu Settings diarahkan tepat ke folder yang berisi file `.json` raw Jepang (bukan folder kosong). Setelah path diperbaiki, buka kembali file tersebut dan aplikasi akan mengisi ulang teks aslinya secara otomatis (*auto-heal*).
-
-#### Q: Test Connection LLM menghasilkan pesan "Cannot connect to http://localhost:6969/v1"?
-> **Jawaban**: Pastikan server `WebAI-to-API` sudah dijalankan dengan me-running file `start_webai.bat`. Biarkan terminal tersebut tetap terbuka di latar belakang.
-
-#### Q: Browser Edge menahan cache tampilan lama?
-> **Jawaban**: Tekan **`Ctrl + F5`** (atau `Ctrl + Shift + R`) pada keyboard untuk melakukan *hard refresh* dan mengunduh pembaruan antarmuka terbaru.
+> **Jawaban**: Pastikan jalur **Original JSON Directory** pada menu Settings diarahkan tepat ke folder yang berisi file `.json` raw Jepang. Setelah path diperbaiki, aplikasi akan mengisi ulang teks aslinya secara otomatis (*auto-heal*).
 
 ---
 
-## 📄 Lisensi & Kredit
+## 🤝 Kontribusi & Lisensi
 
-* **Lisensi**: Dirilis di bawah lisensi [MIT License](LICENSE).
-* **Pengembang**: [Sakura Symphony Re; Translation](https://github.com/SakuraSymphonyReTranslation)
-* **WebAI-to-API**: Berdasarkan repositori upstream oleh [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API).
+Proyek ini berada di bawah lisensi **MIT License**. Kontribusi berupa pull request, pelaporan bug, dan saran fitur baru sangat disambut baik melalui repositori resmi [SakuraSymphonyReTranslation/VN-Translation-Tool](https://github.com/SakuraSymphonyReTranslation/VN-Translation-Tool).
