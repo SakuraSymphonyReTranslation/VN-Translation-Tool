@@ -244,6 +244,8 @@ createApp({
         const llmBatchMode = ref('retranslate');
         const llmBatchSourceTab = ref('initial');
         const llmBatchRange = ref('all');
+        const llmBatchCustomStart = ref(1);
+        const llmBatchCustomEnd = ref(100);
         const llmBatchRunning = ref(false);
         const llmBatchProgress = ref({ current: 0, total: 0 });
         const llmBatchCurrentItem = ref(null);
@@ -1686,6 +1688,12 @@ createApp({
             if (llmBatchRange.value === 'empty') {
                 return translationData.value.filter(r => !r.translations.polished).length;
             }
+            if (llmBatchRange.value === 'custom') {
+                const total = translationData.value.length;
+                const start = Math.max(1, Math.min(total, llmBatchCustomStart.value || 1));
+                const end = Math.max(start, Math.min(total, llmBatchCustomEnd.value || total));
+                return Math.max(0, end - start + 1);
+            }
             return translationData.value.length;
         });
 
@@ -1697,15 +1705,30 @@ createApp({
             llmBatchErrors.value = [];
             llmBatchCurrentItem.value = null;
 
-            // Build items to process
-            let items = translationData.value;
+            // Build items to process with full scenario context
+            const allRows = translationData.value;
+            let items = allRows;
+            let startOffset = 0;
+
             if (llmBatchRange.value === 'empty') {
-                items = items.filter(r => !r.translations.polished);
+                items = allRows.filter(r => !r.translations.polished);
+            } else if (llmBatchRange.value === 'custom') {
+                const total = allRows.length;
+                const start = Math.max(1, Math.min(total, llmBatchCustomStart.value || 1));
+                const end = Math.max(start, Math.min(total, llmBatchCustomEnd.value || total));
+                startOffset = start - 1;
+                items = allRows.slice(startOffset, end);
             }
 
             const payload = {
                 mode: llmBatchMode.value,
                 source_tab: llmBatchSourceTab.value,
+                start_offset: startOffset,
+                full_rows: allRows.map(r => ({
+                    id: r.id,
+                    original: r.original,
+                    translation: r.translations[llmBatchSourceTab.value] || r.translations.initial || ''
+                })),
                 items: items.map(r => ({
                     id: r.id,
                     original: r.original,
@@ -1959,6 +1982,8 @@ createApp({
             llmBatchMode,
             llmBatchSourceTab,
             llmBatchRange,
+            llmBatchCustomStart,
+            llmBatchCustomEnd,
             llmBatchRunning,
             llmBatchProgress,
             llmBatchCurrentItem,
