@@ -1,0 +1,542 @@
+[
+    {
+        "id": 0,
+        "original": "勉強も終わり、そろそろ寝る準備でもしようかと思っていた時だった。",
+        "translations": {
+            "initial": "Aku baru saja selesai belajar dan bersiap-siap untuk tidur.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "べんきょうもおわる、そろそろねるじゅんびでもするかとおもうているたときだた。"
+    },
+    {
+        "id": 1,
+        "original": "ＴＡＢの着信音が鳴ったので見てみると、鳳城からＣＯＭＵが来ていた。",
+        "translations": {
+            "initial": "Tiba-tiba TAB berbunyi, saat kuperiksa, ada pesan COMU masuk dari Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たぶのちゃくしんおんがなるたのだみるてみると、ほうじょうからＣＯＭＵがくるているた。"
+    },
+    {
+        "id": 2,
+        "original": "「詩名」常坂さん、見ましたか？",
+        "translations": {
+            "initial": "「詩名」 Tokisaka-san, apa kamu      sudah melihatnya？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」つねさかさん、みるますたか？"
+    },
+    {
+        "id": 3,
+        "original": "「一登」ん？昨日のＫｏｔｏＲＩの放送か？",
+        "translations": {
+            "initial": "「一登」 Maksudmu siaran KotoRI      yang kemarin?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」の？きのうのＫｏｔｏＲＩのほうそうか？"
+    },
+    {
+        "id": 4,
+        "original": "「一登」なんか考えさせられる内容だったよな",
+        "translations": {
+            "initial": "「一登」 Isinya cukup mengganggu     pikiran, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」なんかかんがえるさせるられるないようだたよな"
+    },
+    {
+        "id": 5,
+        "original": "「詩名」いえ、そっちではなく",
+        "translations": {
+            "initial": "「詩名」 Bukan, bukan yang itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」いえ、そちらではない"
+    },
+    {
+        "id": 6,
+        "original": "そっちじゃない？じゃあどっちだ？",
+        "translations": {
+            "initial": "Bukan yang itu？ Terus yang mana？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そちらだない？でどちらだ？"
+    },
+    {
+        "id": 7,
+        "original": "そもそも、ＫｏｔｏＲＩ以外に鳳城が話題にしそうな放送というと……。",
+        "translations": {
+            "initial": "Lagipula, selain KotoRI, siaran apa lagi yang kira-kira bakal dibahas Houjou....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そもそも、ＫｏｔｏＲＩいがいにほうじょうがわだいにするそうだほうそうというと……。"
+    },
+    {
+        "id": 8,
+        "original": "「詩名」ＫｏｔｏＲＩさんの方も見ましたが、今は日野原さんの話です",
+        "translations": {
+            "initial": "「詩名」 Maksudku bukan KotoRI-san,  tapi Hinohara-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」ＫｏｔｏＲＩさんのほうもみるますたが、いまはひのはらさんのはなしです"
+    },
+    {
+        "id": 9,
+        "original": "「詩名」先ほど、日野原さんも生放送をやっていたんです",
+        "translations": {
+            "initial": "「詩名」 Hinohara-san baru saja      siaran langsung.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」さきほど、ひのはらさんもなまほうそうをやるているたのです"
+    },
+    {
+        "id": 10,
+        "original": "「一登」えっ？そうだったのか？",
+        "translations": {
+            "initial": "「一登」 Eh? Serius?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」えっ？そうだたのか？"
+    },
+    {
+        "id": 11,
+        "original": "予想していなかった答えだ。",
+        "translations": {
+            "initial": "Jawaban yang sama sekali gak kuduga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "よそうするているないたこたえだ。"
+    },
+    {
+        "id": 12,
+        "original": "確かに、鳳城がわざわざ連絡してくるとすればちょこのことくらいかもしれない。",
+        "translations": {
+            "initial": "Memang benar, kalau Houjou sampai repot-repot menghubungiku, biasanya itu soal CHOCO.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たしかだ、ほうじょうがわざわざれんらくするてくるとするばちょこのことくらいかもしれるない。"
+    },
+    {
+        "id": 13,
+        "original": "でもどうして……。",
+        "translations": {
+            "initial": "Tapi kenapa....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だもどうするて……。"
+    },
+    {
+        "id": 14,
+        "original": "「詩名」その反応だと知らなかったようですね",
+        "translations": {
+            "initial": "「詩名」 Sepertinya kamu memang      tidak tahu, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」そのはんのうだとしるないたようですね"
+    },
+    {
+        "id": 15,
+        "original": "「一登」ああ。チェックしてなかった",
+        "translations": {
+            "initial": "「一登」 Iya, aku tidak mengeceknya  tadi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ああ。ちぇっくするてるないた"
+    },
+    {
+        "id": 16,
+        "original": "てっきり事前連絡が来ると思ってたから、完全にノーマークの状態だった。",
+        "translations": {
+            "initial": "Kukira dia bakal kasih kabar dulu, jadi aku benar-benar lengah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "てくきりじぜんれんらくがくるとおもうてるたから、かんぜんだのーまーくのじょうたいだた。"
+    },
+    {
+        "id": 17,
+        "original": "何か理由があって、急遽放送することになったのだろうか。",
+        "translations": {
+            "initial": "Apa mungkin ada alasan tertentu sampai dia harus siaran mendadak?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにかりゆうがあるて、きゅうきょほうそうすることになるたのだか。"
+    },
+    {
+        "id": 18,
+        "original": "「一登」鳳城はよく気付いたな",
+        "translations": {
+            "initial": "「一登」 Hebat kamu bisa             menyadarinya, Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ほうじょうはよくきづくたな"
+    },
+    {
+        "id": 19,
+        "original": "「詩名」偶然です。配信サイトをなんとなく見ていたら発見しまして",
+        "translations": {
+            "initial": "「詩名」 Kebetulan aku menemukannya  di situs streaming.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」ぐうぜんです。はいしんさいとをなにとないみるているたはっけんするますて"
+    },
+    {
+        "id": 20,
+        "original": "逆に言えば、たまたまタイミングがかち合わなければ鳳城も放送を知らなかったことになる。",
+        "translations": {
+            "initial": "Dengan kata lain, kalau timing-nya gak pas, Houjou pun gak bakal tahu soal siaran itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ぎゃくだいうば、たまたまたいみんぐがかちあうないばほうじょうもほうそうをしるないたことになる。"
+    },
+    {
+        "id": 21,
+        "original": "「一登」鳳城にまで連絡してなかったのは、ちょっと引っかかるな",
+        "translations": {
+            "initial": "「一登」 Aneh ya dia tidak           memberitahumu sama sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ほうじょうにまでれんらくするてるないたのは、ちょっとひっかかるな"
+    },
+    {
+        "id": 22,
+        "original": "「詩名」はい…",
+        "translations": {
+            "initial": "「詩名」 Iya, benar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」はい…"
+    },
+    {
+        "id": 23,
+        "original": "これからも生放送をやっていきたいと語るちょこは、期待に胸を膨らませているように見えた。",
+        "translations": {
+            "initial": "CHOCO yang bilang ingin terus melakukan siaran langsung tampak sangat bersemangat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これからもなまほうそうをやるていくたいとかたるちょこは、きたいにむねをふくらむせるているようだみえるた。"
+    },
+    {
+        "id": 24,
+        "original": "そんな彼女の配信をぜひ見てみたかったのだが……。",
+        "translations": {
+            "initial": "Padahal aku ingin sekali melihat siarannya itu....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そんなかのじょのはいしんをぜひみるてみるたいたのだが……。"
+    },
+    {
+        "id": 25,
+        "original": "「一登」放送はどんな感じだった？前となにか変わってたりしたか？",
+        "translations": {
+            "initial": "「一登」 Gimana suasananya? Ada yang berubah?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ほうそうはどんなかんじだた？まえとなにかかわるてるたりするたか？"
+    },
+    {
+        "id": 26,
+        "original": "「詩名」…そうですね",
+        "translations": {
+            "initial": "「詩名」 Ya, begitulah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」…そうですね"
+    },
+    {
+        "id": 27,
+        "original": "「詩名」今までよりも落ち着いた雰囲気だったと思います",
+        "translations": {
+            "initial": "「詩名」 Suasananya kini jauh lebih  tenang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」いままでよりもおちつくたふんいきだたとおもうます"
+    },
+    {
+        "id": 28,
+        "original": "「詩名」話し方も進行も、全体的にゆったりとしていて",
+        "translations": {
+            "initial": "「詩名」 Bicaranya pun terasa lebih  santai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」はなすかたもしんこうも、ぜんたいてきだゆったりとするているて"
+    },
+    {
+        "id": 29,
+        "original": "「一登」そこだけ聞くとちょこっぽくないな",
+        "translations": {
+            "initial": "「一登」 Beda ya, bukan seperti      CHOCO biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」そこだけきくとちょこぽいないな"
+    },
+    {
+        "id": 30,
+        "original": "「一登」新しいやり方を模索中って感じか",
+        "translations": {
+            "initial": "「一登」 Apa dia sedang mencoba      gaya baru?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」あたらしいやるかたをもさくちゅうつうかんじか"
+    },
+    {
+        "id": 31,
+        "original": "「詩名」だとしたらいいんですが…",
+        "translations": {
+            "initial": "「詩名」 Bagus jika benar, tapi aku  ragu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」だとするたよいのですが…"
+    },
+    {
+        "id": 32,
+        "original": "鳳城は気にかかることがあるらしい。",
+        "translations": {
+            "initial": "Sepertinya ada sesuatu yang mengganjal di pikiran Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうじょうはきにかかることがあるらしい。"
+    },
+    {
+        "id": 33,
+        "original": "しばらくメッセージを待っていると――。",
+        "translations": {
+            "initial": "Setelah menunggu pesannya selama beberapa saat-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しばらくめっせーじをまつていると――。"
+    },
+    {
+        "id": 34,
+        "original": "「詩名」どこか無理をしているように思えて、気になってしまって",
+        "translations": {
+            "initial": "「詩名」 Aku cemas dia terlihat      memaksakan diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」どこかむりをするているようだおもうて、きになるてしまうて"
+    },
+    {
+        "id": 35,
+        "original": "そんな一文が送られてきた。",
+        "translations": {
+            "initial": "Satu kalimat itu pun terkirim.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そんないちぶんがおくるれるてくるた。"
+    },
+    {
+        "id": 36,
+        "original": "無理してる、か。思い過ごしとも考えられるけど……。",
+        "translations": {
+            "initial": "Memaksakan diri, ya? Bisa saja itu cuma perasaan Shiina saja, tapi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "むりするてる、か。おもいすごしともかんがえるられるけれど……。"
+    },
+    {
+        "id": 37,
+        "original": "放送の雰囲気や進行が、以前よりゆっくりになってるって話がひっかかる。",
+        "translations": {
+            "initial": "Keterangan soal suasana dan pembawaan siaran yang jadi lebih lambat itu cukup mengganggu pikiranku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうそうのふんいきやしんこうが、いぜんよりゆっくりになるてるつうはなしがひっかかる。"
+    },
+    {
+        "id": 38,
+        "original": "仲の良い鳳城がそう感じたのなら、もしかすると本当に無理をしてるのかもしれない。",
+        "translations": {
+            "initial": "Kalau Houjou yang akrab dengannya saja merasa begitu, mungkin dia benar-benar sedang memaksakan diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なかのよいほうじょうがそうかんずるたのだ、もしかするとほんとうにむりをするてるのかもしれるない。"
+    },
+    {
+        "id": 39,
+        "original": "そういえば以前、ちょこはＫｏｔｏＲＩと『芸風』が違うと悩んでいる感じがあったしな……。",
+        "translations": {
+            "initial": "Kalau dipikir-pikir, dulu CHOCO sempat galau karena merasa 'gaya hiburannya' berbeda dengan KotoRI...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そういうばいぜん、ちょこはＫｏｔｏＲＩと『げいふう』がちがうとなやむているかんじがあるたしな……。"
+    },
+    {
+        "id": 40,
+        "original": "ＫｏｔｏＲＩが持つ癒やしの雰囲気もいいけど、俺はちょこの元気いっぱいな感じもいいと思うんだけどなぁ。",
+        "translations": {
+            "initial": "Suasana menenangkan milik KotoRI memang bagus, tapi aku rasa keceriaan CHOCO juga tidak kalah menarik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ＫｏｔｏＲＩがもついやしのふんいきもよいけれど、おれはちょっとこのげんきいっぱいだかんじもよいとおもうのだけれどな。"
+    },
+    {
+        "id": 41,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 42,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 43,
+        "original": "鳳城とやり取りを続けるうちに、俺もちょこのことが気になり始めてしまっていた。",
+        "translations": {
+            "initial": "Selagi terus bertukar pesan dengan Houjou, aku pun mulai mengkhawatirkan keadaan CHOCO.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうじょうとやりとりをつづけるうちに、おれもちょこのことがきになるはじめるてしまうているた。"
+    },
+    {
+        "id": 44,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

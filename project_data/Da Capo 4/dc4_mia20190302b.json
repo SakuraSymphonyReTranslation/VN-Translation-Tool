@@ -1,0 +1,2462 @@
+[
+    {
+        "id": 0,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "「いっちゃん、ちょっとそこのソファどけてくれる？」",
+        "translations": {
+            "initial": "「Icchan, bisa tolong geser sofa itu sebentar？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "「よっと……こんなもんでいいか？」",
+        "translations": {
+            "initial": "「Hup... segini cukup, kan？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "@t7@d1「うん、オッケー、ありがとー」",
+        "translations": {
+            "initial": "@t7@d1「Sip, oke, makasih ya-」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "@t40@d1「あ、兄さん兄さん、ガラス戸を拭いて貰えますか？上の方全然届かなくて」",
+        "translations": {
+            "initial": "@t40@d1「Ah, Nii-san Nii-san, bisa tolong lap pintu kacanya？ Bagian atasnya nggak nyampe sama sekali nih」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "「あいよー」",
+        "translations": {
+            "initial": "「Siap-」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "両親が帰ってくるとの報告が飛んできたので、本日の常坂家の予定は大掃除に決定。",
+        "translations": {
+            "initial": "Karena ada kabar kalau orang tua akan pulang, agenda keluarga Tokisaka hari ini pun diputuskan untuk bersih-bersih besar.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "勿論、普段から掃除はしているけど、細かい所までは行き届いていないからな。",
+        "translations": {
+            "initial": "Tentu saja, biasanya juga dibersihkan, tapi memang ada bagian-bagian detail yang tidak terjangkau.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "ソファの下だったり、テレビ台の裏だったり。",
+        "translations": {
+            "initial": "Seperti di bawah sofa, atau di balik rak TV.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "やんなきゃいけないポイントは山ほどある。",
+        "translations": {
+            "initial": "Ada banyak sekali titik yang harus dikerjakan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "「ふぅー……そういえば、寝室の方はどうだったっけ」",
+        "translations": {
+            "initial": "「Fuu-... ngomong-ngomong, gimana dengan kamar tidurnya?」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "@t20@d1「パパたちのですか？汚いって程ではないですけど、少し埃っぽいかもです」",
+        "translations": {
+            "initial": "@t20@d1「Kamar Papa dan Mama？ Enggak kotor-kotor amat sih, tapi mungkin agak berdebu」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "「あーそっか、あそこを全部綺麗にしたのって年末の大掃除の時だったもんなぁ……」",
+        "translations": {
+            "initial": "「Ah gitu ya, terakhir kali semuanya dibersihkan total kan pas bersih-bersih akhir tahun lalu...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "@t33@d1@t45@d2「全体的に埃を払って、あとは……お布団も綺麗にした方がいいかもしれないね」",
+        "translations": {
+            "initial": "@t33@d1@t45@d2「Bersihkan debunya secara keseluruhan, lalu... mungkin selimutnya juga harus dibersihkan ya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "「んだね……あーやることどんどん増えてくな」",
+        "translations": {
+            "initial": "「Bener juga... ah, kerjaannya jadi makin nambah terus nih」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "掃除が始まってから、大体３時間くらい。",
+        "translations": {
+            "initial": "Sudah sekitar tiga jam berlalu sejak kegiatan bersih-bersih dimulai.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "「……小腹も減ってきたし、そろそろ休憩するか？」",
+        "translations": {
+            "initial": "「...Perut juga sudah mulai lapar, gimana kalau kita istirahat dulu？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "@t15@d1「賛成です……ちょっと糖分が欲しい気分です」",
+        "translations": {
+            "initial": "@t15@d1「Setuju... rasanya aku butuh asupan gula」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "@t40@d1「あはは、それじゃあカフェオレを淹れようかな。甘めに仕上げるね」",
+        "translations": {
+            "initial": "@t40@d1「Ahaha, kalau begitu aku buatkan cafe au lait ya. Bakal kubikin yang manis」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "そんなわけで、そら姉特製のカフェオレとお茶菓子でブレイクタイムとなった。",
+        "translations": {
+            "initial": "Maka dari itu, kami pun menikmati waktu istirahat dengan cafe au lait buatan Sora-nee dan camilan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "「ふぅー……リビング周辺は大体終わったかな？」",
+        "translations": {
+            "initial": "「Fyuuh...... Area ruang tamu kayaknya udah hampir beres ya？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "「うん、後は寝室とか２階の窓とか」",
+        "translations": {
+            "initial": "「Iya, sisanya tinggal kamar tidur sama jendela di lantai dua」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "「ふふ、それじゃあもうちょっとで終わるね」",
+        "translations": {
+            "initial": "「Fufu, kalau gitu sebentar lagi selesai ya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "「あー、あと買い物にも行っておかないとな。ご飯の量とか一気に増えるし」",
+        "translations": {
+            "initial": "「Ah, terus harus pergi belanja juga. Porsi makanan bakal langsung nambah banyak soalnya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "@bt3@t20@d1「あっ、そうだね。お肉や野菜なんかの食材も普段の倍は必要だし」",
+        "translations": {
+            "initial": "@bt3@t20@d1「Ah, bener juga. Stok bahan makanan kayak daging sama sayur juga perlu dua kali lipat dari biasanya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "「あ、お米も切れそうだったな。それとお茶っぱとツマミも……」",
+        "translations": {
+            "initial": "「Ah, beras juga mau habis. Terus daun teh sama camilan juga......」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "「……結構買うことになりそうだな」",
+        "translations": {
+            "initial": "「......Bakal banyak banget nih belanjanya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "うーん……休みだから、夕方前にはスーパーも混みそうだし、その前に行っておきたい。",
+        "translations": {
+            "initial": "Hmm...... Karena hari libur, supermarket pasti bakal ramai sebelum sore, jadi aku ingin pergi sebelum itu.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "そうだな、掃除も一段落はしたし……。",
+        "translations": {
+            "initial": "Benar juga, bersih-bersihnya juga sudah lumayan beres.......",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "「よし、じゃあちょっと行ってくるわ」",
+        "translations": {
+            "initial": "「Sip, kalau gitu aku berangkat dulu ya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "「え？行っちゃうの？」",
+        "translations": {
+            "initial": "「Eh？ Kamu mau langsung pergi？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「今ならスーパーも空いてそうだし、必要なのをさっさと買って、さっさと帰ってくるわ」",
+        "translations": {
+            "initial": "「Mumpung supermarketnya kayaknya masih sepi, aku bakal beli yang perlu-perlu aja terus langsung balik」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "「かなり荷物多くなっちゃいますけど、大丈夫ですか？」",
+        "translations": {
+            "initial": "「Barang bawaannya bakal banyak banget lho, Nii-san gapapa？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "「そこは気合と根性で。持ち方工夫すればイケるだろ」",
+        "translations": {
+            "initial": "「Itu sih modal niat sama tenaga aja. Kalau pinter ngaturnya pasti bisa kok」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "レジ袋だってそこまで無能じゃないしな。無理そうだったら……最悪分割で買えばいい。",
+        "translations": {
+            "initial": "Kantong belanja juga nggak selemah itu. Kalau nggak sanggup...... paling buruk ya belanjanya dicicil dua kali.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "@t20@d1「うーん……いっちゃん、わたしも行く！」",
+        "translations": {
+            "initial": "@t20@d1「Hmm...... Icchan, aku juga mau ikut！」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "「え？マジで？」",
+        "translations": {
+            "initial": "「Eh？ Serius？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "@bt3@t30@d1@t70@d2「うん、だって絶対大変でしょ？お米や野菜ってかなり重くなっちゃうし。一人より二人、でしょ？だから一緒に行こう？」",
+        "translations": {
+            "initial": "@bt3@t30@d1@t70@d2「Iya, soalnya pasti repot banget, 'kan？ Beras sama sayuran itu lumayan berat. Lebih baik berdua daripada sendirian, 'kan？ Makanya, ayo pergi bareng？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "「あぁ、んじゃお願いするわ」",
+        "translations": {
+            "initial": "「Ah, kalau begitu aku minta tolong ya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "人手があった方が楽なのは間違いないしな。",
+        "translations": {
+            "initial": "Punya bantuan tambahan memang pasti bakal lebih memudahkan sih.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "あと買い物の目利きは、そら姉が一番上手い。",
+        "translations": {
+            "initial": "Lagipula, soal memilih barang belanjaan, Sora-nee adalah yang paling jago.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "「それじゃあ二乃、俺とそら姉で行ってくるから、悪いけど寝室の方を先に」",
+        "translations": {
+            "initial": "「Kalau begitu Nino, aku dan Sora-nee pergi dulu ya, maaf tapi tolong urus kamar tidur duluan」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "「行きます、私も行きます」",
+        "translations": {
+            "initial": "「Ikut, aku juga mau ikut」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "「え？い、いいのか？かなり重いと思うけど……」",
+        "translations": {
+            "initial": "「Eh？ Bo, boleh saja？ Tapi aku rasa bakal lumayan berat...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "@bt1@t30@d1「平気です、私を甘く見ないでください。だからご一緒します、ええ絶対に」",
+        "translations": {
+            "initial": "@bt1@t30@d1「Gak apa-apa, jangan remehkan aku ya. Pokoknya aku mau ikut, titik」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "「お、おう……」",
+        "translations": {
+            "initial": "「O, oh...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "よく分からんが、凄い気迫を感じる……。",
+        "translations": {
+            "initial": "Entah kenapa, aku merasakan tekad yang luar biasa dari dia...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "ここでその意見を退けたら、後で何か後悔してしまう系の……。",
+        "translations": {
+            "initial": "Rasanya kalau aku menolak pendapatnya sekarang, aku bakal menyesal nantinya...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "「ふふ、それじゃあ三人で仲良く買い物しよっか」",
+        "translations": {
+            "initial": "「Fufu, kalau begitu ayo kita belanja bertiga dengan rukun」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "「そうしましょう、お昼も近いのでそれも買わないといけませんもんね」",
+        "translations": {
+            "initial": "「Ayo, karena sudah hampir jam makan siang, kita juga harus beli itu, 'kan」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "「二乃ちゃんは何かリクエストはある？」",
+        "translations": {
+            "initial": "「Nino-chan ada permintaan mau makan apa？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "@t10@d1@t35@d2「うーん……あ、それじゃああんかけ焼きそばで！この前テレビで見てから、食べたくなっちゃったので」",
+        "translations": {
+            "initial": "@t10@d1@t35@d2「Hmm... Ah, kalau begitu yakisoba siram saja！ Sejak lihat di TV kemarin, aku jadi kepingin makan itu」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "……ま、荷物が多くなることは確実だし、二乃も一緒でいいか。",
+        "translations": {
+            "initial": "...Yah, karena barang belanjaannya sudah pasti bakal banyak, Nino ikut juga gak apa-apa sih.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "そういえば……。",
+        "translations": {
+            "initial": "Ngomong-ngomong...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "三人で買い物をするのって、結構久しぶりかもな……。",
+        "translations": {
+            "initial": "Belanja bertiga seperti ini rasanya sudah lumayan lama tidak dilakukan ya...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "「よっこいせっと」",
+        "translations": {
+            "initial": "「Hap!」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "「いっちゃん平気？重くない？」",
+        "translations": {
+            "initial": "「Icchan gak apa-apa？ Berat gak？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "「んーイケる、重いけど持ち方を変えれば……よし、これでオッケー」",
+        "translations": {
+            "initial": "「Hmm, masih sanggup. Berat sih, tapi kalau cara bawanya diubah begini... sip, beres」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "お米を肩に担ぎながら、買い物リストの確認。",
+        "translations": {
+            "initial": "Sambil memanggul beras di bahu, aku memeriksa daftar belanjaan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "食料はこれで全部済んだし、あとは日用品だな。",
+        "translations": {
+            "initial": "Bahan makanan sudah semua, sisanya tinggal kebutuhan sehari-hari.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "「１００円ショップにでも行く？」",
+        "translations": {
+            "initial": "「Gimana kalau kita ke toko serba ada？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "@t38@d1@t38@d2「そうですね、飲み物はあっちの方が安いですし。あとフローリング用のシートも欲しいので」",
+        "translations": {
+            "initial": "@t38@d1@t38@d2「Boleh juga, soalnya minuman di sana lebih murah. Aku juga mau beli tisu pembersih lantai」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "「その辺をまとめて買うなら決まりだな」",
+        "translations": {
+            "initial": "「Kalau mau beli borongan begitu, sudah diputuskan ya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "にしても、いざ購入すると思った以上の荷物になったな。",
+        "translations": {
+            "initial": "Tapi dipikir-pikir, barang belanjaannya jadi jauh lebih banyak dari dugaan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "俺はお米を担いで、二乃の両手には野菜の数々、そら姉は昼食用の総菜に三人分の麺っと。",
+        "translations": {
+            "initial": "Aku memanggul beras, kedua tangan Nino penuh dengan berbagai sayuran, dan Sora-nee membawa lauk makan siang serta mi untuk tiga orang.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "１回帰ってもいいけど、また来るのは面倒だしな。しょうがないと割り切ろう。",
+        "translations": {
+            "initial": "Bisa saja pulang dulu sekali, tapi malas kalau harus balik lagi. Ya sudah, terima nasib saja.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "「そうだ、お菓子とかも買っておかないとね」",
+        "translations": {
+            "initial": "「Oiya, kita harus beli camilan juga, kan?」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "@t35@d1「パパ、何が好きだったかなぁ……。あ、あの固くて歯ごたえのあるポテチとか」",
+        "translations": {
+            "initial": "@t35@d1「Papa suka apa ya... Ah, keripik kentang yang keras dan renyah itu mungkin」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "@t25@d1「あーあれか、ふふっ、晩酌用につまんでるのかな？」",
+        "translations": {
+            "initial": "@t25@d1「Ah, yang itu ya? Hehe, mungkin buat teman minum malam?」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "……にしても。",
+        "translations": {
+            "initial": "...Ngomong-ngomong.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "案の定だけど、二人共重そうだな。",
+        "translations": {
+            "initial": "Seperti dugaan, mereka berdua kelihatan keberatan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "荷物はちゃんと持ってるけど、たまーにフラフラとしちゃってるし。",
+        "translations": {
+            "initial": "Walaupun barangnya terpegang, sesekali langkah mereka jadi agak sempoyongan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "けど、俺が持てるのはあとひとり分というか、片手分のみだからな……。",
+        "translations": {
+            "initial": "Tapi, beban yang bisa kubantu tinggal buat satu orang lagi, atau lebih tepatnya sisa satu tangan saja...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "さて……。",
+        "translations": {
+            "initial": "Nah, jadi...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "二乃の荷物を持つ",
+        "translations": {
+            "initial": "Membawakan barang Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "そら姉を手伝う",
+        "translations": {
+            "initial": "Membantu Sora-nee",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "よし、二乃の荷物を持ってやるか。",
+        "translations": {
+            "initial": "Oke, aku bawakan barang milik Nino saja.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "野菜って単純に重いからな。あと卵も入ってるし。",
+        "translations": {
+            "initial": "Sayuran itu lumayan berat. Apalagi ada telurnya juga.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "何より非力だし。",
+        "translations": {
+            "initial": "Lagipula dia yang paling lemah fisiknya.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "「二乃、その荷物こっちに渡してくれ」",
+        "translations": {
+            "initial": "「Nino, sini berikan barang itu ke aku」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "@t25@d1「はい？あ、いや……でも危ないですよ？兄さんただでさえお米持ってますし」",
+        "translations": {
+            "initial": "@t25@d1「Hah？ Ah, enggak... tapi ini bahaya lho？ Padahal Nii-san sudah bawa beras begitu」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "「あとひとつくらい平気だって。ほら早く」",
+        "translations": {
+            "initial": "「Satu kantong lagi mah nggak masalah. Ayo cepetan」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "@t25@d1「……べ、別に大丈夫です。これくらい平気です」",
+        "translations": {
+            "initial": "@t25@d1「...E-Enggak apa-apa kok. Kalau segini sih enteng」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "「本当か？」",
+        "translations": {
+            "initial": "「Yakin nih？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "「信じてください、だってほら」",
+        "translations": {
+            "initial": "「Percaya deh sama aku, tuh lihat」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "「お、おい……」",
+        "translations": {
+            "initial": "「O-Oi...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "ひょいひょいとレジ袋を上下させてるけど、そんなことしてると……。",
+        "translations": {
+            "initial": "Dia mengayun-ayunkan kantong belanjaannya naik turun, padahal kalau begitu terus...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "「わ、っとっと……」",
+        "translations": {
+            "initial": "「Wa, aduh duh...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "言わんこっちゃない！",
+        "translations": {
+            "initial": "Tuh, kan, apa kubilang！",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "なんとか踏みとどまったけど、もう少しで荷物をクッションに転ぶところだったぞ……。",
+        "translations": {
+            "initial": "Untungnya dia masih bisa jaga keseimbangan, tapi sedikit lagi saja dia pasti sudah jatuh menimpa barang bawaannya...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "@t17@d1「あ、あはは……ほら、平気でしょう？」",
+        "translations": {
+            "initial": "@t17@d1「A-Ahaha... tuh, nggak apa-apa, kan？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "「どこがだよ……ほら、渡せって。一番下に卵があるんだぞ」",
+        "translations": {
+            "initial": "「Apanya yang nggak apa-apa... Sini, kasih ke aku. Di bagian paling bawah ada telurnya, tahu」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "@t10@d1「う……お、お願いします……」",
+        "translations": {
+            "initial": "@t10@d1「Ugh... To-tolong ya...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "おずおずと二乃がレジ袋を渡してくる。",
+        "translations": {
+            "initial": "Nino pun menyerahkan kantong belanjaannya dengan ragu-ragu.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "「むっ……」",
+        "translations": {
+            "initial": "「Mgh...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "持ってみて一瞬で分かった。これはかなり重い。",
+        "translations": {
+            "initial": "Begitu memegangnya, aku langsung sadar. Ini berat banget.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "右肩に米袋を抱えて、左手にこんもり詰められたレジ袋を持って……。",
+        "translations": {
+            "initial": "Memanggul karung beras di bahu kanan, lalu menenteng kantong belanjaan penuh di tangan kiri...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "@t15@d1「あ、あの……大丈夫ですか？」",
+        "translations": {
+            "initial": "@t15@d1「A-Anu... Nii-san nggak apa-apa？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "「いっちゃん、無理しない方がいいと思うよ？」",
+        "translations": {
+            "initial": "「Icchan, menurutku lebih baik jangan dipaksakan, ya？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "「い、いや……イケる、頑張れる……」",
+        "translations": {
+            "initial": "「E-Enggak... aku bisa kok, aku bakal berusaha...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "バランスに気を付ければ大丈夫だ。それに……あんまり言いたくはないけど。",
+        "translations": {
+            "initial": "Asalkan aku menjaga keseimbangan, semuanya bakal baik-baik saja. Lagipula... aku agak segan mengatakannya, tapi.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "やっぱり無理とは言えない。元々皆無に等しい兄の威厳がいよいよ危ういし。",
+        "translations": {
+            "initial": "Aku benar-benar nggak bisa bilang menyerah. Wibawaku sebagai kakak yang sudah hampir nol ini bakal benar-benar terancam.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "「……兄さん」",
+        "translations": {
+            "initial": "「...Nii-san」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "「ほ、本当に平気だぞ？スキップだって出来るくらいだし」",
+        "translations": {
+            "initial": "「Su-Sungguh, aku nggak apa-apa kok. Aku bahkan masih bisa sambil lompat-lompat」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "「あ、ありがとうございます……」",
+        "translations": {
+            "initial": "「Te-Terima kasih banyak...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "「え？あ……あぁ……」",
+        "translations": {
+            "initial": "「Eh？ Ah... iya...」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "素直に感謝されて、ちょっとびっくりした。",
+        "translations": {
+            "initial": "Aku sedikit terkejut karena dia berterima kasih dengan tulus.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "@t50@d1「む、無理だと思ったらすぐ返してくださいね？その……卵が入ってるんですから」",
+        "translations": {
+            "initial": "@t50@d1「Ka-Kalau sudah merasa nggak sanggup, segera kembalikan ya？ Soalnya... di dalamnya ada telur」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "「分かってる、その時はお願いするわ」",
+        "translations": {
+            "initial": "「Aku mengerti, kalau saat itu tiba aku bakal minta tolong padamu」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "……とはいえ、無理だと分かっても、無理をすることになりそうだけどな。",
+        "translations": {
+            "initial": "Padahal, meski tahu aku nggak sanggup pun, sepertinya aku bakal tetap memaksakan diri.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "妹から感謝されたら嫌とはいえない。",
+        "translations": {
+            "initial": "Mana mungkin aku bisa menolak setelah adikku berterima kasih padaku.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "これでも、こいつの兄だからな。",
+        "translations": {
+            "initial": "Biar begini pun, aku tetap kakaknya.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "この後の１００円ショップも、そら姉中心で買い物して貰うわけだし。",
+        "translations": {
+            "initial": "Setelah ini di toko 100 yen pun, Sora-nee yang bakal jadi pusat belanjanya.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "どれだけ商品を買うか分からないけど、持ってあげた方が色々と楽だろう。",
+        "translations": {
+            "initial": "Aku nggak tahu seberapa banyak barang yang akan dibeli, tapi sepertinya bakal lebih mudah kalau aku yang membawakannya.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "「そら姉、その荷物こっちにちょうだい」",
+        "translations": {
+            "initial": "「Sora-nee, sini kasih barang bawaannya padaku」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "「え？いいの？持ってくれるの？」",
+        "translations": {
+            "initial": "「Eh？ Boleh？ Kamu mau membawakannya？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "「うん」",
+        "translations": {
+            "initial": "「Iya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "「……大丈夫？」",
+        "translations": {
+            "initial": "「...Kamu nggak apa-apa？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "「平気だって、ほら早く」",
+        "translations": {
+            "initial": "「Nggak apa-apa kok, ayo cepat」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "「じゃあ……はい」",
+        "translations": {
+            "initial": "「Kalau gitu... nih」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "レジ袋を渡されると……。",
+        "translations": {
+            "initial": "Saat dia menyerahkan kantong plastiknya....",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "「おふっ！？」",
+        "translations": {
+            "initial": "「Oof！？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "予想以上に重ッ！",
+        "translations": {
+            "initial": "Lebih berat dari dugaanku！",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "これは……出来れば両手で持ちたい……。",
+        "translations": {
+            "initial": "Kalau bisa, ini mau kupegang pakai dua tangan saja....",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "@t15@d1「いっちゃん大丈夫？無理しなくていいんだよ？」",
+        "translations": {
+            "initial": "@t15@d1「Icchan, kamu gak apa-apa？ Gak perlu dipaksakan, lho？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "「い、いやいや、余裕余裕……」",
+        "translations": {
+            "initial": "「E-enggak kok, masih santai....」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "「脂汗出てますよ」",
+        "translations": {
+            "initial": "「Kamu sampai keringat dingin begitu」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "快晴な空の下、これを持つのは本気でしんどい。",
+        "translations": {
+            "initial": "Di bawah langit yang cerah ini, membawa barang begini benar-benar melelahkan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "けど……今更そら姉に荷物を戻すのは、かなり格好が悪いからな……。",
+        "translations": {
+            "initial": "Tapi... mengembalikan barangnya ke Sora-nee sekarang bakal kelihatan payah banget....",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "@t30@d1「わー、いっちゃん凄い頑張ってる。偉い偉い」",
+        "translations": {
+            "initial": "@t30@d1「Wah, Icchan semangat banget ya. Pinter, pinter」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "「……もっと別の褒め方でお願い。その単語を連続で出すのは忸怩たるものがあるって」",
+        "translations": {
+            "initial": "「...Tolong puji pakai kata lain. Rasanya agak malu kalau kata itu diulang-ulang terus」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "@t18@d1「いい子いい子、ナデナデしてあげよっか？」",
+        "translations": {
+            "initial": "@t18@d1「Anak pintar, mau Kakak elus-elus kepalanya？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "「……それはもっと違う」",
+        "translations": {
+            "initial": "「...Bukan itu juga maksudku」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "年下として扱うにしたっていくらなんでも低すぎるよ。",
+        "translations": {
+            "initial": "Meskipun aku lebih muda, diperlakukan begini rasanya keterlaluan sekali.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "この年でお子ちゃま扱いっていうのは、やっぱり恥ずかしい。",
+        "translations": {
+            "initial": "Diperlakukan seperti anak kecil di usia segini benar-benar memalukan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 216,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 217,
+        "original": "「でも、本当に無理はしないでね？」",
+        "translations": {
+            "initial": "「Tapi, beneran jangan dipaksakan ya？」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 218,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 219,
+        "original": "「ん……大丈夫。持ち方を工夫すれば意外と平気だし」",
+        "translations": {
+            "initial": "「Hm... gak apa-apa. Kalau cara pegangnya benar, ternyata lumayan oke kok」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 220,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 221,
+        "original": "@t15@d1「そう……ふふ、ありがとね」",
+        "translations": {
+            "initial": "@t15@d1「Begitu ya... fufu, terima kasih ya」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 222,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 223,
+        "original": "「どういたしまして」",
+        "translations": {
+            "initial": "「Sama-sama」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 224,
+        "original": "今のは単なる強がりだ。実際のところ、重いし辛い。",
+        "translations": {
+            "initial": "Yang barusan itu cuma gertakan saja. Sebenarnya, ini berat dan melelahkan.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 225,
+        "original": "けど……。",
+        "translations": {
+            "initial": "Tapi...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 226,
+        "original": "そら姉に喜んで貰えるなら、これくらい軽いってもんだよな。",
+        "translations": {
+            "initial": "Kalau ini bisa bikin Sora-nee senang, segini sih rasanya enteng banget.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 227,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 228,
+        "original": "「ただいまーっと」",
+        "translations": {
+            "initial": "「Aku pulang!」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 229,
+        "original": "ふぅー疲れた。",
+        "translations": {
+            "initial": "Fuu, capeknya.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 230,
+        "original": "荷物の量もそうだけど、かなり歩き回ったからな。全身クタクタになってる。",
+        "translations": {
+            "initial": "Bukan cuma karena jumlah barangnya, tapi aku juga jalan cukup jauh. Seluruh badan rasanya lemas banget.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 231,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 232,
+        "original": "@t30@d1@t30@d2「はい、それじゃあ焼きそば作っちゃうから、ふたりともちょーっと待っててねー」",
+        "translations": {
+            "initial": "@t30@d1@t30@d2「Sip, kalau gitu aku bakal bikin yakisoba dulu, kalian berdua tunggu sebentar ya!」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 233,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 234,
+        "original": "@t15@d1「はーい、あ、うずらもお願いします！」",
+        "translations": {
+            "initial": "@t15@d1「Oke! Ah, tolong tambahin telur puyuhnya juga ya!」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 235,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 236,
+        "original": "@t23@d1「はいはい、分かってるって、ふふっ」",
+        "translations": {
+            "initial": "@t23@d1「Iya, iya, aku tahu kok, fufu」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 237,
+        "original": "さて、ご飯の後は掃除の続きか。",
+        "translations": {
+            "initial": "Nah, sehabis makan lanjut bersih-bersih lagi ya.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 238,
+        "original": "残りの作業も結構あって大変だな。怠いって気持ちは否めないけど……。",
+        "translations": {
+            "initial": "Sisa pekerjaannya masih lumayan banyak dan bakal merepotkan. Enggak bisa dimungkiri kalau aku merasa malas, tapi...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 239,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 240,
+        "original": "「ま、そこはしゃーないか」",
+        "translations": {
+            "initial": "「Yah, mau gimana lagi」",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 241,
+        "original": "まずは、そら姉特製あんかけ焼きそばを食べれば、体力と元気も大分回復するはずだ。",
+        "translations": {
+            "initial": "Pertama-tama, kalau sudah makan yakisoba kental spesial buatan Sora-nee, tenaga dan semangatku pasti bakal pulih banyak.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 242,
+        "original": "それを堪能して、軽く食休みをして……。",
+        "translations": {
+            "initial": "Menikmati makanannya, istirahat sebentar...",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 243,
+        "original": "それから続きを頑張るとするか。",
+        "translations": {
+            "initial": "Lalu lanjut semangat kerja lagi.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 244,
+        "original": "なんとか今日中に終わらせないといけないしな。",
+        "translations": {
+            "initial": "Bagaimanapun juga, aku harus menyelesaikannya hari ini.",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    },
+    {
+        "id": 245,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": ""
+        }
+    }
+]

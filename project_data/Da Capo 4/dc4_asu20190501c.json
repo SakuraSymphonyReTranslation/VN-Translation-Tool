@@ -1,0 +1,2198 @@
+[
+    {
+        "id": 0,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 1,
+        "original": "「@t23@d1常坂君、常坂君！さっきね、尚純さんから連絡が来たの！ひとまず完成したから見に来てほしいって！」",
+        "translations": {
+            "initial": "「@t21@d1Tokisaka-kun, Tokisaka-kun！ Tadi Naozumi-san menghubungiku！ Katanya alatnya sudah jadi, jadi dia ingin kita datang melihatnya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t23@d1つねさかくん、つねさかくん！さっきね、しょうじゅんさんかられんらくがくるたの！ひとまずかんせいするたからみるにくるてほしいって！」"
+    },
+    {
+        "id": 2,
+        "original": "終業のチャイムが鳴ると同時に、有里栖が俺の席へと飛んできた。",
+        "translations": {
+            "initial": "Begitu bel pulang berbunyi, Arisu langsung menghampiri mejaku dengan terburu-buru.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しゅうぎょうのちゃいむがなるとどうじに、ゆりすみかがおれのせきへととぶてくるた。"
+    },
+    {
+        "id": 3,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 4,
+        "original": "「完成したって……人工妖精の改良が？」",
+        "translations": {
+            "initial": "「Sudah selesai... maksudmu perbaikan peri buatannya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かんせいするたって……じんこうようせいのかいりょうが？」"
+    },
+    {
+        "id": 5,
+        "original": "有里栖がぶんぶんと首を縦に振る。",
+        "translations": {
+            "initial": "Arisu mengangguk dengan sangat bersemangat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかがぶんぶんとくびをたてにふる。"
+    },
+    {
+        "id": 6,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 7,
+        "original": "「昨日ね、みんなあれからずっと作業をしててくれたみたいなの」",
+        "translations": {
+            "initial": "「Iya, sepertinya kemarin mereka semua lanjut bekerja terus setelah kita pulang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きのうね、みなあれからずっとさぎょうをするてるてくれるたみたいだの」"
+    },
+    {
+        "id": 8,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 9,
+        "original": "「あれからずっと？」",
+        "translations": {
+            "initial": "「Terus bekerja sejak saat itu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あれからずっと？」"
+    },
+    {
+        "id": 10,
+        "original": "日下さんたちと話してからずっととなると……、ほとんど丸一日くらいだぞ？",
+        "translations": {
+            "initial": "Kalau dihitung sejak kita bicara dengan Kusaka-san dan yang lainnya... itu berarti sudah hampir seharian penuh, kan？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "くさかさんたちとはなすてからずっととなると……、ほとんどまるいちにちくらいだぞ？"
+    },
+    {
+        "id": 11,
+        "original": "その間、ずっと作業をしていてくれたのか。",
+        "translations": {
+            "initial": "Jadi selama itu mereka terus mengerjakannya tanpa henti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そのあいだ、ずっとさぎょうをするているてくれるたのか。"
+    },
+    {
+        "id": 12,
+        "original": "日下さんにも美春さんにも感謝しないとな。",
+        "translations": {
+            "initial": "Aku benar-benar harus berterima kasih pada Kusaka-san dan Miharu-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "くさかさんにもみはるさんにもかんしゃするないとな。"
+    },
+    {
+        "id": 13,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 14,
+        "original": "「ね、常坂君。早速行ってみよう」",
+        "translations": {
+            "initial": "「Ayo, Tokisaka-kun. Kita langsung ke sana sekarang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ね、つねさかくん。さっそくいくてみる」"
+    },
+    {
+        "id": 15,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 16,
+        "original": "「わかった。一応、二乃に伝言を残してからいくわ」",
+        "translations": {
+            "initial": "「Oke. Aku tinggalkan pesan dulu buat Nino, baru kita pergi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「わかるた。いちおう、にのにでんごんをのこすてからいくわ」"
+    },
+    {
+        "id": 17,
+        "original": "二乃に人工妖精のことを伝え、俺は有里栖とワンダーランドへと向かった。",
+        "translations": {
+            "initial": "Setelah mengabari Nino soal peri buatan itu, aku dan Arisu pun bergegas menuju Wonderland.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にのにじんこうようせいのことをつたえる、おれはゆりすみかとわんだーらんどへとむかうた。"
+    },
+    {
+        "id": 18,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 19,
+        "original": "「おぉ、ふたりとも……急に来てもらって悪いね」",
+        "translations": {
+            "initial": "「Oh, kalian berdua... maaf ya sudah minta kalian datang mendadak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おお、ふたりとも……きゅうだくるてもらうてわるいね」"
+    },
+    {
+        "id": 20,
+        "original": "開発室に入ると、げっそりした様子の日下さんが俺たちを出迎えてくれた。",
+        "translations": {
+            "initial": "Begitu masuk ke ruang pengembangan, Kusaka-san yang tampak lesu menyambut kami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かいはつしつにはいると、げっそりするたようすのくさかさんがおれたちをでむかえるてくれるた。"
+    },
+    {
+        "id": 21,
+        "original": "いつもの爽やかさは影を潜め、今日は重たいオーラに包まれているような気がする。",
+        "translations": {
+            "initial": "Kesan segar yang biasanya ada kini menghilang, hari ini dia terlihat diselimuti oleh aura yang sangat berat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いつものさわやかさはかげをひそめる、きょうはおもたいおーらにつつむれるているようだきがする。"
+    },
+    {
+        "id": 22,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 23,
+        "original": "「く、日下さん……大丈夫ですか！？」",
+        "translations": {
+            "initial": "「Ku-Kusaka-san... Anda tidak apa-apa！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「くる、くさかさん……だいじょうぶですか！？」"
+    },
+    {
+        "id": 24,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 25,
+        "original": "「ははは……なに、これくらい。作業が佳境に差し掛かると、シャンとしてるスタッフの方が少なくなるからね」",
+        "translations": {
+            "initial": "「Hahaha... tenang saja, ini hal biasa. Kalau pekerjaan sudah mencapai puncaknya, jarang ada staf yang masih bisa terlihat segar bugar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ははは……なに、これくらい。さぎょうがかきょうにさしかかると、しゃんとするてるすたっふのほうがすくないなるからね」"
+    },
+    {
+        "id": 26,
+        "original": "そう言って笑う日下さんだけど、目がどんよりとしたままだ。",
+        "translations": {
+            "initial": "Kusaka-san tertawa saat mengatakannya, tapi matanya terlihat sangat kuyu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そういうてわらうくさかさんだけれど、めがどんよりとするたままだ。"
+    },
+    {
+        "id": 27,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 28,
+        "original": "「そ、そうなんですね……こちらから頼んだこととは言え、体調には気をつけてください」",
+        "translations": {
+            "initial": "「Be-begitu ya... meski ini permintaan kami, tolong perhatikan juga kesehatan Anda」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう、そうだのですね……こちらからたのむたこととはいう、たいちょうにはきをつけるてくださる」"
+    },
+    {
+        "id": 29,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 30,
+        "original": "「あはは……ありがとう。さ、本題に入ろうじゃないか。美春さん、二人が来てくれたよ」",
+        "translations": {
+            "initial": "「Ahaha... terima kasih. Ayo, kita langsung ke intinya saja. Miharu-san, mereka berdua sudah sampai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あはは……ありがとう。さ、ほんだいにはいるだないか。みはるさん、ふたりがくるてくれるたよ」"
+    },
+    {
+        "id": 31,
+        "original": "日下さんがモニターの向こうにいるであろう美春さんに声をかける。",
+        "translations": {
+            "initial": "Kusaka-san memanggil Miharu-san yang sepertinya berada di balik monitor.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "くさかさんがもにたーのむこうにいるだあるみはるさんにこえをかける。"
+    },
+    {
+        "id": 32,
+        "original": "すると……。",
+        "translations": {
+            "initial": "Lalu....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すると……。"
+    },
+    {
+        "id": 33,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 34,
+        "original": "「あ……来てくれたんですね二人とも……。わざわざありがとうございます……」",
+        "translations": {
+            "initial": "「Ah... kalian berdua sudah datang ya.... Terima kasih banyak sudah menyempatkan diri datang ke sini....」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あっ……くるてくれるたのですねふたりとも……。わざわざありがとうござるます……」"
+    },
+    {
+        "id": 35,
+        "original": "まさに疲労困憊って感じの美春さんの声。",
+        "translations": {
+            "initial": "Suara Miharu-san terdengar sangat kelelahan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "まさにひろうこんぱいつうかんじのみはるさんのこえ。"
+    },
+    {
+        "id": 36,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 37,
+        "original": "「美春さんもお疲れ様です。少し休んでいただいて、後でお話を聞きにきたほうがいいですか？」",
+        "translations": {
+            "initial": "「Miharu-san juga, kerja bagus hari ini. Apa sebaiknya aku datang lagi nanti setelah Anda istirahat sebentar？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「みはるさんもおつかれさまです。すこしやすむていただくて、あとでおはなしをきくにくるたほうがよいですか？」"
+    },
+    {
+        "id": 38,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 39,
+        "original": "「いやいや、大丈夫だよ。それにこの状態で休むと非常に危険だからね」",
+        "translations": {
+            "initial": "「Nggak, nggak usah, nggak apa-apa kok. Lagipula kalau dia istirahat dalam kondisi begini, justru sangat berbahaya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いやいや、だいじょうぶだよ。それにこのじょうたいでやすむとひじょうだきけんだからね」"
+    },
+    {
+        "id": 40,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 41,
+        "original": "「そうですね。三日は起きない自信があります」",
+        "translations": {
+            "initial": "「Benar. Aku yakin kalau sudah tidur, aku nggak bakal bangun selama tiga hari」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうですね。みかはおきるないじしんがあるます」"
+    },
+    {
+        "id": 42,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 43,
+        "original": "「そ、そんなに……」",
+        "translations": {
+            "initial": "「Se-segitunya ya....」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう、そんなだ……」"
+    },
+    {
+        "id": 44,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 45,
+        "original": "「それくらい集中力が必要な作業だったからね……。でも、まだ完成はしていない。あとはサンプルを入力する必要がある」",
+        "translations": {
+            "initial": "「Karena pekerjaan ini memang butuh konsentrasi sebesar itu.... Tapi, ini belum selesai sepenuhnya. Sisanya, kita perlu memasukkan sampel」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それくらいしゅうちゅうりょくがひつようださぎょうだたからね……。でも、まだかんせいはするているない。あとはさんぷるをにゅうりょくするひつようがある」"
+    },
+    {
+        "id": 46,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 47,
+        "original": "「サンプル……ですか？」",
+        "translations": {
+            "initial": "「Sampel... maksudnya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「さんぷる……ですか？」"
+    },
+    {
+        "id": 48,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 49,
+        "original": "「そう。今回はなかなかの突貫作業だったからね。検知できる感情の種類が限られているんだ」",
+        "translations": {
+            "initial": "「Ya. Karena pengerjaannya kali ini cukup terburu-buru, jenis emosi yang bisa dideteksi masih terbatas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう。こんかいはなかなかのとっかんさぎょうだたからね。けんちできるかんじょうのしゅるいがかぎるれるているのだ」"
+    },
+    {
+        "id": 50,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 51,
+        "original": "「それもこちらで一度サンプルを登録して、それと同じか類似した感情を検知する……といった方式じゃないと、検知は難しい」",
+        "translations": {
+            "initial": "「Kita harus mendaftarkan sampelnya terlebih dahulu, lalu sistem akan mendeteksi emosi yang sama atau serupa... Tanpa metode itu, sulit untuk mendeteksinya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それもこちらでいちどさんぷるをとうろくするて、それとおなじかるいじするたかんじょうをけんちする……というたほうしきだないと、けんちはむずかしい」"
+    },
+    {
+        "id": 52,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 53,
+        "original": "「なので、二人のうちどちらかがサンプルとして感情を提示していただきたく思います。今回探し出したい感情に近いものが望ましいですね」",
+        "translations": {
+            "initial": "「Karena itu, aku ingin salah satu dari kalian memberikan emosi sebagai sampel. Sebaiknya emosi yang mendekati apa yang ingin kita cari kali ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「だのだ、ふたりのうちどちらかがさんぷるとするてかんじょうをていじするていただくたいおもうます。こんかいさがしだすたいかんじょうにちかいものがのぞましいですね」"
+    },
+    {
+        "id": 54,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 55,
+        "original": "「感情をサンプリングですか……そんなことが可能なんですね」",
+        "translations": {
+            "initial": "「Sampel emosi ya... Ternyata hal seperti itu mungkin dilakukan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かんじょうをさんぷりんぐですか……そんなことがかのうだのですね」"
+    },
+    {
+        "id": 56,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 57,
+        "original": "「はい。脳波、血圧、体温、発汗や眼球の動き等を測定、そのパターンを数値化したものがサンプルとして登録される仕組みになってます」",
+        "translations": {
+            "initial": "「Iya. Cara kerjanya adalah dengan mengukur gelombang otak, tekanan darah, suhu tubuh, keringat, hingga gerakan bola mata, lalu pola-pola itu diubah menjadi angka untuk didaftarkan sebagai sampel」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はい。のうは、けつあつ、たいおん、はっかんやがんきゅうのうごきとうをそくてい、そのぱたーんをすうちかするたものがさんぷるとするてとうろくするれるしくみになるてるます」"
+    },
+    {
+        "id": 58,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 59,
+        "original": "「お手数をおかけして申し訳ありませんが、お二人のうちどちらかにご協力をお願いしたく思います」",
+        "translations": {
+            "initial": "「Maaf merepotkan, tapi kami mohon kesediaan salah satu dari kalian untuk membantu kami」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おてすうをおかけるするてもうしわけあるますずが、おふたりのうちどちらかにごきょうりょくをおねがうするたいおもうます」"
+    },
+    {
+        "id": 60,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 61,
+        "original": "「そうですね……」",
+        "translations": {
+            "initial": "「Begitu ya....」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうですね……」"
+    },
+    {
+        "id": 62,
+        "original": "検知する感情をサンプルとして提示するってことは、俺は有里栖に対する気持ちを提示するってことか。",
+        "translations": {
+            "initial": "Memberikan emosi yang ingin dideteksi sebagai sampel, itu berarti aku harus menunjukkan perasaanku terhadap Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けんちするかんじょうをさんぷるとするてていじするつうことは、おれはゆりすみかにたいするきもちをていじするつうことか。"
+    },
+    {
+        "id": 63,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 64,
+        "original": "「ね、常坂君。今回のサンプリング、私がしてもいい？」",
+        "translations": {
+            "initial": "「@t25@d1Hei, Tokisaka-kun. Boleh aku saja yang jadi sampelnya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ね、つねさかくん。こんかいのさんぷりんぐ、わたくしがするてもよい？」"
+    },
+    {
+        "id": 65,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 66,
+        "original": "「それは構わないけど……いいのか？」",
+        "translations": {
+            "initial": "「Aku sih gak keberatan... tapi apa boleh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それはかまうないけれど……よいのか？」"
+    },
+    {
+        "id": 67,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 68,
+        "original": "「うん。今回はね、なんだか自信があるから」",
+        "translations": {
+            "initial": "「Iya. Soalnya kali ini, entah kenapa aku merasa percaya diri」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うん。こんかいはね、なにだかじしんがあるから」"
+    },
+    {
+        "id": 69,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 70,
+        "original": "「自信？」",
+        "translations": {
+            "initial": "「Percaya diri？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「じしん？」"
+    },
+    {
+        "id": 71,
+        "original": "有里栖は少しだけ考え込む。",
+        "translations": {
+            "initial": "Arisu tampak berpikir sejenak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかはすこしだけかんがえこむ。"
+    },
+    {
+        "id": 72,
+        "original": "そして――。",
+        "translations": {
+            "initial": "Dan kemudian-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そして――。"
+    },
+    {
+        "id": 73,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 74,
+        "original": "「……恋をしちゃってるって、自信があるから」",
+        "translations": {
+            "initial": "「@t29@d1... Karena aku percaya diri kalau aku sedang jatuh cinta」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……こいをするちゃうてるって、じしんがあるから」"
+    },
+    {
+        "id": 75,
+        "original": "少しはにかみながら、そう言った。",
+        "translations": {
+            "initial": "Dia mengucapkannya sambil sedikit tersipu malu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すこしはにかむながら、そういうた。"
+    },
+    {
+        "id": 76,
+        "original": "人工妖精とのリンク用に、有里栖が諸々の機器と接続されていく。",
+        "translations": {
+            "initial": "Arisu mulai dihubungkan dengan berbagai peralatan untuk sinkronisasi dengan Peri Buatan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "じんこうようせいとのりんくように、ゆりすみかがもろもろのききとせつぞくするれるていく。"
+    },
+    {
+        "id": 77,
+        "original": "そうして一通りのセッティングが終わると、天枷さんが指示をだしていく。",
+        "translations": {
+            "initial": "Setelah seluruh pengaturan selesai, Amakase-san mulai memberikan instruksi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そうするてひととおりのせってぃんぐがおわると、てんかせさんがしじをだすていく。"
+    },
+    {
+        "id": 78,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 79,
+        "original": "「各種接続……問題ありませんね。では日下さん、モニタリングをお願いします」",
+        "translations": {
+            "initial": "「Semua koneksi... tidak ada masalah. Kalau begitu Kusaka-san, tolong bantu pemantauannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かくしゅせつぞく……もんだいあるますずね。ではくさかさん、もにたりんぐをおねがうするます」"
+    },
+    {
+        "id": 80,
+        "original": "尚純",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 81,
+        "original": "「はい、任せてください」",
+        "translations": {
+            "initial": "「Baik, serahkan saja padaku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はい、まかせるてくださる」"
+    },
+    {
+        "id": 82,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 83,
+        "original": "「鷺澤さん、大切なのはリラックスです。深呼吸をして、ゆっくりと身体を落ち着けてください」",
+        "translations": {
+            "initial": "「Sagisawa-san, yang terpenting adalah rileks. Tarik napas dalam-dalam, dan tenangkan tubuhmu perlahan-lahan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「さぎさわさん、たいせつだのはりらっくすです。しんこきゅうをするて、ゆっくりとからだをおちつけるてくださる」"
+    },
+    {
+        "id": 84,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 85,
+        "original": "「はい、リラックスですね……」",
+        "translations": {
+            "initial": "「Baik, rileks ya......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はい、りらっくすですね……」"
+    },
+    {
+        "id": 86,
+        "original": "有里栖が深く息を吸い、ゆっくりと吐いていく。",
+        "translations": {
+            "initial": "Arisu menarik napas dalam-dalam, lalu mengembuskannya perlahan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかがふかいいきをすう、ゆっくりとはくていく。"
+    },
+    {
+        "id": 87,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 88,
+        "original": "「リラックスできたら頭の中を真っ白にして、好意を寄せる相手のことだけを考えてください」",
+        "translations": {
+            "initial": "「Setelah merasa rileks, kosongkan pikiranmu, dan pikirkanlah orang yang kamu sukai saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「りらっくすできるたあたまのなかをまっしろだするて、こういをよせるあいてのことだけをかんがえるてくださる」"
+    },
+    {
+        "id": 89,
+        "original": "美春",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 90,
+        "original": "「顔を思い浮かべてもいいですし、エピソードを思い出してもいいです。ひたすら相手のことを考えてみてください」",
+        "translations": {
+            "initial": "「Kamu bisa membayangkan wajahnya, atau mengingat kembali kenangan bersamanya. Fokuslah hanya memikirkan orang tersebut」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かおをおもいうかべるてもよいですし、えぴそーどをおもいだすてもよいです。ひたすらあいてのことをかんがえるてみるてくださる」"
+    },
+    {
+        "id": 91,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 92,
+        "original": "「はい、わかりました」",
+        "translations": {
+            "initial": "「Baik, aku mengerti」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はい、わかるますた」"
+    },
+    {
+        "id": 93,
+        "original": "天枷さんの言葉に頷き、有里栖がすっと集中していく。",
+        "translations": {
+            "initial": "Arisu mengangguk mendengar ucapan Amakase-san, lalu mulai berkonsentrasi penuh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "てんかせさんのことばにうなずく、ゆりすみかがすっとしゅうちゅうするていく。"
+    },
+    {
+        "id": 94,
+        "original": "………………。",
+        "translations": {
+            "initial": "..................。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "………………。"
+    },
+    {
+        "id": 95,
+        "original": "…………。",
+        "translations": {
+            "initial": "............。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "…………。"
+    },
+    {
+        "id": 96,
+        "original": "……。",
+        "translations": {
+            "initial": "......。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……。"
+    },
+    {
+        "id": 97,
+        "original": "好きな人……って言われて、思い浮かぶのは一人だけ。",
+        "translations": {
+            "initial": "Orang yang disukai...... saat dikatakan begitu, hanya satu orang yang terlintas di pikiran.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すきだひと……っていうれるて、おもいうかぶのはひとりだけ。"
+    },
+    {
+        "id": 98,
+        "original": "こっちの世界に戻ってきた時、私の中に残っていた違和感にもすぐ気付いてくれて……。",
+        "translations": {
+            "initial": "Saat kembali ke dunia ini, dia langsung menyadari keganjilan yang kurasakan....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "こちらのせかいにもどるてくるたとき、わたくしのなかにのこるているたいわかんにもすぐきづくてくれるて……。"
+    },
+    {
+        "id": 99,
+        "original": "最初は戸惑っちゃったけど、一緒にお出かけをしていくうちにどんどん心が惹かれていって……。",
+        "translations": {
+            "initial": "Awalnya aku sempat bingung, tapi seiring kita sering jalan bareng, hatiku jadi makin terpikat....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "さいしょはとまどうちゃうたけれど、いっしょにおでかけるをするていくうちにどんどんこころがひくれるていくて……。"
+    },
+    {
+        "id": 100,
+        "original": "一緒にお茶をして、島の色んなところを巡って……。",
+        "translations": {
+            "initial": "Minum teh bersama, berkeliling ke berbagai tempat di pulau....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いっしょにおちゃをするて、しまのいろんなところをめぐるて……。"
+    },
+    {
+        "id": 101,
+        "original": "メーパンも一緒に食べてくれて、本屋さんにも行ったっけ。",
+        "translations": {
+            "initial": "Makan Mei-pan bareng, dan kita juga pernah ke toko buku, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "めいぱんもいっしょにたべるてくれるて、ほんやさんにもおこなうたけ。"
+    },
+    {
+        "id": 102,
+        "original": "それから、えっと……ランドのパレードを一緒に見て、キ、キス、しそうになって……。",
+        "translations": {
+            "initial": "Lalu, anu... kita nonton parade di Land bareng, dan ki-kita hampir saja berciuman....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それから、えーと……らんどのぱれーどをいっしょにみるて、き、きす、するそうだなるて……。"
+    },
+    {
+        "id": 103,
+        "original": "あっ、そういえばスカートの中を見られちゃったこともあったっけ……。",
+        "translations": {
+            "initial": "Ah, kalau diingat-ingat, dia juga pernah tidak sengaja melihat isi rokku....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あっ、そういうばすかーとのなかをみるられるちゃうたこともあるたけ……。"
+    },
+    {
+        "id": 104,
+        "original": "思い出すと今でも恥ずかしいなぁ……。",
+        "translations": {
+            "initial": "Duh, kalau diingat lagi sekarang pun masih bikin malu....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おもいだすといまでもはずかしいな……。"
+    },
+    {
+        "id": 105,
+        "original": "そうやって考えてみると、けっこう色んなことがあった。",
+        "translations": {
+            "initial": "Kalau dipikir-pikir, ternyata sudah banyak sekali hal yang terjadi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そうやるてかんがえるてみると、けっこういろんなことがあるた。"
+    },
+    {
+        "id": 106,
+        "original": "嬉しいことも、恥ずかしいことも。",
+        "translations": {
+            "initial": "Hal yang membahagiakan, juga hal yang memalukan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "うれしいことも、はずかしいことも。"
+    },
+    {
+        "id": 107,
+        "original": "でも全然イヤじゃないし、どれも楽しかった。",
+        "translations": {
+            "initial": "Tapi aku sama sekali nggak merasa keberatan, semuanya sangat menyenangkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だもぜんぜんいやだないし、どれもたのしいた。"
+    },
+    {
+        "id": 108,
+        "original": "どうしてイヤじゃないんだろう。",
+        "translations": {
+            "initial": "Kenapa aku nggak merasa keberatan, ya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうするていやだないのだ。"
+    },
+    {
+        "id": 109,
+        "original": "どうして少し笑えてきちゃうんだろう。",
+        "translations": {
+            "initial": "Kenapa aku malah jadi sedikit tersenyum begini?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうするてすこしわらうてくるちゃうのだ。"
+    },
+    {
+        "id": 110,
+        "original": "どうして胸が温かいんだろう……。",
+        "translations": {
+            "initial": "Kenapa dadaku terasa begitu hangat....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうするてむねがあたたかいのだ……。"
+    },
+    {
+        "id": 111,
+        "original": "……うん、やっぱりそうだよね。",
+        "translations": {
+            "initial": "...Ehm, sudah kuduga, memang benar begitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……うん、やはりそうだよね。"
+    },
+    {
+        "id": 112,
+        "original": "だって、私は今――。",
+        "translations": {
+            "initial": "Karena, sekarang aku sedang-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だって、わたくしはいま――。"
+    },
+    {
+        "id": 113,
+        "original": "恋を、してるから。",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "こいを、するてるから。"
+    },
+    {
+        "id": 114,
+        "original": "尚純",
+        "translations": {
+            "initial": "「Karena, aku sedang jatuh cinta」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 115,
+        "original": "「脳波、心拍数、血圧、体温……どれもはっきりとした変化が確認できますね」",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「のうは、しんぱくすう、けつあつ、たいおん……どれもはっきりとするたへんかがかくにんできるますね」"
+    },
+    {
+        "id": 116,
+        "original": "美春",
+        "translations": {
+            "initial": "「Gelombang otak, detak jantung, tekanan darah, suhu tubuh... semuanya menunjukkan perubahan yang jelas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 117,
+        "original": "「これだけ各種波形や数値が明確だとわかりやすいですね。サンプリングしていきましょう」",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「これだけかくしゅはけいやすうちがめいかくだとわかるやすいですね。さんぷりんぐするていくます」"
+    },
+    {
+        "id": 118,
+        "original": "有里栖の状態をモニタリングしながら、天枷さんと日下さんが機材を操作していく。",
+        "translations": {
+            "initial": "「Sangat mudah dipahami karena berbagai grafik dan angkanya terlihat begitu jelas. Mari kita mulai pengambilan sampelnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかのじょうたいをもにたりんぐするながら、てんかせさんとくさかさんがきざいをそうさするていく。"
+    },
+    {
+        "id": 119,
+        "original": "一登",
+        "translations": {
+            "initial": "Sambil memantau kondisi Arisu, Miharu-san dan Naozumi-san mengoperasikan peralatan tersebut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 120,
+        "original": "「…………」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 121,
+        "original": "俺は、微笑を浮かべる有里栖から目が離せなかった。",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれは、びしょうをうかべるゆりすみかからめがはなすないた。"
+    },
+    {
+        "id": 122,
+        "original": "感情のサンプリングは無事成功し、改良された人工妖精が島内にばらまかれた。",
+        "translations": {
+            "initial": "Aku tidak bisa mengalihkan pandanganku dari Arisu yang sedang tersenyum tipis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かんじょうのさんぷりんぐはぶじせいこうする、かいりょうするれるたじんこうようせいがとうないにばらまくれるた。"
+    },
+    {
+        "id": 123,
+        "original": "日下さんによると、これで恋する感情を検知し、マッピングしたり数値化することができるという。",
+        "translations": {
+            "initial": "Pengambilan sampel emosi berhasil dilakukan, dan peri buatan yang telah disempurnakan pun disebarkan ke seluruh pulau.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "くさかさんによると、これでこいするかんじょうをけんちする、まっぴんぐするたりすうちかすることができるという。"
+    },
+    {
+        "id": 124,
+        "original": "俺と有里栖は、ドキドキしながらモニターを見つめていた。",
+        "translations": {
+            "initial": "Menurut Naozumi-san, dengan ini perasaan jatuh cinta bisa dideteksi, dipetakan, dan diubah menjadi data angka.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれとゆりすみかは、どきどきするながらもにたーをみつめるているた。"
+    },
+    {
+        "id": 125,
+        "original": "尚純",
+        "translations": {
+            "initial": "Aku dan Arisu menatap monitor dengan jantung yang berdebar-debar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 126,
+        "original": "「さあ、妖精たちが島内へ放出されてしばらく時間が経った。これである程度は感情が検知されたはずだ。美春さん、どうですか？」",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「さあ、ようせいたちがとうないへほうしゅつするれるてしばらくじかんがたつた。これだあるていどはかんじょうがけんちするれるたはずだ。みはるさん、どうですか？」"
+    },
+    {
+        "id": 127,
+        "original": "美春",
+        "translations": {
+            "initial": "「Nah, sudah cukup lama sejak para peri dilepaskan ke pulau. Seharusnya sekarang emosi mereka sudah terdeteksi. Miharu-san, bagaimana hasilnya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 128,
+        "original": "「はい。そちらに……出力しますね」",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はい。そちらに……しゅつりょくするますね」"
+    },
+    {
+        "id": 129,
+        "original": "美春さんがそう言うと、モニターに映し出された図に点々と赤い印が表示されていく。",
+        "translations": {
+            "initial": "「Iya. Akan segera saya... tampilkan hasilnya ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはるさんがそういうと、もにたーにうつしだすれるたずにてんてんとあかいしるしがひょうじするれるていく。"
+    },
+    {
+        "id": 130,
+        "original": "尚純",
+        "translations": {
+            "initial": "Begitu Miharu-san mengatakannya, tanda merah mulai muncul satu per satu pada peta yang terpampang di monitor.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なおじゅん"
+    },
+    {
+        "id": 131,
+        "original": "「おぉ、成功だ！人工妖精たちが感情のスキャンに成功したみたいだよ！」",
+        "translations": {
+            "initial": "Naozumi",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おお、せいこうだ！じんこうようせいたちがかんじょうのすきゃんにせいこうするたみたいだよ！」"
+    },
+    {
+        "id": 132,
+        "original": "美春",
+        "translations": {
+            "initial": "「Oh, berhasil！ Sepertinya para peri buatan itu sudah berhasil memindai emosinya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはる"
+    },
+    {
+        "id": 133,
+        "original": "「画面端に表示されている数字がそれらをパラメータ化したものになります。恋愛指数とでも言いましょうか」",
+        "translations": {
+            "initial": "Miharu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「がめんたんにひょうじするれるているすうじがそれらをぱらめーたーかするたものになるます。れんあいしすうとでもいうますか」"
+    },
+    {
+        "id": 134,
+        "original": "俺と有里栖は、モニターに表示された風景をじっと眺めていた。",
+        "translations": {
+            "initial": "「Angka yang muncul di sudut layar adalah hasil parameternya. Bisa kita sebut sebagai indeks cinta」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれとゆりすみかは、もにたーにひょうじするれるたふうけいをじっとながめるているた。"
+    },
+    {
+        "id": 135,
+        "original": "これがもっと増えていけば、ミズの国とサクラの国が救われるかもしれない。",
+        "translations": {
+            "initial": "Aku dan Arisu menatap tajam pemandangan yang terpampang di monitor.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これがもっとふえるていくば、みずのくにとさくらのくにがすくうれるかもしれるない。"
+    },
+    {
+        "id": 136,
+        "original": "それに、有里咲も。",
+        "translations": {
+            "initial": "Jika ini terus bertambah, mungkin Negeri Air dan Negeri Sakura bisa terselamatkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それに、ゆりさきも。"
+    },
+    {
+        "id": 137,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Dan juga, Arisa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 138,
+        "original": "「やったね常坂君、まずは上手くいったみたい！」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「やるたねつねさかくん、まずはうまいいくたみたい！」"
+    },
+    {
+        "id": 139,
+        "original": "一登",
+        "translations": {
+            "initial": "「Berhasil ya, Tokisaka-kun! Sepertinya awal yang bagus!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 140,
+        "original": "「あぁ。あとはＳＳＲの活動を加速させていこう」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ああ。あとはえすえすあーるのかつどうをかそくするせるていく」"
+    },
+    {
+        "id": 141,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「Ah. Sisanya, kita tinggal mempercepat aktivitas SSR saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 142,
+        "original": "「うん。ここまで来たんだもん、成功させようね！」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うん。ここまでくるたのだもの、せいこうするせるね！」"
+    },
+    {
+        "id": 143,
+        "original": "一登",
+        "translations": {
+            "initial": "「Ehm. Kita sudah sampai sejauh ini, jadi ayo kita buat ini sukses！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 144,
+        "original": "「おう、もちろんだ」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おお、もちろんだ」"
+    },
+    {
+        "id": 145,
+        "original": "美春さんと日下さんにお礼を言って、俺たちは開発室を後にした。",
+        "translations": {
+            "initial": "「Sip, tentu saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはるさんとくさかさんにおれいをいうて、おれたちはかいはつしつをあとにするた。"
+    },
+    {
+        "id": 146,
+        "original": "開発室から出た後、俺と有里栖は帰路に就きながら恋愛指数のことについて話し合っていた。",
+        "translations": {
+            "initial": "Setelah berterima kasih kepada Miharu-san dan Kusaka-san, kami pun meninggalkan ruang pengembangan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かいはつしつからでるたあと、おれとゆりすみかはきろにつくながられんあいしすうのことにつくてはなしあうているた。"
+    },
+    {
+        "id": 147,
+        "original": "あとはＳＳＲのみんなと、どんどん依頼をこなしていくだけ。",
+        "translations": {
+            "initial": "Setelah keluar dari ruang pengembangan, aku dan Arisu mengobrol soal indeks cinta itu sambil jalan pulang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あとはえすえすあーるのみなと、どんどんいらいをこなすていくだけ。"
+    },
+    {
+        "id": 148,
+        "original": "ＴＡＢが振動したので取り出してみると、有里咲からメッセージが来ていた。",
+        "translations": {
+            "initial": "Tinggal menyelesaikan tugas satu demi satu bersama anggota SSR lainnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たぶがしんどうするたのだとりだすてみると、ゆりさきからめっせーじがくるているた。"
+    },
+    {
+        "id": 149,
+        "original": "ＣＯＭＵを立ち上げ、内容を確認する。",
+        "translations": {
+            "initial": "TAB-ku bergetar, dan saat aku mengeluarkannya, ternyata ada pesan masuk dari Arisa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ＣＯＭＵをたちあげる、ないようをかくにんする。"
+    },
+    {
+        "id": 150,
+        "original": "「有里咲」お疲れ様。上手くいったみたいで、私も安心したよ",
+        "translations": {
+            "initial": "Aku membuka COMU dan memeriksa isinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」おつかれさま。うまいいくたみたいだ、わたくしもあんしんするたよ"
+    },
+    {
+        "id": 151,
+        "original": "一登",
+        "translations": {
+            "initial": "「有里咲」 Selamat, syukurlah semuanya lancar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 152,
+        "original": "「有里栖、有里咲からメッセージが来たぞ」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか、ゆりさきからめっせーじがくるたぞ」"
+    },
+    {
+        "id": 153,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「Arisu, ada pesan dari Arisa nih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 154,
+        "original": "「え、本当？」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「えっ、ほんとう？」"
+    },
+    {
+        "id": 155,
+        "original": "有里栖が横から覗き込み、二人でＴＡＢの画面を見る。",
+        "translations": {
+            "initial": "「Eh, benarkah？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかがよこからのぞきこむ、ふたりでたぶのがめんをみる。"
+    },
+    {
+        "id": 156,
+        "original": "「有里咲」人工妖精を活用するっていうアイデアは私になかったな…",
+        "translations": {
+            "initial": "Arisu mengintip dari samping, dan kami berdua melihat layar TAB bersama-sama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」じんこうようせいをかつようするっていうあいでぃあはわたくしにないたな…"
+    },
+    {
+        "id": 157,
+        "original": "「有里咲」だから、試してもらって助かったよ",
+        "translations": {
+            "initial": "「有里咲」 Tak menyangka Peri Buatan   bisa dipakai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」だから、ためすてもらうてたすかるたよ"
+    },
+    {
+        "id": 158,
+        "original": "「一登」あぁ。天枷さんと日下さんがすごく頑張ってくれたんだ",
+        "translations": {
+            "initial": "「有里咲」 Terbantu sekali kalian      sudah mencobanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ああ。てんかせさんとくさかさんがすごいがんばるてくれるたのだ"
+    },
+    {
+        "id": 159,
+        "original": "「有里咲」うん、そこは本当に感謝だね",
+        "translations": {
+            "initial": "「一登」 Itu berkat kerja keras      Amakase-san dan Kusaka-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」うん、そこはほんとうにかんしゃだね"
+    },
+    {
+        "id": 160,
+        "original": "「有里咲」でね、人工妖精たちに少しだけ私のマナを帯びさせてみたの",
+        "translations": {
+            "initial": "「有里咲」 Iya, aku sangat berterima   kasih pada mereka.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」でね、じんこうようせいたちにすこしだけわたくしのまなをおびるさせるてみるたの"
+    },
+    {
+        "id": 161,
+        "original": "「有里咲」有里栖のマナとリンクさせたから、様子を見たいと思って",
+        "translations": {
+            "initial": "「有里咲」 Aku salurkan sedikit Mana   ke Peri Buatan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ゆりすみかのまなとりんくするせるたから、ようすをみるたいとおもうて"
+    },
+    {
+        "id": 162,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「有里咲」 Aku penasaran perkembangan  Mana Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 163,
+        "original": "「私のマナとリンクって……これ、どういうことかな？」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「わたくしのまなとりんくって……これ、どういうことかな？」"
+    },
+    {
+        "id": 164,
+        "original": "一登",
+        "translations": {
+            "initial": "「Terhubung sama Mana-ku... ini maksudnya gimana ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 165,
+        "original": "「たぶん前に言ってた、有里栖の魔法を人工妖精に付与するって話に似たことだと思うけど……」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「たぶんまえにいうてるた、ゆりすみかのまほうをじんこうようせいにふよするつうはなしににるたことだとおもうけれど……」"
+    },
+    {
+        "id": 166,
+        "original": "「有里咲」常坂君、正解だよ",
+        "translations": {
+            "initial": "「Mungkin mirip sama yang dibilang sebelumnya, soal memberikan sihir Arisu ke Peri Buatan itu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」つねさかくん、せいかいだよ"
+    },
+    {
+        "id": 167,
+        "original": "「有里咲」これで有里栖のマナとリンクした人工妖精が島内に広がる",
+        "translations": {
+            "initial": "「有里咲」 Tokisaka-kun, kamu benar    sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」これでゆりすみかのまなとりんくするたじんこうようせいがとうないにひろがる"
+    },
+    {
+        "id": 168,
+        "original": "「有里咲」その結果、みんなの恋愛感情が刺激されていけばって思って",
+        "translations": {
+            "initial": "「有里咲」 Peri Arisu akan menyebar    ke seluruh pulau.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」そのけっか、みなのれんあいかんじょうがしげきするれるていくばっておもうて"
+    },
+    {
+        "id": 169,
+        "original": "「有里咲」常坂君たちは今まで通り、依頼を成功させて",
+        "translations": {
+            "initial": "「有里咲」 Semoga perasaan cinta semua orang terstimulasi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」つねさかくんたちはいままでとおる、いらいをせいこうするせるて"
+    },
+    {
+        "id": 170,
+        "original": "「有里咲」恋を拡散させていってほしい",
+        "translations": {
+            "initial": "「有里咲」 Selesaikan permintaan       seperti biasa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」こいをかくさんするせるていくてほしい"
+    },
+    {
+        "id": 171,
+        "original": "「有里咲」仮説が正しければ、",
+        "translations": {
+            "initial": "「有里咲」 Teruslah sebarkan           benih-benih cinta.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」かせつがただしいば、"
+    },
+    {
+        "id": 172,
+        "original": "「有里咲」これでミズの国はマナが増えていくはずだから",
+        "translations": {
+            "initial": "「有里咲」 Jika hipotesis ini benar,",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」これでみずのくにはまながふえるていくはずだから"
+    },
+    {
+        "id": 173,
+        "original": "「一登」わかった、こっちはそれで頑張るよ",
+        "translations": {
+            "initial": "「有里咲」 Mana di Negeri Air akan     terus bertambah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」わかるた、こちらはそれでがんばるよ"
+    },
+    {
+        "id": 174,
+        "original": "「有里咲」ありがとう。お願いするね",
+        "translations": {
+            "initial": "「一登」 Dimengerti, kami akan       berusaha keras..",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりさき」ありがとう。おねがうするね"
+    },
+    {
+        "id": 175,
+        "original": "やり取りを終え、ＴＡＢをスリープにする。",
+        "translations": {
+            "initial": "「有里咲」 Terima kasih, aku titip     pada kalian.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "やりとりをおえる、たぶをすりーぷにする。"
+    },
+    {
+        "id": 176,
+        "original": "一登",
+        "translations": {
+            "initial": "Setelah selesai mengobrol, aku mematikan layar TAB.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 177,
+        "original": "「よし、ここからが本番だな」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「よし、ここからがほんばんだな」"
+    },
+    {
+        "id": 178,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「Sip, perjuangan yang sesungguhnya dimulai dari sekarang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 179,
+        "original": "「うん。依頼、いっぱい成功させようね！」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うん。いらい、いっぱいせいこうするせるね！」"
+    },
+    {
+        "id": 180,
+        "original": "力強く頷き合って、俺たちは視線を交わす。",
+        "translations": {
+            "initial": "「Iya. Ayo kita selesaikan banyak permintaan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちからづよいうなずきあうて、おれたちはしせんをかわす。"
+    },
+    {
+        "id": 181,
+        "original": "これは明日から忙しくなるぞ。",
+        "translations": {
+            "initial": "Kami saling mengangguk mantap dan bertukar pandang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これはあすからいそがしいなるぞ。"
+    },
+    {
+        "id": 182,
+        "original": "◆◆",
+        "translations": {
+            "initial": "Sepertinya mulai besok bakal sibuk banget, nih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

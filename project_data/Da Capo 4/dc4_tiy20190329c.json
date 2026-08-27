@@ -1,0 +1,842 @@
+[
+    {
+        "id": 0,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 1,
+        "original": "「ふぅ。宿題ももう少しで終わりだな」",
+        "translations": {
+            "initial": "「Fuu. PR-ku dikit lagi selesai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふう。しゅくだいももうすこしでおわりだな」"
+    },
+    {
+        "id": 2,
+        "original": "テーブルにペンを置いて、俺はそう呟いた。",
+        "translations": {
+            "initial": "Aku meletakkan pulpen di meja sambil bergumam pelan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "てーぶるにぺんをおくて、おれはそうつぶやくた。"
+    },
+    {
+        "id": 3,
+        "original": "計画を立ててコツコツやってきたおかげで、余裕を持って片付けられそうだ。",
+        "translations": {
+            "initial": "Berkat mengerjakannya sedikit demi sedikit sesuai rencana, sepertinya aku bisa menyelesaikannya dengan santai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けいかくをたてるてこつこつやるてくるたおかげだ、よゆうをもつてかたづけるられるそうだ。"
+    },
+    {
+        "id": 4,
+        "original": "この地味な積み重ねが身につけば、ちょこも楽が出来るんだろうけど。",
+        "translations": {
+            "initial": "Seandainya CHOCO bisa membiasakan diri mencicil tugas seperti ini, dia pasti bakal lebih terbantu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このじみだつみかさねがみにつくば、ちょこもらくができるのだけれど。"
+    },
+    {
+        "id": 5,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 6,
+        "original": "「今日はこのへんで……ん、んんっと――」",
+        "translations": {
+            "initial": "「Cukup sampai di sini buat hari ini... Hmm, nngghh!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きょうはこのへんだ……んっ、んっと――」"
+    },
+    {
+        "id": 7,
+        "original": "背伸びをしたところで、ＣＯＭＵにメッセージが届いた。",
+        "translations": {
+            "initial": "Saat aku sedang meregangkan tubuh, sebuah pesan masuk ke COMU.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "せのびをするたところで、ＣＯＭＵにめっせーじがとどくた。"
+    },
+    {
+        "id": 8,
+        "original": "ＴＡＢを取り確認する。",
+        "translations": {
+            "initial": "Aku mengambil TAB untuk memeriksanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たぶをとるかくにんする。"
+    },
+    {
+        "id": 9,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 10,
+        "original": "「おっ、鳳城からか」",
+        "translations": {
+            "initial": "「Oh, dari Houjou ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おっ、ほうじょうからか」"
+    },
+    {
+        "id": 11,
+        "original": "「詩名」こんばんは、早速本題です",
+        "translations": {
+            "initial": "「詩名」 Malam, langsung ke intinya  saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」こんばんは、さっそくほんだいです"
+    },
+    {
+        "id": 12,
+        "original": "「一登」はえーな、おい",
+        "translations": {
+            "initial": "「一登」 Cepat sekali bicaranya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」はえーな、おい"
+    },
+    {
+        "id": 13,
+        "original": "「詩名」今夜、日野原さんの生放送があります",
+        "translations": {
+            "initial": "「詩名」 Malam ini Hinohara-san live streaming.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」こんや、ひのはらさんのなまほうそうがあるます"
+    },
+    {
+        "id": 14,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 15,
+        "original": "「ほんとに本題から入ってきた」",
+        "translations": {
+            "initial": "「Dia beneran langsung masuk ke intinya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ほんとうにほんだいからはいるてくるた」"
+    },
+    {
+        "id": 16,
+        "original": "この辺のテンポ感……さすが鳳城だぜ。",
+        "translations": {
+            "initial": "Tempo seperti ini... Benar-benar ciri khas Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このへんのてんぽかん……さすがほうじょうだぜ。"
+    },
+    {
+        "id": 17,
+        "original": "「詩名」２１時から１時間の予定だそうです",
+        "translations": {
+            "initial": "「詩名」 Mulai jam 21.00 selama      satu jam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」２１じから１じかんのよていだそうです"
+    },
+    {
+        "id": 18,
+        "original": "情報をくれるのはありがたい。",
+        "translations": {
+            "initial": "Aku bersyukur dia memberiku informasi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "じょうほうをくれるのはありがたい。"
+    },
+    {
+        "id": 19,
+        "original": "ありがたいのだけど……。",
+        "translations": {
+            "initial": "Bersyukur sih, tapi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ありがたいのだけれど……。"
+    },
+    {
+        "id": 20,
+        "original": "「一登」鳳城って、ちょこのマネージャーか何かか？",
+        "translations": {
+            "initial": "「一登」 Apa kamu manajer CHOCO?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ほうじょうって、ちょこのまねーじゃーかなにかか？"
+    },
+    {
+        "id": 21,
+        "original": "「一登」それとも俺のマネージャー？",
+        "translations": {
+            "initial": "「一登」 Atau jangan-jangan          manajerku?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」それともおれのまねーじゃー？"
+    },
+    {
+        "id": 22,
+        "original": "「詩名」はい？どういうことですか？",
+        "translations": {
+            "initial": "「詩名」 Ya? Apa maksudmu?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」はい？どういうことですか？"
+    },
+    {
+        "id": 23,
+        "original": "「一登」いや、なんか予定の管理をしてもらってるような感じがして",
+        "translations": {
+            "initial": "「一登」 Kamu seolah sedang          mengatur jadwal kegiatanku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」いや、なにかよていのかんりをするてもらうてるようだかんじがするて"
+    },
+    {
+        "id": 24,
+        "original": "「詩名」私が管理しているのは、日野原さんに関する予定だけです",
+        "translations": {
+            "initial": "「詩名」 Aku hanya mengatur jadwal   terkait Hinohara-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」わたくしがかんりするているのは、ひのはらさんにかんするよていだけです"
+    },
+    {
+        "id": 25,
+        "original": "間髪入れずにレスが来た。",
+        "translations": {
+            "initial": "Balasannya datang tanpa jeda sedikit pun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かんぱついれるずにれすがくるた。"
+    },
+    {
+        "id": 26,
+        "original": "が、それはそれで言い切ってしまっていい部分なのだろうか。",
+        "translations": {
+            "initial": "Tapi, apa tidak apa-apa dia menegaskan hal seperti itu dengan begitu lugas?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "が、それはそれでいいきるてしまうてよいぶぶんだのだか。"
+    },
+    {
+        "id": 27,
+        "original": "「詩名」とにかくお伝えしましたので、ぜひ見てください",
+        "translations": {
+            "initial": "「詩名」 Sudah aku sampaikan,        silakan ditonton.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」とにかくおつたえるするますたのだ、ぜひみるてくださる"
+    },
+    {
+        "id": 28,
+        "original": "「詩名」いえ…間違えました。絶対に見るように",
+        "translations": {
+            "initial": "「詩名」 Maaf, maksudku kamu  wajib  menontonnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」いえ…まちがえるますた。ぜったいにみるようだ"
+    },
+    {
+        "id": 29,
+        "original": "命令形だ。",
+        "translations": {
+            "initial": "Kalimat perintah, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "めいれいけいだ。"
+    },
+    {
+        "id": 30,
+        "original": "「一登」お、おう…",
+        "translations": {
+            "initial": "「一登」 O-Oke...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おっ、おお…"
+    },
+    {
+        "id": 31,
+        "original": "「一登」わかった。",
+        "translations": {
+            "initial": "「一登」 Baik, aku mengerti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」わかるた。"
+    },
+    {
+        "id": 32,
+        "original": "…………。",
+        "translations": {
+            "initial": "............。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "…………。"
+    },
+    {
+        "id": 33,
+        "original": "「一登」なんかちょこ本人よりも鳳城の方がプッシュしてないか？",
+        "translations": {
+            "initial": "「一登」 Houjou lebih semangat dari  CHOCO?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」なんかちょこほんにんよりもほうじょうのほうがぷっしゅするてるないか？"
+    },
+    {
+        "id": 34,
+        "original": "…………。",
+        "translations": {
+            "initial": "............。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "…………。"
+    },
+    {
+        "id": 35,
+        "original": "「詩名」そんなことないと思います",
+        "translations": {
+            "initial": "「詩名」 Sepertinya tidak begitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」そんなことないとおもうます"
+    },
+    {
+        "id": 36,
+        "original": "妙な間があったぞ今！",
+        "translations": {
+            "initial": "Tadi itu ada jeda yang aneh, lho！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みょうだあいだがあるたぞいま！"
+    },
+    {
+        "id": 37,
+        "original": "「一登」まあ、俺もちょこの放送は楽しみにしてるからいいんだけど",
+        "translations": {
+            "initial": "「一登」 Tak apa, aku juga           menantikan siarannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」まあ、おれもちょこのほうそうはたのしみにするてるからよいのだけれど"
+    },
+    {
+        "id": 38,
+        "original": "この間、『やりたいことを見つけたい』と言っていたちょこ。",
+        "translations": {
+            "initial": "Tempo hari, CHOCO bilang kalau dia ingin 'menemukan hal yang ingin dilakukan'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このあいだ、『やるたいことをみつけるたい』というているたちょこ。"
+    },
+    {
+        "id": 39,
+        "original": "はたしてそれが見つかったのか、気になっている俺がいる。",
+        "translations": {
+            "initial": "Aku jadi penasaran apakah dia sudah berhasil menemukannya atau belum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "はたしてそれがみつかるたのか、きになるているおれがいる。"
+    },
+    {
+        "id": 40,
+        "original": "さすがにまだ見つかってはいないかもしれないが、ヒントでも掴めていると良いな。",
+        "translations": {
+            "initial": "Mungkin memang belum ketemu, tapi semoga saja dia sudah mendapat semacam petunjuk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "さすがにまだみつかるてはいるないかもしれるないが、ひんとでもつかむているとよいな。"
+    },
+    {
+        "id": 41,
+        "original": "「詩名」あっ",
+        "translations": {
+            "initial": "「詩名」 Ah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」あっ"
+    },
+    {
+        "id": 42,
+        "original": "「詩名」それから常坂さん",
+        "translations": {
+            "initial": "「詩名」 Tokisaka-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」それからつねさかさん"
+    },
+    {
+        "id": 43,
+        "original": "「一登」なんだ？",
+        "translations": {
+            "initial": "「一登」 Ada apa?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」だのだ？"
+    },
+    {
+        "id": 44,
+        "original": "「詩名」明日は何か用事が入っていたりしますか？",
+        "translations": {
+            "initial": "「詩名」 Besok ada acara?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」あすはなにかようじがはいるているたりするますか？"
+    },
+    {
+        "id": 45,
+        "original": "明日か……。特に何もなかったはず。",
+        "translations": {
+            "initial": "Besok, ya.... Seingatku gak ada apa-apa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あすか……。とくになにもないたはず。"
+    },
+    {
+        "id": 46,
+        "original": "「一登」いや、空いてるけど",
+        "translations": {
+            "initial": "「一登」 Tidak, aku luang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」いや、あくてるけれど"
+    },
+    {
+        "id": 47,
+        "original": "「詩名」そうですか。では、朝１０時に遊歩道の入り口に来てください",
+        "translations": {
+            "initial": "「詩名」 Jam 10 ke jalan setapak ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」そうですか。では、あさ１０じにゆうほどうのいりぐちにくるてくださる"
+    },
+    {
+        "id": 48,
+        "original": "「詩名」学園から近い方の入り口です",
+        "translations": {
+            "initial": "「詩名」 Di pintu masuk dekat        sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」がくえんからちかいほうのいりぐちです"
+    },
+    {
+        "id": 49,
+        "original": "「詩名」特別な持ち物等は必要ありません。身体ひとつで大丈夫です",
+        "translations": {
+            "initial": "「詩名」 Cukup datang, tak perlu     bawa barang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」とくべつだもちものとうはひつようあるますず。からだひとつでだいじょうぶです"
+    },
+    {
+        "id": 50,
+        "original": "やっぱりマネージャーだろ。",
+        "translations": {
+            "initial": "Fix, dia ini manajer.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "やはりまねーじゃーだ。"
+    },
+    {
+        "id": 51,
+        "original": "しかも予定の内容は伝えず、先にスケジュールだけ抑えていくタイプの豪腕マネージャーだ。",
+        "translations": {
+            "initial": "Apalagi jenis manajer bertangan besi yang langsung booking jadwal tanpa kasih tahu mau ngapain.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しかもよていのないようはつたえるず、さきにすけじゅーるだけおさえるていくたいぷのごうわんまねーじゃーだ。"
+    },
+    {
+        "id": 52,
+        "original": "お笑い芸人がドッキリに引っかけられる時の前段階の奴だろこれ。",
+        "translations": {
+            "initial": "Ini mah tahap awal sebelum komedian kena jebakan acara prank.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おわらいげいにんがどっきりにひっかけるられるときのまえだんかいのやつだこれ。"
+    },
+    {
+        "id": 53,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 54,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 55,
+        "original": "つい周囲を見渡すが。",
+        "translations": {
+            "initial": "Aku refleks melihat ke sekeliling.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "つうしゅういをみわたすが。"
+    },
+    {
+        "id": 56,
+        "original": "自分の部屋にカメラが仕掛けられているはずもない。",
+        "translations": {
+            "initial": "Gak mungkin ada kamera tersembunyi yang dipasang di kamarku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "じぶんのへやにかめらがしかけるられるているはずもない。"
+    },
+    {
+        "id": 57,
+        "original": "そもそも俺は芸人でも芸能人でもなかった。",
+        "translations": {
+            "initial": "Lagipula, aku ini bukan komedian ataupun artis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そもそもおれはげいにんでもげいのうじんだもないた。"
+    },
+    {
+        "id": 58,
+        "original": "「詩名」わかりましたか？返事",
+        "translations": {
+            "initial": "「詩名」 Sudah mengerti? Apa         jawabannya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」わかるますたか？へんじ"
+    },
+    {
+        "id": 59,
+        "original": "「一登」わかりました",
+        "translations": {
+            "initial": "「一登」 Iya, aku mengerti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」わかるますた"
+    },
+    {
+        "id": 60,
+        "original": "どういうやり取りだよ！",
+        "translations": {
+            "initial": "Percakapan macam apa ini！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どういうやりとりだよ！"
+    },
+    {
+        "id": 61,
+        "original": "ＣＯＭＵのログを見直すと、どうしてもタレントとマネージャー感がある。",
+        "translations": {
+            "initial": "Kalau melihat lagi log COMU-nya, mau bagaimanapun ini rasanya seperti artis dan manajernya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ＣＯＭＵのろぐをみなおすと、どうするてもたれんととまねーじゃーかんがある。"
+    },
+    {
+        "id": 62,
+        "original": "「詩名」それではおやすみなさい。夜更かしは厳禁です",
+        "translations": {
+            "initial": "「詩名」 Selamat tidur. Jangan       begadang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」それではおやすむなさる。よふかしはげんきんです"
+    },
+    {
+        "id": 63,
+        "original": "「一登」はい。おやすみなさい",
+        "translations": {
+            "initial": "「一登」 Iya. Selamat tidur.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」はい。おやすむなさる"
+    },
+    {
+        "id": 64,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 65,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 66,
+        "original": "最後まで業務的だった。",
+        "translations": {
+            "initial": "Sampai akhir pun dia tetap bersikap formal seperti sedang kerja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "さいごまでぎょうむてきだた。"
+    },
+    {
+        "id": 67,
+        "original": "ともあれ、明日は敏腕マネによって用事が入れられてしまったな。",
+        "translations": {
+            "initial": "Ya sudahlah, besok jadwalku sudah diisi oleh si manajer hebat itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ともあれ、あすはびんわんまねによるてようじがいれるられるてしまうたな。"
+    },
+    {
+        "id": 68,
+        "original": "朝はそれほどゆっくりできなさそうだし、ちょこの放送を見たら早めに寝てしまおう。",
+        "translations": {
+            "initial": "Sepertinya besok pagi aku nggak bisa santai-santai, jadi setelah menonton siarannya Choco, aku harus segera tidur.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あさはそれほどゆっくりできるないそうだし、ちょこのほうそうをみるたはやめだねるてしまう。"
+    },
+    {
+        "id": 69,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

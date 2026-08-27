@@ -1,0 +1,684 @@
+[
+    {
+        "id": 0,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "「ん……？」",
+        "translations": {
+            "initial": "「Hm......？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "制服の中のＴＡＢが震える。",
+        "translations": {
+            "initial": "TAB bergetar di dalam meja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "取り出すと画面には、ちょこからのメッセージ。",
+        "translations": {
+            "initial": "Saat aku mengeluarkannya, ada pesan masuk dari CHOCO di layar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "早速ＣＯＭＵを立ち上げ内容を確認してみる。",
+        "translations": {
+            "initial": "Aku segera membuka COMU untuk memeriksa isinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "「ちよ子」とっきー先輩、今日もお疲れ様です♪",
+        "translations": {
+            "initial": "「ちよ子」  Tokki-senpai, semangat ya   hari ini!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "「一登」ああ、おつかれ",
+        "translations": {
+            "initial": "「一登」  Semangat juga ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "「ちよ子」この前は急な打ち上げでしたけど、来ていただいて",
+        "translations": {
+            "initial": "「ちよ子」  Maaf soal kemarin, makasih  banyak ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "「ちよ子」ありがとうございました♪",
+        "translations": {
+            "initial": "「ちよ子」  Makasih sudah mau datang♪",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "「ちよ子」言い忘れていた気がしましたので…",
+        "translations": {
+            "initial": "「ちよ子」  Maaf, aku lupa bilang       sebelumnya...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "@d15",
+        "translations": {
+            "initial": "@d15",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "その下には可愛いキャラクターがウルウルした表情を浮かべている。",
+        "translations": {
+            "initial": "Di bawahnya, ada karakter lucu yang menatap dengan mata berkaca-kaca.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "いつも突飛な行動や言動が目立つちょこだが、こういうところは律儀なんだよな。",
+        "translations": {
+            "initial": "CHOCO emang sering kelihatan aneh tingkah laku sama omongannya, tapi sebenarnya dia itu orangnya sopan banget ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "「一登」俺の方こそ誘ってくれて、ありがとな！",
+        "translations": {
+            "initial": "「一登」  Aku yang harusnya makasih   karena diajak！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "「一登」また鳳城も誘って三人で飯でも行こう",
+        "translations": {
+            "initial": "「一登」  Kapan-kapan ayo makan       bareng Houjou lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "すると、すぐに既読が付き返信が返ってくる。",
+        "translations": {
+            "initial": "Tak lama kemudian, pesannya langsung dibaca dan ada balasan masuk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "「ちよ子」もちろんです♪",
+        "translations": {
+            "initial": "「ちよ子」  Tentu saja, ayo makan       bareng!♪",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "「一登」じゃあ、あとで鳳城のバイトがない日を",
+        "translations": {
+            "initial": "「一登」  Oke, nanti aku cek jadwal   Houjou dulu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "「一登」確認しておかないとな",
+        "translations": {
+            "initial": "「一登」  Cek kapan dia tidak kerja   paruh waktu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "「ちよ子」おお！とっきー先輩も、しいしい先輩が",
+        "translations": {
+            "initial": "「ちよ子」  Oh! Senpai tahu             Shiishii-senpai kerja?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "「ちよ子」スパで働いてることをご存知でしたか！",
+        "translations": {
+            "initial": "「ちよ子」  Ternyata dia bekerja di     spa!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "スパ？",
+        "translations": {
+            "initial": "Spa？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "これは……もしかして鳳城のバイト先か？",
+        "translations": {
+            "initial": "Ini... apa jangan-jangan tempat kerja paruh waktunya Houjou？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "「ちよ子」広いですし、お湯は気持ちいいですし、しかも",
+        "translations": {
+            "initial": "「ちよ子」  Tempatnya luas dan air      panasnya enak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "「ちよ子」しいしい先輩がいるなんて、天国みたいなところですよねー",
+        "translations": {
+            "initial": "「ちよ子」  Ada Shiishii-senpai,        rasanya seperti surga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "「一登」そうか、鳳城はスパで働いてたのか",
+        "translations": {
+            "initial": "「一登」  Oalah, Houjou ternyata      kerja di spa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "「ちよ子」？？？？？",
+        "translations": {
+            "initial": "「ちよ子」  ?????",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "「ちよ子」もしかして、知らなかったんですか！？",
+        "translations": {
+            "initial": "「ちよ子」  Loh, Senpai belum tahu!?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "「一登」ああ、バイトしてることしか知らなかった",
+        "translations": {
+            "initial": "「一登」  Cuma tahu dia kerja         sambilan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "「ちよ子」お、おおおおおおおぉぉぉぉぉ",
+        "translations": {
+            "initial": "「ちよ子」  O-ooh, begitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "「とっきー先輩。あたしさっき、スパと言いましたが、それはスパゲッティーのことですよ？」",
+        "translations": {
+            "initial": "「Tokki-senpai. Tadi aku bilang spa, tapi maksudnya itu spageti lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "すげぇごまかし方をしてきた。",
+        "translations": {
+            "initial": "Cara ngelesnya payah banget.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "「無理があり過ぎる。じゃあなんだよ、広いしお湯が気持ちいいって」",
+        "translations": {
+            "initial": "「Itu terlalu dipaksakan. Terus apa maksudnya soal 'tempatnya luas dan air panasnya mantap' itu?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "「@t33@d1広いお鍋で、パスタを茹でてるんです。パスタの食感がよくなるんですよー」",
+        "translations": {
+            "initial": "「@t33@d1Maksudnya itu pasta yang direbus di panci lebar. Tekstur pastanya jadi makin enak lho~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "「何ちょっと合ってること言ってるんだ。まあ、島のスパ施設だろ？今度偶然を装って行ってみるさ、ちょこがばらしたとは言わないよ」",
+        "translations": {
+            "initial": "「Kok malah sok benar sih bicaranya. Ya sudahlah, itu fasilitas spa di pulau ini, kan？ Nanti aku coba mampir sambil pura-pura nggak sengaja lewat, aku nggak bakal bilang kalau CHOCO yang membocorkannya kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "「@t26@d1おお、ありがとうございます！ばらされたら、あたしがとても可哀想な目にあってしまうので！」",
+        "translations": {
+            "initial": "「@t26@d1Wah, terima kasih banyak！ Soalnya kalau sampai ketahuan, aku bakal kena nasib yang malang banget！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "「何が起こるか想像できないけど、精神的にひどいことをされそうだ」",
+        "translations": {
+            "initial": "「Aku nggak bisa bayangkan apa yang bakal terjadi, tapi sepertinya kamu bakal dikerjai secara mental ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "「はいぃ……前は５時間ほど、しいしい先輩に無視されました」",
+        "translations": {
+            "initial": "「Iyaaa... dulu aku pernah dicuekin sama Shiishii-senpai selama 5 jam」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "「俺もそんな脅され方したな」",
+        "translations": {
+            "initial": "「Aku juga pernah diancam kayak gitu sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "鳳城のひどい目にあわせる方法って、無視しかないのか。",
+        "translations": {
+            "initial": "Apa cara Houjou menyiksa orang cuma dengan mendiamkan mereka saja?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "スパ施設……。",
+        "translations": {
+            "initial": "Fasilitas spa...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "場所自体は知っていたが鳳城にしては、ちょっと意外なバイト先だ。",
+        "translations": {
+            "initial": "Aku tahu tempatnya, tapi untuk ukuran Houjou, itu tempat kerja sambilan yang agak mengejutkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "「偶然とはいえ、教えてくれてありがとな」",
+        "translations": {
+            "initial": "「Makasih ya sudah kasih tahu, meski nggak sengaja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「@t67@d1いえいえー。もし、ご一緒するお相手がいなければ、あたしを誘ってください。可愛い後輩の水着姿が見られますよ♪」",
+        "translations": {
+            "initial": "「@t61@d1Enggak kokー. Kalau senpai nggak ada teman pergi, ajak aku saja ya. Senpai bisa lihat sosok junior yang imut ini pakai baju renang lho♪」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "「ちょこと一緒に行ったら、俺を連れてきたって思われるぞ？」",
+        "translations": {
+            "initial": "「Kalau aku pergi bareng CHOCO, dia bakal mengira aku yang membawamu ke sana, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "「@t73@d1おお、そうでした！危うく、可哀想な後輩の水着姿になるところでしたよ。では、失礼しますねー」",
+        "translations": {
+            "initial": "「@t54@d1Oh, iya juga！ Hampir saja aku jadi sosok junior yang menyedihkan. Kalau begitu, aku duluan yaー」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "ＣＯＭＵを閉じ、ＴＡＢをポケットにしまう。",
+        "translations": {
+            "initial": "Aku menutup COMU dan memasukkan TAB ke dalam saku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "せっかく、ちょこに教えてもらったんだ。今度、覗いてみようかな。",
+        "translations": {
+            "initial": "Mumpung CHOCO sudah memberitahuku, mungkin besok-besok aku coba intip saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "鳳城の嫌そうな顔が容易く想像できるけど……。",
+        "translations": {
+            "initial": "Meski aku bisa membayangkan dengan jelas wajah kesal Houjou nanti...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

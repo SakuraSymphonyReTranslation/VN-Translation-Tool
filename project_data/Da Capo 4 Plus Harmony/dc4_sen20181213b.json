@@ -1,0 +1,1334 @@
+[
+    {
+        "id": 0,
+        "original": "　ＫｏｔｏＲＩが歌っている。",
+        "reading": "　ＫｏｔｏＲＩがうたうている。",
+        "translations": {
+            "initial": "KotoRI sedang bernyanyi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "　目の前で。",
+        "reading": "　めのまえで。",
+        "translations": {
+            "initial": "Tepat di depan mataku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "　人気のヴァーチャルマイチューバーだ。",
+        "reading": "　にんきのばーちゃるまいちゅーばーだ。",
+        "translations": {
+            "initial": "Dia adalah Virtual MyTuber yang populer.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "　いつも画面を通してしか見たことの無い彼女が、今は\nすぐ手の届くところにいる。",
+        "reading": "　いつもがめんをとおすてしかみるたことのないかのじょが、いまはすぐてのとどくところにいる。",
+        "translations": {
+            "initial": "Dia yang biasanya hanya bisa kulihat melalui layar, sekarang berada tepat di jangkauan tanganku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "　なるほど。",
+        "reading": "　なるほど。",
+        "translations": {
+            "initial": "Begitu ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "　ってことは、これは夢だ。",
+        "reading": "　つうことは、これはゆめだ。",
+        "translations": {
+            "initial": "Berarti, ini cuma mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "　こんな有名人がすぐ目の前にいるわけがない。",
+        "reading": "　こんなゆうめいじんがすぐめのまえにいるわけがない。",
+        "translations": {
+            "initial": "Mana mungkin orang seterkenal ini ada tepat di hadapanku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "　…………。",
+        "reading": "　…………。",
+        "translations": {
+            "initial": "............",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "　いやいやいや。",
+        "reading": "　いやいやいや。",
+        "translations": {
+            "initial": "Tunggu, tunggu, tunggu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "　そうじゃない。",
+        "reading": "　そうだない。",
+        "translations": {
+            "initial": "Bukan, bukan begitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "　そもそもヴァーチャルな存在は画面の中にしかいない。",
+        "reading": "　そもそもばーちゃるだそんざいはがめんのなかにしかいるない。",
+        "translations": {
+            "initial": "Lagi pula, sosok virtual itu seharusnya hanya ada di dalam layar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "　じゃあ俺が画面の中に入れるようになった……とか？",
+        "reading": "　でおれががめんのなかにいれるようだなるた……とか？",
+        "translations": {
+            "initial": "Berarti, apa itu artinya aku yang masuk ke dalam layar... gitu?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "　うん。",
+        "reading": "　うん。",
+        "translations": {
+            "initial": "Ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "　それこそ｛・／夢｝だ。",
+        "reading": "　それこそ｛・／ゆめ｝だ。",
+        "translations": {
+            "initial": "Itu baru namanya mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "　それにしても、相変わらず良い歌だなあ……。",
+        "reading": "　それにするても、あいかわるずよいうただな……。",
+        "translations": {
+            "initial": "Ngomong-ngomong, lagunya masih sebagus biasanya ya....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "　…………。",
+        "reading": "　…………。",
+        "translations": {
+            "initial": "............",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "　……あれ？",
+        "reading": "　……あれ？",
+        "translations": {
+            "initial": "...Lho?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "　でもこれ、なんて歌だっけ……？",
+        "reading": "　でもこれ、なにつううただけ……？",
+        "translations": {
+            "initial": "Tapi ini, lagu apa ya...?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "　そもそも聞いたことのある歌だっけ？",
+        "reading": "　そもそもきくたことのあるうただけ？",
+        "translations": {
+            "initial": "Apa dari awal aku memang pernah mendengar lagu ini?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "　それとも初めて聞くっけ？",
+        "reading": "　それともはじめてきくけ？",
+        "translations": {
+            "initial": "Atau jangan-jangan aku baru pertama kali mendengarnya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "　…………。",
+        "reading": "　…………。",
+        "translations": {
+            "initial": "............",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "　思い出せないぞ。",
+        "reading": "　おもいだすないぞ。",
+        "translations": {
+            "initial": "Aku tidak bisa mengingatnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "　どちらにしても、何だかとても懐かしい気持ちになる。",
+        "reading": "　どちらにするても、なにだかとてもなつかしいきもちになる。",
+        "translations": {
+            "initial": "Apa pun itu, entah kenapa rasanya benar-benar membuatku bernostalgia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "　やっぱり可愛いよなあ。",
+        "reading": "　やはりかわいいよな。",
+        "translations": {
+            "initial": "Dia memang benar-benar imut, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "　自然と手が伸びてしまう。",
+        "reading": "　しぜんとてがのびるてしまう。",
+        "translations": {
+            "initial": "Tanpa sadar, tanganku terulur padanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "　ヴァーチャルなアイドルへ触れたいという夢を。",
+        "reading": "　ばーちゃるだあいどるへふれるたいというゆめを。",
+        "translations": {
+            "initial": "Mimpi untuk bisa menyentuh idola virtual.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "　今、俺が、とうとう――",
+        "reading": "　いま、おれが、とうとう――",
+        "translations": {
+            "initial": "Sekarang, aku, akhirnya-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "　足を一歩踏み出した、その瞬間。",
+        "reading": "　あしをいっぽふみだすた、そのしゅんかん。",
+        "translations": {
+            "initial": "Tepat saat aku melangkahkan kaki ke depan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "一登",
+        "reading": "かずと",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "「わっ……」",
+        "reading": "「わあ……」",
+        "translations": {
+            "initial": "「Wah......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "　思わず声がでた。",
+        "reading": "　おもうずこえがでるた。",
+        "translations": {
+            "initial": "Tanpa sadar aku bersuara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "　突然、落下するフワッとした感覚と直後の衝撃。",
+        "reading": "　とつぜん、らっかするふわとするたかんかくとちょくごのしょうげき。",
+        "translations": {
+            "initial": "Tiba-tiba, ada sensasi melayang seolah terjatuh yang disusul dengan benturan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "　いてててて……。",
+        "reading": "　いてて……。",
+        "translations": {
+            "initial": "Aduh duh duh.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "　夢の中くらい、なんでも上手くいってほしいもんだぜ。",
+        "reading": "　ゆめのなかくらい、なにでもうまいいくてほしいものだぜ。",
+        "translations": {
+            "initial": "Seharusnya di dalam mimpi pun semuanya bisa berjalan lancar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "　頭をさすりながら目を開けると、そこに見たことある\nような、けれど見たことあるはずのない光景が広がって\nいた。",
+        "reading": "　あたまをさするながらめをあけると、そこにみるたことあるようだ、けれどみるたことあるはずのないこうけいがひろがるているた。",
+        "translations": {
+            "initial": "Sambil mengusap kepala dan membuka mata, terbentang pemandangan yang rasanya pernah kulihat, tapi seharusnya tidak mungkin pernah kulihat sebelumnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "　夢の中で目を開けるというのも｛・・／メタ｝な話だけど。",
+        "reading": "　ゆめのなかでめをあけるというのも｛・・／めた｝だはなしだけれど。",
+        "translations": {
+            "initial": "Kedengarannya agak bersemangat kalau aku bilang membuka mata di dalam mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "一登",
+        "reading": "かずと",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "「桜の木……」",
+        "reading": "「さくらのき……」",
+        "translations": {
+            "initial": "「Pohon sakura......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "　それは｛・・・・・／知っている｝桜の巨木に思えた。",
+        "reading": "　それは｛・・・・・／しるている｝さくらのきょぼくにおもうた。",
+        "translations": {
+            "initial": "Sepertinya itu pohon sakura raksasa yang aku kenal.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "　俺の住む街――｛かがみ／香々見｝市にある桜にそっくりだ。",
+        "reading": "　おれのすむまち――｛かがみ／こう々み｝しにあるさくらにそっくりだ。",
+        "translations": {
+            "initial": "Mirip sekali dengan sakura yang ada di kota tempat tinggalku Kota Kagami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "　だから見たことのある光景だと感じたのだろう。",
+        "reading": "　だからみるたことのあるこうけいだとかんずるたのだ。",
+        "translations": {
+            "initial": "Mungkin itu sebabnya aku merasa pemandangan ini pernah kulihat sebelumnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "　けど――",
+        "reading": "　けれど――",
+        "translations": {
+            "initial": "Tapi-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "　それ以外は見たことあるはずの無い光景。",
+        "reading": "　それいがいはみるたことあるはずのないこうけい。",
+        "translations": {
+            "initial": "Selain itu, ini adalah pemandangan yang seharusnya belum pernah kulihat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "　というか、ツッコミ所が満載だ。",
+        "reading": "　というか、つっこみしょがまんさいだ。",
+        "translations": {
+            "initial": "Maksudku, banyak sekali hal yang aneh di sini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "　確かに俺の知っている桜も湖畔に佇む優雅なものだ。",
+        "reading": "　たしかだおれのしるているさくらもこはんにたたずむゆうがだものだ。",
+        "translations": {
+            "initial": "Memang benar sakura yang aku tahu juga berdiri anggun di tepi danau.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "　けどこれは、ここは、まるで湖の｛・／中｝……じゃないか。",
+        "reading": "　けれどこれは、ここは、まるでみずうみの｛・／ちゅう｝……だないか。",
+        "translations": {
+            "initial": "Tapi ini, tempat ini, rasanya seperti... di dalam danau, kan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "　見上げれば水面。",
+        "reading": "　みあげるばすいめん。",
+        "translations": {
+            "initial": "Saat melihat keatas, yang ada adalah permukaan air.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "　｛・・・／その先｝で太陽がゆらゆらと揺れている。",
+        "reading": "　｛・・・／そのさき｝でたいようがゆらゆらとゆれるている。",
+        "translations": {
+            "initial": "Di baliknya, matahari tampak bergoyang-goyang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "　水面の向こうではうっすらと雪も舞っているようだ。",
+        "reading": "　すいめんのむこうではうっすらとゆきもまうているようだ。",
+        "translations": {
+            "initial": "Di balik permukaan air itu, sepertinya salju juga turun dengan tipis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "　天気雪か、それとも山からの吹き下ろしか。",
+        "reading": "　てんきゆきか、それともやまからのふきおろすか。",
+        "translations": {
+            "initial": "Hujan panas, atau mungkin salju yang tertiup angin dari gunung?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "　雪……思いだした。",
+        "reading": "　ゆき……おもいだすた。",
+        "translations": {
+            "initial": "Salju...... aku ingat sekarang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "　今は冬だ。",
+        "reading": "　いまはふゆだ。",
+        "translations": {
+            "initial": "Sekarang sedang musim dingin.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "　冬だというのに……この桜は満開だ。",
+        "reading": "　ふゆだというのに……このさくらはまんかいだ。",
+        "translations": {
+            "initial": "Padahal musim dingin, tapi... sakura ini mekar dengan sempurna.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "　狂い咲きなどというレベルの話じゃない。",
+        "reading": "　くるいざきなどというれべるのはなしだない。",
+        "translations": {
+            "initial": "Ini bukan lagi sekadar fenomena bunga yang mekar di luar musim.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "　まるでその可憐な花を無限に散らそうかという勢い。",
+        "reading": "　まるでそのかれんだはなをむげんだちらすかといういきおい。",
+        "translations": {
+            "initial": "Semangatnya seolah ingin menggugurkan kelopak bunga indahnya itu tanpa henti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "　美しく、それでいてどこか懐かしい。",
+        "reading": "　うつくしい、それでいるてどこかなつかしい。",
+        "translations": {
+            "initial": "Begitu cantik, namun entah mengapa terasa familier.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "　それだけじゃない。",
+        "reading": "　それだけだない。",
+        "translations": {
+            "initial": "Bukan itu saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "　なるほど見上げれば水面があるということは、ここは\n水中なのだろう。",
+        "reading": "　なるほどみあげるばすいめんがあるということは、ここはすいちゅうだのだ。",
+        "translations": {
+            "initial": "Begitu ya, kalau saat melihat keatas ada permukaan air, berarti di sini adalah di dalam air.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "　だというのに、足元にも水面がある。",
+        "reading": "　だというのに、あしもとにもすいめんがある。",
+        "translations": {
+            "initial": "Meski begitu, di bawah kakiku juga ada permukaan air.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "　そこには普通の水面同様、鏡のように景色が映り込ん\nでいる。",
+        "reading": "　そこにはふつうのすいめんどうよう、かがみのようだけしきがうつりこむている。",
+        "translations": {
+            "initial": "Sama seperti permukaan air biasa, pemandangan di sana terpantul seperti cermin.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "　この中に入れるのか？",
+        "reading": "　このなかにいれるのか？",
+        "translations": {
+            "initial": "Apa aku bisa masuk ke dalamnya？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "　それとも出ることになるのか？",
+        "reading": "　それともでることになるのか？",
+        "translations": {
+            "initial": "Atau malah aku akan keluar？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "　さっぱり判らない。",
+        "reading": "　さっぱりわかるない。",
+        "translations": {
+            "initial": "Aku sama sekali tidak paham.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "　そもそも、これは夢だ。",
+        "reading": "　そもそも、これはゆめだ。",
+        "translations": {
+            "initial": "Lagipula, ini cuma mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "　考えても仕方無いことと言えばそれまでか。",
+        "reading": "　かんがえるてもしかたないことというばそれまでか。",
+        "translations": {
+            "initial": "Kurasa dipikirkan pun nggak ada gunanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "　下側の湖面も時折揺らいでいる。",
+        "reading": "　したがわのこめんもときおりゆらぐている。",
+        "translations": {
+            "initial": "Permukaan air di bawah sana juga terkadang beriak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "　夢ながら、なんとも不思議な空間だ。",
+        "reading": "　ゆめながら、なにともふしぎだくうかんだ。",
+        "translations": {
+            "initial": "Walau cuma mimpi, ini benar-benar ruang yang ajaib.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "　こんな夢は初めて見る……。",
+        "reading": "　こんなゆめははじめてみる……。",
+        "translations": {
+            "initial": "Aku belum pernah melihat mimpi seperti ini sebelumnya....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "　でも、なんだか以前にも見たことある夢な気もする。",
+        "reading": "　でも、なにだかいぜんにもみるたことあるゆめだきもする。",
+        "translations": {
+            "initial": "Tapi, entah kenapa rasanya aku pernah melihat mimpi ini juga sebelumnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "　そして気付いた。",
+        "reading": "　そしてきづくた。",
+        "translations": {
+            "initial": "Dan aku pun menyadarinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "　桜の木の下に、誰かがいる。",
+        "reading": "　さくらのきのしたに、だれかがいる。",
+        "translations": {
+            "initial": "Ada seseorang di bawah pohon sakura itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "　ずっといたのか今現れたのか判らない。",
+        "reading": "　ずっといるたのかいまあらわれるたのかわかるない。",
+        "translations": {
+            "initial": "Aku tidak tahu apakah dia sudah ada di sana sejak tadi atau baru saja muncul.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "　俯いているせいでその顔は伺えない。",
+        "reading": "　うつむくているせいでそのかおはうかがうない。",
+        "translations": {
+            "initial": "Wajahnya tidak terlihat karena dia sedang menunduk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "一登",
+        "reading": "かずと",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "「そこに誰かいる……よな？」",
+        "reading": "「そこにだれかいる……よな？」",
+        "translations": {
+            "initial": "「Ada orang di sana... kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "　言いながら近づくと、それが少女であることが判った。",
+        "reading": "　いうながらちかづくと、それがしょうじょだあることがわかるた。",
+        "translations": {
+            "initial": "Saat aku mendekat sambil berbicara, aku baru menyadari bahwa sosok itu adalah seorang gadis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "　膝の上に猫のぬいぐるみがいる。",
+        "reading": "　ひざのうえにねこのぬいぐるみがいる。",
+        "translations": {
+            "initial": "Ada sebuah boneka kucing di atas pangkuannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "　｛・・／ある｝、と表現するべきなのだろうか？",
+        "reading": "　｛・・／ある｝、とひょうげんするべしだのだか？",
+        "translations": {
+            "initial": "Atau mungkin lebih tepatnya, boneka itu tergeletak di sana？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "少女",
+        "reading": "しょうじょ",
+        "translations": {
+            "initial": "Gadis",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "「だれ……？」",
+        "reading": "「だれ……？」",
+        "translations": {
+            "initial": "「Siapa...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "　俺の声に反応しながら僅かに上げた顔。",
+        "reading": "　おれのこえにはんのうするながらわずかだあげるたかお。",
+        "translations": {
+            "initial": "Dia sedikit mengangkat wajahnya saat merespons suaraku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "　その目から、溢れた涙が頬を伝う。",
+        "reading": "　そのめから、あふれるたなみだがほおをつたう。",
+        "translations": {
+            "initial": "Dari matanya, air mata mengalir membasahi pipinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "一登",
+        "reading": "かずと",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "「泣いてるのか……？」",
+        "reading": "「なくてるのか……？」",
+        "translations": {
+            "initial": "「Kamu menangis...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "少女",
+        "reading": "しょうじょ",
+        "translations": {
+            "initial": "Gadis",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "「え……？　どうして……が……」",
+        "reading": "「えっ……？　どうするて……が……」",
+        "translations": {
+            "initial": "「Eh...？ Kenapa... ada...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "　少女の声はか細く聞き取りづらい。",
+        "reading": "　しょうじょのこえはかぼそいききとるづらい。",
+        "translations": {
+            "initial": "Suara gadis itu sangat pelan dan sulit didengar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "　僅かに瞳を大きくしたのが判った程度だ。",
+        "reading": "　わずかだひとみをおおきいするたのがわかるたていどだ。",
+        "translations": {
+            "initial": "Aku hanya bisa menyadari kalau matanya sedikit membelalak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "　そして再び俯いてしまった。",
+        "reading": "　そしてふたたびうつむくてしまうた。",
+        "translations": {
+            "initial": "Lalu dia kembali menundukkan kepalanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "一登",
+        "reading": "かずと",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "「なんで泣いてるんだ？　ここは……君は……？」",
+        "reading": "「なにでなくてるのだ？　ここは……きみは……？」",
+        "translations": {
+            "initial": "「Kenapa kamu menangis？ Tempat ini... lalu kamu...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "少女",
+        "reading": "しょうじょ",
+        "translations": {
+            "initial": "Gadis",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "「ダメなの……」",
+        "reading": "「だめだの……」",
+        "translations": {
+            "initial": "「Nggak boleh...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "　今度はハッキリ聞こえた。",
+        "reading": "　こんどははっきりきこえるた。",
+        "translations": {
+            "initial": "Kali ini suaranya terdengar jelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "　何がダメなのかは判らないけれど。",
+        "reading": "　なにがだめだのかはわかるないけれど。",
+        "translations": {
+            "initial": "Meskipun aku tidak tahu apa yang tidak boleh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "　否定の言葉を口にした少女は、今度は自らの手でそっ\nと涙を拭うと、しっかりと俺に視線を合わせた。",
+        "reading": "　ひていのことばをくちにするたしょうじょは、こんどはみずからのてでそうとなみだをぬぐうと、しっかりとおれにしせんをあわせるた。",
+        "translations": {
+            "initial": "Setelah mengucapkan kata penolakan itu, sang gadis menyeka air matanya perlahan dengan tangannya sendiri, lalu menatap lurus ke arahku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "少女",
+        "reading": "しょうじょ",
+        "translations": {
+            "initial": "Gadis",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "「私を……ないで……お願いだから……」",
+        "reading": "「わたくしを……ないて……おねがいだから……」",
+        "translations": {
+            "initial": "「Jangan... aku... kumohon...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "　また小さい声でよく聞こえない。",
+        "reading": "　またちいさいこえでよくきこえるない。",
+        "translations": {
+            "initial": "Suaranya kembali mengecil sehingga tidak terdengar jelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "　唇が震えていた。",
+        "reading": "　くちびるがふるえるているた。",
+        "translations": {
+            "initial": "Bibirnya tampak bergetar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "　けど、その瞳からは強い意志を感じた。",
+        "reading": "　けれど、そのひとみからはつよいいしをかんずるた。",
+        "translations": {
+            "initial": "Tapi, aku bisa merasakan kemauan yang kuat dari matanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "一登",
+        "reading": "かずと",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "「よく、聞こえない。何て――」",
+        "reading": "「よい、きこえるない。なにって――」",
+        "translations": {
+            "initial": "「Suaramu gak kedengaran jelas. Apa katamu-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "　言いながら一歩、少女へと踏み出した瞬間。",
+        "reading": "　いうながらいちほ、しょうじょへとふみだすたしゅんかん。",
+        "translations": {
+            "initial": "Saat aku melangkah maju mendekati gadis itu sambil bicara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "　視界が光に包まれた。",
+        "reading": "　しかいがひかりにつつむれるた。",
+        "translations": {
+            "initial": "Pandanganku tiba-tiba diselimuti oleh cahaya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "　真っ白くなり全てが境界を失う。",
+        "reading": "　まっしろいなるすべてがきょうかいをうしなう。",
+        "translations": {
+            "initial": "Semuanya memutih dan batas-batas di sekitarku pun menghilang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "　だから何も見えていないはずなのに。",
+        "reading": "　だからなにもみえるているないはずだのに。",
+        "translations": {
+            "initial": "Seharusnya aku gak bisa melihat apa-apa lagi sekarang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "　少女の表情はおろか、その姿も。",
+        "reading": "　しょうじょのひょうじょうはおろか、そのすがたも。",
+        "translations": {
+            "initial": "Entah itu ekspresi si gadis, maupun sosoknya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "　なのに。",
+        "reading": "　だのに。",
+        "translations": {
+            "initial": "Tapi anehnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "　彼女から再び一筋の涙が流れたのを見た気がした。",
+        "reading": "　かのじょからふたたびひとすじのなみだがながれるたのをみるたきがするた。",
+        "translations": {
+            "initial": "Aku merasa seolah melihat setetes air mata kembali mengalir di pipinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "◆◆",
+        "reading": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

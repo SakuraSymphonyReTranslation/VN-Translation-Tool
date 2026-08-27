@@ -1,0 +1,3247 @@
+[
+    {
+        "id": 0,
+        "original": "放課後の訪れを告げるチャイム。",
+        "translations": {
+            "initial": "Bel tanda berakhirnya jam pelajaran pun berbunyi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "「んっ、んん～っと」",
+        "translations": {
+            "initial": "「Ngh, hhh... haah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "教室の喧噪の中で伸びをすると、授業中に固まっていた身体が解れる。",
+        "translations": {
+            "initial": "Begitu aku meregangkan tubuh di tengah hiruk pikuk kelas, otot-otot yang kaku selama pelajaran pun mulai terasa rileks.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "「兄さん」",
+        "translations": {
+            "initial": "「Nii-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "「お？二乃。どうした？」",
+        "translations": {
+            "initial": "「Oh？ Nino. Ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "「私、泉先生に放課後呼ばれているので、帰りが少し遅くなるかもしれません」",
+        "translations": {
+            "initial": "「Aku dipanggil oleh Izumi-sensei setelah sekolah selesai, jadi mungkin aku akan sedikit terlambat pulang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "「ほう……。どんな悪さをしたんだ？」",
+        "translations": {
+            "initial": "「Hou... Memangnya kenakalan apa yang kamu perbuat？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "「@b1@t37@w1してません！兄さんと一緒にしないで下さい……。事務作業の手伝いです」",
+        "translations": {
+            "initial": "「@b1@t37@w1Aku gak berbuat apa-apa！ Jangan samakan aku dengan Nii-san... Aku cuma mau bantu urusan administrasi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "「頼りにされるような優等生はこういう時に面倒だな。良かったぜ優等生じゃなくて」",
+        "translations": {
+            "initial": "「Murid teladan yang bisa diandalkan memang repot di saat seperti ini ya. Untung saja aku bukan murid teladan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "「@b1@t42@w1別に私だって優等生ってわけじゃないです……。とにかくそういうわけなので」",
+        "translations": {
+            "initial": "「@b1@t42@w1Aku juga bukannya murid teladan banget kok... Pokoknya, begitu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "「おっけー。ほどほどに頑張ってこいなー」",
+        "translations": {
+            "initial": "「Oke. Semangat ya, tapi jangan terlalu dipaksakan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "「@b1@t22@w1はい、そうします。じゃあまた後でね、兄さん」",
+        "translations": {
+            "initial": "「@b1@t22@w1Iya, akan kulakukan. Kalau begitu sampai nanti ya, Nii-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "二乃が行ってしまった。",
+        "translations": {
+            "initial": "Nino pun pergi meninggalkan kelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "別に毎日一緒に帰るとかそんな幼稚園児のような仲良し兄妹も気持ち悪いので良いのだが。",
+        "translations": {
+            "initial": "Bukannya apa-apa, tapi kalau kami pulang bareng tiap hari layaknya anak TK yang akur banget begitu, malah bakal terasa aneh juga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "さて、急かされないと席から立ち上がるのすら億劫になってしまうな……。",
+        "translations": {
+            "initial": "Nah, kalau tidak sedang terburu-buru begini, beranjak dari kursi saja rasanya malas sekali...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "杉並は……すでにいない。",
+        "translations": {
+            "initial": "Suginami... sudah tidak ada.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "いつもの任務とやらに旅立ったか。",
+        "translations": {
+            "initial": "Sepertinya dia sudah berangkat untuk menjalankan apa yang biasa dia sebut sebagai misi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "んじゃ叶方は……っと。",
+        "translations": {
+            "initial": "Lalu Kanata... sedang apa ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "女子連中とアパレルトークか……。",
+        "translations": {
+            "initial": "Sedang asyik mengobrol soal pakaian dengan gerombolan siswi lain ternyata...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "あ、そのまま出て行きやがった。",
+        "translations": {
+            "initial": "Ah, dia langsung keluar begitu saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "服買いに行ったなあれは。",
+        "translations": {
+            "initial": "Sudah pasti dia pergi belanja baju.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "めんどくせー。",
+        "translations": {
+            "initial": "Males banget...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "立ち上がるのがめんどくせー。",
+        "translations": {
+            "initial": "Mau berdiri aja rasanya males banget.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "？？？",
+        "translations": {
+            "initial": "？？？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "「なんだか、すごく面倒臭そうな表情してるね」",
+        "translations": {
+            "initial": "「Wah, ekspresimu kelihatan malas sekali ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "む……？",
+        "translations": {
+            "initial": "Hm...？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "顔を上げたらそこにいたのは。",
+        "translations": {
+            "initial": "Saat aku mendongak, ternyata ada dia di sana.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "「有里栖じゃないか」",
+        "translations": {
+            "initial": "「Eh, Arisu-chan rupanya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "「ええと、あのね……」",
+        "translations": {
+            "initial": "「Anu, itu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "有里栖は何かを言いたそうに言い淀む。",
+        "translations": {
+            "initial": "Arisu tampak ragu-ragu seolah ingin mengatakan sesuatu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "ん？これはもしかして……？",
+        "translations": {
+            "initial": "Hm？ Jangan-jangan ini...？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "何か周囲には聞かれたくない話なのか？",
+        "translations": {
+            "initial": "Apa dia mau membicarakan sesuatu yang tidak ingin didengar orang lain？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "「ちょっと、人のいるところだと……」",
+        "translations": {
+            "initial": "「Agak sulit kalau di tempat yang ramai orang...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "と小声で囁いてくる。",
+        "translations": {
+            "initial": "Ucapnya dengan berbisik pelan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "やっぱり！？",
+        "translations": {
+            "initial": "Sudah kuduga！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "そういう話なのか……？",
+        "translations": {
+            "initial": "Jadi benar-benar pembicaraan seperti itu...？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "この前ちょっと一緒になったし、その時俺のことを……とか！？",
+        "translations": {
+            "initial": "Kemarin kan kami sempat bersama sebentar, apa saat itu dia mulai... denganku!? Atau semacam itu!?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「お、おう」",
+        "translations": {
+            "initial": "「O-Oke」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "慌てて立ち上がった。",
+        "translations": {
+            "initial": "Aku pun bergegas berdiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "「ちょっと良いかな？」",
+        "translations": {
+            "initial": "「Bisa luangkan waktu sebentar？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "「もちろんだ」",
+        "translations": {
+            "initial": "「Tentu saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "俺はマッハで帰り支度を済ませた。",
+        "translations": {
+            "initial": "Aku langsung membereskan barang-barang bawaanku secepat kilat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "「それじゃあ、ちょっとついてきて」",
+        "translations": {
+            "initial": "「Kalau begitu, ayo ikut aku sebentar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "「あ、ああ……」",
+        "translations": {
+            "initial": "「A-Ah, iya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "有里栖の後をついて教室を出た。",
+        "translations": {
+            "initial": "Aku mengikuti Arisu-chan keluar dari kelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "マジか！？とか、一登の野郎！みたいな後々面倒になりそうな声が背後から聞こえた気がしたが、全く気にならない。",
+        "translations": {
+            "initial": "Sepertinya aku mendengar suara-suara seperti \"Serius！？\" atau \"Sialan kau, Ichito！\" dari belakang yang mungkin akan merepotkan nanti, tapi aku sama sekali gak peduli.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "俺は足取り軽く教室を出た。",
+        "translations": {
+            "initial": "Aku melangkah ringan keluar dari kelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "すぐ目の前を有里栖が歩いている。",
+        "translations": {
+            "initial": "Arisu berjalan tepat di depanku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "内緒の話をするために、他の場所へ。",
+        "translations": {
+            "initial": "Menuju tempat lain untuk membicarakan rahasia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "校舎裏かな。",
+        "translations": {
+            "initial": "Di belakang gedung sekolah, ya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "それとも公園か？",
+        "translations": {
+            "initial": "Atau di taman？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "いや、この前同様にあの桜の下で……。",
+        "translations": {
+            "initial": "Bukan, mungkin di bawah pohon sakura itu seperti sebelumnya...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "これが青春か。",
+        "translations": {
+            "initial": "Inikah masa muda?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "俺もとうとう青春か。",
+        "translations": {
+            "initial": "Akhirnya aku merasakan masa muda juga?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "いいな青春って言葉の響き。",
+        "translations": {
+            "initial": "Indah nian bunyi kata 'masa muda'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "「ついたよ」",
+        "translations": {
+            "initial": "「Sampai nih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "ほう……。",
+        "translations": {
+            "initial": "Ho...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "屋上か。",
+        "translations": {
+            "initial": "Atap, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "ちょっとしたテラスになっていて、実は悪い雰囲気じゃない場所だったりする。",
+        "translations": {
+            "initial": "Ada semacam teras di sini, dan suasananya sebenarnya tidak buruk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "最近ではワンダーランドが遠目に見えることもあり、ちょっとしたスポットになっても不思議じゃない。",
+        "translations": {
+            "initial": "Belakangan ini Wonderland bisa terlihat dari kejauhan, jadi tidak heran kalau tempat ini jadi spot yang cukup menarik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "とはいえ……この時期は風が冷たいことも多いから、わざわざここを訪れる学生は少ない。",
+        "translations": {
+            "initial": "Meskipun begitu... di saat seperti ini angin sering terasa dingin, jadi jarang ada murid yang sengaja datang ke sini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "パッと見、やはり他には誰もいない。",
+        "translations": {
+            "initial": "Sekilas pandang, sepertinya memang tak ada orang lain.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "「寒いのに、こんなところへゴメンね……」",
+        "translations": {
+            "initial": "「Maaf ya, malah mengajakmu ke tempat begini padahal sedang dingin...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "「他に人がいるとちょっと……な内容で……」",
+        "translations": {
+            "initial": "「Soalnya topiknya agak... begitu kalau ada orang lain...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "うんうん。",
+        "translations": {
+            "initial": "Ya, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "「そりゃあそうだよな」",
+        "translations": {
+            "initial": "「Tentu saja lah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "大事な話だもんな。",
+        "translations": {
+            "initial": "Kan pembicaraan penting.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "「三人だけで話したくて……」",
+        "translations": {
+            "initial": "「Aku ingin bicara bertiga saja...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "「うん、三人でな」",
+        "translations": {
+            "initial": "「Ya, bertiga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "三人。",
+        "translations": {
+            "initial": "Bertiga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "三人？",
+        "translations": {
+            "initial": "Bertiga？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "「……へ？」",
+        "translations": {
+            "initial": "「......Heh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "「@t15@d1あ、来た来た。こっちこっちー」",
+        "translations": {
+            "initial": "「@t15@d1Ah, itu mereka datang. Sini, sini-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "背後で扉が開く音がして、現れたのは――",
+        "translations": {
+            "initial": "Terdengar suara pintu terbuka di belakangku, dan yang muncul adalah-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "「すまない、鷺澤……」",
+        "translations": {
+            "initial": "「Maaf ya, Sagisawa......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "「白河……？」",
+        "translations": {
+            "initial": "「Shirakawa......？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "「正解。申し訳無い、常坂兄に手間を取らせることになってしまったね」",
+        "translations": {
+            "initial": "「Tepat sekali. Maaf ya, aku jadi merepotkan Tokisaka-nii」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "「念のために聞くけど、ちょっと待った的な感じでは無い……かな……？」",
+        "translations": {
+            "initial": "「Cuma mau memastikan, ini bukan perasaan semacam 'tunggu sebentar' gitu kan......？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "「@b2@t35@w1え……？どういう……って、ははぁーん……。なるほど、常坂兄らしい誤解だな、ふふふ」",
+        "translations": {
+            "initial": "「@b2@t35@w1Eh......？ Maksudnya...... oh, begitu ya....... Naruhodo, kesalahpahaman yang sangat khas Tokisaka-nii, fufufu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "「ほえ？どういうこと……？」",
+        "translations": {
+            "initial": "「Hoe？ Maksudnya gimana......？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "「何だ。誤解……か……」",
+        "translations": {
+            "initial": "「Ternyata cuma salah paham...... ya......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "「@t30@d1ふふ、そういうことになるね。ほんと、申し訳無いな」",
+        "translations": {
+            "initial": "「@t30@d1Fufu, sepertinya begitu. Benar-benar minta maaf ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "俺の青春終了。",
+        "translations": {
+            "initial": "Masa mudaku berakhir sudah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "というか、開始してなかったようだった。",
+        "translations": {
+            "initial": "Atau lebih tepatnya, sepertinya memang belum pernah dimulai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "「ということは、これはどういう集まりになるんだ？」",
+        "translations": {
+            "initial": "「Kalau begitu, ini sebenarnya perkumpulan macam apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "「鷺澤、常坂兄に説明は？」",
+        "translations": {
+            "initial": "「Sagisawa, sudah menjelaskan pada Tokisaka-nii？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "「@t25@d1ひよりんが来たらしようと思ってて、まだだった」",
+        "translations": {
+            "initial": "「@t25@d1Aku berniat menjelaskannya kalau Hiyorin sudah sampai, jadi memang belum」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "「@b2@t10@w1そっか。常坂兄まで巻き込むのは心苦しいんだけどね」",
+        "translations": {
+            "initial": "「@b2@t10@w1Gitu ya. Rasanya berat hati harus melibatkan Tokisaka-nii juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "なんか白河の表情は浮かない。",
+        "translations": {
+            "initial": "Entah kenapa ekspresi Shirakawa terlihat muram.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "そういえば昼休みもなんか微妙な感じしてたな。",
+        "translations": {
+            "initial": "Kalau diingat-ingat, waktu jam istirahat siang tadi pun suasananya terasa agak aneh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "「あのね、もうすぐクリスマスがあるじゃない？」",
+        "translations": {
+            "initial": "「Begini, sebentar lagi kan mau Natal？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "有里栖が説明を始めた。",
+        "translations": {
+            "initial": "Arisu mulai menjelaskan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "俺は頷く。",
+        "translations": {
+            "initial": "Aku mengangguk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "「@t42@d1それでね、ひよりんのところへの相談が激増してるの」",
+        "translations": {
+            "initial": "「@t42@d1Terus ya, konsultasi yang masuk ke tempat Hiyorin melonjak drastis banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "「あー、恋愛相談？」",
+        "translations": {
+            "initial": "「Ah, konsultasi cinta？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "最近よく目にしたもんな、相談者。",
+        "translations": {
+            "initial": "Memang akhir-akhir ini aku sering melihat orang-orang yang mau berkonsultasi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "「@b1@t11@w1うん。ね？そうだよね」",
+        "translations": {
+            "initial": "「@b1@t11@w1He-eh. Iya, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "「@b2@t56@w1@b2@t84@w2正解。繁忙期というと聞こえは良いのだけれど。これが実に普段の７倍という、ラッキーなのか判らない状況で……」",
+        "translations": {
+            "initial": "「@b2@t56@w1@b2@t84@w2Tepat sekali. Kalau dibilang sedang musim ramai sih terdengar bagus. Tapi jumlahnya benar-benar tujuh kali lipat dari biasanya, aku gak tahu ini situasi yang beruntung atau bukan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "そこで小さくため息。",
+        "translations": {
+            "initial": "Lalu dia menghela napas kecil.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "「とても有り難いことなのだけどね。ボクが好きでやっることだし」",
+        "translations": {
+            "initial": "「Aku sangat bersyukur sih. Lagipula ini sesuatu yang aku lakukan karena suka」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "「@b1@t24@w1@b1@t44@w2ただちょっと量がね……。見てても明らかにキャパシティを超えちゃってるよ－」",
+        "translations": {
+            "initial": "「@b1@t24@w1@b1@t44@w2Cuma jumlahnya itu lho... Biar dilihat bagaimanapun, ini sudah jelas melebihi kapasitasnya-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "「@b2@t36@w1ふふ、ボクもまだまだ未熟だね。鷺澤に心配させてしまうようじゃね」",
+        "translations": {
+            "initial": "「@b2@t36@w1Fufu, aku juga masih kurang berpengalaman ya. Sampai-sampai membuat Sagisawa-san khawatir begini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "「なるほど。白河が大変そうなのを見て、有里栖がなんとかしたい、と」",
+        "translations": {
+            "initial": "「Begitu ya. Karena melihat Shirakawa-san kewalahan, Arisu ingin melakukan sesuatu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "「うん、そうなの」",
+        "translations": {
+            "initial": "「Iya, benar sekali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "他人の恋愛を助けたい白河に、その白河を助けたい有里栖。",
+        "translations": {
+            "initial": "Shirakawa-san yang ingin membantu asmara orang lain, dan Arisu yang ingin membantu Shirakawa-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "どっちもお人好しというかなんというか。",
+        "translations": {
+            "initial": "Dua-duanya sama-sama orang yang terlalu baik atau gimana ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "「やっぱクリスマスってそんなに違うもんなんだな……」",
+        "translations": {
+            "initial": "「Ternyata pengaruh Natal memang sedahsyat itu ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "「もともとイメージがね、ついてしまっている。恋人同士で過ごすとステキって感じの」",
+        "translations": {
+            "initial": "「Dari awal citranya memang sudah terbentuk. Rasanya bakal indah kalau dilewatkan bersama pasangan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "「それはなんかすごい圧になって俺たち男子にも襲いかかってきてるよ」",
+        "translations": {
+            "initial": "「Hal itu jadi tekanan yang luar biasa buat kami para cowok juga tahu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "苦笑しながら言った。",
+        "translations": {
+            "initial": "Ucapku sambil tersenyum kecut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "「更に今年のクリスマスは、この香々見島特有の事情もあってね」",
+        "translations": {
+            "initial": "「Terlebih lagi, Natal tahun ini ada keadaan khusus yang cuma ada di Pulau Kagami ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "「@t25@d1そうなんだよねえ……えへへ……」",
+        "translations": {
+            "initial": "「@t25@d1Bener banget ya... Hehe...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "白河の言葉に有里栖が少しばつが悪そうに苦笑した。",
+        "translations": {
+            "initial": "Arisu tersenyum canggung mendengar perkataan Shirakawa-san, seolah merasa sedikit tidak enak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "「ん？この島で特有の事情……？」",
+        "translations": {
+            "initial": "「Hm？ Keadaan khusus di pulau ini...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "「サンタクロースが訪問するとか……？」",
+        "translations": {
+            "initial": "「Apa Sinterklas bakal datang berkunjung...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "「@b2@t58@w1不正解。ふふ、それだと子供たちが喜びそうだよね。香々見ワンダーランドが正解だよ」",
+        "translations": {
+            "initial": "「@b2@t58@w1Salah. Fufu, kalau itu sih anak-anak pasti bakal senang ya. Jawaban yang benar adalah Kagami Wonderland」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "「あー……なるほど……」",
+        "translations": {
+            "initial": "「Ah... Begitu ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "「クリスマスには特別イベントでペア入場限定だったり、そうでなくてもワンダーランドでデートは憧れの的になるのは頷けるしね」",
+        "translations": {
+            "initial": "「Wajar sih, soalnya pas Natal ada acara khusus yang terbatas buat pasangan saja, dan meskipun nggak ikut acara itu, kencan di Wonderland tetap jadi impian banyak orang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "「鷺澤はそんなことにも責任を感じてるんだね」",
+        "translations": {
+            "initial": "「Sagisawa-san sampai merasa bertanggung jawab buat hal itu juga ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "「@t18@d1う～……。だってなんか、無関係とは言いづらいし」",
+        "translations": {
+            "initial": "「@t18@d1Ugh... Soalnya gimana ya, rasanya sulit kalau dibilang nggak ada hubungannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "「無関係さ。親の仕事とこのことはね」",
+        "translations": {
+            "initial": "「Nggak ada hubungannya, kok. Antara pekerjaan orang tua sama hal ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "「……うん」",
+        "translations": {
+            "initial": "「...Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "「でも、友人として助けてくれるっていうのは嬉しい。そこは大いに関係があるわけだしね」",
+        "translations": {
+            "initial": "「Tapi aku senang kamu mau membantu sebagai teman. Kalau yang itu baru ada hubungannya banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "「うん！」",
+        "translations": {
+            "initial": "「Iya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "やはり二人ともお人好しだな。",
+        "translations": {
+            "initial": "Mereka berdua memang benar-benar orang yang terlalu baik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "良い友人同士だ。",
+        "translations": {
+            "initial": "Hubungan pertemanan yang sangat bagus.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "「さて、そこで常坂兄なわけです」",
+        "translations": {
+            "initial": "「Nah, di sinilah peran Tokisaka-nii dimulai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "「そう、俺だよ。もちろん俺も手伝えることは手伝うけどさ、どうして俺に……？」",
+        "translations": {
+            "initial": "「Benar, aku. Tentu saja aku akan bantu semampuku, tapi kenapa harus aku...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "これはやっぱり青春の逆転ホームランあるんじゃないか？",
+        "translations": {
+            "initial": "Apa ini akhirnya saatnya aku mendapatkan home run pembalik keadaan di masa muda？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "誰にだって頼むわけじゃないだろ。",
+        "translations": {
+            "initial": "Dia nggak mungkin minta tolong ke sembarang orang, kan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "そこには理由があるだろ。",
+        "translations": {
+            "initial": "Pasti ada alasannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "理由は青春だろ。",
+        "translations": {
+            "initial": "Alasannya karena masa muda, kan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "だろ？",
+        "translations": {
+            "initial": "Iya, kan？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "「不正解」",
+        "translations": {
+            "initial": "「Salah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "「おい、何も言ってないぞ」",
+        "translations": {
+            "initial": "「Oi, aku kan belum bilang apa-apa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "「ふふ、表情を見ていれば判るよ」",
+        "translations": {
+            "initial": "「Fufu, aku bisa tahu cuma dengan melihat ekspresimu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "「実は男子からの相談数で第二位に二乃ちゃんが入っていてね」",
+        "translations": {
+            "initial": "「Sebenarnya, Nino-chan berada di peringkat kedua dalam jumlah konsultasi dari para laki-laki」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "「君の妹君はとても人気があるのだよ。普段からね」",
+        "translations": {
+            "initial": "「Adik perempuanmu itu sangat populer, lho. Dari dulu memang begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "「正体を知らないっていうのは恐ろしいことだな」",
+        "translations": {
+            "initial": "「Nggak tahu identitas aslinya itu benar-benar hal yang mengerikan, ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "「で、俺はあいつに誰かと付き合う気があるのかを探って協力を取り付ければ良いのか？」",
+        "translations": {
+            "initial": "「Jadi, aku harus mencari tahu apa dia punya niat buat pacaran sama seseorang dan mengajaknya bekerja sama？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 216,
+        "original": "「@b2@t52@w1@b2@t79@w2半分正解。彼女の気持ちは以前確認している。誰とも付き合うつもりはないらしい。なので、常坂妹の気持ちを知りたがっている男子たちにはそう伝えている」",
+        "translations": {
+            "initial": "「@b2@t52@w1@b2@t79@w2Setengah benar. Aku sudah memastikan perasaannya sebelumnya. Katanya dia nggak berniat pacaran dengan siapa pun. Jadi, aku sudah menyampaikannya kepada para laki-laki yang ingin tahu perasaan Tokisaka-imouto」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 217,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 218,
+        "original": "「@b2@t26@w1@b2@t26@bt2伝えてはいるんだけど、なかなか納得はしてくれなくてね……」",
+        "translations": {
+            "initial": "「@b2@t26@w1@b2@t26@bt2Aku sudah menyampaikannya, tapi mereka sulit sekali untuk terima...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 219,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 220,
+        "original": "「あいつは何か理由みたいなのは言ってるのか？」",
+        "translations": {
+            "initial": "「Apa dia memberitahumu semacam alasannya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 221,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 222,
+        "original": "「@b2@t37@w1@b2@t88@w2『理由なんて無いもの。いらないからいらないだけ』という感じでね。半分くらいはそれでも納得してくれるんだけど、もう半分がなかなか手強くてね……」",
+        "translations": {
+            "initial": "「@b2@t37@w1@b2@t88@w2Dia bilang, 『Nggak ada alasan khusus. Kalau nggak mau ya nggak mau saja』. Sekitar setengahnya bisa terima, tapi sisanya cukup keras kepala...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 223,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 224,
+        "original": "「@b2@t29@w1きっと自分ならお眼鏡に適うはず、という謎の自信を持った者というのは少なく無いものなんだよね……」",
+        "translations": {
+            "initial": "「@b2@t29@w1Sepertinya nggak sedikit orang yang punya rasa percaya diri misterius bahwa mereka pasti bisa meluluhkan hatinya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 225,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 226,
+        "original": "「@t47@d1ワンダーランドでクリスマスデートをすれば、きっと好きになってくれる！みたいなのが何人かね……」",
+        "translations": {
+            "initial": "「@t47@d1Ada beberapa orang yang berpikir... kalau kencan Natal di Wonderland, dia pasti bakal jatuh cinta padaku！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 227,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 228,
+        "original": "「そんなにも憧れのシチュエーションなのか、クリスマスワンダーランドデートは……」",
+        "translations": {
+            "initial": "「Apa kencan Natal di Wonderland itu benar-benar situasi impian yang sebegitunya...?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 229,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 230,
+        "original": "「正解。女子はもっとだよ。人気男子とクリスマスをワンダーランドで過ごしたいって」",
+        "translations": {
+            "initial": "「Tepat sekali. Apalagi buat cewek. Mereka ingin menghabiskan Natal di Wonderland bareng cowok populer」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 231,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 232,
+        "original": "「なるほどなあ……」",
+        "translations": {
+            "initial": "「Oalah, begitu ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 233,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 234,
+        "original": "「なんだか本当に申し訳ない気持ち……」",
+        "translations": {
+            "initial": "「Rasanya aku jadi merasa bersalah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 235,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 236,
+        "original": "「いや、基本的には良いことだろ。幸せなことっていうか楽しいことなわけだし」",
+        "translations": {
+            "initial": "「Enggak kok, dasarnya itu hal yang bagus kan. Maksudku, itu hal yang membahagiakan dan menyenangkan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 237,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 238,
+        "original": "「同感。その通りだよ。ただ、ちょっと面倒なケースもあるってことだね」",
+        "translations": {
+            "initial": "「Setuju. Memang benar begitu. Cuma saja, ada beberapa kasus yang agak merepotkan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 239,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 240,
+        "original": "「@t7@d1@t71@d2ボクも、例えば常坂妹が完全なフリーで、別に良い人がいそうならというスタンスだったら成功率１００％のこの腕ですぐにでも話をまとめるところさ」",
+        "translations": {
+            "initial": "「@t7@d1@t71@d2Aku juga, misalnya kalau adiknya Tokisaka benar-benar jomblo dan kelihatan butuh orang lain, dengan kemampuanku yang tingkat keberhasilannya 100% ini, aku bakal langsung menjodohkannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 241,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 242,
+        "original": "「ただ、明らかにそのつもりの無い者はボクの仕事の対象外だからね」",
+        "translations": {
+            "initial": "「Tapi, mereka yang jelas-jelas tidak berminat itu di luar target pekerjaanku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 243,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 244,
+        "original": "「ウソでも適当な理由をでっちあげれば良いのにな。変に真面目というか……。そこが自業自得でもあるわけだが。まあ、仕方無いか……」",
+        "translations": {
+            "initial": "「Padahal bohong pun tinggal cari alasan yang pas saja ya. Dia itu terlalu serius atau gimana ya... Itu sih salahnya sendiri. Yah, mau gimana lagi...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 245,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 246,
+        "original": "「というわけで、とにかく今は案件が多くてひよりんが良い方向にまとめられるカップルはひよりんに任せるとして、無理なケースをなんとかしたくて」",
+        "translations": {
+            "initial": "「Karena itu, pokoknya sekarang ada banyak kasus, dan untuk pasangan yang bisa Hiyorin selesaikan dengan baik, aku serahkan padanya, tapi aku ingin melakukan sesuatu untuk kasus yang mustahil」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 247,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 248,
+        "original": "「二乃ちゃんのことについては、常坂君と二乃ちゃんとでなんとか上手にお断りをいれたり、みんなに諦めてもらうようにしてもらっても良いかな？って」",
+        "translations": {
+            "initial": "「Soal Nino-chan, bolehkah aku minta tolong Tokisaka-kun dan Nino-chan untuk menolak mereka dengan baik, atau membuat semuanya menyerah？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 249,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 250,
+        "original": "「やれやれ……」",
+        "translations": {
+            "initial": "「Aduh-aduh...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 251,
+        "original": "本来は二乃だけの問題だが、放ってもおけないか。",
+        "translations": {
+            "initial": "Sebenarnya ini masalah Nino saja, tapi aku tidak bisa membiarkannya begitu saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 252,
+        "original": "白河や有里栖があいつに直接言っても、面倒なのでとかでスルーされるのは想像できるしな……。",
+        "translations": {
+            "initial": "Bisa kubayangkan kalau Shirakawa atau Arisu bicara langsung padanya, dia pasti cuma bakal mengabaikannya karena malas atau semacamnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 253,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 254,
+        "original": "「オッケー。微力を尽くすし、二乃にも尽くさせるよ」",
+        "translations": {
+            "initial": "「Oke. Aku bakal bantu sebisa mungkin, dan aku juga bakal minta Nino-san buat bantu kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 255,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 256,
+        "original": "「ありがとう！やっぱり常坂君に相談して良かった」",
+        "translations": {
+            "initial": "「Makasih！ Beneran deh, untung banget aku konsultasi sama Tokisaka-kun」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 257,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 258,
+        "original": "「@t33@d1大正解。最近の鷺澤にしては珍しく積極的に面倒事に顔をツッコんできたなあって思ったけど、うん、ボクもありがたいし良かったよ」",
+        "translations": {
+            "initial": "「@t33@d1Keputusan tepat. Tadi aku sempat mikir tumben banget Arisu mau repot-repot ikut campur urusan begini, tapi ya sudahlah, aku juga ngerasa terbantu dan senang kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 259,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 260,
+        "original": "「あはは……」",
+        "translations": {
+            "initial": "「Ahaha...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 261,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 262,
+        "original": "「それにしても、屋上は結構綺麗になってるよなあ」",
+        "translations": {
+            "initial": "「Tapi kalau dipikir-pikir, atap ini sekarang jadi lumayan bersih ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 263,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 264,
+        "original": "「@t19@d1@t49@d2そうなんだよね。ここでお茶をいれて飲んだりしたらすごく気分良くて美味しく頂けそう」",
+        "translations": {
+            "initial": "「@t19@d1@t49@d2Bener banget. Kalau kita nyeduh teh dan minum di sini, kayaknya bakal kerasa enak banget dan suasananya jadi segar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 265,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 266,
+        "original": "「緑茶」",
+        "translations": {
+            "initial": "「Teh hijau」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 267,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 268,
+        "original": "「紅茶」",
+        "translations": {
+            "initial": "「Teh hitam」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 269,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 270,
+        "original": "「コーヒー」",
+        "translations": {
+            "initial": "「Kopi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 271,
+        "original": "…………。",
+        "translations": {
+            "initial": "............。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 272,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 273,
+        "original": "「みんなバラバラだな」",
+        "translations": {
+            "initial": "「Seleranya beda-beda semua ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 274,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 275,
+        "original": "「ふふ。それぞれが飲みたいものを飲むのが良いね」",
+        "translations": {
+            "initial": "「Fufu. Malah bagus kan kalau masing-masing minum apa yang disukai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 276,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 277,
+        "original": "「@t14@d1@t35@d2正解。天候に左右されるけど、うん、確かに気持ちの良い場所だね、ここは」",
+        "translations": {
+            "initial": "「@t14@d1@t35@d2Tepat sekali. Meski tergantung cuaca, tapi ya, tempat ini emang nyaman banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 278,
+        "original": "暖かい日は昼寝にもってこいかもしれないな。",
+        "translations": {
+            "initial": "Mungkin tempat ini bakal cocok banget buat tidur siang pas hari lagi hangat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 279,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 280,
+        "original": "「ありがとう。ふたりのおかげで少し気分が楽になった」",
+        "translations": {
+            "initial": "「Makasih ya. Berkat kalian berdua, perasaanku jadi agak mendingan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 281,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 282,
+        "original": "「@t12@d1うんうん。困った時はお互い様！」",
+        "translations": {
+            "initial": "「@t12@d1Sama-sama. Kita kan harus saling bantu kalau ada yang kesusahan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 283,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 284,
+        "original": "「鷺澤も。鷺澤も困った時はボクたちに言ってほしい」",
+        "translations": {
+            "initial": "「Arisu juga. Kalau kamu lagi kesulitan, aku ingin kamu bilang ke kami」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 285,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 286,
+        "original": "「うん、ありがとう」",
+        "translations": {
+            "initial": "「Iya, makasih ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 287,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 288,
+        "original": "「二乃もそら姉も、杉並や叶方だってきっとみんな助けてくれるしな」",
+        "translations": {
+            "initial": "「Nino, Sora-nee, bahkan Suginami dan Kanata pun pasti bakal bantuin kita kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 289,
+        "original": "放課後の屋上。",
+        "translations": {
+            "initial": "Atap sekolah sepulang sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 290,
+        "original": "気持ち良い冬空。",
+        "translations": {
+            "initial": "Langit musim dingin yang terasa nyaman.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 291,
+        "original": "もうすぐクリスマス。",
+        "translations": {
+            "initial": "Natal sudah hampir tiba.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 292,
+        "original": "校内が色恋で賑わい始めている。",
+        "translations": {
+            "initial": "Suasana di dalam sekolah pun mulai ramai dengan bumbu-bumbu asmara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 293,
+        "original": "そんな空気にあてられて、俺もなんだか楽しくなってきた。",
+        "translations": {
+            "initial": "Terbawa oleh suasana itu, aku pun entah kenapa jadi merasa senang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 294,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

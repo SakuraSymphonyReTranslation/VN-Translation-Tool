@@ -1,0 +1,2882 @@
+[
+    {
+        "id": 0,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 1,
+        "original": "「印刷は何時頃に終わりそうだって？」",
+        "translations": {
+            "initial": "「Kira-kira kapan proses cetaknya selesai？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いんさつはいつごろにおわるそうだって？」"
+    },
+    {
+        "id": 2,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 3,
+        "original": "「夕方頃に刷り終わるそうだ。俺たちよりも先んじて仕事が入ったらしい」",
+        "translations": {
+            "initial": "「Katanya sore baru kelar. Sepertinya ada pesanan lain yang masuk lebih dulu dari kita」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆうがたころにするおわるそうだ。おれたちよりもさきんずるてしごとがはいるたらしい」"
+    },
+    {
+        "id": 4,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 5,
+        "original": "「ま、早い者勝ちだからな、そこはしゃーない」",
+        "translations": {
+            "initial": "「Yah, siapa cepat dia dapat, mau bagaimana lagi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあ、はやいものかちだからな、そこはしかたない」"
+    },
+    {
+        "id": 6,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 7,
+        "original": "「むう、あの店主め……奥様に黙って新車用のへそくりを貯めていること、バラしても構わんとでもいうのか」",
+        "translations": {
+            "initial": "「Ugh, pemilik toko itu... apa dia gak masalah kalau rahasia uang simpanan mobil barunya kubocorkan pada istrinya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「む、あのてんしゅめ……おくさまにだまるてしんしゃようのへそくりをためるていること、ばらすてもかまうむとでもいうのか」"
+    },
+    {
+        "id": 8,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 9,
+        "original": "「やめとけやめとけ、あまりに可哀想だ」",
+        "translations": {
+            "initial": "「Sudahlah, jangan begitu, kasihan dia」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「やめるとくやめるとく、あまりだかわいそうだ」"
+    },
+    {
+        "id": 10,
+        "original": "そういう切り札はいざって時の為に取って置くもんだ。ここで使うのは勿体ない。",
+        "translations": {
+            "initial": "Kartu as seperti itu seharusnya disimpan untuk saat-saat genting. Mubazir kalau dipakai sekarang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そういうきりふだはいざるてときのためにとるておくものだ。ここでつかうのはもったいない。"
+    },
+    {
+        "id": 11,
+        "original": "なんてことをこいつがわからないわけもないし、もちろん冗談なんだろうが。",
+        "translations": {
+            "initial": "Lagipula gak mungkin dia gak mengerti hal sepele begitu, tentu saja dia cuma bercanda.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なんてことをこいつがわかるないわけもないし、もちろんじょうだんだのだが。"
+    },
+    {
+        "id": 12,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 13,
+        "original": "「とりあえず一度学園に戻って時間潰してようぜ。お前は台本の作業もあるだろ？」",
+        "translations": {
+            "initial": "「Pokoknya kita balik ke sekolah dulu saja buat membunuh waktu. Kamu juga masih ada tugas naskah, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「とりあえずいちどがくえんにもどるてじかんつぶすてるぜ。おまえはだいほんのさぎょうもあるだ？」"
+    },
+    {
+        "id": 14,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 15,
+        "original": "「業腹だがそうするとしよう。鷺澤嬢にも質問事項があるからな、それを早いところ脚本に落とし込みたい」",
+        "translations": {
+            "initial": "「Menyebalkan, tapi baiklah. Kebetulan ada beberapa hal yang ingin kutanyakan pada Sagisawa-jou, aku ingin segera memasukkannya ke dalam naskah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ごうはらだがそうするとする。さぎさわじょうにもしつもんじこうがあるからな、それをはやいところきゃくほんにおとしこむたい」"
+    },
+    {
+        "id": 16,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 17,
+        "original": "「そうしとけ」",
+        "translations": {
+            "initial": "「Lakukan saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうするとく」"
+    },
+    {
+        "id": 18,
+        "original": "けどこうなってくると、俺が暇になってくるな。いっそのこと、このまま台本の手伝いでもするか？",
+        "translations": {
+            "initial": "Tapi kalau begini, aku jadi pengangguran. Apa lebih baik aku bantu mengerjakan naskah saja ya？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けれどこうなるてくると、おれがひまだなるてくるな。いっそのこと、このままだいほんのてつだいでもするか？"
+    },
+    {
+        "id": 19,
+        "original": "あるいは、夕方まで他の作業を手伝いにいくか……ん？",
+        "translations": {
+            "initial": "Atau membantu pekerjaan lain sampai sore nanti... Hm？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あるいは、ゆうがたまでたのさぎょうをてつだいにいくか……んっ？"
+    },
+    {
+        "id": 20,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 21,
+        "original": "「あそこにいるのって……おい、杉並」",
+        "translations": {
+            "initial": "「Bukannya itu... hey, Suginami」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あそこにいるのって……おい、すぎなみ」"
+    },
+    {
+        "id": 22,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 23,
+        "original": "「うむ、同じタイミングで気付いた。流石はマイ同志、視野が広く反射神経も良好だ」",
+        "translations": {
+            "initial": "「Umu, aku juga menyadarinya di saat yang sama. Memang kawan sejatiku, pandanganmu luas dan refleksmu sangat bagus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うむ、おなじたいみんぐできづくた。さすがはまいどうし、しやがひろいはんしゃしんけいもりょうこうだ」"
+    },
+    {
+        "id": 24,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 25,
+        "original": "「やっぱりそうか」",
+        "translations": {
+            "initial": "「Ternyata benar ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「やはりそうか」"
+    },
+    {
+        "id": 26,
+        "original": "鳳城の背中を発見。",
+        "translations": {
+            "initial": "Aku melihat punggung Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうじょうのせなかをはっけん。"
+    },
+    {
+        "id": 27,
+        "original": "かなり大きめの買い物袋を両手に持って、ヨタヨタと危なっかしく歩いている。",
+        "translations": {
+            "initial": "Dia sedang berjalan terhuyung-huyung dengan berbahaya sambil menenteng kantong belanja yang cukup besar di kedua tangannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かなりおおきめのかいものふくろをりょうてにもつて、よたよたとあぶなっかしいあるくている。"
+    },
+    {
+        "id": 28,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 29,
+        "original": "「なぁ、どうする……って、聞かなくてもいっか」",
+        "translations": {
+            "initial": "「Nee, gimana baiknya... ah, gak perlu nanya lagi ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「な、どうする……って、きくないてもよいか」"
+    },
+    {
+        "id": 30,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 31,
+        "original": "「うむ、さあ参ろうか同志よ」",
+        "translations": {
+            "initial": "「Umu, ayo kita berangkat, kawan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うむ、さあまいるかどうしよ」"
+    },
+    {
+        "id": 32,
+        "original": "ちょっかいをかける気満々だ。",
+        "translations": {
+            "initial": "Dia benar-benar niat banget mau mengganggu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちょっかいをかけるきまんまんだ。"
+    },
+    {
+        "id": 33,
+        "original": "ま、今回は俺も賛成。",
+        "translations": {
+            "initial": "Yah, kali ini aku setuju saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "む、こんかいはおれもさんせい。"
+    },
+    {
+        "id": 34,
+        "original": "だって面白そうだからな。",
+        "translations": {
+            "initial": "Soalnya sepertinya bakal menarik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だっておもしろいそうだからな。"
+    },
+    {
+        "id": 35,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 36,
+        "original": "「鳳城よ、ご機嫌いかがだろうか」",
+        "translations": {
+            "initial": "「Houjou, bagaimana kabarmu hari ini?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ほうじょうよ、ごきげんいかがだか」"
+    },
+    {
+        "id": 37,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 38,
+        "original": "「@b2@t09@w1え？って……杉並さんですか」",
+        "translations": {
+            "initial": "「@b2@t09@w1Eh? Anu... Suginami-san, ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@b2@t09@w1え？って……すぎなみさんですか」"
+    },
+    {
+        "id": 39,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 40,
+        "original": "「こんちは」",
+        "translations": {
+            "initial": "「Halo」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「こんにちは」"
+    },
+    {
+        "id": 41,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 42,
+        "original": "「あなたまで……おふたり共、お暇なんですね」",
+        "translations": {
+            "initial": "「@t19@d1Sampai kamu juga... kalian berdua ini sepertinya sedang senggang ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あなたまで……おふたりとも、おひまだのですね」"
+    },
+    {
+        "id": 43,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 44,
+        "original": "「暇ってわけでもないけどね。ちょっとした野暮用を済ませてきた帰りだよ」",
+        "translations": {
+            "initial": "「Bukannya senggang juga sih. Kami baru saja selesai mengurus urusan kecil dan mau pulang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひまつうわけでもないけれどね。ちょっとするたやぼようをすむせるてくるたかえりだよ」"
+    },
+    {
+        "id": 45,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 46,
+        "original": "「そうですか、それではさようなら」",
+        "translations": {
+            "initial": "「Begitu ya, kalau begitu sampai jumpa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうですか、それではさようなら」"
+    },
+    {
+        "id": 47,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 48,
+        "original": "「いや早いって」",
+        "translations": {
+            "initial": "「Eh, cepat banget pamitnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いやはやいって」"
+    },
+    {
+        "id": 49,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 50,
+        "original": "「おふたりが野暮用を終わらせた帰りなら、私は用事の途中ですので」",
+        "translations": {
+            "initial": "「Kalau kalian berdua sudah selesai berurusan dan mau pulang, aku justru masih ada urusan di tengah jalan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おふたりがやぼようをおわるせるたかえりだ、わたくしはようじのとちゅうですのだ」"
+    },
+    {
+        "id": 51,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 52,
+        "original": "「ふむ、買い物はまだ途中ということか」",
+        "translations": {
+            "initial": "「Hmm, maksudmu belanjanya masih belum selesai?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふむ、かいものはまだとちゅうということか」"
+    },
+    {
+        "id": 53,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 54,
+        "original": "「そういうことです」",
+        "translations": {
+            "initial": "「Begitulah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そういうことです」"
+    },
+    {
+        "id": 55,
+        "original": "ガサリと揺れる買い物袋。",
+        "translations": {
+            "initial": "Kantong belanjaan berbunyi kresek saat bergoyang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "がさりとゆれるかいものふくろ。"
+    },
+    {
+        "id": 56,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 57,
+        "original": "「相当買ったんだね」",
+        "translations": {
+            "initial": "「Banyak banget ya belanjaannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうとうかうたのだね」"
+    },
+    {
+        "id": 58,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 59,
+        "original": "「一週間分まとめて買うようにしています」",
+        "translations": {
+            "initial": "「Aku memang membiasakan diri belanja stok untuk seminggu sekaligus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いちしゅうかんぶんまとめるてかうようだするているます」"
+    },
+    {
+        "id": 60,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 61,
+        "original": "「あー、分かる。俺もそうしてるし」",
+        "translations": {
+            "initial": "「Ah, aku paham. Aku juga begitu kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ああ、わかる。おれもそうするてるし」"
+    },
+    {
+        "id": 62,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 63,
+        "original": "「無くなる度に出かけるのって面倒なんだよね。鳳城もそんな感じ？」",
+        "translations": {
+            "initial": "「Soalnya malas kalau harus keluar setiap kali ada barang yang habis. Houjou juga merasa begitu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なくなるどにでかけるのってめんどうだのだよね。ほうじょうもそんなかんじ？」"
+    },
+    {
+        "id": 64,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 65,
+        "original": "「そうですね、時間は出来る限り無駄にしたくないので」",
+        "translations": {
+            "initial": "「Benar juga, soalnya sebisa mungkin aku nggak mau buang-buang waktu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうですね、じかんはできるかぎりむだだするたいないのだ」"
+    },
+    {
+        "id": 66,
+        "original": "おお、シンパシー。",
+        "translations": {
+            "initial": "Ooh, aku merasa senasib.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おお、しんぱしー。"
+    },
+    {
+        "id": 67,
+        "original": "図らずも鳳城と心の繋がりが出来たような気がする。",
+        "translations": {
+            "initial": "Tanpa diduga, rasanya aku jadi punya ikatan batin dengan Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "はかるずもほうじょうとこころのつながりができるたようだきがする。"
+    },
+    {
+        "id": 68,
+        "original": "けど、まだ買い物の途中ってことは、更に増えるってことだよな……。",
+        "translations": {
+            "initial": "Tapi, kalau belanjanya masih belum selesai, berarti barang bawaannya bakal makin nambah, kan...?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けれど、まだかいもののとちゅうつうことは、さらにふえるつうことだよな……。"
+    },
+    {
+        "id": 69,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 70,
+        "original": "「……よし、持つよそれ」",
+        "translations": {
+            "initial": "「...Oke, sini biar aku yang bawakan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……よし、もつよそれ」"
+    },
+    {
+        "id": 71,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 72,
+        "original": "「@b2@t10@w1え？い、いえ、大丈夫ですこれくらい」",
+        "translations": {
+            "initial": "「@b2@t8@w1Eh？ En-nggak, nggak apa-apa kok kalau cuma segini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@b2@t10@w1え？い、いえ、だいじょうぶですこれくらい」"
+    },
+    {
+        "id": 73,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 74,
+        "original": "「いや、大丈夫には見えないぞ。今だって腕震えてるじゃん」",
+        "translations": {
+            "initial": "「Nggak, kamu nggak kelihatan baik-baik saja. Lenganmu saja sampai gemetar begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いや、だいじょうぶだはみえるないぞ。いまだつううでふるえるてるじゃん」"
+    },
+    {
+        "id": 75,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 76,
+        "original": "「うっ……それは……」",
+        "translations": {
+            "initial": "「Ugh... itu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うう……それは……」"
+    },
+    {
+        "id": 77,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 78,
+        "original": "「いいから渡せって」",
+        "translations": {
+            "initial": "「Sudahlah, berikan saja padaku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「よいからわたすって」"
+    },
+    {
+        "id": 79,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 80,
+        "original": "「あっ……」",
+        "translations": {
+            "initial": "「Ah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あっ……」"
+    },
+    {
+        "id": 81,
+        "original": "う……見た目以上に重いな。",
+        "translations": {
+            "initial": "Ugh... ternyata lebih berat dari kelihatannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "うー……みるためいじょうにおもいな。"
+    },
+    {
+        "id": 82,
+        "original": "この感じ、おそらくお米も入ってるっぽい。",
+        "translations": {
+            "initial": "Rasanya sepertinya ada beras juga di dalam sini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このかんずる、おそらくおこめもはいるてるぽい。"
+    },
+    {
+        "id": 83,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 84,
+        "original": "「……お礼は言いませんからね」",
+        "translations": {
+            "initial": "「...Aku nggak bakal bilang terima kasih, lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……おれいはいうますずからね」"
+    },
+    {
+        "id": 85,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 86,
+        "original": "「別にいいって。で、次はどこへ行くんだ？」",
+        "translations": {
+            "initial": "「Nggak masalah. Terus, habis ini mau ke mana lagi？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「べつだよいって。で、つぎはどこへいくのだ？」"
+    },
+    {
+        "id": 87,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 88,
+        "original": "「あ、次はドラッグストアに……」",
+        "translations": {
+            "initial": "「Ah, berikutnya ke toko obat...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あっ、つぎはどらっぐすとあーに……」"
+    },
+    {
+        "id": 89,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 90,
+        "original": "「了解、そうしよう」",
+        "translations": {
+            "initial": "「Oke, ayo ke sana」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「りょうかい、そうする」"
+    },
+    {
+        "id": 91,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 92,
+        "original": "「ふっ、自然な流れから買い物に付き合い、会話する時間を増やす……これぞ匠が成せる業だな」",
+        "translations": {
+            "initial": "「Heh, menemani belanja dengan alur yang begitu mulus demi menambah waktu mengobrol... ini benar-benar keahlian seorang master」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふっ、しぜんだながれからかいものにつきあう、かいわするじかんをふやす……これぞたくみがなすごうだな」"
+    },
+    {
+        "id": 93,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 94,
+        "original": "「口に出さなきゃ満点だったな」",
+        "translations": {
+            "initial": "「Kalau saja nggak kamu ucapkan keras-keras, nilaimu pasti sempurna」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「くちにだすないまんてんだたな」"
+    },
+    {
+        "id": 95,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 96,
+        "original": "「はぁ……もういいです、諦めます」",
+        "translations": {
+            "initial": "「Hah... Sudahlah, aku menyerah saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はあ……もうよいです、あきらめるます」"
+    },
+    {
+        "id": 97,
+        "original": "そう言って、小さなため息を１つついて、華奢な肩を少し落とした。",
+        "translations": {
+            "initial": "Sambil berkata begitu, dia menghela napas kecil dan sedikit menjatuhkan bahunya yang mungil.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そういうて、ちいさなためいきを１つつくて、きゃしゃだかたをすこしおとすた。"
+    },
+    {
+        "id": 98,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 99,
+        "original": "「時に鳳城、学園生活にはもう慣れたか？」",
+        "translations": {
+            "initial": "「Ngomong-ngomong Houjou, apa kamu sudah terbiasa dengan kehidupan sekolah？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「じにほうじょう、がくえんせいかつにはもうなれるたか？」"
+    },
+    {
+        "id": 100,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 101,
+        "original": "「特に問題はありませんし、杉並さんに心配されるようなことでもありません」",
+        "translations": {
+            "initial": "「Gak ada masalah kok, dan ini bukan sesuatu yang perlu Suginami-san khawatirkan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「とくにもんだいはあるますずし、すぎなみさんにしんぱいするれるようだことでもあるますず」"
+    },
+    {
+        "id": 102,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 103,
+        "original": "「むぅ……今日も手ごわいな、取り付く島もない」",
+        "translations": {
+            "initial": "「Ugh... Hari ini pun kamu sulit didekati ya, benar-benar gak ada celah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「むぅ……きょうもてごわいな、とりつくしまもない」"
+    },
+    {
+        "id": 104,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 105,
+        "original": "「そう邪険にするなって、俺達とお前の仲じゃないか」",
+        "translations": {
+            "initial": "「Jangan dingin begitu dong, kita kan sudah saling kenal dekat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうじゃけんだするなって、おれたちとおまえのなかだないか」"
+    },
+    {
+        "id": 106,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 107,
+        "original": "「ただお互いの顔を知っているだけの関係です。それ以上でも以下でもありません」",
+        "translations": {
+            "initial": "「Hubungan kita cuma sebatas tahu wajah satu sama lain saja. Tidak lebih dan tidak kurang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ただおたがいのかおをしるているだけのかんけいです。それいじょうでもいかでもあるますず」"
+    },
+    {
+        "id": 108,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 109,
+        "original": "「そうか？少しは進展しただろ」",
+        "translations": {
+            "initial": "「Masa sih？ Setidaknya ada kemajuan sedikit kan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうか？すこしはしんてんするただ」"
+    },
+    {
+        "id": 110,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 111,
+        "original": "「何がですか？」",
+        "translations": {
+            "initial": "「Kemajuan apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なにがですか？」"
+    },
+    {
+        "id": 112,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 113,
+        "original": "「鳳城は買い物をする時、一週間分をまとめて買うって分かったこと」",
+        "translations": {
+            "initial": "「Fakta bahwa Houjou kalau belanja itu langsung sekaligus untuk stok seminggu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ほうじょうはかいものをするとき、いちしゅうかんぶんをまとめるてかうってわかるたこと」"
+    },
+    {
+        "id": 114,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 115,
+        "original": "「うむ、貴重な個人情報だ。少しは内面に踏み込むことが出来たな」",
+        "translations": {
+            "initial": "「Ya, itu informasi pribadi yang berharga. Kita sudah berhasil melangkah sedikit lebih dalam ke sisi pribadimu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うむ、きちょうだこじんじょうほうだ。すこしはないめんにふみこむことができるたな」"
+    },
+    {
+        "id": 116,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 117,
+        "original": "「……そんな言い方をされると、とても気持ち悪く聞こえるのは気のせいでしょうか」",
+        "translations": {
+            "initial": "「...Apa cuma perasaanku saja, atau cara bicaramu itu terdengar sangat menjijikkan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……そんないうかたをするれると、とてもきもちわるいきこえるのはきのせいですか」"
+    },
+    {
+        "id": 118,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 119,
+        "original": "「気のせいだって。それに、知り合いってこうやって増えていくもんだろ」",
+        "translations": {
+            "initial": "「Cuma perasaanmu saja kok. Lagipula, cara menambah kenalan memang begini kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きのせいだって。それに、しりあいってこうやるてふえるていくものだ」"
+    },
+    {
+        "id": 120,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 121,
+        "original": "「色んなことを教え合ったり、伝え合ったりしてさ。で、気が合えば友達になっていくと」",
+        "translations": {
+            "initial": "「Saling memberi tahu dan berbagi banyak hal. Lalu kalau merasa cocok, bakal jadi teman」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いろんなことをおしえあうたり、つたえあうたりするてさ。で、きがあうばともだちになるていくと」"
+    },
+    {
+        "id": 122,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 123,
+        "original": "「それは……まあ、そういうこともあるかもしれませんけど……」",
+        "translations": {
+            "initial": "「Itu... Yah, mungkin memang ada benarnya juga sih...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それは……まあ、そういうこともあるかもしれるますずけれど……」"
+    },
+    {
+        "id": 124,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 125,
+        "original": "「だろ？」",
+        "translations": {
+            "initial": "「Kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「だ？」"
+    },
+    {
+        "id": 126,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 127,
+        "original": "「そういうことなら、俺様の情報も与えておかなければ公平ではないな」",
+        "translations": {
+            "initial": "「Kalau begitu, tidak adil rasanya kalau aku tidak memberikan informasiku juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そういうことだ、おれさまのじょうほうもあたえるておくないばこうへいだはないな」"
+    },
+    {
+        "id": 128,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 129,
+        "original": "「必要ありません」",
+        "translations": {
+            "initial": "「Nggak perlu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひつようあるますず」"
+    },
+    {
+        "id": 130,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 131,
+        "original": "「名前は杉並、好きなことは楽しいこと、あるいは劇的なこと、そして天変地異だ」",
+        "translations": {
+            "initial": "「Namaku Suginami. Hal yang kusukai adalah hal yang menyenangkan, hal dramatis, dan juga bencana alam」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なまえはすぎなみ、すきだことはたのしいこと、あるいはげきてきだこと、そしててんぺんちいだ」"
+    },
+    {
+        "id": 132,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 133,
+        "original": "「非常に危険な方なんですね」",
+        "translations": {
+            "initial": "「Ternyata Anda orang yang sangat berbahaya ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひじょうだきけんだほうだのですね」"
+    },
+    {
+        "id": 134,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 135,
+        "original": "「同感だ」",
+        "translations": {
+            "initial": "「Setuju」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「どうかんだ」"
+    },
+    {
+        "id": 136,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 137,
+        "original": "「はーっはっはっは、褒めるな褒めるな。くすぐったいぞ」",
+        "translations": {
+            "initial": "「Hahaha! Jangan memujiku begitu. Aku jadi malu, lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はあははは、ほめるなほめるな。くすぐったいぞ」"
+    },
+    {
+        "id": 138,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 139,
+        "original": "「日本語も怪しい方なんですね」",
+        "translations": {
+            "initial": "「Ternyata bahasa Jepang Anda juga agak aneh ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「にっぽんごもあやしいほうだのですね」"
+    },
+    {
+        "id": 140,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 141,
+        "original": "「ほら、どうだ。色んなことを知っていくだろ？」",
+        "translations": {
+            "initial": "「Tuh, lihat kan? Kamu jadi tahu banyak hal, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ほら、どうだ。いろんなことをしるていくだ？」"
+    },
+    {
+        "id": 142,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 143,
+        "original": "「そうですね、おかげで知り合いどころか、他人のままでいたい気持ちが強くなりました」",
+        "translations": {
+            "initial": "「Benar juga. Berkat itu, alih-alih jadi kenalan, keinginan saya untuk tetap jadi orang asing malah makin kuat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうですね、おかげでしりあいどころか、たにんのままだいるたいきもちがつよいなるますた」"
+    },
+    {
+        "id": 144,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 145,
+        "original": "「そりゃ残念」",
+        "translations": {
+            "initial": "「Wah, sayang sekali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それざんねん」"
+    },
+    {
+        "id": 146,
+        "original": "この失敗の責任は杉並に押し付けておこう……ん？",
+        "translations": {
+            "initial": "Tanggung jawab atas kegagalan ini kulemparkan saja ke Suginami... Hmm？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このしっぱいのせきにんはすぎなみにおしつけるておく……んっ？"
+    },
+    {
+        "id": 147,
+        "original": "ＴＡＢが震えてる、誰かからメッセージでも来たか？",
+        "translations": {
+            "initial": "TAB milikku bergetar, apa ada pesan masuk dari seseorang？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たぶがふるえるてる、だれかからめっせーじでもくるたか？"
+    },
+    {
+        "id": 148,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 149,
+        "original": "「杉並、失敗の責任を取ってちょっとこの袋持ってくれ」",
+        "translations": {
+            "initial": "「Suginami, sebagai tanggung jawab atas kegagalan ini, tolong bawakan kantong ini sebentar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「すぎなみ、しっぱいのせきにんをとるてちょっとこのふくろもつてくれる」"
+    },
+    {
+        "id": 150,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 151,
+        "original": "「なんの失敗だか皆目見当もつかないが了解した」",
+        "translations": {
+            "initial": "「Aku sama sekali nggak paham gagal kenapa, tapi baiklah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なにのしっぱいだかかいもくけんとうもつくないがりょうかいするた」"
+    },
+    {
+        "id": 152,
+        "original": "その発言はスルーさせて頂き、えーっと、ＴＡＢ、ＴＡＢっと……。",
+        "translations": {
+            "initial": "Abaikan saja ucapannya itu, lalu... mana TAB-nya, TAB...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そのはつげんはするーするせるていただく、えーと、たぶ、たぶと……。"
+    },
+    {
+        "id": 153,
+        "original": "「ちよ子」お疲れ様ですとっきー先輩！",
+        "translations": {
+            "initial": "「ちよ子」  Kerja bagus hari ini,       Tokki-senpai!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちよこ」おつかれさまですとっきいせんぱい！"
+    },
+    {
+        "id": 154,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 155,
+        "original": "「お、ちょこだ」",
+        "translations": {
+            "initial": "「Oh, dari CHOCO」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おっ、ちょこだ」"
+    },
+    {
+        "id": 156,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 157,
+        "original": "「知り合いか？」",
+        "translations": {
+            "initial": "「Kenalanmu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しりあいか？」"
+    },
+    {
+        "id": 158,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 159,
+        "original": "「鳳城の友人だ」",
+        "translations": {
+            "initial": "「Temannya Houjou」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ほうじょうのゆうじんだ」"
+    },
+    {
+        "id": 160,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 161,
+        "original": "「向こうがそう言ってるだけですってば」",
+        "translations": {
+            "initial": "「Itu cuma pengakuan sepihak dari dia saja, tahu!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「むこうがそういうてるだけですってば」"
+    },
+    {
+        "id": 162,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 163,
+        "original": "「しいしい先輩と呼ばれているらしいぞ」",
+        "translations": {
+            "initial": "「Katanya kamu dipanggil Shiishii-senpai ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しいしいせんぱいとよぶれるているらしいぞ」"
+    },
+    {
+        "id": 164,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 165,
+        "original": "「ふむ、鳳城詩名由来のニックネームか。なかなか可愛らしい響きだ、何より親愛の証でもある。俺もちょことやらに倣って、その名で呼んでもいいだろうか？」",
+        "translations": {
+            "initial": "「Fumu, nama panggilan yang berasal dari Houjou Shiina kah. Kedengarannya cukup manis, dan yang terpenting, itu bukti kedekatan. Apa aku boleh ikut memanggilmu dengan nama itu seperti CHOCO dan yang lainnya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふむ、ほうじょうしめいゆらいのにっくねーむか。なかなかかわいらしいひびきだ、なによりしんあいのあかしでもある。おれもちょことやらにならうて、そのなでよぶてもよいだか？」"
+    },
+    {
+        "id": 166,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 167,
+        "original": "「寒気がするので絶対やめてください」",
+        "translations": {
+            "initial": "「Rasanya merinding, jadi tolong jangan lakukan itu sama sekali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かんきがするのだぜったいやめるてくださる」"
+    },
+    {
+        "id": 168,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 169,
+        "original": "「はっはっは、そう遠慮するな、しいしい先輩」",
+        "translations": {
+            "initial": "「Hahaha, jangan sungkan begitu, Shiishii-senpai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ははは、そうえんりょするな、しいしいせんぱい」"
+    },
+    {
+        "id": 170,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 171,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 172,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 173,
+        "original": "「マイ同志よ、どうやら最悪の悪手だったらしい。接続を絶たれてしまった」",
+        "translations": {
+            "initial": "「Wahai kawan, sepertinya itu tadi langkah yang paling buruk. Hubungannya langsung diputus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まいどうしよ、どうやらさいあくのあくしゅだたらしい。せつぞくをたつれるてしまうた」"
+    },
+    {
+        "id": 174,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 175,
+        "original": "「ご愁傷様」",
+        "translations": {
+            "initial": "「Turut berduka ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ごしゅうしょうさま」"
+    },
+    {
+        "id": 176,
+        "original": "返信返信っと。",
+        "translations": {
+            "initial": "Balas, balas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "へんしんへんしんと。"
+    },
+    {
+        "id": 177,
+        "original": "「一登」おっつーちょこ、どうした？",
+        "translations": {
+            "initial": "「一登」  Yo CHOCO, ada apa?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おっつーちょこ、どうするた？"
+    },
+    {
+        "id": 178,
+        "original": "「ちよ子」今度マイチューブでライブするんです！",
+        "translations": {
+            "initial": "「ちよ子」  Aku mau live di MyTube      nanti!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちよこ」こんどまいちゅーぶでらいぶするのです！"
+    },
+    {
+        "id": 179,
+        "original": "「ちよ子」なのでもしよかったら見に来てください！",
+        "translations": {
+            "initial": "「ちよ子」  Mampir nonton live aku      nanti ya!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちよこ」だのだもしよいたみるにくるてくださる！"
+    },
+    {
+        "id": 180,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 181,
+        "original": "「へぇー、ライブか」",
+        "translations": {
+            "initial": "「Hee, live ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「へえ、らいぶか」"
+    },
+    {
+        "id": 182,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 183,
+        "original": "「バンドをやっているのか？」",
+        "translations": {
+            "initial": "「Apa dia anak band？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ばんどをやるているのか？」"
+    },
+    {
+        "id": 184,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 185,
+        "original": "「いや、そっちじゃなくてマイチューブ」",
+        "translations": {
+            "initial": "「Enggak, bukan yang itu, tapi MyTube」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いや、そちらだないてまいちゅーぶ」"
+    },
+    {
+        "id": 186,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 187,
+        "original": "「ほほう、エンタメを発信する側の人間か。これは興味深いな」",
+        "translations": {
+            "initial": "「Hoho, jadi dia orang di balik layar hiburan ya. Ini menarik」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ほほう、えんためをはっしんするがわのにんげんか。これはきょうみふかいな」"
+    },
+    {
+        "id": 188,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 189,
+        "original": "「だろうな、お前好みのキャラだぞ」",
+        "translations": {
+            "initial": "「Pasti, dia tipe karakter yang kamu suka kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「だな、おまえこのみのきゃらだぞ」"
+    },
+    {
+        "id": 190,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 191,
+        "original": "「リクエストを受け付けているのであれば、是非とも今月号のヌーを取り上げて欲しい」",
+        "translations": {
+            "initial": "「Kalau dia menerima request, aku ingin dia membahas majalah Nuu edisi bulan ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「りくえすとをうけつけるているのだあるば、ぜひともこんげつごうのぬーをとりあげるてほしい」"
+    },
+    {
+        "id": 192,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 193,
+        "original": "「送っとく」",
+        "translations": {
+            "initial": "「Aku kirim ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おくるとく」"
+    },
+    {
+        "id": 194,
+        "original": "「一登」友達が、ヌーって雑誌の動画をアップして欲しいとさ",
+        "translations": {
+            "initial": "「一登」  Teman minta video majalah   Nuu diunggah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ともだちが、ぬーってざっしのどうがをあっぷするてほしいとさ"
+    },
+    {
+        "id": 195,
+        "original": "「ちよ子」うーん、話題としてはニッチ過ぎる気もしますね…",
+        "translations": {
+            "initial": "「ちよ子」  Topiknya kayaknya terlalu   spesifik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちよこ」ううん、わだいとするてはにっちすぎるきもするますね…"
+    },
+    {
+        "id": 196,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 197,
+        "original": "「反応は芳しくないぞ」",
+        "translations": {
+            "initial": "「Reaksinya nggak begitu bagus, tuh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はんのうはかんばしいないぞ」"
+    },
+    {
+        "id": 198,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 199,
+        "original": "「むう……絶対反応する層は確実にいるんだが」",
+        "translations": {
+            "initial": "「Muu...... Padahal pasti ada orang yang bakal tertarik」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「む……ぜったいはんのうするそうはかくじつだいるのだが」"
+    },
+    {
+        "id": 200,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 201,
+        "original": "「杉並さんと同種の人間が他にもいるってことですか？非常に恐ろしいですね」",
+        "translations": {
+            "initial": "「Maksudnya ada orang lain yang sejenis dengan Suginami-san？ Kedengarannya mengerikan sekali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「すぎなみさんとどうしゅのにんげんがたにもいるつうことですか？ひじょうだおそろしいですね」"
+    },
+    {
+        "id": 202,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 203,
+        "original": "「はーっはっは、鳳城よ、先の件は謝る。だから言葉に手心を加えてくれ、傷つく」",
+        "translations": {
+            "initial": "「Ha-ha-ha, Houjou, aku minta maaf soal yang tadi. Jadi tolong jaga bicaramu sedikit, rasanya sakit hati tahu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はあははは、ほうじょうよ、さきのけんはあやまる。だからことばにてごころをくわえるてくれる、きずつく」"
+    },
+    {
+        "id": 204,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 205,
+        "original": "「俺もヌーは好きなんだ……」",
+        "translations": {
+            "initial": "「Aku juga suka Nuu, kok......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おれもぬーはすきだのだ……」"
+    },
+    {
+        "id": 206,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 207,
+        "original": "「後ろ向きに考えておきます」",
+        "translations": {
+            "initial": "「Akan aku pertimbangkan secara negatif」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うしろむきにかんがえるておくます」"
+    },
+    {
+        "id": 208,
+        "original": "それにしても。",
+        "translations": {
+            "initial": "Ngomong-ngomong.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それにするても。"
+    },
+    {
+        "id": 209,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 210,
+        "original": "「とりあえず俺も観るの初めてだし、ちょこの自由な動画でいいだろ」",
+        "translations": {
+            "initial": "「Lagipula ini juga pertama kalinya aku menontonnya, jadi biarkan saja CHOCO membuat video sesukanya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「とりあえずおれもみるのはじめてだし、ちょっとこのじゆうだどうがでよいだ」"
+    },
+    {
+        "id": 211,
+        "original": "「一登」放送開始が決まったら教えてくれ",
+        "translations": {
+            "initial": "「一登」  Kabari kalau jadwal siaran  sudah ada.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」ほうそうかいしがきまるたおしえるてくれる"
+    },
+    {
+        "id": 212,
+        "original": "「ちよ子」わっかりました！",
+        "translations": {
+            "initial": "「ちよ子」  Oke, siap!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちよこ」わかるますた！"
+    },
+    {
+        "id": 213,
+        "original": "「ちよ子」開始予約したらここにアドレス貼っておきますね！",
+        "translations": {
+            "initial": "「ちよ子」  Nanti alamat jadwal         kutempel di sini!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちよこ」かいしよやくするたここにあどれすはるておくますね！"
+    },
+    {
+        "id": 214,
+        "original": "「ちよ子」よろしくお願いしまーす！",
+        "translations": {
+            "initial": "「ちよ子」  Mohon bantuannya ya!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちよこ」よろしくおねがうするます！"
+    },
+    {
+        "id": 215,
+        "original": "ちょこの生放送か、結構興味を惹かれるな。",
+        "translations": {
+            "initial": "Siaran langsung CHOCO ya, kedengarannya cukup menarik juga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちょこのなまほうそうか、けっこうきょうみをひくれるな。"
+    },
+    {
+        "id": 216,
+        "original": "手の空いてる時間に放送してくれることを祈るぜ。",
+        "translations": {
+            "initial": "Aku berdoa semoga dia siaran saat aku sedang senggang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "てのあくてるじかんにほうそうするてくれることをいのるぜ。"
+    },
+    {
+        "id": 217,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 218,
+        "original": "「あいよ、荷物悪いな」",
+        "translations": {
+            "initial": "「Oke, maaf ya merepotkanmu dengan barang-barang ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あいよ、にもつわるいな」"
+    },
+    {
+        "id": 219,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 220,
+        "original": "「構わん」",
+        "translations": {
+            "initial": "「Nggak masalah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かまうむ」"
+    },
+    {
+        "id": 221,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 222,
+        "original": "「さてと……で、ドラッグストアだったっけ」",
+        "translations": {
+            "initial": "「Nah kalau begitu...... Tadi tujuannya ke toko obat, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「さてと……だ、どらっぐすとあーだたけ」"
+    },
+    {
+        "id": 223,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 224,
+        "original": "「……無理して付いてこなくてもいいんですよ？」",
+        "translations": {
+            "initial": "「......Kamu nggak perlu memaksakan diri untuk ikut, lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……むりするてつくてくるないてもよいのですよ？」"
+    },
+    {
+        "id": 225,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 226,
+        "original": "「別に無理してないって。マジな話、生憎と暇なんだ」",
+        "translations": {
+            "initial": "「Beneran nggak maksa, kok. Serius nih, kebetulan aku emang lagi senggang banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「べつだむりするてるないって。まじだはなし、あいにくとひまだのだ」"
+    },
+    {
+        "id": 227,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 228,
+        "original": "「……時間潰しってことですか」",
+        "translations": {
+            "initial": "「......Jadi ini buat bunuh waktu saja?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……じかんつぶすつうことですか」"
+    },
+    {
+        "id": 229,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 230,
+        "original": "「そういうこと」",
+        "translations": {
+            "initial": "「Ya, begitulah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そういうこと」"
+    },
+    {
+        "id": 231,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しめい"
+    },
+    {
+        "id": 232,
+        "original": "「……途中までお願いします」",
+        "translations": {
+            "initial": "「......Kalau begitu, mohon bantuannya sampai di tengah jalan nanti」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……とちゅうまでおねがうするます」"
+    },
+    {
+        "id": 233,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 234,
+        "original": "「あいよ、了解」",
+        "translations": {
+            "initial": "「Oke, siap」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あいよ、りょうかい」"
+    },
+    {
+        "id": 235,
+        "original": "暇が出来たと思ったら、こうしてあっという間に潰れていく。",
+        "translations": {
+            "initial": "Begitu aku punya waktu luang, ternyata waktu itu langsung terisi dalam sekejap.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひまができるたとおもうた、こうするてあっというまにつぶれるていく。"
+    },
+    {
+        "id": 236,
+        "original": "鳳城はああ言っていたけど、やっぱり知り合いって多い分に越したことはないよな。",
+        "translations": {
+            "initial": "Meskipun Houjou bilang begitu, kurasa punya banyak kenalan memang jauh lebih baik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうじょうはああいうているたけれど、やはりしりあいっておおいぶんにこすたことはないよな。"
+    },
+    {
+        "id": 237,
+        "original": "恋パの作業は……後回しでいいや。",
+        "translations": {
+            "initial": "Persiapan buat Festival cinta... nanti sajalah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "こいぱのさぎょうは……あとまわしでよいや。"
+    },
+    {
+        "id": 238,
+        "original": "今は、鳳城との会話を続ける方がずっと楽しいからな。",
+        "translations": {
+            "initial": "Karena saat ini, mengobrol dengan Houjou terasa jauh lebih menyenangkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いまは、ほうじょうとのかいわをつづけるかたがずっとたのしいからな。"
+    },
+    {
+        "id": 239,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

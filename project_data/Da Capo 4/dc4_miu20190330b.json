@@ -1,0 +1,2102 @@
+[
+    {
+        "id": 0,
+        "original": "ひより",
+        "translations": {
+            "initial": "Di suatu hari yang cerah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 1,
+        "original": "「――それでは常坂兄、発表してもらえるかい？」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「――それではつねさかあに、はっぴょうするてもらうかい？」"
+    },
+    {
+        "id": 2,
+        "original": "一登",
+        "translations": {
+            "initial": "「-Kalau begitu Tokisaka-ani, bisa tolong umumkan hasilnya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 3,
+        "original": "「ああ、うん、昨日まとまったとおりに、掲示板に書き込んだところ……」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ああ、うん、きのうまとまるたとおりに、けいじばんにかきこむたところ……」"
+    },
+    {
+        "id": 4,
+        "original": "一登",
+        "translations": {
+            "initial": "「Oh, iya, seperti yang kita sepakati kemarin, aku sudah mempostingnya di papan pengumuman dan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 5,
+        "original": "「『七つ目の不思議は不明のまま』で、どうやらみんな納得してくれたみたいだ」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「『ななつめのふしぎはふめいのまま』で、どうやらみななっとくするてくれるたみたいだ」"
+    },
+    {
+        "id": 6,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「Sepertinya semua orang setuju kalau 'misteri ketujuh tetap menjadi rahasia'.」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 7,
+        "original": "「あはは、だから残りは自分たちで探してみよう、みたいな書き込みもあったね」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あはは、だからのこりはじぶんたちでさがすてみる、みたいだかきこみもあるたね」"
+    },
+    {
+        "id": 8,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Ahaha, makanya ada postingan yang bilang kalau sisanya mending kita cari sendiri saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 9,
+        "original": "「@t56@d1どうあれ、ならばこれにて一件落着！というわけで……皆様、お疲れさまでした！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t56@d1どうある、だばこれにていちけんらくちゃく！というわけだ……みなさま、おつかれさまですた！」"
+    },
+    {
+        "id": 10,
+        "original": "お疲れさまでしたー！と全員の声が重なる。",
+        "translations": {
+            "initial": "「@t53@d1Bagaimanapun juga, dengan ini masalah selesai！ Jadi... semuanya, terima kasih atas kerja kerasnya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おつかれさまですた！とぜんいんのこえがかさなる。"
+    },
+    {
+        "id": 11,
+        "original": "今日は白河の音頭でＳＳＲ一同が集められ、昨日のお疲れ会兼、親睦を深める会が催されていた。",
+        "translations": {
+            "initial": "Suara semua orang bersahutan mengucap, \"Terima kasih atas kerja kerasnya！\".",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "きょうはしらかわのおんどでえすえすあーるいちどうがあつめるられる、きのうのおつかれるかいけん、しんぼくをふかめるかいがもよおすれるているた。"
+    },
+    {
+        "id": 12,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hari ini Shirakawa mengumpulkan seluruh anggota SSR untuk mengadakan perayaan kecil sekaligus acara mempererat keakraban.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 13,
+        "original": "「@t41@d1さあさあ、ジュースもお菓子も今日はボクのおごりだよ、遠慮せずに飲んだり食べたりしてください！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t41@d1さあさあ、じゅーすもおかしもきょうはぼくのおごりだよ、えんりょするずにのむたりたべるたりするてくださる！」"
+    },
+    {
+        "id": 14,
+        "original": "叶方",
+        "translations": {
+            "initial": "「@t41@d1Ayo ayo, hari ini jus dan camilannya aku yang traktir, jangan sungkan buat makan dan minum sepuasnya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かのうかた"
+    },
+    {
+        "id": 15,
+        "original": "「やったね、いただきまーす」",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「やるたね、いただくます」"
+    },
+    {
+        "id": 16,
+        "original": "二乃",
+        "translations": {
+            "initial": "「Asyik, selamat makan!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にの"
+    },
+    {
+        "id": 17,
+        "original": "「……でも、どういう風の吹き回しですか？」",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……でも、どういうふうのふきまわしですか？」"
+    },
+    {
+        "id": 18,
+        "original": "ひより",
+        "translations": {
+            "initial": "「......Tapi, tumben sekali ada apa ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 19,
+        "original": "「それはどういう意味です？常坂妹」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それはどういういみです？つねさかいもうと」"
+    },
+    {
+        "id": 20,
+        "original": "二乃",
+        "translations": {
+            "initial": "「Apa maksudnya itu, Tokisaka-imouto？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にの"
+    },
+    {
+        "id": 21,
+        "original": "「@t14@d1@t63@d2昨日はむしろ、白河さんひとりで解決に導けなくて、忸怩たる思いが……というところかなあと思ったので」",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t14@d1@t63@d2きのうはむしろ、しらかわさんひとりでかいけつにみちびくないて、じくじたりおもいが……というところかなとおもうたのだ」"
+    },
+    {
+        "id": 22,
+        "original": "ひより",
+        "translations": {
+            "initial": "「@t15@d1@t67@d2Kemarin aku sempat berpikir, Shirakawa-san mungkin merasa kesal karena gak bisa menyelesaikannya sendirian...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 23,
+        "original": "「ふっ……そうですね。そんなこともありましたね」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふっ……そうですね。そんなこともあるますたね」"
+    },
+    {
+        "id": 24,
+        "original": "何やら大人びた微笑を浮かべ、肩をすくめる白河。",
+        "translations": {
+            "initial": "「Heh...... Benar juga ya. Pernah ada masa seperti itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにやらおとなびるたびしょうをうかべる、かたをすくめるしらかわ。"
+    },
+    {
+        "id": 25,
+        "original": "ひより",
+        "translations": {
+            "initial": "Shirakawa mengangkat bahu sambil menunjukkan senyum yang terlihat dewasa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 26,
+        "original": "「しかしボクはもう学んだのですよ。独りよがりはいけないな、と。焦りという致命的ミスはもう今のボクにはありません」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しかしぼくはもうまなぶたのですよ。ひとりよがりはいくないな、と。あせりというちめいてきみすはもういまのぼくにはあるますず」"
+    },
+    {
+        "id": 27,
+        "original": "ひより",
+        "translations": {
+            "initial": "「@t33@d1@t62@d2Tapi aku sudah belajar. Gak boleh egois. Kesalahan fatal seperti terburu-buru sudah gak ada lagi pada diriku yang sekarang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 28,
+        "original": "「@t40@d1@t50@d2今日は、それを気付かせてもらえたお礼も兼ねてです。分かってもらえたなら、さあ飲んで、飲んで！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t40@d1@t50@d2きょうは、それをきづくせるてもらうたおれいもかねるてです。わかるてもらうただ、さあのむて、のむて！」"
+    },
+    {
+        "id": 29,
+        "original": "二乃",
+        "translations": {
+            "initial": "「@t43@d1@t63@d2Hari ini, sekalian sebagai tanda terima kasih karena sudah menyadarkanku akan hal itu. Kalau sudah mengerti, ayo minum, minum！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にの"
+    },
+    {
+        "id": 30,
+        "original": "「わぷっ……分かりました、分かりましたから強引に飲ませないでください――あわわわ」",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「わあぷっ……わかるますた、わかるますたからごういんだのむせるないてくださる――あっわわ」"
+    },
+    {
+        "id": 31,
+        "original": "そんな白河に、笑う一同。",
+        "translations": {
+            "initial": "「@t55@d1Wapuh... iya, iya, aku mengerti, jadi jangan dipaksa minum begitu? awawawa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そんなはくがに、わらういちどう。"
+    },
+    {
+        "id": 32,
+        "original": "もう焦らないってのは良いとして、破天荒なところは相変わらずだな。",
+        "translations": {
+            "initial": "Semua orang tertawa melihat tingkah Shirakawa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もうあせるないつうのはよいとするて、はてんこうだところはあいかわるずだな。"
+    },
+    {
+        "id": 33,
+        "original": "ひより",
+        "translations": {
+            "initial": "Baguslah kalau dia sudah nggak panik lagi, tapi sifat semaunya itu memang nggak berubah ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 34,
+        "original": "「まあ、そんなわけで、今後ともよろしく頼みます！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあ、そんなわけだ、こんごともよろしくたのむます！」"
+    },
+    {
+        "id": 35,
+        "original": "諳子",
+        "translations": {
+            "initial": "「Nah, karena itulah, mohon bantuannya ya mulai sekarang！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "諳子"
+    },
+    {
+        "id": 36,
+        "original": "「そんなの言われるまでもないよ～」",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そんなのいうれるまでもないよ～」"
+    },
+    {
+        "id": 37,
+        "original": "一登",
+        "translations": {
+            "initial": "「Nggak perlu dibilang juga aku sudah tahu kali～」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 38,
+        "original": "「ＳＳＲの仲間同士だしな。今後も助け合っていこう」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「えすえすあーるのなかまどうしだしな。こんごもたすけあうていく」"
+    },
+    {
+        "id": 39,
+        "original": "杉並",
+        "translations": {
+            "initial": "「Lagipula kita sesama anggota SSR. Mari kita saling membantu ke depannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 40,
+        "original": "「ふっ、俺も手を貸すのはやぶさかでもない」",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふっ、おれもてをかすのはやぶさかでもない」"
+    },
+    {
+        "id": 41,
+        "original": "叶方",
+        "translations": {
+            "initial": "「Heh, aku pun nggak keberatan untuk mengulurkan tangan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かのうかた"
+    },
+    {
+        "id": 42,
+        "original": "「ますます面白いことになりそうだしね、白河がこの調子だと」",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ますますおもしろいことになるそうだしね、しらかわがこのちょうしだと」"
+    },
+    {
+        "id": 43,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Sepertinya bakal jadi makin seru nih, apalagi kalau Shirakawa terus-terusan begini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 44,
+        "original": "「大正解！きっと毎日楽しいよ！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「だいせいかい！きっとまいにちたのしいよ！」"
+    },
+    {
+        "id": 45,
+        "original": "なにより、白河が一番楽しそうだからな。",
+        "translations": {
+            "initial": "「@t16@d1Tepat sekali！ Pasti setiap hari bakal menyenangkan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにより、しらかわがいちばんたのしいそうだからな。"
+    },
+    {
+        "id": 46,
+        "original": "彼女がそんなで、そしてみんなで頑張ろうと言っているから、全員こうして盛り上がりもする。",
+        "translations": {
+            "initial": "Yang terpenting, Shirakawa-lah yang terlihat paling bersenang-senang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かのじょがそんなだ、そしてみなでがんばるというているから、ぜんいんこうするてもりあがりもする。"
+    },
+    {
+        "id": 47,
+        "original": "ＳＳＲの今後は安泰、と思っていいだろう。",
+        "translations": {
+            "initial": "Karena dia begitu dan mengajak semuanya berjuang bersama, suasana jadi makin meriah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "えすえすあーるのこんごはあんたい、とおもうてよいだ。"
+    },
+    {
+        "id": 48,
+        "original": "なにより、恋愛執行を辞めた白河の立場も。",
+        "translations": {
+            "initial": "Kurasa masa depan SSR bakal aman-aman saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにより、れんあいしっこうをやめるたしらかわのたちばも。"
+    },
+    {
+        "id": 49,
+        "original": "ひより",
+        "translations": {
+            "initial": "Terutama posisi Shirakawa yang sudah berhenti menjadi eksekutor cinta.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 50,
+        "original": "「例えばこうやって、きのことたけのこを仲良く一緒に同時に食べたりね」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「たとえばこうやるて、きのことたけのこをなかよくいっしょにどうじにたべるたりね」"
+    },
+    {
+        "id": 51,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「Misalnya seperti ini, makan biskuit jamur dan rebung bersamaan dengan rukun」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 52,
+        "original": "「あはははっ、ひよりん、確かにそれなら戦争が起きようがないよ～」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あはは、ひよるず、たしかだそれだせんそうがおきるようがないよ～」"
+    },
+    {
+        "id": 53,
+        "original": "叶方",
+        "translations": {
+            "initial": "「Ahahaha, Hiyorin, kalau begitu sih memang nggak bakal ada perang ya～」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かのうかた"
+    },
+    {
+        "id": 54,
+        "original": "「ＳＳＲの活動理念的には正しいのかもだけど、オレたちの分もとっといてくれよー」",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「えすえすあーるのかつどうりねんてきだはただしいのかもだけれど、おれたちのぶんもとるとくてくれるよ」"
+    },
+    {
+        "id": 55,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Mungkin itu benar secara filosofi kegiatan SSR, tapi sisakan juga buat bagian kami dong-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 56,
+        "original": "「なぁに心配無用さ。買ってきた分がなくなったら、二次会へ移行しますから」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なにしんぱいむようさ。かうてくるたぶんがなくなるた、にじかいへいこうするますから」"
+    },
+    {
+        "id": 57,
+        "original": "一登",
+        "translations": {
+            "initial": "「@t29@d1Tenang, gak perlu khawatir. Kalau stok yang dibeli ini habis, kita lanjut ke sesi kedua」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 58,
+        "original": "「あれ、そうだったのか？」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あれ、そうだたのか？」"
+    },
+    {
+        "id": 59,
+        "original": "というか、用意周到だな。",
+        "translations": {
+            "initial": "「Eh, benarkah begitu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "というか、よういしゅうとうだな。"
+    },
+    {
+        "id": 60,
+        "original": "ひより",
+        "translations": {
+            "initial": "Maksudku, dia persiapannya matang sekali ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 61,
+        "original": "「ええ、月見団子でね。ふふふ、それはまあ、他の理由もありますが……」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ええ、つきみだんごだね。ふふふ、それはまあ、たのりゆうもあるますが……」"
+    },
+    {
+        "id": 62,
+        "original": "一登",
+        "translations": {
+            "initial": "「@t38@d1Iya, dengan kue dango. Fufufu, yah, ada alasan lain juga sih...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 63,
+        "original": "「って……白河、まさかおまえ……」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「って……しらかわ、まさかおまえ……」"
+    },
+    {
+        "id": 64,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Tunggu... Shirakawa, jangan-jangan kamu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 65,
+        "original": "「大正解！未羽、ボクら今日も未羽のウェイトレス姿が見たいな！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「だいせいかい！みう、ぼくらきょうもみうのうえーとれすすがたがみるたいな！」"
+    },
+    {
+        "id": 66,
+        "original": "未羽",
+        "translations": {
+            "initial": "「@t20@d1Tepat sekali！ Miu, kami ingin melihat penampilanmu memakai seragam waitress lagi hari ini！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 67,
+        "original": "「えっ……！？」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「えっ……！？」"
+    },
+    {
+        "id": 68,
+        "original": "今まで黙ってにこにことジュースを飲んでいたところで、いきなり水を向けられて慌てる美嶋さん。",
+        "translations": {
+            "initial": "「Eh...！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いままでだまるてにこにことじゅーすをのむているたところで、いきなりみずをむけるられるてあわてるびしまさん。"
+    },
+    {
+        "id": 69,
+        "original": "未羽",
+        "translations": {
+            "initial": "Mishima yang sedari tadi diam sambil tersenyum menyesap jusnya, tiba-benar panik karena mendadak dilibatkan ke dalam obrolan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 70,
+        "original": "「ど、どうしてそんな、いきなりっ」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「どう、どうするてそんな、いきなりっ」"
+    },
+    {
+        "id": 71,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Ke-Kenapa mendadak sekali?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 72,
+        "original": "「@t98@d1当たり前じゃないか！キミのあの可愛らしい格好を、ボクと常坂兄しか見ていないから、みんなにも見せてあげたい。なにより、ボクがもう一度見たい！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t98@d1あたりまえだないか！きみのあのかわいらしいかっこうを、ぼくとつねさかあにしかみるているないから、みなにもみせるてあげるたい。なにより、ぼくがもういちどみるたい！」"
+    },
+    {
+        "id": 73,
+        "original": "未羽",
+        "translations": {
+            "initial": "「@t20@d1@t93@d2Ya iyalah！ Karena cuma aku dan Tokisaka-ani yang melihat penampilan imutmu itu, aku ingin memperlihatkannya ke semua orang. Lagipula, aku ingin melihatnya sekali lagi！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 74,
+        "original": "「えっ……ええええっ……。そ、そんな風に言われたら、恥ずかしい……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「えっ……ええええっ……。そう、そんなふうだいうれるた、はずかしい……」"
+    },
+    {
+        "id": 75,
+        "original": "二乃",
+        "translations": {
+            "initial": "「@t55@d1Eh... eeeeeh... J-Jadi malu kalau dibilang begitu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にの"
+    },
+    {
+        "id": 76,
+        "original": "「そんなに可愛いんですか？」",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そんなだかわいいのですか？」"
+    },
+    {
+        "id": 77,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Apa memang seimut itu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 78,
+        "original": "「それはもう眼福というやつですよ！……だろう？常坂兄」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それはもうがんぷくというやつですよ！……だ？つねさかあに」"
+    },
+    {
+        "id": 79,
+        "original": "一登",
+        "translations": {
+            "initial": "「@t40@d1Itu benar-benar pemandangan yang memanjakan mata！ ...Iya kan, Tokisaka-ani？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 80,
+        "original": "「そ、そこで俺に振るなって！」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう、そこでおれにふるなって！」"
+    },
+    {
+        "id": 81,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Ja-Jangan lempar pertanyaannya ke aku dong！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 82,
+        "original": "「キミが一番それを思い知ってるはずだからね！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きみがいちばんそれをおもいしるてるはずだからね！」"
+    },
+    {
+        "id": 83,
+        "original": "一登",
+        "translations": {
+            "initial": "「Soalnya kamu yang paling merasakannya sendiri, kan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 84,
+        "original": "「う……そりゃまあ、そうかも知れないけど……」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うう……それまあ、そうかもしれるないけれど……」"
+    },
+    {
+        "id": 85,
+        "original": "諳子",
+        "translations": {
+            "initial": "「Ugh... Ya, mungkin memang benar sih...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "諳子"
+    },
+    {
+        "id": 86,
+        "original": "「どんな感じなの？いっちゃん」",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「どんなかんじだの？いくちゃん」"
+    },
+    {
+        "id": 87,
+        "original": "一登",
+        "translations": {
+            "initial": "「Memangnya seperti apa？ Icchan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 88,
+        "original": "「ま、まあ、フリフリで……ほら、美嶋さんは普段大人しいから、華やかな格好だとすごく可愛らしくて……」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあ、まあ、ふりふりだ……ほら、びしまさんはふだんおとなしいから、はなやかだかっこうだとすごいかわいらしいて……」"
+    },
+    {
+        "id": 89,
+        "original": "未羽",
+        "translations": {
+            "initial": "「Ya, pokoknya yang banyak rumbai-rumbainya... Soalnya, Mishima biasanya pendiam, jadi saat dia pakai baju yang mewah, dia jadi kelihatan sangat manis...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 90,
+        "original": "「あ、あぅ、あぅぅぅぅぅ……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あっ、あう、あうぅぅぅぅ……」"
+    },
+    {
+        "id": 91,
+        "original": "一登",
+        "translations": {
+            "initial": "「A, au, auuuuuuu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 92,
+        "original": "「しかも、店の猫たちに気に入られてるから、じゃれつかれまくりで……それがまた可愛くて……」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しかも、みせのねこたちにきにはいるれるてるから、じゃれつくれるまくりで……それがまたかわいいて……」"
+    },
+    {
+        "id": 93,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「Apalagi dia disukai kucing-kucing di kafe, jadi sering dikerubungi... Itu juga bikin dia tambah imut...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 94,
+        "original": "「何それ、すっごく見たい！」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なにそれ、すごいみるたい！」"
+    },
+    {
+        "id": 95,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Apaan tuh, aku pengen banget lihat！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 96,
+        "original": "「でしょう！？そういうわけで頼むよ、未羽」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「です！？そういうわけでたのむよ、みう」"
+    },
+    {
+        "id": 97,
+        "original": "未羽",
+        "translations": {
+            "initial": "「Kan！？ Makanya itu, aku mohon ya, Miu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 98,
+        "original": "「そ、そんな風に振られたら本当に恥ずかしくてっ……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう、そんなかぜにふるれるたほんとうにはずかしいてっ……」"
+    },
+    {
+        "id": 99,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Ka-Kalau ditodong kayak gitu, aku beneran malu tahu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 100,
+        "original": "「常坂兄、もう一度見たくないかい？」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「つねさかあに、もういちどみるたいないかい？」"
+    },
+    {
+        "id": 101,
+        "original": "一登",
+        "translations": {
+            "initial": "「Tokisaka-ani, kamu nggak mau lihat sekali lagi？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 102,
+        "original": "「……正直、見たい」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……しょうじき、みるたい」"
+    },
+    {
+        "id": 103,
+        "original": "未羽",
+        "translations": {
+            "initial": "「...Jujur, aku pengen lihat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 104,
+        "original": "「あ、ぅあ……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あっ、ぅあっ……」"
+    },
+    {
+        "id": 105,
+        "original": "俺が最後にそう言うと、美嶋さんは真っ赤になって詰まった。",
+        "translations": {
+            "initial": "「A, uu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれがさいごにそういうと、びしまさんはまっかだなるてつまるた。"
+    },
+    {
+        "id": 106,
+        "original": "モジモジしながら……俺の方をチラチラ。",
+        "translations": {
+            "initial": "Begitu aku mengatakannya, wajah Mishima-san memerah padam dan dia terdiam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もじもじするながら……おれのほうをちらちら。"
+    },
+    {
+        "id": 107,
+        "original": "未羽",
+        "translations": {
+            "initial": "Sambil bergerak gelisah... dia sesekali melirik ke arahku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 108,
+        "original": "「わ……分かり、ました……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「わあ……わかる、ますた……」"
+    },
+    {
+        "id": 109,
+        "original": "こくん、と小さく、恥ずかしそうに頷いた。",
+        "translations": {
+            "initial": "「Ba... Baiklah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "こくん、とちいさい、はずかしいそうだうなずくた。"
+    },
+    {
+        "id": 110,
+        "original": "同時に俺のドキドキはいやが応にも増す。",
+        "translations": {
+            "initial": "Dia mengangguk pelan dengan raut wajah yang tampak malu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうじにおれのどきどきはいやがこたえるにもます。"
+    },
+    {
+        "id": 111,
+        "original": "だって、それって『俺が見たいと思ってくれるなら』ってことじゃないか。",
+        "translations": {
+            "initial": "Di saat yang sama, jantungku berdegup semakin kencang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だって、それって『おれがみるたいとおもうてくれるだ』つうことだないか。"
+    },
+    {
+        "id": 112,
+        "original": "ひより",
+        "translations": {
+            "initial": "Habisnya, itu berarti dia melakukannya karena 'aku ingin melihatnya', kan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 113,
+        "original": "「よーし！では早速月見団子に連絡するね！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「よし！ではさっそくつきみだんごにれんらくするね！」"
+    },
+    {
+        "id": 114,
+        "original": "未羽",
+        "translations": {
+            "initial": "「Sip！ Kalau gitu aku bakal langsung kabari Tsukimi Dango ya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 115,
+        "original": "「う、うん……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「うう、うん……」"
+    },
+    {
+        "id": 116,
+        "original": "一登",
+        "translations": {
+            "initial": "「I-Iya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 117,
+        "original": "「美嶋さん」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「びしまさん」"
+    },
+    {
+        "id": 118,
+        "original": "小さくなってる美嶋さんに、俺は耳打ちする。",
+        "translations": {
+            "initial": "「Mishima-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちいさいなるてるびしまさんに、おれはみみうちする。"
+    },
+    {
+        "id": 119,
+        "original": "未羽",
+        "translations": {
+            "initial": "Aku berbisik kepada Mishima-san yang tampak menciut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 120,
+        "original": "「は、はい……常坂先輩……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はあ、はい……つねさかせんぱい……」"
+    },
+    {
+        "id": 121,
+        "original": "一登",
+        "translations": {
+            "initial": "「I-Iya... Tokisaka-senpai...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 122,
+        "original": "「……ありがとうな。その……俺のためにさ」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……ありがとうな。その……おれのためにさ」"
+    },
+    {
+        "id": 123,
+        "original": "未羽",
+        "translations": {
+            "initial": "「...Makasih ya. Itu... buat aku, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 124,
+        "original": "「はわっ……そ、そうですよね、バレバレですよね……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はあわあ……そう、そうですよね、ばればれですよね……」"
+    },
+    {
+        "id": 125,
+        "original": "一登",
+        "translations": {
+            "initial": "「@t29@d1Hawa... i-iya ya, kelihatan banget ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 126,
+        "original": "「正直、めちゃくちゃ嬉しい」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しょうじき、めちゃくちゃうれしい」"
+    },
+    {
+        "id": 127,
+        "original": "未羽",
+        "translations": {
+            "initial": "「Jujur, aku senang banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 128,
+        "original": "「そ……それは、私の方こそ、です……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう……それは、わたくしのほうこそ、です……」"
+    },
+    {
+        "id": 129,
+        "original": "未羽",
+        "translations": {
+            "initial": "「I-itu... aku juga merasakan hal yang sama...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 130,
+        "original": "「正直、また着てみたいと思っていましたので……切っ掛けをくださって、ありがとうございます」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しょうじき、またきるてみるたいとおもうているますたのだ……きっかけをくださるて、ありがとうござるます」"
+    },
+    {
+        "id": 131,
+        "original": "一登",
+        "translations": {
+            "initial": "「@t43@d1Sejujurnya, aku juga ingin memakainya lagi... Terima kasih sudah memberiku kesempatan ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 132,
+        "original": "「……はは」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……はは」"
+    },
+    {
+        "id": 133,
+        "original": "笑ってしまうに決まっていた。",
+        "translations": {
+            "initial": "「...Haha」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "わらうてしまうにきまるているた。"
+    },
+    {
+        "id": 134,
+        "original": "そういうわけで――",
+        "translations": {
+            "initial": "Tentu saja aku tidak bisa menahan tawa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そういうわけで――"
+    },
+    {
+        "id": 135,
+        "original": "未羽",
+        "translations": {
+            "initial": "Begitulah ceritanya-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 136,
+        "original": "「み、みなさん、お待ちどうさまで――きゃあっ！？ね、猫ちゃん達、危ないようっ……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「みる、みなさん、おまつどうさまで――きゃあ！？ね、ねこちゃんたち、あぶないよっ……」"
+    },
+    {
+        "id": 137,
+        "original": "有里栖",
+        "translations": {
+            "initial": "「S-semuanya, maaf menunggu la-Kyaa！？ Hei, kucing-kucing, itu bahaya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみか"
+    },
+    {
+        "id": 138,
+        "original": "「あははっ、みうたん、ほんとにじゃれつかれまくってる～っ！」",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あははっ、みうたん、ほんとうにじゃれつくれるまくるてる～っ！」"
+    },
+    {
+        "id": 139,
+        "original": "月見団子に場所を移し、みんなでテーブルを囲んで二次会開始。",
+        "translations": {
+            "initial": "「Ahaha, Miu-tan beneran dikerubungi kucing-kucing itu！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "つきみだんごにばしょをうつす、みなでてーぶるをかこむてにじかいかいし。"
+    },
+    {
+        "id": 140,
+        "original": "ひとり離脱した美嶋さんは、店の制服に着替えて給仕役を買って出てくれていた。",
+        "translations": {
+            "initial": "Pindah ke Tsukimi Dango, kami semua berkumpul mengelilingi meja untuk memulai pesta ronde kedua.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひとりりだつするたびしまさんは、みせのせいふくにきかえるてきゅうじやくをかうてでるてくれるているた。"
+    },
+    {
+        "id": 141,
+        "original": "ひより",
+        "translations": {
+            "initial": "Mishima yang tadi memisahkan diri, kini berganti ke seragam toko dan menawarkan diri untuk melayani kami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 142,
+        "original": "「どうだいどうだいそら見たことかい？とてつもなく可愛らしいでしょう、この光景！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「どうだいどうだいそれみるたことかい？とてつもないかわいらしいです、このこうけい！」"
+    },
+    {
+        "id": 143,
+        "original": "二乃",
+        "translations": {
+            "initial": "「Gimana, gimana? Lihat sendiri, kan? Pemandangan ini luar biasa imut, bukan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にの"
+    },
+    {
+        "id": 144,
+        "original": "「た、確かに……これはたまりませんね……」",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「た、たしかだ……これはたまるますずね……」"
+    },
+    {
+        "id": 145,
+        "original": "諳子",
+        "translations": {
+            "initial": "「B-benar... ini memang gak tahan lucunya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "諳子"
+    },
+    {
+        "id": 146,
+        "original": "「猫ちゃん達も美嶋さんも可愛い～♪」",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ねこちゃんたちもびしまさんもかわいい～♪」"
+    },
+    {
+        "id": 147,
+        "original": "杉並",
+        "translations": {
+            "initial": "「Kucing-kucingnya dan Mishima sama-sama imut~♪」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "すぎなみ"
+    },
+    {
+        "id": 148,
+        "original": "「給仕役としては仕事に支障が出ているが、ふっ、それは些細な問題だな」",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きゅうじやくとするてはしごとにししょうがでるているが、ふっ、それはささいだもんだいだな」"
+    },
+    {
+        "id": 149,
+        "original": "叶方",
+        "translations": {
+            "initial": "「Sebagai pelayan memang agak menghambat pekerjaannya, tapi yah, itu cuma masalah sepele」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かのうかた"
+    },
+    {
+        "id": 150,
+        "original": "「カワイイは正義だからね」",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かわいいはせいぎだからね」"
+    },
+    {
+        "id": 151,
+        "original": "みんなにも大好評で、大盛り上がり。",
+        "translations": {
+            "initial": "「Karena keimutan adalah keadilan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みなにもだいこうひょうだ、おおもりあがり。"
+    },
+    {
+        "id": 152,
+        "original": "そうして改めて乾杯をすれば、もう場はほとんど宴会のようだった。",
+        "translations": {
+            "initial": "Semuanya memberikan respon positif, suasana pun menjadi sangat meriah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そうするてあらためてかんぱいをするば、もうばはほとんどえんかいのようだた。"
+    },
+    {
+        "id": 153,
+        "original": "ひより",
+        "translations": {
+            "initial": "Setelah kami bersulang sekali lagi, tempat itu sudah seperti pesta perjamuan saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 154,
+        "original": "「これからも定期的に、こうして月見団子で打ち上げが出来るようにしたいね！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「これからもていきてきだ、こうするてつきみだんごでうちあげができるようだするたいね！」"
+    },
+    {
+        "id": 155,
+        "original": "一登",
+        "translations": {
+            "initial": "「Ke depannya, aku ingin kita bisa rutin mengadakan perayaan di Tsukimi Dango seperti ini ya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 156,
+        "original": "「俺たちの頑張りにかかっているな」",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おれたちのがんばるにかかるているな」"
+    },
+    {
+        "id": 157,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Itu tergantung pada kerja keras kita semua」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 158,
+        "original": "「@t40@d1そのとおり！ボク『達』のだね！今回の件で思い知ったからね！独断専行には限度がある……！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t40@d1そのとおり！ぼく『たち』のだね！こんかいのけんでおもいしるたからね！どくだんせんこうにはげんどがある……！」"
+    },
+    {
+        "id": 159,
+        "original": "未羽",
+        "translations": {
+            "initial": "「@t62@d1Benar sekali! Milik 'kita' bersama! Aku benar-benar sadar dari kejadian kali ini bahwa bertindak sendirian itu ada batasnya...!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 160,
+        "original": "「ひよりちゃん、それだけじゃないでしょ？」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひよりちゃん、それだけだないです？」"
+    },
+    {
+        "id": 161,
+        "original": "ひより",
+        "translations": {
+            "initial": "「Hiyori-chan, bukan cuma itu kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 162,
+        "original": "「@t18@d1ああ、もちろん――みんなで取り組んだ方が楽しい！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「@t18@d1ああ、もちろん――みなでとりくむたほうがたのしい！」"
+    },
+    {
+        "id": 163,
+        "original": "未羽",
+        "translations": {
+            "initial": "「@t20@d1Ah, tentu saja- melakukannya bersama-sama jauh lebih menyenangkan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 164,
+        "original": "「……うんっ！」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……うん！」"
+    },
+    {
+        "id": 165,
+        "original": "ひより",
+        "translations": {
+            "initial": "「...He-eh！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひより"
+    },
+    {
+        "id": 166,
+        "original": "「それに、ボクひとりじゃ未羽のその姿も見せてもらえないだろうからね！」",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「それに、ぼくひとりだみうのそのすがたもみせるてもらうないだからね！」"
+    },
+    {
+        "id": 167,
+        "original": "未羽",
+        "translations": {
+            "initial": "「Lagipula, kalau aku sendirian, aku nggak bakal bisa melihat Miu yang seperti itu！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "みはね"
+    },
+    {
+        "id": 168,
+        "original": "「そ、それをいわないでよひよりちゃ――きゃあ！？だから猫ちゃんたち、どいてくれるかなぁっ……」",
+        "translations": {
+            "initial": "Miu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そう、それをいうないてよひよるて――きゃあ！？だからねこちゃんたち、どくてくれるかなっ……」"
+    },
+    {
+        "id": 169,
+        "original": "白河と美嶋さんの様子に、みんなでそろって笑う。",
+        "translations": {
+            "initial": "「Ja-jangan bilang begitu dong, Hiyori-cha-kyaa！？ Sebentar ya kucing-kucing manis, bisa tolong minggir dulu nggak...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しらかわとびしまさんのようすに、みなでそろうてわらう。"
+    },
+    {
+        "id": 170,
+        "original": "二次会も大盛り上がり。",
+        "translations": {
+            "initial": "Melihat tingkah Shirakawa dan Mishima, kami semua tertawa bersama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にじかいもおおもりあがり。"
+    },
+    {
+        "id": 171,
+        "original": "『みんなを笑顔にしたい』なら、まず俺たちが笑顔じゃないといけないもんな。",
+        "translations": {
+            "initial": "Acara pesta keduanya pun berlangsung sangat meriah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "『みなをえがおにするたい』だ、まずおれたちがえがおだないといくないものな。"
+    },
+    {
+        "id": 172,
+        "original": "うん、これからもこうしていけるなら、本当に何も心配はいらなさそうだ。",
+        "translations": {
+            "initial": "Kalau tujuannya adalah 'ingin membuat semua orang tersenyum', maka kami sendiri harus tersenyum lebih dulu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "うん、これからもこうするていくだ、ほんとうになにもしんぱいはいるないそうだ。"
+    },
+    {
+        "id": 173,
+        "original": "ＳＳＲのことも、白河のことも――",
+        "translations": {
+            "initial": "Ya, kalau ke depannya bisa terus seperti ini, sepertinya benar-benar nggak ada yang perlu dikhawatirkan lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "えすえすあーるのことも、しらかわのことも――"
+    },
+    {
+        "id": 174,
+        "original": "◆◆",
+        "translations": {
+            "initial": "Baik soal SSR, maupun soal Shirakawa-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

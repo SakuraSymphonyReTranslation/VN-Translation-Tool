@@ -1,0 +1,2378 @@
+[
+    {
+        "id": 0,
+        "original": "昼休みが来た。",
+        "translations": {
+            "initial": "Jam istirahat siang telah tiba.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "あれだけしっかり朝食を摂っても、昼休みになればちゃんと腹が減っているから不思議だ。",
+        "translations": {
+            "initial": "Meski tadi pagi sudah sarapan dengan lahap, anehnya perut ini tetap saja terasa lapar saat jam istirahat siang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "「同志よ！よくぞここまでたどり着いた！重畳だ」",
+        "translations": {
+            "initial": "「Wahai kawan! Luar biasa kau bisa bertahan sejauh ini! Benar-benar pencapaian yang hebat!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "「おうよ、たどり着いてやったぜ」",
+        "translations": {
+            "initial": "「Tentu saja, aku berhasil sampai di sini!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "チャイムがなり、礼が終わった途端寄ってきた杉並の戯れ言に応える。",
+        "translations": {
+            "initial": "Bel berbunyi, dan begitu salam selesai, aku langsung menanggapi omong kosong Suginami yang menghampiriku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "「ん？何にたどり着いたの？」",
+        "translations": {
+            "initial": "「Hmm？ Berhasil sampai ke mana？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "叶方もきた。",
+        "translations": {
+            "initial": "Kanata pun datang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "「もちろん、昼休みにだ」",
+        "translations": {
+            "initial": "「Tentu saja, sampai ke jam istirahat siang ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "「そう！さすが同志、判ってるな」",
+        "translations": {
+            "initial": "「Tepat sekali！ Seperti dugaan, kau memang mengerti, kawan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "「おうよ、長い道のりだったぜ」",
+        "translations": {
+            "initial": "「Yo, ini adalah perjalanan yang panjang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "「とはいえ、まだこれも道半ば。今日という長い道のりを半分乗り切ったにすぎん」",
+        "translations": {
+            "initial": "「Meski begitu, ini barulah setengah jalan. Kita baru saja melewati separuh dari perjalanan panjang hari ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "「@b2@t31@w1ははは、なんだよそれ。で、ふたりはご飯は？」",
+        "translations": {
+            "initial": "「@b2@t31@w1Hahaha, apa-apaan sih itu? Jadi, kalian berdua mau makan apa?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "「俺は今日は学食」",
+        "translations": {
+            "initial": "「Aku hari ini mau ke kantin sekolah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "「気が合うな。俺もだ」",
+        "translations": {
+            "initial": "「Wah, kita sehati. Aku juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "「うん、オレも」",
+        "translations": {
+            "initial": "「Hm, aku juga ikut」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "「他は……」",
+        "translations": {
+            "initial": "「Yang lainnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "教室を見渡すと、二乃は他の女子とすでに移動を始めていた。",
+        "translations": {
+            "initial": "Saat aku melihat sekeliling kelas, Nino sudah mulai pergi bersama siswi-siswi lainnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "購買で何か買って中庭あたりで食べるのかもしれない。",
+        "translations": {
+            "initial": "Mungkin dia mau membeli sesuatu di koperasi dan makan di sekitar halaman tengah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "と、難しい顔をしている白河がいた。",
+        "translations": {
+            "initial": "Lalu, kulihat Shirakawa sedang memasang wajah yang serius.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "「うーん……」",
+        "translations": {
+            "initial": "「Hmm...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "白河も何を食べるか悩んでるのだろうか。",
+        "translations": {
+            "initial": "Sepertinya Shirakawa juga sedang bingung mau makan apa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "そんな白河を少し離れたところから有里栖が見ている。",
+        "translations": {
+            "initial": "Arisu memperhatikan Shirakawa dari kejauhan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "声をかけようか迷っているようだ。",
+        "translations": {
+            "initial": "Sepertinya dia ragu untuk menyapanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "「ふむ……」",
+        "translations": {
+            "initial": "「Hmm...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "「あれ？一登、どうしたの？」",
+        "translations": {
+            "initial": "「Lho？ Ichito, ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "「白河と有里栖も一緒に飯いくか？」",
+        "translations": {
+            "initial": "「Mau makan bareng Shirakawa dan Arisu juga nggak？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "「え？」",
+        "translations": {
+            "initial": "「Eh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "「あ、常坂君……」",
+        "translations": {
+            "initial": "「Ah, Tokisaka-kun...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "「メシで悩んでるのかと思ったけど、違った？」",
+        "translations": {
+            "initial": "「Kukira kalian lagi bingung soal makanan, apa aku salah？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "「ふふ。そんなに悩んでいるように見えましたか」",
+        "translations": {
+            "initial": "「Fufu. Apa kami kelihatan sebingung itu?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「はらへってなやむおとめのメシはなに」",
+        "translations": {
+            "initial": "「Gadis lapar yang bimbang, apa menu makan siangnya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "「１５点」",
+        "translations": {
+            "initial": "「15 poin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "「１５点満点？」",
+        "translations": {
+            "initial": "「15 dari total 15 poin？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "「@b1@t24@w1そんな中途半端な満点は無いでしょう。もちろん１００点満点です」",
+        "translations": {
+            "initial": "「@b1@t24@w1Mana ada total skor nanggung begitu. Tentu saja dari 100 poin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "「ひっく！才能無しかよ！せめて凡人に……」",
+        "translations": {
+            "initial": "「Rendah banget！ Aku nggak punya bakat ya！ Setidaknya jadikan aku orang biasa...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "「だけど、常坂兄がそう言うなら、案外そうだったのかもしれないかな」",
+        "translations": {
+            "initial": "「Tapi, kalau Tokisaka-ani yang bilang begitu, mungkin saja memang benar seperti itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "「@t20@d1気分転換にもなりそうだし、ご一緒させてもらうかな」",
+        "translations": {
+            "initial": "「@t20@d1Kayaknya bisa buat penyegaran suasana juga, jadi aku ikut ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "「有里栖も来るだろ？」",
+        "translations": {
+            "initial": "「Arisu juga ikut, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "「@b3@t09@w1@b3@t09@bt3あ、うん」",
+        "translations": {
+            "initial": "「@b3@t09@w1@b3@t09@bt3Ah, iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "かくして俺らは連れ立って学食へ向かうこととなった。",
+        "translations": {
+            "initial": "Begitulah, akhirnya kami semua pergi bersama-sama menuju kantin sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "「そういえば今日は月曜日か……」",
+        "translations": {
+            "initial": "「Ngomong-ngomong sekarang hari Senin ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "「つまり、本日の曜日替わり――月曜定食は中華定食ということだな」",
+        "translations": {
+            "initial": "「Itu artinya, menu harian hari ini-set menu Senin adalah masakan Tionghoa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "「中華定食か。一番幅広いやつだ」",
+        "translations": {
+            "initial": "「Set masakan Tionghoa ya. Itu yang variasinya paling banyak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "「麻婆豆腐の場合もあれば、春巻きやシュウマイの場合なんかもあって、事前に読みづらい曜日だよね」",
+        "translations": {
+            "initial": "「Kadang isinya Mapo Tofu, tapi bisa juga lumpia atau siomay, jadi sulit ditebak sebelum datang ke sana」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "「白河や有里栖は普段学食って行くか？あんまり見かけたことない気がする」",
+        "translations": {
+            "initial": "「Shirakawa atau Arisu biasanya sering ke kantin gak？ Rasanya aku jarang melihat kalian di sana」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "「……白河？」",
+        "translations": {
+            "initial": "「...Shirakawa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "「ひ、ひよりん……」",
+        "translations": {
+            "initial": "「Hi, Hiyorin...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "「え……？」",
+        "translations": {
+            "initial": "「Eh...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "有里栖の声にようやく白河は反応した。",
+        "translations": {
+            "initial": "Shirakawa akhirnya baru merespons setelah mendengar suara Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "「あ、ごめんね鷺澤。どうかした？」",
+        "translations": {
+            "initial": "「Ah, maaf ya Sagisawa. Ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "「ううん、私じゃなくて常坂君が……」",
+        "translations": {
+            "initial": "「Bukan, bukan aku, tapi Tokisaka-kun yang...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "「常坂兄だったか。どうかしたか？」",
+        "translations": {
+            "initial": "「Oh, Kak Tokisaka ya. Ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "「いやさ、白河や有里栖は普段食堂を利用したりしてんのかなって」",
+        "translations": {
+            "initial": "「Maksudku, aku penasaran apa Shirakawa atau Arisu-chan biasanya pakai kantin atau nggak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "「ボクはどちらかというと事前に用意しておくか、それが難しい日は購買が多いかな。食堂も利用したことが無いわけじゃないけど、確かに久しぶりかも」",
+        "translations": {
+            "initial": "「Kalau aku sih, biasanya bawa bekal sendiri. Kalau nggak sempat, paling beli di koperasi. Bukannya nggak pernah ke kantin, tapi emang sudah agak lama sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "「そう言えば白河は昼休みも方々走り回っていたり、依頼を受けてたりするからか」",
+        "translations": {
+            "initial": "「Kalau dipikir-pikir, itu karena Shirakawa-san sering lari ke sana kemari atau sibuk nerima permintaan pas jam istirahat, ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "「正解。なので、割と昼食には時間をかけてなかったかもしれない」",
+        "translations": {
+            "initial": "「Tepat sekali. Makanya, aku mungkin nggak terlalu meluangkan waktu buat makan siang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "「んじゃ、今日くらいはノンビリと飯食おうぜ。あったかいものをゆっくり食うだけでも、割と気分良くなるしな」",
+        "translations": {
+            "initial": "「Kalau gitu, setidaknya hari ini kita makan dengan santai. Makan makanan hangat pelan-pelan saja sudah bisa bikin perasaan jadi lebih enak, lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "「常坂兄の言う通りかもしれないな」",
+        "translations": {
+            "initial": "「Mungkin yang dikatakan Tokisaka-ani ada benarnya juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "「有里栖は？」",
+        "translations": {
+            "initial": "「Kalau Arisu-chan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "「私も同じ感じが多いかなあ……」",
+        "translations": {
+            "initial": "「Aku juga kurang lebih sama dengannya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "「有里栖も昼食摂ってるイメージが全然湧かないな」",
+        "translations": {
+            "initial": "「Aku malah sama sekali nggak punya bayangan Arisu-chan lagi makan siang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "「ちょっと常坂君、私だってご飯は食べるよー」",
+        "translations": {
+            "initial": "「Ih, Tokisaka-kun, aku juga butuh makan tau-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "苦笑する有里栖。",
+        "translations": {
+            "initial": "Arisu tersenyum kecut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "「@t13@d1そうそう、鷺澤はむしろよく食べる方だねー」",
+        "translations": {
+            "initial": "「@t13@d1Benar, benar. Sagisawa malah sebenarnya makannya lumayan banyak, lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "「ほほう」",
+        "translations": {
+            "initial": "「Heh, gitu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "けど、学食で食べてるわけでもない。",
+        "translations": {
+            "initial": "Tapi, bukan berarti dia makan di kantin sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "教室で食べてるところを見た記憶も無い。",
+        "translations": {
+            "initial": "Aku juga nggak ingat pernah melihatnya makan di dalam kelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "「いつも誰と昼飯食べてるんだ？」",
+        "translations": {
+            "initial": "「Biasanya kamu makan siang sama siapa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "「うーん……割とひとりが多い……かな」",
+        "translations": {
+            "initial": "「Hmm... Aku lebih sering... sendirian, mungkin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "「有里栖ちゃんがフランクに誰かとご飯を食べてたりしたら、じゃあ俺もって男子たちが押し寄せてきちゃうかもしれないね」",
+        "translations": {
+            "initial": "「Kalau Arisu-chan makan santai bareng seseorang, mungkin murid laki-laki lain bakal langsung menyerbu supaya bisa ikut makan bareng juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "「おお、あり得るな」",
+        "translations": {
+            "initial": "「Ooh, itu mungkin saja terjadi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "「鷺澤案件はボクのところにもよく持ち込まれるから、充分にあり得る話だね」",
+        "translations": {
+            "initial": "「Laporan soal Sagisawa sering masuk ke tempatku, jadi itu skenario yang sangat mungkin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "「当人にはそのつもりが無さそうだけれど」",
+        "translations": {
+            "initial": "「Meskipun orangnya sendiri sepertinya nggak punya niat begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "「えへへ……、そういうのは今はね」",
+        "translations": {
+            "initial": "「Ehehe... Kalau soal itu, sekarang ini sih masih belum ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "「@b4@t61@w1ま、鷺澤はその気になれば楽勝だから、そんなに余裕なんだろうと思うけれどね。でも、それが鷺澤を不自由にすることもあるか……」",
+        "translations": {
+            "initial": "「@b4@t61@w1Yah, Sagisawa kalau mau sih gampang saja, makanya dia sesantai itu. Tapi, hal itu terkadang malah bisa membuat Sagisawa jadi nggak bebas juga ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "「@b1@t43@w1不自由である事と不幸である事はイコールじゃない……なんちゃって」",
+        "translations": {
+            "initial": "「@b1@t43@w1Menjadi nggak bebas dan menjadi nggak bahagia itu bukan berarti sama... cuma bercanda kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "「ふふ、何かのセリフかな」",
+        "translations": {
+            "initial": "「Fufu, itu tadi kutipan dari mana?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "「あ、うん。えへへ……」",
+        "translations": {
+            "initial": "「Ah, iya. Ehehe...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "「でも、今日は安心だね。きっと男子に囲まれて大変みたいなことにはならないね」",
+        "translations": {
+            "initial": "「Tapi, hari ini aman kok. Pastinya kamu nggak bakal kerepotan dikelilingi cowok-cowok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "「え？どうして？」",
+        "translations": {
+            "initial": "「Eh？ Memangnya kenapa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "「ほう、なぜだ？」",
+        "translations": {
+            "initial": "「Ho, kenapa begitu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "「……何故？」",
+        "translations": {
+            "initial": "「...Kenapa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "「@b2@t70@w1うん。期待通りの反応をありがとう。それはもちろん、君たちがいるからだよ。こんな面倒そうなメンツに囲まれていたら、とりあえずスルーだって」",
+        "translations": {
+            "initial": "「@b2@t70@w1Yup. Terima kasih atas reaksi yang sesuai harapanku. Itu tentu saja karena ada kalian. Kalau dikelilingi orang-orang yang kelihatannya merepotkan begini, mereka pasti bakal lewat saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "「心外な」",
+        "translations": {
+            "initial": "「Kasar sekali ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "叶方の軽口に各々で文句を言いながら、確かに他の学生たちは俺たちを遠巻きに見るだけだった。",
+        "translations": {
+            "initial": "Sambil masing-masing mengeluh atas gurauan Kanata, memang benar bahwa siswa-siswa lain hanya melihat kami dari kejauhan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "学食はやはり賑わっていた。",
+        "translations": {
+            "initial": "Kantin sekolah memang masih sangat ramai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "「これは手分けした方が良さそうだな」",
+        "translations": {
+            "initial": "「Sepertinya lebih baik kita berpencar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "「……手分け？」",
+        "translations": {
+            "initial": "「......Pencar？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "「食券買ってきちゃうからさ、有里栖と白河は席を確保しておいてくれ」",
+        "translations": {
+            "initial": "「Biar kami yang beli tiket makannya, Arisu sama Shirakawa-san tolong cari tempat duduk ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "「あ、そういうことか」",
+        "translations": {
+            "initial": "「Ooh, maksudnya gitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "「了解。５席確保しておくね」",
+        "translations": {
+            "initial": "「Dimengerti. Aku cari buat 5 kursi ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "「二人とも月曜定食で大丈夫か？中華苦手じゃない？」",
+        "translations": {
+            "initial": "「Kalian berdua nggak apa-apa makan menu paket Senin？ Nggak anti masakan Cina, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "「@b1@t21@w1私は大丈夫。……あ、もし辛そうなやつだったら、おそばとかにしてもらってもいいかな？あるよね？」",
+        "translations": {
+            "initial": "「@b1@t21@w1Aku nggak apa-apa. ......Ah, tapi kalau keliatannya pedas, boleh minta tolong diganti soba atau semacamnya？ Ada, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "「あるある。オッケー。辛そうなのだったらそうしておく。白河は辛いのでも平気？」",
+        "translations": {
+            "initial": "「Ada kok, tenang aja. Oke, kalau pedas bakal kuganti itu. Kalau Shirakawa-san nggak apa-apa makan yang pedas？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "「うん、ボクは辛いの大歓迎」",
+        "translations": {
+            "initial": "「Yup, aku sih suka banget makanan pedas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "「それじゃあ、パパッと買ってきちゃおう」",
+        "translations": {
+            "initial": "「Kalau gitu, yuk buruan kita beli」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "「いってらっしゃーい」",
+        "translations": {
+            "initial": "「Dah, selamat jalan~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "「よろしくー」",
+        "translations": {
+            "initial": "「Titip ya~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "さて、食券ゲット。",
+        "translations": {
+            "initial": "Selesai, tiket makan sudah di tangan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "結局今日は点心定食とでもいうようなものだった。",
+        "translations": {
+            "initial": "Ternyata menu hari ini adalah semacam paket dimsum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "小籠包、焼売、青菜炒め、卵スープ、ライス、そしてゴマ団子がひとつ。",
+        "translations": {
+            "initial": "Ada xiao long bao, siomay, tumis sayur hijau, sup telur, nasi, dan satu onde-onde wijen.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "学食のクオリティの高さが香々見学園の魅力のひとつであることを疑う者はいない。",
+        "translations": {
+            "initial": "Kualitas kantin yang tinggi adalah salah satu daya tarik Akademi Kagami yang tidak diragukan lagi oleh siapa pun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "男子三人で女子二人が確保してくれている席へ戻り、あとは出来上がりを待って各人で受け取りに行くだけ。",
+        "translations": {
+            "initial": "Kami bertiga kembali ke kursi yang sudah dipesan oleh para gadis, lalu tinggal menunggu pesanan matang dan mengambilnya masing-masing.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "「確かあの辺……あ、いたいた。あれ、白河に話しかけてるやつがいたね」",
+        "translations": {
+            "initial": "「Kalau nggak salah di sebelah sana...... Ah, itu mereka. Eh, ada yang lagi ngajak ngobrol Shirakawa-san tuh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "「また恋愛相談だろうなあ」",
+        "translations": {
+            "initial": "「Pasti konsultasi cinta lagi deh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "席について白河に確認すると、やはりそうだった。",
+        "translations": {
+            "initial": "Begitu duduk dan memastikannya pada Shirakawa-san, ternyata dugaanku benar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "「ほんと、白河の恋愛相談は大盛況だね」",
+        "translations": {
+            "initial": "「Beneran deh, sesi curhat cinta Shirakawa-san laris manis banget ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "「@t17@d1正解。頼られるのはありがたい……」",
+        "translations": {
+            "initial": "「@t17@d1Tepat sekali. Aku bersyukur karena sudah dipercaya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "白河に有里栖が何か言いたそうに見えた。",
+        "translations": {
+            "initial": "Arisu-san terlihat seperti ingin mengatakan sesuatu kepada Shirakawa-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "「あ、オレたちの分も出来たっぽい。呼び出されてる」",
+        "translations": {
+            "initial": "「Ah, pesanan kita sepertinya sudah jadi. Tuh dipanggil」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "「む、ではローテーションで取りに行こう」",
+        "translations": {
+            "initial": "「Hmm, kalau begitu mari kita ambil secara bergantian」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "叶方",
+        "translations": {
+            "initial": "Kanata",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "「じゃあ、オレと一登がさっさと取りに行ってくるよ。三人はその後でってことで」",
+        "translations": {
+            "initial": "「Kalau gitu, biar aku sama Ichito yang ambil duluan. Kalian bertiga setelah ini ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "杉並",
+        "translations": {
+            "initial": "Suginami",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "「問題ない」",
+        "translations": {
+            "initial": "「Gak masalah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "「了解。ボクも問題無し」",
+        "translations": {
+            "initial": "「Oke. Aku juga gak masalah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "「うん、じゃあ待ってるね」",
+        "translations": {
+            "initial": "「Iya, kalau gitu kami tunggu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "ローテーションを上手く駆使して席を確保しつつ、配膳を受けられた。",
+        "translations": {
+            "initial": "Dengan menggunakan sistem rotasi yang baik, kami bisa mengambil pesanan sambil tetap menjaga tempat duduk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "白河も有里栖も学食の有能さを改めて知れて喜んでいたので良かった。",
+        "translations": {
+            "initial": "Syukurlah, Shirakawa-san dan Arisu-san juga senang karena bisa menyadari kembali betapa praktisnya kantin sekolah ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "ただ、白河と有里栖の様子が少し気になった。",
+        "translations": {
+            "initial": "Hanya saja, gerak-gerik Shirakawa-san dan Arisu-san sedikit membuatku penasaran.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

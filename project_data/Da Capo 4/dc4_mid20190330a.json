@@ -1,0 +1,1238 @@
+[
+    {
+        "id": 0,
+        "original": "あぁ、これは夢だ。",
+        "translations": {
+            "initial": "Ah, ini adalah mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ああ、これはゆめだ。"
+    },
+    {
+        "id": 1,
+        "original": "俺は夢の中にいるんだ。",
+        "translations": {
+            "initial": "Aku sedang berada di dalam mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれはゆめのなかにいるのだ。"
+    },
+    {
+        "id": 2,
+        "original": "湖の中、頭の上には水面に反射する太陽の光。",
+        "translations": {
+            "initial": "Di dalam danau, di atasku ada cahaya matahari yang terpantul di permukaan air.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このなか、あたまのうえにはすいめんにはんしゃするたいようのひかり。"
+    },
+    {
+        "id": 3,
+        "original": "そして満開の桜。",
+        "translations": {
+            "initial": "Dan bunga sakura yang mekar sempurna.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そしてまんかいのさくら。"
+    },
+    {
+        "id": 4,
+        "original": "最近特によく見る気がするこの夢。",
+        "translations": {
+            "initial": "Sepertinya belakangan ini aku sering memimpikan hal ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "さいきんとくによくみるきがするこのゆめ。"
+    },
+    {
+        "id": 5,
+        "original": "こうなると、次の展開もだいたい予想がつく。",
+        "translations": {
+            "initial": "Kalau sudah begini, kelanjutannya pun sudah bisa kutebak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "こうなると、つぎのてんかいもだいたいよそうがつく。"
+    },
+    {
+        "id": 6,
+        "original": "ほら、この桜だ。",
+        "translations": {
+            "initial": "Lihat, bunga sakura ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほら、このさくらだ。"
+    },
+    {
+        "id": 7,
+        "original": "上下に水面のある不思議な世界に堂々と佇む桜の巨木。",
+        "translations": {
+            "initial": "Sebuah pohon sakura raksasa berdiri dengan megahnya di dunia misterius di mana permukaan air berada di atas dan bawah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "じょうげにすいめんのあるふしぎだせかいにどうどうとたたずむさくらのきょぼく。"
+    },
+    {
+        "id": 8,
+        "original": "常に満開で、舞い散る花びらは無限の様相。",
+        "translations": {
+            "initial": "Selalu mekar sepenuhnya, dengan kelopak bunga yang berguguran seolah tak ada habisnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "つねにまんかいだ、まいちるはなびらはむげんのようそう。"
+    },
+    {
+        "id": 9,
+        "original": "そして――",
+        "translations": {
+            "initial": "Dan-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そして――"
+    },
+    {
+        "id": 10,
+        "original": "少年がうずくまっていて、その傍には一人の少女。",
+        "translations": {
+            "initial": "Ada seorang anak laki-laki yang meringkuk, dan di sampingnya ada seorang gadis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しょうねんがうずくまるているて、そのかたわらにはひとりのしょうじょ。"
+    },
+    {
+        "id": 11,
+        "original": "少女は心配そうに少年を見守っているけれど、少年の方は全く顔をあげる気配が無い。",
+        "translations": {
+            "initial": "Gadis itu tampak khawatir mengawasi si anak laki-laki, tapi si anak laki-laki sama sekali tidak menunjukkan tanda-tanda akan mengangkat wajahnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しょうじょはしんぱいそうだしょうねんをみまもるているけれど、しょうねんのほうはまったくかおをあげるけはいがない。"
+    },
+    {
+        "id": 12,
+        "original": "少年は、どうしてあんなに落ち込んでいるのだろう？",
+        "translations": {
+            "initial": "Kenapa anak laki-laki itu tampak begitu terpuruk？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しょうねんは、どうするてあんなだおちこむているのだ？"
+    },
+    {
+        "id": 13,
+        "original": "少女は、どうしてあんなに少年を心配しているのだろう？",
+        "translations": {
+            "initial": "Kenapa gadis itu begitu mengkhawatirkannya？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しょうじょは、どうするてあんなだしょうねんをしんぱいするているのだ？"
+    },
+    {
+        "id": 14,
+        "original": "わからない。全然わからないことだらけだ。",
+        "translations": {
+            "initial": "Aku tidak tahu. Semuanya benar-benar penuh ketidaktahuan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "わかるない。ぜんぜんわかるないことだらけだ。"
+    },
+    {
+        "id": 15,
+        "original": "ここはどこで、なぜ二人はいるんだ？",
+        "translations": {
+            "initial": "Di mana ini, dan mengapa mereka berdua ada di sini？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ここはどこで、なぜふたりはいるのだ？"
+    },
+    {
+        "id": 16,
+        "original": "もしあの少年が俺だとしたら――",
+        "translations": {
+            "initial": "Jika anak laki-laki itu adalah aku-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もしあのしょうねんがおれだとするた――"
+    },
+    {
+        "id": 17,
+        "original": "どうして俺はそのことを覚えていないんだ？",
+        "translations": {
+            "initial": "Mengapa aku tidak mengingat hal itu？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうするておれはそのことをおぼえるているないのだ？"
+    },
+    {
+        "id": 18,
+        "original": "記憶に重い蓋でもされたみたいに思い出せない。",
+        "translations": {
+            "initial": "Aku tidak bisa mengingatnya, seolah-olah ingatanku tertutup oleh tutup yang sangat berat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "きおくにおもいふたでもするれるたみたいだおもいだすない。"
+    },
+    {
+        "id": 19,
+        "original": "でも、この光景は見覚えがある気がする。",
+        "translations": {
+            "initial": "Tapi, aku merasa pernah melihat pemandangan ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だも、このこうけいはみおぼえがあるきがする。"
+    },
+    {
+        "id": 20,
+        "original": "思い込みや妄想じゃないし、映画やアニメで見たわけでもない。",
+        "translations": {
+            "initial": "Ini bukan sekadar prasangka atau delusi, dan bukan juga sesuatu yang kulihat di film atau anime.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おもいこみやもうそうだないし、えいがやあにめでみるたわけでもない。"
+    },
+    {
+        "id": 21,
+        "original": "これはきっと俺にとって現実。",
+        "translations": {
+            "initial": "Ini pastilah kenyataan bagiku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これはきっとおれにとるてげんじつ。"
+    },
+    {
+        "id": 22,
+        "original": "俺が体験したこと。",
+        "translations": {
+            "initial": "Sesuatu yang pernah kualami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれがたいけんするたこと。"
+    },
+    {
+        "id": 23,
+        "original": "そのひとつの証左として、今の俺にはあのうずくまっている少年の気持ちがよくわかる。",
+        "translations": {
+            "initial": "Sebagai salah satu buktinya, aku yang sekarang sangat mengerti perasaan anak laki-laki yang sedang meringkuk itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そのひとつのしょうさとするて、いまのおれにはあのうずくまるているしょうねんのきもちがよくわかる。"
+    },
+    {
+        "id": 24,
+        "original": "重たくて冷たくて、一歩も動きたくないような気分。",
+        "translations": {
+            "initial": "Perasaan yang berat dan dingin, seolah-olah tidak ingin melangkah maju barang satu kaki pun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おもたいてつめたいて、いちほもうごくたいないようだきぶん。"
+    },
+    {
+        "id": 25,
+        "original": "できることなら、ずっとここで塞ぎ込んでいたいような気分。",
+        "translations": {
+            "initial": "Perasaan di mana jika bisa, aku ingin terus terpuruk di sini selamanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "できることだ、ずっとここでふさぎこむていたいようだきぶん。"
+    },
+    {
+        "id": 26,
+        "original": "そのことがハッキリとわかる。",
+        "translations": {
+            "initial": "Hal itu bisa kupahami dengan sangat jelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そのことがはっきりとわかる。"
+    },
+    {
+        "id": 27,
+        "original": "そう考えると、俺は有里栖と逆だ。",
+        "translations": {
+            "initial": "Kalau dipikir-pikir, aku kebalikan dari Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そうかんがえると、おれはゆりすみかとぎゃくだ。"
+    },
+    {
+        "id": 28,
+        "original": "有里栖は記憶があって感情が伴わないと言っていたけど、俺はあの少年の感情が判る。",
+        "translations": {
+            "initial": "Arisu bilang dia punya ingatan tapi tidak memiliki emosi yang menyertainya, sedangkan aku memahami emosi anak laki-laki itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかはきおくがあるてかんじょうがともなうないというているたけれど、おれはあのしょうねんのかんじょうがわかる。"
+    },
+    {
+        "id": 29,
+        "original": "……でも、記憶はない。",
+        "translations": {
+            "initial": "......Tapi, aku tidak punya ingatannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……でも、きおくはない。"
+    },
+    {
+        "id": 30,
+        "original": "この状況が何だったのか記憶にないし、その前後も思い出せない。",
+        "translations": {
+            "initial": "Aku tidak ingat situasi apa ini sebenarnya, dan aku juga tidak bisa mengingat kejadian sebelum atau sesudahnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このじょうきょうがなにだたのかきおくにないし、そのぜんごもおもいだすない。"
+    },
+    {
+        "id": 31,
+        "original": "俺はどうやってここに来たんだ？",
+        "translations": {
+            "initial": "Bagaimana cara aku bisa sampai di sini？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれはどうやるてここにくるたのだ？"
+    },
+    {
+        "id": 32,
+        "original": "俺はどうしてこんなに塞ぎ込んでいるんだ？",
+        "translations": {
+            "initial": "Kenapa aku merasa begitu tertekan dan hampa begini？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれはどうするてこんなだふさぎこむているのだ？"
+    },
+    {
+        "id": 33,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 34,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 35,
+        "original": "……ダメだ。考えてもよくわからない。",
+        "translations": {
+            "initial": "......Nggak bisa. Dipikirkan bagaimanapun aku tetap nggak mengerti.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "……だめだ。かんがえるてもよくわかるない。"
+    },
+    {
+        "id": 36,
+        "original": "いい加減に少し疲れてしまって、俺は半ば諦め気味に少女へと話しかける。",
+        "translations": {
+            "initial": "Karena mulai merasa lelah, aku akhirnya menyerah dan mencoba mengajak gadis itu bicara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "よいかげんにすこしつかれるてしまうて、おれはなかばあきらめるきみにしょうじょへとはなしかける。"
+    },
+    {
+        "id": 37,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 38,
+        "original": "「なぁ……キミは有里栖なのか？」",
+        "translations": {
+            "initial": "「Hei...... apa kamu itu Arisu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「な……きみはゆりすみかだのか？」"
+    },
+    {
+        "id": 39,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 40,
+        "original": "「だとしたら、どうして今の有里栖は覚えてないんだ？」",
+        "translations": {
+            "initial": "「Kalau memang iya, kenapa Arisu yang sekarang nggak ingat apa-apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「だとするた、どうするていまのゆりすみかはおぼえるてるないのだ？」"
+    },
+    {
+        "id": 41,
+        "original": "俺は、ゆっくりと少女に近づいていく。",
+        "translations": {
+            "initial": "Aku melangkah mendekati gadis itu secara perlahan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれは、ゆっくりとしょうじょにちかづくていく。"
+    },
+    {
+        "id": 42,
+        "original": "もう少しで少女の顔が見える。",
+        "translations": {
+            "initial": "Sedikit lagi wajahnya akan terlihat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もうすこしでしょうじょのかおがみえる。"
+    },
+    {
+        "id": 43,
+        "original": "せめて近くで見られれば、彼女が誰なのかハッキリすると思う。",
+        "translations": {
+            "initial": "Setidaknya kalau aku melihatnya dari dekat, aku rasa sosoknya akan menjadi jelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "せめてちかくでみるられるば、かのじょがだれだのかはっきりするとおもう。"
+    },
+    {
+        "id": 44,
+        "original": "一見すると有里栖のように見えるあの少女は、一体誰なんだ？",
+        "translations": {
+            "initial": "Gadis yang sekilas terlihat seperti Arisu itu sebenarnya siapa？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いっけんするとゆりすみかのようだみえるあのしょうじょは、いったいだれだのだ？"
+    },
+    {
+        "id": 45,
+        "original": "もう少し、もう少しで……。",
+        "translations": {
+            "initial": "Sedikit lagi, tinggal sedikit lagi.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もうすこし、もうすこしだ……。"
+    },
+    {
+        "id": 46,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 47,
+        "original": "「あ……」",
+        "translations": {
+            "initial": "「Ah......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あっ……」"
+    },
+    {
+        "id": 48,
+        "original": "あと少しというところで、意識がゆっくりと浮かびあがっていく感覚に襲われる。",
+        "translations": {
+            "initial": "Tepat sebelum mencapainya, aku diserang perasaan seolah kesadaranku perlahan-lahan mulai melayang naik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あとすこしというところで、いしきがゆっくりとうかびあがるていくかんかくにおそうれる。"
+    },
+    {
+        "id": 49,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 50,
+        "original": "「待ってくれ……もう少し、あと少しだけ……」",
+        "translations": {
+            "initial": "「Tunggu...... sebentar lagi saja, kumohon sebentar lagi......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まつてくれる……もうすこし、あとすこしだけ……」"
+    },
+    {
+        "id": 51,
+        "original": "あと一歩、いや半歩でもいい。",
+        "translations": {
+            "initial": "Satu langkah lagi, tidak, setengah langkah pun tidak apa-apa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あといちほ、いやはんぽでもよい。"
+    },
+    {
+        "id": 52,
+        "original": "少女に近づくことができれば、あの子が誰なのか知ることができるのに。",
+        "translations": {
+            "initial": "Andai aku bisa mendekat sedikit saja, aku pasti bisa tahu siapa anak itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しょうじょにちかづくことができるば、あのこがだれだのかしることができるのに。"
+    },
+    {
+        "id": 53,
+        "original": "なのに、意識はどんどん引き上げられていく。",
+        "translations": {
+            "initial": "Padahal begitu, tapi kesadaranku terus dipaksa ditarik kembali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だのに、いしきはどんどんひきあげるられるていく。"
+    },
+    {
+        "id": 54,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 55,
+        "original": "「キミは……一体誰なんだ？」",
+        "translations": {
+            "initial": "「Kamu itu...... sebenarnya siapa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きみは……いったいだれだのだ？」"
+    },
+    {
+        "id": 56,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 57,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「…………」"
+    },
+    {
+        "id": 58,
+        "original": "目を覚ますと、俺は自分の部屋にいた。",
+        "translations": {
+            "initial": "Begitu membuka mata, aku sudah berada di kamarku sendiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "めをさますと、おれはじぶんのへやにいるた。"
+    },
+    {
+        "id": 59,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 60,
+        "original": "「しかし……最近よくあの夢を見るな」",
+        "translations": {
+            "initial": "「Tapi...... belakangan ini aku sering sekali memimpikan hal itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しかし……さいきんよくあのゆめをみるな」"
+    },
+    {
+        "id": 61,
+        "original": "有里栖と想い出探しを始めてから、明らかにあの夢を見る回数が増えている気がする。",
+        "translations": {
+            "initial": "Sejak mulai mencari kenangan bersama Arisu, rasanya intensitas mimpi itu muncul jelas-jelas semakin meningkat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかとおもいでさがしをはじめるてから、あきらかだあのゆめをみるかいすうがふえるているきがする。"
+    },
+    {
+        "id": 62,
+        "original": "それに、目を覚ましてからも見ていた夢を覚えていることが多い。",
+        "translations": {
+            "initial": "Selain itu, aku jadi lebih sering mengingat isi mimpinya bahkan setelah terbangun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それに、めをさますてからもみるているたゆめをおぼえるていることがおおい。"
+    },
+    {
+        "id": 63,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 64,
+        "original": "「これにもなにか原因があるのか？」",
+        "translations": {
+            "initial": "「Apa ini juga ada penyebabnya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「これにもなにかげんいんがあるのか？」"
+    },
+    {
+        "id": 65,
+        "original": "この前は有里栖も同じタイミングで同じ夢を見たが。",
+        "translations": {
+            "initial": "Kemarin Arisu juga mimpi yang sama di waktu yang barengan, sih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "このまえはゆりすみかもおなじたいみんぐでおなじゆめをみるたが。"
+    },
+    {
+        "id": 66,
+        "original": "いや、まさか……。",
+        "translations": {
+            "initial": "Enggak, masa iya...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いや、まさか……。"
+    },
+    {
+        "id": 67,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 68,
+        "original": "「一応、連絡してみるか」",
+        "translations": {
+            "initial": "「Coba aku hubungi saja, deh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いちおう、れんらくするてみるか」"
+    },
+    {
+        "id": 69,
+        "original": "ＣＯＭＵを起動し、有里栖にメッセージを送信した。",
+        "translations": {
+            "initial": "Aku menyalakan COMU dan mengirim pesan ke Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ＣＯＭＵをきどうする、ゆりすみかにめっせーじをそうしんするた。"
+    },
+    {
+        "id": 70,
+        "original": "これでまた有里栖も同じ夢を見ていたら、ますます偶然というのは考えづらい。",
+        "translations": {
+            "initial": "Kalau kali ini Arisu mimpi yang sama lagi, makin sulit buat menganggap ini cuma kebetulan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これでまたゆりすみかもおなじゆめをみるているた、ますますぐうぜんというのはかんがえるづらい。"
+    },
+    {
+        "id": 71,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 72,
+        "original": "「お……すぐに返信が来た」",
+        "translations": {
+            "initial": "「Oh... langsung dibalas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「お……すぐにへんしんがくるた」"
+    },
+    {
+        "id": 73,
+        "original": "ＴＡＢをタッチし、有里栖からのメッセージを開く。",
+        "translations": {
+            "initial": "Aku menyentuh TAB dan membuka pesan dari Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たぶをたっちする、ゆりすみかからのめっせーじをひらく。"
+    },
+    {
+        "id": 74,
+        "original": "「一登」っていう夢を見たんだけどさ",
+        "translations": {
+            "initial": "「一登」 Jadi seperti itu mimpi yang aku liat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」っていうゆめをみるたのだけれどさ"
+    },
+    {
+        "id": 75,
+        "original": "「有里栖」その夢…たぶん、私も見たよ？",
+        "translations": {
+            "initial": "「有里栖」 Sepertinya aku juga         memimpikan hal itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」そのゆめ…たぶん、わたくしもみるたよ？"
+    },
+    {
+        "id": 76,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 77,
+        "original": "「え？」",
+        "translations": {
+            "initial": "「Eh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「えっ？」"
+    },
+    {
+        "id": 78,
+        "original": "有里栖のメッセージに驚きつつ、俺はＣＯＭＵを操作していく。",
+        "translations": {
+            "initial": "Sambil terkejut melihat pesan Arisu, aku lanjut mengoperasikan COMU.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかのめっせーじにおどろくつつ、おれはＣＯＭＵをそうさするていく。"
+    },
+    {
+        "id": 79,
+        "original": "「一登」同じって、全く同じ内容か？似てるとかじゃなくて？",
+        "translations": {
+            "initial": "「一登」 Maksudmu mimpinya           benar-benar persis sama?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おなじって、まったくおなじないようか？にるてるとかだないて？"
+    },
+    {
+        "id": 80,
+        "original": "「有里栖」うん。男の子が蹲ってて、近くに女の子がいて…",
+        "translations": {
+            "initial": "「有里栖」 Iya, ada cowok jongkok dan  cewek di dekatnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」うん。おとこのこがうずくまるてるて、ちかくにおんなのこがいるて…"
+    },
+    {
+        "id": 81,
+        "original": "「有里栖」何も言わないんだけど、男の子のことを心配してる…",
+        "translations": {
+            "initial": "「有里栖」 Cewek itu diam tapi         khawatir pada si cowok.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」なにもいうないのだけれど、おとこのこのことをしんぱいするてる…"
+    },
+    {
+        "id": 82,
+        "original": "「有里栖」私が見たのはそんな夢だった",
+        "translations": {
+            "initial": "「有里栖」 Mimpi yang kulihat persis   seperti itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」わたくしがみるたのはそんなゆめだた"
+    },
+    {
+        "id": 83,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 84,
+        "original": "「似てる……」",
+        "translations": {
+            "initial": "「Mirip banget...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「にるてる……」"
+    },
+    {
+        "id": 85,
+        "original": "有里栖が伝えてきた夢の内容は、俺が見ていた夢と似ていた。",
+        "translations": {
+            "initial": "Isi mimpi yang diceritakan Arisu sangat mirip dengan mimpi yang aku alami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかがつたえるてくるたゆめのないようは、おれがみるているたゆめとにるているた。"
+    },
+    {
+        "id": 86,
+        "original": "ほとんど同じと言っても良いかもしれない。",
+        "translations": {
+            "initial": "Bahkan bisa dibilang hampir identik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほとんどおなじというてもよいかもしれるない。"
+    },
+    {
+        "id": 87,
+        "original": "となると……何かの間違いじゃなくて、本当に全く同じ夢を見たってことか？",
+        "translations": {
+            "initial": "Kalau begitu... apa ini bukan salah paham, tapi kami benar-benar melihat mimpi yang sama persis？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "となると……なにかのまちがいだないて、ほんとうにまったくおなじゆめをみるたってことか？"
+    },
+    {
+        "id": 88,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 89,
+        "original": "「でも……そんなことってあるか？」",
+        "translations": {
+            "initial": "「Tapi... apa hal kayak gitu mungkin terjadi？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「でも……そんなことってあるか？」"
+    },
+    {
+        "id": 90,
+        "original": "前のときに有里栖が言っていた通り、二人が同じ夢を同じタイミングで見る確率は奇跡に近い。",
+        "translations": {
+            "initial": "Seperti yang Arisu bilang sebelumnya, peluang dua orang melihat mimpi yang sama di waktu yang bersamaan itu nyaris mustahil.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "まえのときにゆりすみかがいうているたとおり、ふたりがおなじゆめをおなじたいみんぐでみるかくりつはきせきにちかい。"
+    },
+    {
+        "id": 91,
+        "original": "しかもそれが続くとなると。",
+        "translations": {
+            "initial": "Apalagi kalau hal itu terjadi berulang kali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しかもそれがつづくとなると。"
+    },
+    {
+        "id": 92,
+        "original": "もちろん、二人が前回話したことで意識してしまって、ということも無いわけじゃない。",
+        "translations": {
+            "initial": "Tentu saja, bukan nggak mungkin ini terjadi karena kami memikirkannya setelah obrolan terakhir.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もちろん、ふたりがぜんかいはなすたことでいしきするてしまうて、ということもないわけだない。"
+    },
+    {
+        "id": 93,
+        "original": "けど、それでも『あるある、よくある』とはとても言えないレベルのことだ。",
+        "translations": {
+            "initial": "Tapi tetap saja, ini bukan sesuatu yang bisa dibilang 'ah, hal biasa'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けれど、それでも『あるある、よくある』とはとてもいうないれべるのことだ。"
+    },
+    {
+        "id": 94,
+        "original": "これは、少し話した方がよさそうだ。",
+        "translations": {
+            "initial": "Sepertinya, ini perlu dibicarakan sebentar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これは、すこしはなすたほうがよいそうだ。"
+    },
+    {
+        "id": 95,
+        "original": "「一登」その夢のことについて、今日少し話さないか？",
+        "translations": {
+            "initial": "「一登」 Bisa bicara soal mimpi itu  hari ini?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」そのゆめのことにつくて、きょうすこしはなすないか？"
+    },
+    {
+        "id": 96,
+        "original": "「有里栖」うん、わかった。場所はまた、うちでもいい？",
+        "translations": {
+            "initial": "「有里栖」 Boleh, di rumahku lagi?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」うん、わかるた。ばしょはまた、うちでもよい？"
+    },
+    {
+        "id": 97,
+        "original": "「一登」おっけー。１５分くらいで向かうよ",
+        "translations": {
+            "initial": "「一登」 Oke, aku ke sana 15 menit   lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おーけー。１５ふんくらいでむかうよ"
+    },
+    {
+        "id": 98,
+        "original": "「有里栖」うん。待ってるね",
+        "translations": {
+            "initial": "「有里栖」 Sip, aku tunggu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ゆりすみか」うん。まつてるね"
+    },
+    {
+        "id": 99,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 100,
+        "original": "「よし」",
+        "translations": {
+            "initial": "「Sip」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「よし」"
+    },
+    {
+        "id": 101,
+        "original": "有里栖からのレスを確認した俺は、ＴＡＢをスタンバイにして出かける用意を始めた。",
+        "translations": {
+            "initial": "Setelah memastikan balasan dari Arisu, aku mengalihkan TAB ke mode standby dan mulai bersiap-siap untuk berangkat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ゆりすみかからのれすをかくにんするたおれは、たぶをすたんばいにするてでかけるよういをはじめるた。"
+    },
+    {
+        "id": 102,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

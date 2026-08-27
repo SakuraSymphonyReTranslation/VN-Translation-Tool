@@ -1,0 +1,2066 @@
+[
+    {
+        "id": 0,
+        "original": "ちょこの放送の件で鳳城から連絡があった翌日。",
+        "translations": {
+            "initial": "Sehari setelah Houjou menghubungiku soal siaran CHOCO.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちょこのほうそうのけんでほうじょうかられんらくがあるたよくじつ。"
+    },
+    {
+        "id": 1,
+        "original": "ゲームをしても漫画を読んでいても、昨日のやりとりが頭から離れなかった。",
+        "translations": {
+            "initial": "Mau main game atau baca manga pun, percakapan kemarin terus terngiang-ngiang di kepalaku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "げーむをするてもまんがをよむているても、きのうのやりとりがあたまからはなれるないた。"
+    },
+    {
+        "id": 2,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 3,
+        "original": "「ちょこのやつ大丈夫かな……。こっちからメッセージでも送って――」",
+        "translations": {
+            "initial": "「Apa si CHOCO itu baik-baik saja ya.... Coba aku kirim pesan saja ke dia-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ちょこのやつだいじょうぶかな……。こちらからめっせーじでもおくるて――」"
+    },
+    {
+        "id": 4,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 5,
+        "original": "「おっ？」",
+        "translations": {
+            "initial": "「Oh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おっ？」"
+    },
+    {
+        "id": 6,
+        "original": "手を伸ばしたところで、タイミングよくＴＡＢがメッセージを受信した。",
+        "translations": {
+            "initial": "Begitu aku mengulurkan tangan, di waktu yang tepat TAB menerima sebuah pesan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "てをのばすたところで、たいみんぐよいたぶがめっせーじをじゅしんするた。"
+    },
+    {
+        "id": 7,
+        "original": "確認すると、鳳城からのＣＯＭＵだ。",
+        "translations": {
+            "initial": "Saat kuperiksa, ternyata COMU dari Houjou.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かくにんすると、ほうじょうからのＣＯＭＵだ。"
+    },
+    {
+        "id": 8,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 9,
+        "original": "「なになに？えーっと……」",
+        "translations": {
+            "initial": "「Apa ini？ Coba kulihat....」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なになに？えーと……」"
+    },
+    {
+        "id": 10,
+        "original": "メッセージに目を通し、そして――",
+        "translations": {
+            "initial": "Aku membaca pesannya, lalu-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "めっせーじにめをとおす、そして――"
+    },
+    {
+        "id": 11,
+        "original": "次の瞬間、俺は部屋を飛び出していた。",
+        "translations": {
+            "initial": "Detik berikutnya, aku langsung berlari keluar dari kamar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "つぎのしゅんかん、おれはへやをとびだすているた。"
+    },
+    {
+        "id": 12,
+        "original": "鳳城から届いたメッセージは、俺の悪い予感を裏付けるに相応しいものだった。",
+        "translations": {
+            "initial": "Pesan dari Houjou adalah bukti yang membenarkan firasat burukku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうじょうからとどくためっせーじは、おれのわるいよかんをうらづけるにふさわしいものだた。"
+    },
+    {
+        "id": 13,
+        "original": "「詩名」日野原さんがヘコんでいるのでお話を聞いてあげてください",
+        "translations": {
+            "initial": "「詩名」 Tolong dengarkan curhatan   Hinohara-san yang terpuruk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「しめい」ひのはらさんがへこむているのだおはなしをきくてあげるてくださる"
+    },
+    {
+        "id": 14,
+        "original": "その後のメッセージで、ちょこが今月見団子にいるということがわかった。",
+        "translations": {
+            "initial": "Lewat pesan selanjutnya, aku tahu kalau CHOCO sekarang sedang berada di Tsukimi Dango.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そのあとのめっせーじで、ちょこがこんげつみるだんごにいるということがわかるた。"
+    },
+    {
+        "id": 15,
+        "original": "急いで向かってみると、窓際の席でうなだれてる彼女が目に入る。",
+        "translations": {
+            "initial": "Begitu aku bergegas ke sana, aku melihatnya sedang tertunduk lesu di kursi dekat jendela.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いそぐてむかうてみると、まどぎわのせきでうなだれるてるかのじょがめにはいる。"
+    },
+    {
+        "id": 16,
+        "original": "鳳城の姿はなく、どうやら一人らしい。",
+        "translations": {
+            "initial": "Tak ada sosok Houjou, sepertinya dia sendirian.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうじょうのすがたはない、どうやらひとりらしい。"
+    },
+    {
+        "id": 17,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 18,
+        "original": "「よ。こんなところで会うなんて偶然だな」",
+        "translations": {
+            "initial": "「Yo. Kebetulan sekali ya bisa bertemu di tempat seperti ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「よ。こんなところであうなんてぐうぜんだな」"
+    },
+    {
+        "id": 19,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 20,
+        "original": "「ありゃ？とっきー……先輩？」",
+        "translations": {
+            "initial": "「Eh？ Tokki-senpai...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ありゃ？とるきー……せんぱい？」"
+    },
+    {
+        "id": 21,
+        "original": "できるだけ優しい声で話しかけると、ちょこはゆっくりと顔を上げる。",
+        "translations": {
+            "initial": "Saat aku menyapanya dengan suara selembut mungkin, CHOCO perlahan mengangkat wajahnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "できるだけやさしいこえではなしかけると、ちょこはゆっくりとかおをあげる。"
+    },
+    {
+        "id": 22,
+        "original": "背中で猫がリラックスしてるあたり、けっこう長い間こうやってたんだな。",
+        "translations": {
+            "initial": "Melihat ada kucing yang santai di punggungnya, sepertinya dia sudah diam seperti itu cukup lama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "せなかでねこがりらっくすするてるあたり、けっこうながいあいだこうやるてるたのだな。"
+    },
+    {
+        "id": 23,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 24,
+        "original": "「あははは……偶然も偶然ですね。びっくり過ぎるタイミングですよ……」",
+        "translations": {
+            "initial": "「Ahaha.... Kebetulan yang sangat kebetulan ya. Waktunya benar-benar bikin kaget....」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あはは……ぐうぜんもぐうぜんですね。びっくりすぎるたいみんぐですよ……」"
+    },
+    {
+        "id": 25,
+        "original": "なんとか笑顔を作ろうとするちょこだけど、やっぱりいつもの勢いが無い。",
+        "translations": {
+            "initial": "Meskipun CHOCO berusaha tersenyum, tapi dia tidak seceria biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにとかえがおをつくるとするちょこだけれど、やはりいつものいきおいがない。"
+    },
+    {
+        "id": 26,
+        "original": "うーん、やっぱり落ち込んでるみたいだな。",
+        "translations": {
+            "initial": "Hmm, sepertinya dia benar-benar sedang sedih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ううん、やはりおちこむてるみたいだな。"
+    },
+    {
+        "id": 27,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 28,
+        "original": "@t22@d1「さてはしいしい先輩……ですよね。あたしがここにいるって伝えたの。まったく、自分はバイトで手が離せないからって楽をして」",
+        "translations": {
+            "initial": "@t83@d1「Pasti ini ulah Shiishii-senpai.... Dia yang bilang kalau aku ada di sini, kan. Duh, mentang-mentang dia sibuk kerja paruh waktu, malah cari gampangnya saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t22@d1「さてはしいしいせんぱい……ですよね。わたしがここにいるってつたえるたの。まったく、じぶんはばいとでてがはなすないからってらくをするて」"
+    },
+    {
+        "id": 29,
+        "original": "毒づく言葉とは裏腹に嬉しそうな表情。",
+        "translations": {
+            "initial": "Ekspresinya terlihat senang, berbanding terbalik dengan kata-katanya yang sinis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どくづくことばとはうらはらだうれしいそうだひょうじょう。"
+    },
+    {
+        "id": 30,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 31,
+        "original": "「まあ、経緯は想像に任せる。……で、向かい、座ってもいいか？」",
+        "translations": {
+            "initial": "「Yah, soal bagaimana kejadiannya, silakan bayangkan saja sendiri. ......Jadi, boleh aku duduk di depanmu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあ、けいいはそうぞうにまかせる。……だ、むかう、すわるてもよいか？」"
+    },
+    {
+        "id": 32,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 33,
+        "original": "@t12@d1「…………はい」",
+        "translations": {
+            "initial": "@t2@d1「............Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t12@d1「…………はい」"
+    },
+    {
+        "id": 34,
+        "original": "断られることも覚悟していたが、同席を許してくれた。",
+        "translations": {
+            "initial": "Aku sudah siap kalau ditolak, tapi ternyata dia mengizinkanku duduk bersama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ことわるれることもかくごするているたが、どうせきをゆるすてくれるた。"
+    },
+    {
+        "id": 35,
+        "original": "店員さんに飲み物を注文して、俺はちょこに向き直る。",
+        "translations": {
+            "initial": "Setelah memesan minuman ke pelayan, aku kembali menghadap ke arah CHOCO.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "てんいんさんにのみものをちゅうもんするて、おれはちょこにむきなおる。"
+    },
+    {
+        "id": 36,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 37,
+        "original": "「で、なんでそんなにぐでーっとしちゃってるんだ？」",
+        "translations": {
+            "initial": "「Jadi, kenapa kamu sampai lunglai begitu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「で、なにでそんなだぐでーっとするちゃうてるのだ？」"
+    },
+    {
+        "id": 38,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 39,
+        "original": "「まあ……なんていうかですねえ……あたし、昨日の夜に生放送をやったんです。あえて、とっきー先輩にもしいしい先輩にも知らせないで」",
+        "translations": {
+            "initial": "「Yah...... gimana ya...... semalam aku melakukan siaran langsung. Sengaja nggak kasih tahu Tokki-senpai maupun Shiishii-senpai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあ……なんていうかですね……わたし、きのうのよるになまほうそうをやるたのです。あえて、とるきーせんぱいにもしいしいせんぱいにもしるせるないて」"
+    },
+    {
+        "id": 40,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 41,
+        "original": "「……まあ、しいしい先輩には見られちゃったんですけど。チェック早すぎでした、鬼チェックでした」",
+        "translations": {
+            "initial": "「......Yah, tapi ketahuan juga sih sama Shiishii-senpai. Cepat banget ketahuannya, dia benar-benar si raja pantau」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……まあ、しいしいせんぱいにはみるられるちゃうたのですけれど。ちぇっくはやいすぎですた、おにちぇっくですた」"
+    },
+    {
+        "id": 42,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 43,
+        "original": "「そうみたいだな。放送の後に鳳城から連絡が来たよ。いつもと違う雰囲気だったって」",
+        "translations": {
+            "initial": "「Sepertinya begitu. Setelah siaran itu, Houjou menghubungiku. Katanya suasananya beda dari biasanya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうみたいだな。ほうそうのあとにほうじょうかられんらくがくるたよ。いつもとちがうふんいきだたって」"
+    },
+    {
+        "id": 44,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 45,
+        "original": "「多分だけど、意図的にやったものなんだろ？」",
+        "translations": {
+            "initial": "「Mungkin saja itu memang sengaja kamu lakukan, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「たぶんだけれど、いとてきだやるたものだのだ？」"
+    },
+    {
+        "id": 46,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 47,
+        "original": "「そうなんです……。折角いい流れで生放送を続けていけているので、なにか新しいことにチャレンジしたくて……」",
+        "translations": {
+            "initial": "「Iya, benar begitu....... Karena sejauh ini siaran langsungku berjalan cukup lancar, aku ingin mencoba sesuatu yang baru......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうだのです……。せっかくよいながれでなまほうそうをつづけるていくているのだ、なにかあたらしいことにちゃれんじするたいて……」"
+    },
+    {
+        "id": 48,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 49,
+        "original": "「昨日の放送では、ＫｏｔｏＲＩさんの番組を参考にしてみたんです」",
+        "translations": {
+            "initial": "「Di siaran semalam, aku mencoba mencontoh acaranya KotoRI-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「きのうのほうそうでは、ＫｏｔｏＲＩさんのばんぐみをさんこうにするてみるたのです」"
+    },
+    {
+        "id": 50,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 51,
+        "original": "「あぁ……。それで鳳城が『落ち着いた話し方と進行』って言ってたのか」",
+        "translations": {
+            "initial": "「Ah....... Makanya Houjou bilang 'cara bicara dan pembawaannya lebih tenang'.」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ああ……。それでほうじょうが『おちつくたはなすかたとしんこう』っていうてるたのか」"
+    },
+    {
+        "id": 52,
+        "original": "ＫｏｔｏＲＩはちょこの憧れの存在だ。",
+        "translations": {
+            "initial": "KotoRI adalah sosok yang dikagumi oleh CHOCO.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ＫｏｔｏＲＩはちょこのあこがれのそんざいだ。"
+    },
+    {
+        "id": 53,
+        "original": "番組作りを真似ても不思議じゃない。",
+        "translations": {
+            "initial": "Bukan hal aneh kalau dia meniru cara pembuatan acaranya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ばんぐみつくりをまねるてもふしぎだない。"
+    },
+    {
+        "id": 54,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 55,
+        "original": "「なおさら見てみたかったな。帰ったらアーカイブでチェックするよ」",
+        "translations": {
+            "initial": "「Malah jadi makin penasaran. Nanti kalau sudah pulang aku bakal cek arsipnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なおさらみるてみるたいたな。かえるたあーかいぶでちぇっくするよ」"
+    },
+    {
+        "id": 56,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 57,
+        "original": "@t39@d1@t103@d2「ダメですダメです。見なくて正解です。全然上手くいかなかったですから。アーカイブのチェックもしない方がいいのです。はぁ……」",
+        "translations": {
+            "initial": "@t51@d1@t93@d2「Jangan, jangan! Baguslah kalau nggak nonton. Soalnya nggak berjalan lancar sama sekali. Lebih baik arsipnya nggak usah dicek juga. Haaah......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t39@d1@t103@d2「だめですだめです。みるないてせいかいです。ぜんぜんうまいいくないたですから。あーかいぶのちぇっくもするないほうがよいのです。はあ……」"
+    },
+    {
+        "id": 58,
+        "original": "自嘲気味に笑った後、ちょこは小さくため息をつく。",
+        "translations": {
+            "initial": "Setelah tertawa mengejek diri sendiri, CHOCO menghela napas pelan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "じちょうきみにわらうたあと、ちょこはちいさいためいきをつく。"
+    },
+    {
+        "id": 59,
+        "original": "鳳城が感じた『どこか無理をしているようだった』という部分は正解だったみたいだな。",
+        "translations": {
+            "initial": "Sepertinya tebakan Houjou soal 'dia seolah sedang memaksakan diri' itu memang benar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ほうじょうがかんずるた『どこかむりをするているようだた』というぶぶんはせいかいだたみたいだな。"
+    },
+    {
+        "id": 60,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 61,
+        "original": "「でも視聴者数とコメント数は多かったよな。評判は悪くなさそうに思えたけど。これはこれで良いじゃん、みたいな反応もあったよな？」",
+        "translations": {
+            "initial": "「Tapi jumlah penonton dan komentarnya banyak, kan? Kelihatannya respons mereka nggak buruk. Malah ada yang bilang kalau kayak gini pun tetap bagus, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「でもしちょうしゃすうとこめんとすうはおおいたよな。ひょうばんはわるいないそうだおもうたけれど。これはこれでよいじゃん、みたいだはんのうもあるたよな？」"
+    },
+    {
+        "id": 62,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 63,
+        "original": "「……実はそこが問題なんです。ウケが悪かったらすっぱりと方向性を戻せるんですけど、予想以上に盛り上がってしまって」",
+        "translations": {
+            "initial": "「......Sebenarnya justru itu masalahnya. Kalau responsnya buruk, aku bisa langsung balik ke konsep awal, tapi ini malah ramai di luar dugaan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……じつはそこがもんだいだのです。うけがわるいたすっぱりとほうこうせいをもどすのですけれど、よそういじょうにもりあがるてしまうて」"
+    },
+    {
+        "id": 64,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 65,
+        "original": "「盛り上がったんならいいこと……だとは捉えられてないわけか」",
+        "translations": {
+            "initial": "「Jadi meski ramai, kamu nggak menganggapnya sebagai hal yang baik, ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「もりあがるたのだよいこと……だとはとらえるられるてるないわけか」"
+    },
+    {
+        "id": 66,
+        "original": "俺の言葉に、ちょこはゆっくりと首肯する。",
+        "translations": {
+            "initial": "Mendengar perkataanku, CHOCO mengangguk pelan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれのことばに、ちょこはゆっくりとしゅこうする。"
+    },
+    {
+        "id": 67,
+        "original": "どうやら問題は複雑なようだ。",
+        "translations": {
+            "initial": "Sepertinya masalahnya cukup rumit.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうやらもんだいはふくざつだようだ。"
+    },
+    {
+        "id": 68,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 69,
+        "original": "「ここまで話してもらっておいてなんだけど、辛くて話したくないなら無理しなくてもいいんだぞ？」",
+        "translations": {
+            "initial": "「Aku sudah dengar sejauh ini, tapi kalau memang terlalu berat untuk diceritakan, kamu nggak perlu memaksakan diri, kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ここまではなすてもらうておくてだのだけれど、つらいてはなすたいないだむりするないてもよいのだぞ？」"
+    },
+    {
+        "id": 70,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 71,
+        "original": "@t54@d1「ありがとうございます。とっきー先輩のそういうところ、あたし好きですよ。あっ、好きって言ってもライクの方ですからね！勘違いしないでよね！」",
+        "translations": {
+            "initial": "@t67@d1「Terima kasih ya. Aku suka sifat Tokki-senpai yang seperti itu. Eh, tapi suka di sini maksudnya cuma sebagai teman, lho！ Jangan salah paham ya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t54@d1「ありがとうござるます。とるきーせんぱいのそういうところ、わたしすきですよ。あっ、すきっていうてもらいくのほうですからね！かんちがいするないてよね！」"
+    },
+    {
+        "id": 72,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 73,
+        "original": "「わざわざ似非ツンデレにならなくてもわかってるって。もはやギャグみたいになってるぞ」",
+        "translations": {
+            "initial": "「Nggak perlu sampai bergaya ala tsundere gadungan gitu, aku juga tahu kok. Malah kelihatan kayak lawakan tahu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「わざわざえせつんでれになるないてもわかるてるって。もはやぎゃぐみたいだなるてるぞ」"
+    },
+    {
+        "id": 74,
+        "original": "多少は軽口も叩けるみたいだ。",
+        "translations": {
+            "initial": "Sepertinya dia sudah bisa sedikit bercanda.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "たしょうはかるくちもたたくみたいだ。"
+    },
+    {
+        "id": 75,
+        "original": "気持ちが完全に沈みきっているわけではないらしい。",
+        "translations": {
+            "initial": "Kelihatannya suasana hatinya tidak sepenuhnya terpuruk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "きもちがかんぜんだしずむきるているわけだはないらしい。"
+    },
+    {
+        "id": 76,
+        "original": "俺が運ばれてきた飲み物に口を付けていると、ちょこは再び語り始めた。",
+        "translations": {
+            "initial": "Sambil aku meminum minuman yang baru saja diantarkan, CHOCO mulai bercerita kembali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれがはこぶれるてくるたのみものにくちをつけるていると、ちょこはふたたびかたるはじめるた。"
+    },
+    {
+        "id": 77,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 78,
+        "original": "「……ＫｏｔｏＲＩさんに近づきたくて、新しい路線にチャレンジしたところまではよかったんです」",
+        "translations": {
+            "initial": "「......Awalnya aku cuma ingin mencoba gaya baru agar bisa mendekati sosok KotoRI-san, dan itu berjalan lancar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「……ＫｏｔｏＲＩさんにちかづくたいて、あたらしいろせんにちゃれんじするたところまではよいたのです」"
+    },
+    {
+        "id": 79,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 80,
+        "original": "「でも実際やってみたらＫｏｔｏＲＩさんには全然及ばなくて、それでも視聴者の人たちは喜んでくれて……」",
+        "translations": {
+            "initial": "「Tapi setelah dicoba, ternyata aku nggak bisa menandingi KotoRI-san sama sekali, padahal para penonton merasa senang......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「でもじっさいやるてみるたＫｏｔｏＲＩさんにはぜんぜんおよぶないて、それでもしちょうしゃのひとたちはよろこぶてくれるて……」"
+    },
+    {
+        "id": 81,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 82,
+        "original": "「あたし、これからどういう放送をすればいいのか、わからなくなっちゃったんですよ」",
+        "translations": {
+            "initial": "「Jadinya, aku jadi nggak tahu harus membawakan siaran seperti apa lagi ke depannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「わたし、これからどういうほうそうをするばよいのか、わかるないなるちゃうたのですよ」"
+    },
+    {
+        "id": 83,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 84,
+        "original": "「今までどおりの雰囲気でいくのか、それとも路線変更するのか……ってことか」",
+        "translations": {
+            "initial": "「Jadi, pilihannya adalah tetap dengan nuansa seperti biasanya, atau ganti haluan... begitu ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いままでとおりのふんいきでいくのか、それともろせんへんこうするのか……つうことか」"
+    },
+    {
+        "id": 85,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 86,
+        "original": "「はい……。見てくれる人にウケるのは、昨日やった、ＫｏｔｏＲＩさんっぽい内容だと思うんですけど……」",
+        "translations": {
+            "initial": "「Iya... Aku rasa konten yang mirip KotoRI-san kemarin itu bakal lebih disukai penonton, tapi...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はい……。みるてくれるひとにうけるのは、きのうやるた、ＫｏｔｏＲＩさんぽいないようだとおもうのですけれど……」"
+    },
+    {
+        "id": 87,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 88,
+        "original": "「でもウケだけを気にして、自分のやりたいことを押し込めてしまうのもどうなのかなって……」",
+        "translations": {
+            "initial": "「Tapi kalau aku cuma mikirin popularitas dan malah memendam apa yang sebenarnya ingin aku lakukan, rasanya gimana gitu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「でもうけだけをきにするて、じぶんのやるたいことをおしこむてしまうのもどうだのかなって……」"
+    },
+    {
+        "id": 89,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 90,
+        "original": "「いや、もちろんＫｏｔｏＲＩさんリスペクトでやってみた昨日の放送も自分のやりたいことの一部なのは間違い無いんですが……」",
+        "translations": {
+            "initial": "「Eh, bukan berarti siaran kemarin yang terinspirasi dari KotoRI-san itu bukan hal yang ingin aku lakukan sih, itu juga bagian dari keinginanku, tapi...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いや、もちろんＫｏｔｏＲＩさんりすぺくとでやるてみるたきのうのほうそうもじぶんのやるたいことのいちぶだのはまちがいないのですが……」"
+    },
+    {
+        "id": 91,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 92,
+        "original": "「でも多分、自分の本質かって言われると答えに窮しちゃう感じなんですよねー。昨夜から自問自答してはみたんですが、やっぱり憧れは憧れで」",
+        "translations": {
+            "initial": "「Tapi kalau ditanya apa itu jati diriku yang sebenarnya, aku bakal susah jawabnya. Aku sudah coba tanya ke diri sendiri sejak semalam, tapi tetap saja rasa kagum ya sekadar rasa kagum」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「でもたぶん、じぶんのほんしつかっていうれるとこたえにきゅうするちゃうかんじだのですよね。さくやからじもんじとうするてはみるたのですが、やはりあこがれはあこがれで」"
+    },
+    {
+        "id": 93,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 94,
+        "original": "「自分らしさっていう部分でいうときっと、以前のようなところなんだろうなあって」",
+        "translations": {
+            "initial": "「Kalau bicara soal ciri khasku sendiri, aku rasa itu lebih ke gaya yang sebelumnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「じぶんらしいさっていうぶぶんでいうときっと、いぜんのようだところだのだなって」"
+    },
+    {
+        "id": 95,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 96,
+        "original": "「いやー、だからこそ評判悪かったらすっぱりいけたんすけどねえ……贅沢な悩みなのかもしれないですけど、これがなかなか深刻なんすよ、自分の中では……」",
+        "translations": {
+            "initial": "「Yah, justru kalau reputasinya buruk aku bisa langsung menyerah... Mungkin kedengarannya kayak keluhan yang berlebihan, tapi bagiku ini masalah yang cukup serius lho...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「いや、だからこそひょうばんわるいたすっぱりいくたのですけれどね……ぜいたくだなやみだのかもしれるないですけれど、これがなかなかしんこくだのですよ、じぶんのなかでは……」"
+    },
+    {
+        "id": 97,
+        "original": "難しい問題だ。",
+        "translations": {
+            "initial": "Ini masalah yang sulit.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "むずかしいもんだいだ。"
+    },
+    {
+        "id": 98,
+        "original": "マイチューバーとして人気になりたいなら、視聴者の望むものを提供する必要がある。",
+        "translations": {
+            "initial": "Jika ingin menjadi MyTuber populer, dia perlu memberikan apa yang diinginkan oleh penonton.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "まいちゅーばーとするてにんきになるたいだ、しちょうしゃののぞむものをていきょうするひつようがある。"
+    },
+    {
+        "id": 99,
+        "original": "しかし、元々ちょこがやってきた放送にもファンがいるわけで。",
+        "translations": {
+            "initial": "Namun, siaran yang selama ini dilakukan CHOCO pun sudah memiliki penggemarnya sendiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しかし、もともとちょこがやるてくるたほうそうにもふぁんがいるわけで。"
+    },
+    {
+        "id": 100,
+        "original": "なにより、ちょこ自身が一番笑顔で楽しめる番組をしてほしいんだけど……。",
+        "translations": {
+            "initial": "Yang terpenting, aku ingin CHOCO membawakan acara yang bisa dinikmatinya dengan senyuman yang paling tulus...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なにより、ちょこじしんがいちばんえがおでたのしむばんぐみをするてほしいのだけれど……。"
+    },
+    {
+        "id": 101,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 102,
+        "original": "「すみません、とっきー先輩。いきなりこんな話聞かされても困りますよね。しいしい先輩にも心配かけちゃったみたいですし、あたし……」",
+        "translations": {
+            "initial": "「Maaf ya, Tokki-senpai. Tiba-tiba curhat begini pasti bikin repot. Sepertinya aku juga sudah bikin Shiishii-senpai khawatir, aku benar-benar...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「すむますず、とるきーせんぱい。いきなりこんなはなしきかすれるてもこまるますよね。しいしいせんぱいにもしんぱいかけるちゃうたみたいですし、わたし……」"
+    },
+    {
+        "id": 103,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 104,
+        "original": "「まあまあ、あまり難しい顔するなって。ほら笑顔笑顔」",
+        "translations": {
+            "initial": "「Sudahlah, jangan pasang wajah serius begitu. Ayo, senyum, senyum!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあまあ、あまりむずかしいかおするなって。ほらえがおえがお」"
+    },
+    {
+        "id": 105,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 106,
+        "original": "@t18@d1「とっきー先輩……。で、でもあたし……」",
+        "translations": {
+            "initial": "@t28@d1「Tokki-senpai... Ta, tapi aku...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t18@d1「とるきーせんぱい……。で、でもわたし……」"
+    },
+    {
+        "id": 107,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 108,
+        "original": "「ほら口角上げてみ？ニコッてさ」",
+        "translations": {
+            "initial": "「Ayo, coba angkat sudut mulutmu. Tersenyum lebar begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ほらこうかくあげるてみる？にこつうさ」"
+    },
+    {
+        "id": 109,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 110,
+        "original": "@t21@d1@t40@d2「え、えーっと……ニコッ。……こ、こうですか？」",
+        "translations": {
+            "initial": "@t37@d1@t47@d2「E-anu... Senyum. ...Be-begini ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t21@d1@t40@d2「えっ、えーと……にこ。……こう、こうですか？」"
+    },
+    {
+        "id": 111,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 112,
+        "original": "「うーん、まだまだ硬いな。いつものちょこの笑顔のほうがいいぞ？」",
+        "translations": {
+            "initial": "「Hmm, masih kaku ya. Senyuman CHOCO yang biasanya jauh lebih bagus, lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ううん、まだまだかたいな。いつものちょこのえがおのほうがよいぞ？」"
+    },
+    {
+        "id": 113,
+        "original": "そう簡単に笑えれば苦労はしないか。",
+        "translations": {
+            "initial": "Kalau bisa tertawa semudah itu, dia nggak akan kesulitan begini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そうかんたんだわらうばくろうはするないか。"
+    },
+    {
+        "id": 114,
+        "original": "いつも元気でニコニコしてるちょこが上手く笑えないあたり、今の迷走具合を表してるような気もする。",
+        "translations": {
+            "initial": "Mengingat CHOCO yang biasanya selalu ceria dan penuh tawa malah nggak bisa tersenyum dengan baik, sepertinya ini menunjukkan betapa bingungnya dia sekarang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いつもげんきだにこにこするてるちょこがうまいわらうないあたり、いまのめいそうぐあいをあらわすてるようだきもする。"
+    },
+    {
+        "id": 115,
+        "original": "となると……アレの出番か。",
+        "translations": {
+            "initial": "Kalau sudah begitu... sepertinya itu harus dikeluarkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "となると……あれのでばんか。"
+    },
+    {
+        "id": 116,
+        "original": "家族以外には見せないようにしていたけど……。",
+        "translations": {
+            "initial": "Padahal aku berusaha nggak menunjukkannya kepada siapa pun selain keluarga...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かぞくいがいにはみせるないようだするているたけれど……。"
+    },
+    {
+        "id": 117,
+        "original": "それよりも、なんとか彼女の笑顔を取り戻したい。",
+        "translations": {
+            "initial": "Tapi, aku lebih ingin mengembalikan senyumannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それよりも、なにとかかのじょのえがおをとりもどすたい。"
+    },
+    {
+        "id": 118,
+        "original": "それに、ちょこなら心配するようなこともないかな。",
+        "translations": {
+            "initial": "Lagipula, kalau itu CHOCO, sepertinya nggak ada yang perlu dikhawatirkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それに、ちょこだしんぱいするようだこともないかな。"
+    },
+    {
+        "id": 119,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 120,
+        "original": "「なあ、ちょこ。これ見てみ？」",
+        "translations": {
+            "initial": "「Hei, CHOCO. Coba lihat ini」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なあ、ちょこ。これみるてみる？」"
+    },
+    {
+        "id": 121,
+        "original": "俺はポケットから懐中時計を取り出し、フタを開く。",
+        "translations": {
+            "initial": "Aku mengeluarkan jam saku dari saku, lalu membuka tutupnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれはぽけっとからかいちゅうとけいをとりだす、ふたをひらく。"
+    },
+    {
+        "id": 122,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 123,
+        "original": "「え？とっきー先輩……えっ？」",
+        "translations": {
+            "initial": "「Eh？ Tokki-senpai... eh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「えっ？とるきーせんぱい……えっ？」"
+    },
+    {
+        "id": 124,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 125,
+        "original": "「こうやって元気に笑ってるのが、ちょこには似合ってると思うぞ」",
+        "translations": {
+            "initial": "「Tersenyum ceria begini adalah yang paling cocok untukmu, CHOCO」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「こうやるてげんきだわらうてるのが、ちょこにはにあうてるとおもうぞ」"
+    },
+    {
+        "id": 126,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 127,
+        "original": "「これ、鏡ですよね？写真……じゃないですし？」",
+        "translations": {
+            "initial": "「Ini cermin, kan？ Bukan... foto, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「これ、かがみですよね？しゃしん……だないですし？」"
+    },
+    {
+        "id": 128,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 129,
+        "original": "「まあ、手品みたいなものだと思ってくれ」",
+        "translations": {
+            "initial": "「Yah, anggap saja ini seperti trik sulap」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「まあ、てじなみたいだものだとおもうてくれる」"
+    },
+    {
+        "id": 130,
+        "original": "ちょこ本人は戸惑った表情を浮かべているけど、手鏡に映る表情は自然で穏やかな笑み浮かべている。",
+        "translations": {
+            "initial": "Meskipun CHOCO sendiri tampak bingung, bayangan wajahnya di cermin tangan itu menunjukkan senyum yang alami dan tenang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちょこほんにんはとまどうたひょうじょうをうかべるているけれど、てかがみにうつるひょうじょうはしぜんだおだやかだえみうかべるている。"
+    },
+    {
+        "id": 131,
+        "original": "そう、これが本来のちょこなんだ。",
+        "translations": {
+            "initial": "Ya, inilah sosok CHOCO yang sebenarnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "そう、これがほんらいのちょこなんだ。"
+    },
+    {
+        "id": 132,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 133,
+        "original": "@t13@d1「…………ははっ。あはははっ！鏡の自分を見てたら、ちょっと元気が湧いてきたかもしれません」",
+        "translations": {
+            "initial": "@t13@d1「......Haha. Ahahaha！ Melihat diri sendiri di cermin, rasanya aku jadi sedikit bersemangat kembali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t13@d1「…………ははっ。あはは！かがみのじぶんをみるてるた、ちょっとげんきがわくてくるたかもしれるますず」"
+    },
+    {
+        "id": 134,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 135,
+        "original": "「不思議ですね。自分の笑顔って、動画以外で見ることほとんど無いんですが……動画だとやっぱり自然体とはいってもよそ行きですしね」",
+        "translations": {
+            "initial": "「Aneh ya. Aku hampir nggak pernah melihat senyumku sendiri selain di video... tapi kalau di video, meski terlihat alami, itu tetap saja untuk konsumsi publik」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふしぎですね。じぶんのえがおって、どうがいがいでみることほとんどないのですが……どうがだとやはりしぜんたいとはいうてもよそいきですしね」"
+    },
+    {
+        "id": 136,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 137,
+        "original": "「鏡を見るときに満面の笑みってことも無いですから……なんか、ある種不思議な体験ですね。でも、自分の笑顔でも見ると元気出ちゃうものですね、ふふ」",
+        "translations": {
+            "initial": "「Soalnya kita jarang senyum lebar banget pas lagi ngaca... Jadi rasanya kayak pengalaman yang agak aneh ya. Tapi ternyata ngelihat senyum sendiri itu bisa bikin semangat, hehe」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かがみをみるときにまんめんのえみつうこともないですから……なにか、あるしゅふしぎだたいけんですね。でも、じぶんのえがおでもみるとげんきでるちゃうものですね、ふふ」"
+    },
+    {
+        "id": 138,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 139,
+        "original": "「お、それ。その笑顔が良いと思う」",
+        "translations": {
+            "initial": "「Oh, nah itu. Aku rasa senyum itu bagus banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おっ、それ。そのえがおがよいとおもう」"
+    },
+    {
+        "id": 140,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 141,
+        "original": "「ありがとうございます、とっきー先輩！」",
+        "translations": {
+            "initial": "「Terima kasih ya, Tokki-senpai！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ありがとうござるます、とるきーせんぱい！」"
+    },
+    {
+        "id": 142,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 143,
+        "original": "「どういたしまして。ちょこを元気にできて俺も良かったよ」",
+        "translations": {
+            "initial": "「Sama-sama. Aku juga senang bisa bikin CHOCO semangat lagi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「どういたすますて。ちょこをげんきだできるておれもよいたよ」"
+    },
+    {
+        "id": 144,
+        "original": "元通りというわけではないが、さっきまでと比べれば随分いい顔になった。",
+        "translations": {
+            "initial": "Meski belum sepenuhnya pulih, tapi wajahnya terlihat jauh lebih baik dibanding tadi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "もととおりというわけだはないが、さっきまでとくらべるばずいぶんよいかおになるた。"
+    },
+    {
+        "id": 145,
+        "original": "安堵しながら、俺は懐中時計をしまう。",
+        "translations": {
+            "initial": "Sambil merasa lega, aku menyimpan kembali jam saku itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あんどするながら、おれはかいちゅうとけいをしまう。"
+    },
+    {
+        "id": 146,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 147,
+        "original": "「なあ。例えばさ、ちょこが思ってる『自分のやりたいこと』って、どんなことだ？」",
+        "translations": {
+            "initial": "「Hei. Misalnya nih, 'hal yang ingin kamu lakukan' menurut kamu sendiri itu seperti apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「なあ。たとえばさ、ちょこがおもうてる『じぶんのやるたいこと』って、どんなことだ？」"
+    },
+    {
+        "id": 148,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 149,
+        "original": "「あたしのやりたいこと……ですか……」",
+        "translations": {
+            "initial": "「Hal yang ingin aku lakukan... ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「わたしのやるたいこと……ですか……」"
+    },
+    {
+        "id": 150,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 151,
+        "original": "「あぁ。そこを改めてちゃんと考えてみれば、これからどうすべきかも見えてくるんじゃないかって思うんだ」",
+        "translations": {
+            "initial": "「Iya. Aku rasa kalau kamu coba pikirkan itu sekali lagi dengan matang, mungkin langkah selanjutnya akan mulai terlihat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ああ。そこをあらためてちゃんとかんがえるてみるば、これからどうするべしかもみえるてくるのだないかっておもうのだ」"
+    },
+    {
+        "id": 152,
+        "original": "やりたいことと求められていること、それぞれを明確にするのが今のちょこには必要な気がした。",
+        "translations": {
+            "initial": "Aku merasa yang dibutuhkan CHOCO saat ini adalah memperjelas perbedaan antara apa yang ingin ia lakukan dan apa yang diharapkan darinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "やるたいことともとめるられるていること、それぞれをめいかくだするのがいまのちょこにはひつようだきがするた。"
+    },
+    {
+        "id": 153,
+        "original": "けれどちょこは――",
+        "translations": {
+            "initial": "Namun, Chiyoko-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けれどちょこは――"
+    },
+    {
+        "id": 154,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 155,
+        "original": "@t46@d1@t140@d2「実は、自分でもはっきりとはわかってないんですよ。なんとなく、わいわい楽しい放送が好きってくらいで。改めて自問すると、これはなかなか……うーん……」",
+        "translations": {
+            "initial": "@t50@d1@t142@d2「Sebenarnya, aku sendiri pun nggak begitu paham. Cuma sekadar suka siaran yang ramai dan seru saja. Kalau ditanya lagi ke diri sendiri, ini agak sulit ya... Hmm...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t46@d1@t140@d2「じつは、じぶんでもはっきりとはわかるてるないのですよ。なにとない、わいわいたのしいほうそうがすきってくらいで。あらためてじもんすると、これはなかなか……ううん……」"
+    },
+    {
+        "id": 156,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 157,
+        "original": "「ゲーム実況とか、まさにわいわいしてる楽しい放送って感じだよな」",
+        "translations": {
+            "initial": "「Live streaming game gitu rasanya pas banget sama kesan siaran yang ramai dan seru kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「げーむじっきょうとか、まさにわいわいするてるたのしいほうそうつうかんじだよな」"
+    },
+    {
+        "id": 158,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 159,
+        "original": "@d1@t13@d2@t50@d3「ですです。でもそれってふわっとした方向性ですよね。もっと根っこの部分で、楽しい放送にするために何をしたいのかはわからないんです」",
+        "translations": {
+            "initial": "@d1@t10@d2@t46@d3「Benar banget. Tapi itu kan baru arahannya secara umum saja. Untuk bagian yang lebih mendasar, soal apa yang ingin dilakukan supaya siarannya jadi seru, aku masih nggak tahu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@d1@t13@d2@t50@d3「ですです。でもそれってふわとするたほうこうせいですよね。もっとねっこのぶぶんで、たのしいほうそうにするためになにをするたいのかはわかるないのです」"
+    },
+    {
+        "id": 160,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 161,
+        "original": "「だからとっきー先輩――」",
+        "translations": {
+            "initial": "「Karena itu, Tokki-senpai-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「だからとるきーせんぱい――」"
+    },
+    {
+        "id": 162,
+        "original": "ちょこの眩しく輝く瞳が、真っ直ぐこちらに向けられる。",
+        "translations": {
+            "initial": "Mata CHOCO yang berbinar terang tertuju lurus ke arahku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちょこのまぶしいかがやくひとみが、まっすぐこちらにむけるられる。"
+    },
+    {
+        "id": 163,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 164,
+        "original": "@t40@d1「あたし、自分のやりたいことをはっきりさせたいです。マイチューバーＣＨＯＣＯとして何を本当にやりたいのか、見つけてみようと思います！」",
+        "translations": {
+            "initial": "@t40@d1「Aku ingin memperjelas apa yang sebenarnya ingin aku lakukan. Aku akan mencoba mencari tahu apa yang benar-benar ingin aku lakukan sebagai Mytuber CHOCO！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@t40@d1「わたし、じぶんのやるたいことをはっきりするせるたいです。まいちゅーばーＣＨＯＣＯとするてなにをほんとうにやるたいのか、みつけるてみるとおもうます！」"
+    },
+    {
+        "id": 165,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 166,
+        "original": "「そっか。俺でよかったら相談に乗るからさ。今まで以上に面白いＣＨＯＣＯの動画、楽しみにしてるよ」",
+        "translations": {
+            "initial": "「Begitu ya. Kalau aku bisa bantu, silakan saja konsultasi. Aku menantikan video CHOCO yang jauh lebih menarik dari sebelumnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「そうか。おれでよいたそうだんにのるからさ。いままでいじょうにおもしろいＣＨＯＣＯのどうが、たのしみにするてるよ」"
+    },
+    {
+        "id": 167,
+        "original": "ちよ子",
+        "translations": {
+            "initial": "Chiyoko",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ちよこ"
+    },
+    {
+        "id": 168,
+        "original": "@d1@t47@d2@t63@d3「はいっ！ありがとうございます、とっきー先輩。これから……いえ、これからもよろしくお願いしますね！」",
+        "translations": {
+            "initial": "@d1@t47@d2@t70@d3「Siap！ Terima kasih banyak, Tokki-senpai. Mulai sekarang... tidak, mohon bantuannya terus ya untuk ke depannya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@d1@t47@d2@t63@d3「はい！ありがとうござるます、とるきーせんぱい。これから……いえ、これからもよろしくおねがうするますね！」"
+    },
+    {
+        "id": 169,
+        "original": "月見団子の店内に、季節外れのひまわりが咲く。",
+        "translations": {
+            "initial": "Bunga matahari yang mekar di luar musimnya tampak bermekaran di dalam cafe Tsukimi Dango.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "つきみだんごのてんないに、きせつはずれのひまわりがさく。"
+    },
+    {
+        "id": 170,
+        "original": "今目の前にいるのは、見てる方まで笑顔にしてしまう『いつものちょこ』そのものだった。",
+        "translations": {
+            "initial": "Sosok yang ada di depanku saat ini benar-benar 'CHOCO yang seperti biasanya', yang mampu membuat siapa pun yang melihatnya ikut tersenyum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いまめのまえにいるのは、みるてるかたまでえがおにするてしまう『いつものちょこ』そのものだた。"
+    },
+    {
+        "id": 171,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

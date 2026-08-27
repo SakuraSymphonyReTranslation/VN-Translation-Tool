@@ -1,0 +1,2279 @@
+[
+    {
+        "id": 0,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "「もう、こんな時間。そろそろ晩ごはん、作らないと」",
+        "translations": {
+            "initial": "「Ya ampun, sudah jam segini. Sudah waktunya masak makan malam」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "零次さんたちが休日出勤したこともあって、今日は一日、俺とそら姉、それに二乃で一緒に過ごした。",
+        "translations": {
+            "initial": "Karena Reiji-san dan yang lainnya harus masuk kerja di hari libur, hari ini aku menghabiskan waktu bertiga saja bersama Sora-nee dan Nino.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "三人で手分けして家の掃除をして。みんなでテレビを見たり、ゲームをしたり。",
+        "translations": {
+            "initial": "Kami bertiga membagi tugas membersihkan rumah, lalu menonton TV dan main game bersama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "そんなのんびりしたいつもの休日。",
+        "translations": {
+            "initial": "Hari libur santai yang seperti biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "違うことと言えば、そら姉の格好くらいだろうか。",
+        "translations": {
+            "initial": "Satu-satunya yang berbeda mungkin cuma penampilan Sora-nee.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "ウサ耳が付いていても、そら姉の料理は相変わらず美味しくて、相変わらず機械オンチだったけれど。",
+        "translations": {
+            "initial": "Meski memakai telinga kelinci, masakan Sora-nee tetap enak seperti biasa, dan dia tetap gagap teknologi seperti biasanya juga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "で、気がついたら、夕食の準備をしなくちゃいけない時間になっていたわけだ。",
+        "translations": {
+            "initial": "Lalu, tanpa terasa, sekarang sudah masuk waktunya menyiapkan makan malam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "「ね、いっちゃん。ごはん、何が食べたい？」",
+        "translations": {
+            "initial": "「Hei, Icchan. Kamu mau makan apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "「うーん、そうだなぁ」",
+        "translations": {
+            "initial": "「Hmm, apa ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "@t11@d1「何でもいいよ？今日はいっちゃんのリクエストに応えちゃうね」",
+        "translations": {
+            "initial": "@t11@d1「Apa saja boleh, kok. Hari ini aku bakal turuti permintaan Icchan, deh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "「ほんとに？でもそういわれると悩むなぁ。そら姉の作るものはどれもマジでうまいからなぁ」",
+        "translations": {
+            "initial": "「Beneran？ Tapi kalau dibilang begitu aku jadi bingung. Soalnya semua masakan Sora-nee itu beneran enak banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "@t25@d1「そう？ありがとう。でもお世辞を言ったっておかず一品くらいしか増えないよ」",
+        "translations": {
+            "initial": "@t25@d1「Begitu ya？ Terima kasih. Tapi meski kamu memujiku, lauknya cuma bakal nambah satu macam saja, lho」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "増えるんだ。",
+        "translations": {
+            "initial": "Ternyata nambah, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "「お世辞なんかじゃないって！いつもそら姉の食事を食べられて幸せだって思ってるんだから」",
+        "translations": {
+            "initial": "「Itu bukan sekadar pujian！ Aku beneran merasa bahagia karena bisa selalu makan masakan Sora-nee」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "「うーん、でもおかず一品も考えていいとなると、ますます悩むな。定番のカレーやオムレツか、或いは和でせめてしょうが焼きや肉じゃがというのも……」",
+        "translations": {
+            "initial": "「Hmm, tapi kalau boleh memikirkan satu lauk tambahan, aku jadi makin bingung. Pilih yang standar seperti kari atau omelet, atau masakan Jepang seperti Shogayaki atau Nikujaga ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "@t40@d1「ふふ、どれもいっちゃんの好きなものだね。悩んでくれるのも嬉しいけど、あんまり時間がかかると、お夕飯遅くなっちゃうから気をつけてね」",
+        "translations": {
+            "initial": "@t40@d1「Fufu, semuanya makanan kesukaan Icchan, ya. Aku senang kamu sampai bingung begitu, tapi kalau kelamaan nanti makan malamnya jadi telat, jadi hati-hati ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "「そうだよなー。うむ、これは重大任務だぞ」",
+        "translations": {
+            "initial": "「Benar juga, ya. Wah, ini tugas negara yang sangat penting」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "@t13@d1@t13@d2「こ、こほん。あ、あー！あー！」",
+        "translations": {
+            "initial": "@t13@d1@t13@d2「E-ehem. Tes, tes！ Ah, ah！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "「……ん？どうかしたのか、二乃？」",
+        "translations": {
+            "initial": "「...Hmm？ Ada apa, Nino？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "@t20@d1@t20@d2「どうかしたのかって……あの、ここには私もいるんですけど？」",
+        "translations": {
+            "initial": "@t20@d1@t20@d2「Ada apa katamu... Anu, aku juga ada di sini lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "「知ってるぞ？朝からみんなで一緒にいただろ。な、そら姉？」",
+        "translations": {
+            "initial": "「Aku tahu kok. Kan dari pagi kita sudah bareng-bareng terus. Iya kan, Sora-nee?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "「うん」",
+        "translations": {
+            "initial": "「Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "「……なら、ふたりだけの甘ったるい空気を醸し出すの、やめて欲しいんですけど」",
+        "translations": {
+            "initial": "「...Kalau begitu, tolong berhenti dong membangun suasana manis yang cuma milik kalian berdua saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "「ん？何だって？声が小さくてよく聞こえなかったんだけど」",
+        "translations": {
+            "initial": "「Eh？ Apa？ Suaramu pelan banget, aku nggak dengar jelas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "「兄さんのバカって言ったんです」",
+        "translations": {
+            "initial": "「Aku bilang Nii-san bodoh!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "「何でだよ……」",
+        "translations": {
+            "initial": "「Kenapa jadi begitu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "@t50@d1@t70@d2「さあ？自分の胸に手を当ててみたら、答えがわかるんじゃないんですか？というかですね……そら姉もそら姉です！」",
+        "translations": {
+            "initial": "@t50@d1@t70@d2「Entahlah？ Coba tanya saja pada diri sendiri, mungkin Nii-san bakal tahu jawabannya？ Lagipula ya... Sora-nee juga sama saja！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "「え、わたし？」",
+        "translations": {
+            "initial": "「Eh, aku？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "「その制服、ワンダーランドのものですよね？いい加減、返さないといけないんじゃないんですか？」",
+        "translations": {
+            "initial": "「Seragam itu punya Wonderland, kan？ Bukannya sudah waktunya buat segera dikembalikan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "あー、実のところ、俺もそれは思っていた。",
+        "translations": {
+            "initial": "Ah, sebenarnya aku juga berpikiran sama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "向こうはバイトをしてくれるなら、というつもりで貸していたのだろうし、バイトしないなら早めに返すのが筋なんだろう。",
+        "translations": {
+            "initial": "Pihak sana meminjamkannya dengan anggapan dia akan bekerja paruh waktu, jadi kalau memang nggak bekerja lagi, sewajarnya harus segera dikembalikan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "「それは――」",
+        "translations": {
+            "initial": "「Itu-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "「それは？」",
+        "translations": {
+            "initial": "「Itu apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "@t20@d1「えっと、そう、またバイトすれば借りていられるから、忙しい日曜日だけとかバイトしてみようかな、とか？」",
+        "translations": {
+            "initial": "@t20@d1「Anu, itu, kalau aku kerja lagi kan seragamnya bisa tetap dipinjam, jadi apa aku coba kerja pas hari Minggu yang sibuk saja ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "「……するんですか、バイト？本当に？」",
+        "translations": {
+            "initial": "「......Kakak mau kerja paruh waktu？ Beneran？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "「しない……かな、多分」",
+        "translations": {
+            "initial": "「Enggak kok... kayaknya, mungkin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "「だったら、どうすればいいかわからないそら姉じゃないはずです」",
+        "translations": {
+            "initial": "「Kalau gitu, Sora-nee yang biasanya pasti tahu harus berbuat apa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "@t45@d1「……うん、そうだよね。ごめんね、二乃ちゃん。あはは、ちょっと、気に入り過ぎて舞い上がっちゃってたみたい。お姉ちゃん反省するね」",
+        "translations": {
+            "initial": "@t45@d1「......Iya, kamu bener. Maaf ya, Nino-chan. Ahaha, sepertinya Kakak terlalu senang karena terlalu menyukainya. Kakak bakal introspeksi diri deh」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "「ぁ……」",
+        "translations": {
+            "initial": "「Ah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "@t55@d1「今から行って、謝って返してくるから、晩ごはんはちょっと遅くなっちゃうかも。お腹すいちゃうようなら、出前でも――」",
+        "translations": {
+            "initial": "@t55@d1「Kakak pergi sekarang buat minta maaf dan balikin bajunya, jadi mungkin makan malamnya agak telat. Kalau kamu lapar, pesan antar saja-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "「……そら姉」",
+        "translations": {
+            "initial": "「......Sora-nee」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "「ん？なに、いっちゃん？」",
+        "translations": {
+            "initial": "「Hmm？ Ada apa, Icchan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "無理に明るく振る舞おうとしている姉と、あからさまに自分の発言に後悔している妹が痛々しくて、黙って見ていられない。",
+        "translations": {
+            "initial": "Melihat Kakak yang berusaha bersikap ceria dan Adik yang jelas-jelas menyesali perkataannya sendiri terasa menyesakkan, aku tidak bisa diam saja melihatnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "「そら姉に着てほしいって言ったのは俺だし。俺も謝りに行くよ。それに……」",
+        "translations": {
+            "initial": "「Aku yang minta Sora-nee buat pakai baju itu. Aku juga bakal ikut minta maaf. Lagipula...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "二乃の頭を、俺はぽんぽんと撫でた。",
+        "translations": {
+            "initial": "Aku mengusap-usap pelan kepala Nino.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "「二乃も一緒に行ってくれるって。な？」",
+        "translations": {
+            "initial": "「Nino juga mau ikut kok. Iya, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "@t32@d1「あ……はい。私も行きます。私だって、似合ってるって言っちゃいましたし」",
+        "translations": {
+            "initial": "@t32@d1「Ah... iya. Aku juga ikut. Lagian, aku juga sempat bilang kalau bajunya cocok kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "@t18@d1「そっか……。ありがとうね、ふたりとも」",
+        "translations": {
+            "initial": "@t18@d1「Begitu ya.... Makasih ya, kalian berdua」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "「い、いえ……」",
+        "translations": {
+            "initial": "「Ti-tidak apa-apa...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "二人の表情が少しだけ柔らかくなった。",
+        "translations": {
+            "initial": "Ekspresi mereka berdua sedikit melunak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "まったく、こういう時は不器用なんだからな。",
+        "translations": {
+            "initial": "Aduh, mereka ini benar-benar kaku ya kalau sedang begini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "「じゃあ、そら姉が着替えたら、みんなで謝りに行こうか」",
+        "translations": {
+            "initial": "「Kalau gitu, setelah Sora-nee ganti baju, ayo kita semua pergi minta maaf」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "@t15@d1@t35@d2「はぁ～……。ねえ、いっちゃん、やっぱり怒られちゃうかな？」",
+        "translations": {
+            "initial": "@t15@d1@t35@d2「Haa~... Hei, Icchan, menurutmu apa mereka bakal benar-benar marah？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "「うーん、どうかな？借りていていいって言ってくれていたわけだし、素直に謝ればそんなに怒られたりしないと思うんだけどな」",
+        "translations": {
+            "initial": "「Hmm, entahlah. Tapi karena mereka sudah bilang boleh meminjamnya, kurasa kalau kita minta maaf dengan jujur, mereka nggak akan semarah itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "「なあ、二乃？」",
+        "translations": {
+            "initial": "「Ya kan, Nino？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "……返事がない。やれやれ。",
+        "translations": {
+            "initial": "...Gak ada jawaban. Aduh, aduh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "「おーい、二乃？」",
+        "translations": {
+            "initial": "「Oi, Nino？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "@t30@d1「え？あ、なんですか、兄さん？お腹はまだ空いてないですから大丈夫ですよ」",
+        "translations": {
+            "initial": "@t30@d1「Eh？ Ah, ada apa, Nii-san？ Aku masih belum lapar kok, jadi nggak apa-apa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "「いや、聞いてないぞ、そんなこと」",
+        "translations": {
+            "initial": "「Bukan itu, aku nggak nanya soal itu tahu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "俺には厳しいことを言ってくることもあるけど、そら姉に強く当たることなんてほとんどないからな、二乃は。",
+        "translations": {
+            "initial": "Nino terkadang bisa galak padaku, tapi dia hampir nggak pernah bersikap keras pada Sora-nee.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "そら姉よりも二乃の方が気にしてしまってるようだ。",
+        "translations": {
+            "initial": "Sepertinya Nino malah jauh lebih merasa bersalah dibandingkan Sora-nee.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "かといって、そら姉もちょっと凹んでいるままだし、俺が何とかするしかなさそうだ。",
+        "translations": {
+            "initial": "Meski begitu, Sora-nee juga masih agak murung, jadi sepertinya akulah yang harus melakukan sesuatu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "そう思った時。",
+        "translations": {
+            "initial": "Saat aku berpikir begitu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "「あっ」",
+        "translations": {
+            "initial": "「Ah!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "上の空になっていた二乃がくぼみに足を取られて、蹴躓いてしまった。",
+        "translations": {
+            "initial": "Nino yang sedang melamun tersandung lubang di jalan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "二乃はバランスを崩すように、道路に飛び出してしまい――。",
+        "translations": {
+            "initial": "Nino kehilangan keseimbangan dan terhuyung ke tengah jalan raya-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "クラクションの音が耳に響く。",
+        "translations": {
+            "initial": "Suara klakson bergema di telingaku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "助けなきゃ！そう思うのに、体が動かない。",
+        "translations": {
+            "initial": "Aku harus menolongnya！ Walau berpikir begitu, tubuhku nggak bisa bergerak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "また……なのか。",
+        "translations": {
+            "initial": "Apakah... terulang lagi?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "俺はまた……失うのか？",
+        "translations": {
+            "initial": "Apakah aku akan... kehilangan lagi？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "大事な家族を――",
+        "translations": {
+            "initial": "Keluargaku yang berharga-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "「二乃ちゃん……！危ない！」",
+        "translations": {
+            "initial": "「Nino-chan...！ Bahaya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "そら姉が飛び出した。",
+        "translations": {
+            "initial": "Sora-nee langsung berlari ke depan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "おかげで硬直していた脚が一歩前に動いた。",
+        "translations": {
+            "initial": "Berkat itu, kakiku yang tadinya kaku akhirnya bisa melangkah maju.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "そら姉が二乃の手に手を伸ばす。",
+        "translations": {
+            "initial": "Sora-nee mengulurkan tangannya untuk meraih tangan Nino.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "でも間に合わない。",
+        "translations": {
+            "initial": "Tapi nggak akan sempat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "このままだと、俺は本当に大事な存在を、再び失うことになる。",
+        "translations": {
+            "initial": "Kalau begini terus, aku benar-benar akan kehilangan sosok yang berharga bagiku lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "そんなの嫌だ。",
+        "translations": {
+            "initial": "Aku nggak mau hal itu terjadi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "絶対に……！",
+        "translations": {
+            "initial": "Pokoknya nggak boleh...！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "二人を、助けるんだ！！",
+        "translations": {
+            "initial": "Aku harus menyelamatkan mereka berdua！！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "「間に合えぇぇぇぇぇぇぇぇぇぇぇぇぇぇっ！」",
+        "translations": {
+            "initial": "「Kumohon, sempatlah menyampaiiiiiiiiii！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "火事場の馬鹿力って、本当にあるんだって、俺は今日、知った。",
+        "translations": {
+            "initial": "Hari ini aku menyadari bahwa kekuatan luar biasa saat terdesak itu benar-benar ada.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "俺の腕の中には、そら姉と二乃のぬくもり。",
+        "translations": {
+            "initial": "Di dalam pelukanku, terasa kehangatan Sora-nee dan Nino.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "ふたりとも何が起こったのかわからない、そんな顔をして俺の顔を見ていた。",
+        "translations": {
+            "initial": "Mereka berdua menatap wajahku dengan ekspresi bingung, seolah tidak mengerti apa yang baru saja terjadi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "「は、ははは……」",
+        "translations": {
+            "initial": "「Ha, hahaha...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "「生きてる……。俺たち、助かったんだ……」",
+        "translations": {
+            "initial": "「Kita masih hidup... Kita selamat...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "心臓の音が、信じられないくらい、強く、早く鼓動している。",
+        "translations": {
+            "initial": "Suara jantungku berdegup dengan sangat kencang dan cepat, hampir tidak bisa dipercaya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "生きていると実感できる。",
+        "translations": {
+            "initial": "Aku benar-benar bisa merasakan bahwa aku masih hidup.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "「二乃、そら姉、大丈夫か？」",
+        "translations": {
+            "initial": "「Nino, Sora-nee, kalian nggak apa-apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "「え、あ、はい……」",
+        "translations": {
+            "initial": "「Eh, ah, iya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "「うん、大丈夫。怪我も……ないと思う。二乃ちゃんも大丈夫？怪我してない？」",
+        "translations": {
+            "initial": "「Iya, aku nggak apa-apa. Sepertinya... nggak ada luka. Nino-chan juga nggak apa-apa？ Ada yang luka？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "「はい、二人のおかげで、無事みたい……です」",
+        "translations": {
+            "initial": "「Iya, berkat kalian berdua, sepertinya aku baik-baik saja...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "二人の身体が無事か確認するため、倒れていた体勢を起こす。",
+        "translations": {
+            "initial": "Aku bangkit dari posisi terjatuh untuk memastikan keadaan tubuh mereka berdua.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "その時、ポケットに入れていた懐中時計が落ちて、蓋が開いた。",
+        "translations": {
+            "initial": "Saat itulah, jam saku yang ada di kantongku terjatuh dan tutupnya terbuka.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "……そういえばさっき、これが光っていたような気がする。",
+        "translations": {
+            "initial": "...Kalau dipikir-pikir, sepertinya tadi benda ini sempat bersinar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "「ねえ、そら姉、さっきなんだけど……え、あれ、それは……？」",
+        "translations": {
+            "initial": "「Hei, Sora-nee, soal yang tadi itu... Eh, loh, itu...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "ウサ耳？なんで？",
+        "translations": {
+            "initial": "Telinga kelinci？ Kenapa bisa？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "「いったい何が……ど、どうなって」",
+        "translations": {
+            "initial": "「Sebenarnya apa yang... Ba-bagaimana bisa jadi begini?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "蓋の裏の鏡とそら姉を俺は交互に見比べることしかできなくて。",
+        "translations": {
+            "initial": "Aku hanya bisa menatap bergantian antara cermin di balik tutup jam itu dan Sora-nee.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "「兄さん……？どうかしたんですか？」",
+        "translations": {
+            "initial": "「Nii-san...？ Ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "「あ、えっと、手とそら姉の頭が……」",
+        "translations": {
+            "initial": "「Ah, anu, tangan dan kepalanya Sora-nee...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "@t15@d1@t30@d2「鏡？頭？……あっ」",
+        "translations": {
+            "initial": "@t15@d1@t30@d2「Cermin？ Kepala？ ...Ah!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "ようやく二乃も気づいてくれた。",
+        "translations": {
+            "initial": "Akhirnya Nino pun menyadarinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "「そら姉、なんで頭にウサ耳が生えてるんですか！？」",
+        "translations": {
+            "initial": "「Sora-nee, kenapa di kepala Kakak tumbuh telinga kelinci！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "「え？」",
+        "translations": {
+            "initial": "「Eh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "二乃に指摘されて初めて気がついたんだろう。そら姉が自分の頭に触れて、驚いている。",
+        "translations": {
+            "initial": "Mungkin dia baru tersadar setelah ditunjuk oleh Nino. Sorane menyentuh kepalanya sendiri dan tampak terkejut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "「そんな……どうして。わたし、ちゃんと――」",
+        "translations": {
+            "initial": "「Kok bisa... Kenapa? Padahal aku sudah benar-benar-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "「そら姉……？」",
+        "translations": {
+            "initial": "「Sora-nee...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "「う、ううん、何でもないの！」",
+        "translations": {
+            "initial": "「U-uhm, nggak apa-apa kok！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "そら姉がぶんぶんと頭を振ると、ウサ耳もぶんぶん揺れた。",
+        "translations": {
+            "initial": "Saat Sora-nee menggeleng-gelengkan kepalanya dengan cepat, telinga kelincinya pun ikut bergoyang-goyang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "「も、もー、いっちゃんったらー」",
+        "translations": {
+            "initial": "「Duh, Icchan ini ada-ada saja-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "「え、何？」",
+        "translations": {
+            "initial": "「Eh, apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "「そんなに見つめるほどセクシーバニーが好きだったなんて、わたし知らなかったよー」",
+        "translations": {
+            "initial": "「Aku nggak tahu kalau kamu sesuka itu sama bunny girl seksi sampai ditatap seperti itu-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "「ちょ、いきなり何言い出してるんだよ！？」",
+        "translations": {
+            "initial": "「Tunggu, tiba-tiba bicara apa sih！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "「兄さん、どういうことですか……？」",
+        "translations": {
+            "initial": "「Nii-san, apa maksudnya ini...？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "睨むな！冤罪だ！",
+        "translations": {
+            "initial": "Jangan melotot begitu！ Ini tuduhan palsu！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "「い、いやいやいや、俺の方が知りたいし！というか、命が助かってよかったー！ってなるところだろ！？」",
+        "translations": {
+            "initial": "「B-bukan begitu, aku pun ingin tahu jawabannya！ Lagipula, bukannya ini saatnya bilang 'Syukurlah nyawamu selamat！'！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "@t25@d1「助けてもらったことは感謝してます。でも、それはそれ、これはこれ、です」",
+        "translations": {
+            "initial": "@t25@d1「Aku berterima kasih karena sudah diselamatkan. Tapi, urusan itu sama urusan yang ini beda lagi ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "なんでだよ！まあみんな無事だったから言える軽口と思えば可愛いもの……か？",
+        "translations": {
+            "initial": "Kenapa begitu！ Yah, kalau dipikir ini cuma candaan karena semuanya selamat, mungkin kedengarannya agak manis... kali ya？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "「まあまあ、二乃ちゃん」",
+        "translations": {
+            "initial": "「Sudah, sudah, Nino-chan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "二乃をとりなすそら姉の頭には、ウサ耳。",
+        "translations": {
+            "initial": "Sora-nee yang mencoba menenangkan Nino memakai bando telinga kelinci.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "次から次と難題が降りかかってきて、頭が混乱してきた。",
+        "translations": {
+            "initial": "Masalah datang bertubi-tubi sampai kepalaku rasanya mau pecah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "「ふたりとも、今日はいったん家に帰ろう。ちょっと落ち着きたい」",
+        "translations": {
+            "initial": "「Kalian berdua, ayo kita pulang dulu hari ini. Aku ingin menenangkan diri sebentar」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "@t30@d1「そう……だね。制服は明日改めて返しに行くから、今日は帰ろうか」",
+        "translations": {
+            "initial": "@t30@d1「Benar... juga ya. Seragamnya bakal aku balikin besok saja, jadi mari kita pulang sekarang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "@t10@d1@t30@bt1「はい……。あの、ふたりとも、すみませんでした」",
+        "translations": {
+            "initial": "@t10@d1@t30@bt1「Iya.... Anu, Kak Ichito, Sora-nee, maafkan aku ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "@t53@d1「何言っているの。二乃ちゃんが無事でいてくれて本当に良かったよ。ね？」",
+        "translations": {
+            "initial": "@t53@d1「Bicara apa sih. Yang penting Nino-chan selamat, itu sudah lebih dari cukup. Ya kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "「おう」",
+        "translations": {
+            "initial": "「Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "考えないといけないことはできてしまったけれど。",
+        "translations": {
+            "initial": "Meskipun ada banyak hal yang harus mulai kupikirkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "まずはともかく、二人が無事で、本当によかった。",
+        "translations": {
+            "initial": "Namun yang terpenting, aku benar-benar bersyukur mereka berdua baik-baik saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

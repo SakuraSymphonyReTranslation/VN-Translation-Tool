@@ -1,0 +1,1166 @@
+[
+    {
+        "id": 0,
+        "original": "年度末の週末。",
+        "translations": {
+            "initial": "Akhir pekan di penghujung tahun ajaran.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ねんどまつのしゅうまつ。"
+    },
+    {
+        "id": 1,
+        "original": "と言っても、新年度は週明けではなく、その次の週からなのでまだまだ春休みのまっただ中。",
+        "translations": {
+            "initial": "Meskipun begitu, tahun ajaran baru baru akan dimulai minggu depannya lagi, bukan awal minggu depan, jadi sekarang masih benar-benar di tengah libur musim semi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "というても、しんねんどはしゅうあけではない、そのつぎのしゅうからだのだまだまだはるやすみのまただなか。"
+    },
+    {
+        "id": 2,
+        "original": "我が家の基本であるところの、週末家事をこなしてるうちに夕方になっていた。",
+        "translations": {
+            "initial": "Sambil menyelesaikan pekerjaan rumah tangga yang sudah menjadi dasar di rumah ini, tak terasa hari sudah sore.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "わがやのきほんだあるところの、しゅうまつかじをこなすてるうちにゆうがたになるているた。"
+    },
+    {
+        "id": 3,
+        "original": "階下ではそら姉が夕食の準備をしてくれている。",
+        "translations": {
+            "initial": "Di lantai bawah, Sora-nee sedang menyiapkan makan malam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かいかではそれねえがゆうしょくのじゅんびをするてくれるている。"
+    },
+    {
+        "id": 4,
+        "original": "こういう微妙な時間は寝っ転がってＴＡＢをいじっているのが一番だ。",
+        "translations": {
+            "initial": "Di waktu senggang seperti ini, paling enak memang rebahan sambil mainan tablet.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "こういうびみょうだじかんはねころがるてたぶをいじるているのがいちばんだ。"
+    },
+    {
+        "id": 5,
+        "original": "とりあえずゲームでもするか。",
+        "translations": {
+            "initial": "Main game dulu deh buat sementara.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "とりあえずげーむでもするか。"
+    },
+    {
+        "id": 6,
+        "original": "戦国の巨神を立ち上げログインする。",
+        "translations": {
+            "initial": "Aku membuka game Sengoku no Kyojin dan melakukan login.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "せんごくのきょしんをたちあげるろぐいんする。"
+    },
+    {
+        "id": 7,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 8,
+        "original": "「おっ……」",
+        "translations": {
+            "initial": "「Oh...!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「おっ……」"
+    },
+    {
+        "id": 9,
+        "original": "ログボで引いたガチャで、ＳＳＲを一本づりした。",
+        "translations": {
+            "initial": "Dari gacha tiket login, aku berhasil mendapatkan satu unit SSR.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ろぐぼでひくたがちゃで、えすえすあーるをいちほんつりするた。"
+    },
+    {
+        "id": 10,
+        "original": "久々のことにテンションが上がる。",
+        "translations": {
+            "initial": "Sudah lama gak begini, rasanya semangat banget.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ひさびさのことにてんしょんがあがる。"
+    },
+    {
+        "id": 11,
+        "original": "俺みたいな微課金と呼ぶのもはばかられるほぼ無課金ユーザーはこれで生きていけるんだよなあ。",
+        "translations": {
+            "initial": "User yang nyaris tanpa top-up sepertiku-bahkan segan buat disebut pemain top-up recehan-memang cuma bisa bertahan hidup lewat keberuntungan begini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれみたいだびかきんとよぶのもはばかるれるほぼむかきんゆーざーはこれでいきるていくのだよな。"
+    },
+    {
+        "id": 12,
+        "original": "しかし現実は、このＳＳＲキャラを充分に育成するのにとても無課金というわけにはいかないから困る。",
+        "translations": {
+            "initial": "Masalahnya, kenyataan gak semudah itu; untuk membesarkan karakter SSR ini sampai maksimal, mustahil kalau gak pakai uang sama sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しかしげんじつは、このえすえすあーるきゃらをじゅうぶんだいくせいするのにとてもむかきんというわけにはいくないからこまる。"
+    },
+    {
+        "id": 13,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 14,
+        "original": "「うおりゃっ！！」",
+        "translations": {
+            "initial": "「Hiaaaat！！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ううおりゃっ！！」"
+    },
+    {
+        "id": 15,
+        "original": "気合いとともに小遣い注入。",
+        "translations": {
+            "initial": "Sambil menyemangati diri, aku pun menyuntikkan uang jajan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "きあいとともにこづかいちゅうにゅう。"
+    },
+    {
+        "id": 16,
+        "original": "なーに、この程度はまだ無課金というものよ。",
+        "translations": {
+            "initial": "Ah, level segini sih masih bisa dibilang belum top-up lah ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "なに、このていどはまだむかきんというものよ。"
+    },
+    {
+        "id": 17,
+        "original": "さて、学生様の特権として帰宅前のリーマン国へ一撃を加えておこう――",
+        "translations": {
+            "initial": "Nah, sebagai hak istimewa seorang pelajar, mari berikan serangan kejutan ke negara para pekerja kantoran sebelum mereka pulang kerja-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "さて、がくせいさまのとっけんとするてきたくまえのりーまんこくへいちげきをくわえるておく――"
+    },
+    {
+        "id": 18,
+        "original": "という俺の浅はかな考えは、社会人の圧倒的課金力の前にはじき返されたのであった。",
+        "translations": {
+            "initial": "Pemikiran dangkal dariku itu pun langsung terpental balik oleh kekuatan top-up yang luar biasa dari kaum pekerja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "というおれのあさはかだかんがえは、しゃかいじんのあっとうてきかきんりょくのまえにはじきかえすれるたのだあるた。"
+    },
+    {
+        "id": 19,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 20,
+        "original": "「ぐぬぬっ……」",
+        "translations": {
+            "initial": "「Grrr... Sialan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ぐずずっ……」"
+    },
+    {
+        "id": 21,
+        "original": "これは無課金による課金おかわりが必要か……？",
+        "translations": {
+            "initial": "Apa ini artinya pemain 'tanpa top-up' ini butuh asupan dana tambahan...？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "これはむかきんによるかきんおかわりがひつようか……？"
+    },
+    {
+        "id": 22,
+        "original": "お、俺はまだ無課金……。",
+        "translations": {
+            "initial": "A-aku masih pemain tanpa top-up...!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "お、おれはまだむかきん……。"
+    },
+    {
+        "id": 23,
+        "original": "課金ボタンへと震える指が近づいていく。",
+        "translations": {
+            "initial": "Jariku yang gemetar mulai mendekati tombol top-up.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かきんぼたんへとふるえるゆびがちかづくていく。"
+    },
+    {
+        "id": 24,
+        "original": "しかしそこで――",
+        "translations": {
+            "initial": "Namun tepat saat itu-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しかしそこで――"
+    },
+    {
+        "id": 25,
+        "original": "ＣＯＭＵの着信音に、冷静さを取り戻すことができた。",
+        "translations": {
+            "initial": "Bunyi notifikasi COMU membuatku berhasil mendapatkan kembali ketenanganku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ＣＯＭＵのちゃくしんおんに、れいせいさをとりもどすことができるた。"
+    },
+    {
+        "id": 26,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 27,
+        "original": "「危ない危ない……。社会人ギルド相手に消耗戦を仕掛ける愚を犯すところだった」",
+        "translations": {
+            "initial": "「Bahaya, bahaya... Hampir saja aku melakukan kebodohan dengan menantang perang urat saraf melawan guild pekerja kantoran」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あぶないあぶない……。しゃかいじんぎるどあいてにしょうもうせんをしかけるぐをおかすところだた」"
+    },
+    {
+        "id": 28,
+        "original": "一枚のＳＳＲが俺の判断を狂わすところだった。",
+        "translations": {
+            "initial": "Satu kartu SSR hampir saja mengacaukan penilaianku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "いちまいのえすえすあーるがおれのはんだんをくるわすところだた。"
+    },
+    {
+        "id": 29,
+        "original": "運営の罠に引っかかるところだったぜ。",
+        "translations": {
+            "initial": "Hampir saja terjebak tipu daya pihak pengembang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "うんえいのわなにひっかかるところだたぜ。"
+    },
+    {
+        "id": 30,
+        "original": "で、誰かな。",
+        "translations": {
+            "initial": "Nah, siapa ya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "だ、だれかな。"
+    },
+    {
+        "id": 31,
+        "original": "「ひより」ちわっす！いますか！",
+        "translations": {
+            "initial": "「ひより」  Halo! Ada orang?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」ちっわっです！いるますか！"
+    },
+    {
+        "id": 32,
+        "original": "@d9",
+        "translations": {
+            "initial": "@d9",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@d9"
+    },
+    {
+        "id": 33,
+        "original": "「ひより」いなくても書き置きするんですけどね",
+        "translations": {
+            "initial": "「ひより」  Tak ada orang pun aku       titip pesan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」いるないてもかきおきするのですけれどね"
+    },
+    {
+        "id": 34,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 35,
+        "original": "「白河か」",
+        "translations": {
+            "initial": "「Shirakawa, ya?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「はくがか」"
+    },
+    {
+        "id": 36,
+        "original": "どうやら俺は彼女に救われたらしい。",
+        "translations": {
+            "initial": "Sepertinya aku baru saja diselamatkan olehnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どうやらおれはかのじょにすくうれるたらしい。"
+    },
+    {
+        "id": 37,
+        "original": "「一登」いるいる。それとさんきゅー！助かった",
+        "translations": {
+            "initial": "「一登」  Ada. Makasih ya, sangat     membantu!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」いるいる。それとさんきゅーー！たすかるた"
+    },
+    {
+        "id": 38,
+        "original": "「ひより」あ、いた",
+        "translations": {
+            "initial": "「ひより」  Ah, ternyata ada orang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」あっ、いるた"
+    },
+    {
+        "id": 39,
+        "original": "「ひより」助けた覚えは特に無いけど、助かったのなら良かったです",
+        "translations": {
+            "initial": "「ひより」  Syukurlah kalau memang      membantu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」たすけるたおぼえはとくにないけれど、たすかるたのだよいたです"
+    },
+    {
+        "id": 40,
+        "original": "「一登」んで、もしかして明日のこと？",
+        "translations": {
+            "initial": "「一登」  Jadi, apa ini tentang       rencana besok?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」のだ、もしかするてあすのこと？"
+    },
+    {
+        "id": 41,
+        "original": "「ひより」大正解！明日の連絡事項です",
+        "translations": {
+            "initial": "「ひより」  Benar! Ini informasi        untuk besok.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」だいせいかい！あすのれんらくじこうです"
+    },
+    {
+        "id": 42,
+        "original": "「ひより」島外へ行くという話はしてましたよね",
+        "translations": {
+            "initial": "「ひより」  Kita akan pergi ke luar     pulau, kan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」とうがいへいくというはなしはするてるますたよね"
+    },
+    {
+        "id": 43,
+        "original": "「一登」聞いてる。ただどこへ行くかは聞いてないけど",
+        "translations": {
+            "initial": "「一登」  Iya, tapi aku belum tahu    tujuannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」きくてる。ただどこへいくかはきくてるないけれど"
+    },
+    {
+        "id": 44,
+        "original": "「ひより」それは明日のお楽しみです。ふふふ",
+        "translations": {
+            "initial": "「ひより」  Itu kejutan untuk besok.    Hehe.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」それはあすのおたのしみです。ふふふ"
+    },
+    {
+        "id": 45,
+        "original": "「ひより」ただ、少し遠いので",
+        "translations": {
+            "initial": "「ひより」  Tempatnya lumayan jauh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」ただ、すこしとおいのだ"
+    },
+    {
+        "id": 46,
+        "original": "「ひより」朝早めに集合したいのですが、大丈夫ですか？",
+        "translations": {
+            "initial": "「ひより」  Boleh kumpul agak pagi?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」あさはやめだしゅうごうするたいのですが、だいじょうぶですか？"
+    },
+    {
+        "id": 47,
+        "original": "「一登」何時頃にする？",
+        "translations": {
+            "initial": "「一登」  Jam berapa?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」いつごろにする？"
+    },
+    {
+        "id": 48,
+        "original": "「ひより」そうですね……６時集合とかでも平気ですか？",
+        "translations": {
+            "initial": "「ひより」  Keberatan kumpul jam 6      pagi?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」そうですね……６じしゅうごうとかでもへいきですか？"
+    },
+    {
+        "id": 49,
+        "original": "「一登」確かに早いな。でも大丈夫。それくらいなら全然平気",
+        "translations": {
+            "initial": "「一登」  Pagi banget, tapi tak       masalah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」たしかだはやいな。でもだいじょうぶ。それくらいだぜんぜんへいき"
+    },
+    {
+        "id": 50,
+        "original": "「ひより」さすが常坂兄",
+        "translations": {
+            "initial": "「ひより」  Hebat, Tokisaka-ani.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」さすがつねさかあに"
+    },
+    {
+        "id": 51,
+        "original": "「ひより」それとも良く出来た妹に起こしてもらえるんでしょうか？",
+        "translations": {
+            "initial": "「ひより」  Dibangunin adik rajinmu     ya?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」それともよいできるたいもうとにおこすてもらうのですか？"
+    },
+    {
+        "id": 52,
+        "original": "「ひより」ふふふ",
+        "translations": {
+            "initial": "「ひより」  Fufufu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」ふふふ"
+    },
+    {
+        "id": 53,
+        "original": "「一登」俺が二乃に？",
+        "translations": {
+            "initial": "「一登」  Maksudmu Nino bangunin      aku?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おれがにのに？"
+    },
+    {
+        "id": 54,
+        "original": "「ひより」常坂妹は朝もきっちりで",
+        "translations": {
+            "initial": "「ひより」  Iya, adikmu kan disiplin    pagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」つねさかいもうとはあさもきっちりで"
+    },
+    {
+        "id": 55,
+        "original": "「ひより」だらしない兄を起こしてそうですからね",
+        "translations": {
+            "initial": "「ひより」  Dia sering membangunkan     kakaknya yang jorok.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」だらしないあにをおこすてそうですからね"
+    },
+    {
+        "id": 56,
+        "original": "「一登」ノーコメント",
+        "translations": {
+            "initial": "「一登」  No comment.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」のーこめんと"
+    },
+    {
+        "id": 57,
+        "original": "「一登」時間はそれでいいとして、何か持ち物とかは？",
+        "translations": {
+            "initial": "「一登」  Waktu sudah oke, apa ada    barang bawaan?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」じかんはそれでよいとするて、なにかもちものとかは？"
+    },
+    {
+        "id": 58,
+        "original": "「一登」財布だけで良いみたいに言ってたけど",
+        "translations": {
+            "initial": "「一登」  Kemarin kamu bilang cuma    perlu dompet.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」さいふだけでよいみたいだいうてるたけれど"
+    },
+    {
+        "id": 59,
+        "original": "「ひより」ええ、実際特に必要なものはないです",
+        "translations": {
+            "initial": "「ひより」  Iya, memang tak ada barang  khusus.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」ええ、じっさいとくにひつようだものはないです"
+    },
+    {
+        "id": 60,
+        "original": "「ひより」ちょっとした遠出に必要そうな金銭くらいで",
+        "translations": {
+            "initial": "「ひより」  Bawa uang secukupnya saja   untuk jalan-jalan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」ちょっとするたとおでにひつようそうだきんせんくらいで"
+    },
+    {
+        "id": 61,
+        "original": "「ひより」誘ったのはボクなので、何かあればボクがどうにかします",
+        "translations": {
+            "initial": "「ひより」  Aku yang ajak, jadi aku     yang tanggung jawab.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」さそうたのはぼくだのだ、なにかあるばぼくがどうにかするます"
+    },
+    {
+        "id": 62,
+        "original": "「一登」カッコイイ",
+        "translations": {
+            "initial": "「一登」  Wah, keren banget.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」かっこうよい"
+    },
+    {
+        "id": 63,
+        "original": "「一登」じゃあ俺もあんま身構えずに楽しみにしておくよ",
+        "translations": {
+            "initial": "「一登」  Sip, aku jadi santai dan    tidak sabar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」でおれもあまりみがまえるずにたのしみにするておくよ"
+    },
+    {
+        "id": 64,
+        "original": "「ひより」そうして下さい",
+        "translations": {
+            "initial": "「ひより」  Oke, tunggu saja ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」そうするてくださる"
+    },
+    {
+        "id": 65,
+        "original": "「ひより」では場所ですが、判りやすさ重視で校門前でいいですか？",
+        "translations": {
+            "initial": "「ひより」  Bisa ketemuan di gerbang    sekolah saja?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」ではばしょですが、わかるやすいさじゅうしでこうもんまえでよいですか？"
+    },
+    {
+        "id": 66,
+        "original": "「ひより」バスを使おうと思うので",
+        "translations": {
+            "initial": "「ひより」  Soalnya aku mau naik bus.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」ばすをつかうとおもうのだ"
+    },
+    {
+        "id": 67,
+        "original": "「ひより」常坂兄的には最寄りのバス停で合流の方が",
+        "translations": {
+            "initial": "「ひより」  Apa mending di halte bus    terdekat saja?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」つねさかあにてきだはもよりのばすていでごうりゅうのほうが"
+    },
+    {
+        "id": 68,
+        "original": "「ひより」効率は良いと思うのですが",
+        "translations": {
+            "initial": "「ひより」  Kurasa itu bakal lebih      efisien.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」こうりつはよいとおもうのですが"
+    },
+    {
+        "id": 69,
+        "original": "「一登」いや、学校までいくよ。一緒にバスに乗らないと",
+        "translations": {
+            "initial": "「一登」  Jangan, kita naik bus       bareng dari sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」いや、がっこうまでいくよ。いっしょにばすにのるないと"
+    },
+    {
+        "id": 70,
+        "original": "「一登」遅れたりトラブルがあった時に対処できないしな",
+        "translations": {
+            "initial": "「一登」  Aku ikut naik bus agar      bisa bantu di jalan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」おくれるたりとらぶるがあるたときにたいしょできるないしな"
+    },
+    {
+        "id": 71,
+        "original": "「ひより」理解が早くて助かります",
+        "translations": {
+            "initial": "「ひより」  Baguslah kamu cepat paham   maksudku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」りかいがはやいてたすかるます"
+    },
+    {
+        "id": 72,
+        "original": "「ひより」それでは明日、校門前に６時で",
+        "translations": {
+            "initial": "「ひより」  Sampai jumpa besok jam 6    di gerbang sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ひより」それではあす、こうもんまえに６じで"
+    },
+    {
+        "id": 73,
+        "original": "「一登」りょーかい",
+        "translations": {
+            "initial": "「一登」  Oke.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」りょうかい"
+    },
+    {
+        "id": 74,
+        "original": "@d30",
+        "translations": {
+            "initial": "@d30",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@d30"
+    },
+    {
+        "id": 75,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 76,
+        "original": "「ふむ……」",
+        "translations": {
+            "initial": "「Hmm...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「ふむ……」"
+    },
+    {
+        "id": 77,
+        "original": "結局、どこへ何しに行くのかは判らないまま。",
+        "translations": {
+            "initial": "Pada akhirnya, aku masih enggak tahu mau pergi ke mana dan untuk apa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "けっきょく、どこへなにするにいくのかはわかるないまま。"
+    },
+    {
+        "id": 78,
+        "original": "集合時間の早さから考えても、結構な遠出になりそうなことは想像できる。",
+        "translations": {
+            "initial": "Melihat waktu kumpul yang sepagi itu, aku bisa membayangkan kalau ini akan jadi perjalanan yang cukup jauh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "しゅうごうじかんのはやいさからかんがえるても、けっこうだとおでになるそうだことはそうぞうできる。"
+    },
+    {
+        "id": 79,
+        "original": "まじでどこへ行くつもりなんだ……？",
+        "translations": {
+            "initial": "Sebenarnya dia mau mengajakku ke mana...？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "まじでどこへいくつもりだのだ……？"
+    },
+    {
+        "id": 80,
+        "original": "ＣＯＭＵの着信音が再び鳴った。",
+        "translations": {
+            "initial": "Nada dering COMU kembali berbunyi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ＣＯＭＵのちゃくしんおんがふたたびなるた。"
+    },
+    {
+        "id": 81,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "かずと"
+    },
+    {
+        "id": 82,
+        "original": "「あれ？何か言い忘れかな？」",
+        "translations": {
+            "initial": "「Eh？ Apa ada yang lupa dia katakan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「あれ？なにかいうわすれるかな？」"
+    },
+    {
+        "id": 83,
+        "original": "改めてＣＯＭＵを立ち上げる。",
+        "translations": {
+            "initial": "Aku membuka kembali aplikasi COMU.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "あらためてＣＯＭＵをたちあげる。"
+    },
+    {
+        "id": 84,
+        "original": "「諳子」いっちゃーん！二乃ちゃーん！ご飯できたよー！",
+        "translations": {
+            "initial": "「諳子」 Icchan, Nino-chan, makan    malam sudah siap!",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「諳子」いくちゃん！にのちゃーん！ごはんできるたよ！"
+    },
+    {
+        "id": 85,
+        "original": "@d1",
+        "translations": {
+            "initial": "@d1",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@d1"
+    },
+    {
+        "id": 86,
+        "original": "そら姉からのディナーコールだった。",
+        "translations": {
+            "initial": "Itu adalah panggilan makan malam dari Sora-nee.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "それねえからのでぃなーこーるだた。"
+    },
+    {
+        "id": 87,
+        "original": "「一登」らじゃー",
+        "translations": {
+            "initial": "「一登」 Siap.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「かずと」らで"
+    },
+    {
+        "id": 88,
+        "original": "@d26",
+        "translations": {
+            "initial": "@d26",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@d26"
+    },
+    {
+        "id": 89,
+        "original": "「二乃」今いきまーす",
+        "translations": {
+            "initial": "「二乃」 Oke, aku segera ke sana.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "「にの」いまいくます"
+    },
+    {
+        "id": 90,
+        "original": "@d03",
+        "translations": {
+            "initial": "@d03",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "@d03"
+    },
+    {
+        "id": 91,
+        "original": "ぽんぽんっとスタンプが表示される。",
+        "translations": {
+            "initial": "Stiker-stiker muncul dengan suara letupan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ぽんぽんとすたんぷがひょうじするれる。"
+    },
+    {
+        "id": 92,
+        "original": "俺はＴＡＢをオフにして、立ち上がった。",
+        "translations": {
+            "initial": "Aku mematikan TAB, lalu berdiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "おれはたぶをおふにするて、たちあがるた。"
+    },
+    {
+        "id": 93,
+        "original": "ドアを開けると、階下から今日も良い匂いが漂ってきていた。",
+        "translations": {
+            "initial": "Begitu membuka pintu, aroma lezat yang seperti biasanya sudah tercium dari lantai bawah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "どあをあけると、かいかからきょうもよいにおいがただようてくるているた。"
+    },
+    {
+        "id": 94,
+        "original": "日中の家事で腹はすっかり減っている。",
+        "translations": {
+            "initial": "Perutku sudah sangat lapar setelah mengerjakan pekerjaan rumah seharian.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "にっちゅうのかじではらはすっかりへるている。"
+    },
+    {
+        "id": 95,
+        "original": "ただでさえ美味しいそら姉の料理が、もっと美味しくなるのは間違いなかった。",
+        "translations": {
+            "initial": "Masakan Sora-nee yang sudah lezat ini pasti akan terasa jauh lebih nikmat dari biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "ただださえおいしいそらあねのりょうりが、もっとおいしいなるのはまちがいないた。"
+    },
+    {
+        "id": 96,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        },
+        "reading": "◆◆"
+    }
+]

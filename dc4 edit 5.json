@@ -1,0 +1,476 @@
+[
+    {
+        "src": "朝倉 音夢",
+        "dst": "Asakura Nemu",
+        "info": "Asakura Nemu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "音夢",
+        "dst": "Nemu",
+        "info": "Nemu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "芳乃 さくら",
+        "dst": "Yoshino Sakura",
+        "info": "Yoshino Sakura is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "さくら",
+        "dst": "Sakura",
+        "info": "Sakura is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "さくらんぼ",
+        "dst": "Sakuranbo",
+        "info": "Sakuranbo is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "天枷 美春",
+        "dst": "Amakase Miharu",
+        "info": "Amakase Miharu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "美春",
+        "dst": "Miharu",
+        "info": "Miharu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "白河 ひより",
+        "dst": "Shirakawa Hiyori",
+        "info": "Shirakawa Hiyori is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "ひより",
+        "dst": "Hiyori",
+        "info": "Hiyori is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "ひよりん",
+        "dst": "Hiyorin",
+        "info": "Hiyorin is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "残念美人",
+        "dst": "Zannen Bijin",
+        "info": "Zannen Bijin is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "美嶋 未羽",
+        "dst": "Mishima Miu",
+        "info": "Mishima Miu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "未羽",
+        "dst": "Miu",
+        "info": "Miu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "みうたん",
+        "dst": "Miu-tan",
+        "info": "Miu-tan is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "鳳城 詩名",
+        "dst": "Houjou Shiina",
+        "info": "Houjou Shiina is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "詩名",
+        "dst": "Shiina",
+        "info": "Shiina is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "しいしい先輩",
+        "dst": "Shiishii-senpai",
+        "info": "Shiishii-senpai is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "鷺澤 有里栖",
+        "dst": "Sagisawa Arisu",
+        "info": "Sagisawa Arisu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "有里栖",
+        "dst": "Arisu",
+        "info": "Arisu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "日野原 ちよ子",
+        "dst": "Hinohara Chiyoko",
+        "info": "Hinohara Chiyoko is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "ちよ子",
+        "dst": "Chiyoko",
+        "info": "Chiyoko is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "ちょこ",
+        "dst": "CHOCO",
+        "info": "CHOCO is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "常坂 二乃",
+        "dst": "Tokisaka Nino",
+        "info": "Tokisaka Nino is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "二乃",
+        "dst": "Nino",
+        "info": "Nino is female, when nino calls nii-san keep it Nii-san",
+        "case_sensitive": false
+    },
+    {
+        "src": "逢見 諳子",
+        "dst": "Oumi Sorane",
+        "info": "Oumi Sorane is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "諳子",
+        "dst": "Sorane",
+        "info": "Sorane is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "そら姉",
+        "dst": "Sora-nee",
+        "info": "Sora-nee is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "杉並",
+        "dst": "Suginami",
+        "info": "Suginami is male, Suginami calls Nino \"Adik Tokisaka\"",
+        "case_sensitive": false
+    },
+    {
+        "src": "叶方",
+        "dst": "Kanata",
+        "info": "Kanata is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "常坂 一登",
+        "dst": "Tokisaka Ichito",
+        "info": "Tokisaka Ichito is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "一登",
+        "dst": "Ichito",
+        "info": "Ichito is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "いっちゃん",
+        "dst": "Icchan",
+        "info": "Icchan is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "とっきー先輩",
+        "dst": "Tokki-senpai",
+        "info": "Tokki-senpai is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "十河 泉",
+        "dst": "Sogou Izumi",
+        "info": "Sogou Izumi is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "泉",
+        "dst": "Izumi",
+        "info": "Izumi is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "ことり",
+        "dst": "KotoRI",
+        "info": "KotoRI is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "アリス",
+        "dst": "Alice",
+        "info": "Alice is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "常坂 元",
+        "dst": "Tokisaka Gen",
+        "info": "Tokisaka Gen is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "ちぇし",
+        "dst": "Cheshi",
+        "info": "Cheshi is unknown",
+        "case_sensitive": false
+    },
+    {
+        "src": "常坂 零次",
+        "dst": "Tokisaka Reiji",
+        "info": "Tokisaka Reiji is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "零次",
+        "dst": "Reiji",
+        "info": "Reiji is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "常坂 十和子",
+        "dst": "Tokisaka Towako",
+        "info": "Tokisaka Towako is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "十和子",
+        "dst": "Towako",
+        "info": "Towako is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "日下 尚純",
+        "dst": "Kusaka Naozumi",
+        "info": "Kusaka Naozumi is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "尚純",
+        "dst": "Naozumi",
+        "info": "Naozumi is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "日下 可純",
+        "dst": "Kusaka Kasumi",
+        "info": "Kusaka Kasumi is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "可純",
+        "dst": "Kasumi",
+        "info": "Kasumi is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "寺嶋 梓",
+        "dst": "Terashima Azusa",
+        "info": "Terashima Azusa is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "梓",
+        "dst": "Azusa",
+        "info": "Azusa is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "光山 紗希",
+        "dst": "Kouyama Saki",
+        "info": "Kouyama Saki is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "紗希",
+        "dst": "Saki",
+        "info": "Saki is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "鷺澤 正佳",
+        "dst": "Sagisawa Masayoshi",
+        "info": "Sagisawa Masayoshi is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "正佳",
+        "dst": "Masayoshi",
+        "info": "Masayoshi is male",
+        "case_sensitive": false
+    },
+    {
+        "src": "上嶋 ララ",
+        "dst": "Kamishima Lala",
+        "info": "Kamishima Lala is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "ララ",
+        "dst": "Lala",
+        "info": "Lala is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "上嶋 リリ",
+        "dst": "Kamishima Lili",
+        "info": "Kamishima Lili is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "リリ",
+        "dst": "Lili",
+        "info": "Lili is female, only when the name mentioned not on word that contains \"リリ\"",
+        "case_sensitive": false
+    },
+    {
+        "src": "上嶋 ルル",
+        "dst": "Kamishima Lulu",
+        "info": "Kamishima Lulu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "ルル",
+        "dst": "Lulu",
+        "info": "Lulu is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "鷺澤 有里咲",
+        "dst": "Sagisawa Arisa",
+        "info": "Sagisawa Arisa is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "有里咲",
+        "dst": "Arisa",
+        "info": "Arisa is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "白河 琴里",
+        "dst": "Shirakawa Kotori",
+        "info": "Shirakawa Kotori is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "琴里",
+        "dst": "Kotori",
+        "info": "Kotori is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "常坂 三美",
+        "dst": "Tokisaka Mitsumi",
+        "info": "Tokisaka Mitsumi is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "三美",
+        "dst": "Mitsumi",
+        "info": "Mitsumi is female",
+        "case_sensitive": false
+    },
+    {
+        "src": "俺",
+        "dst": "Aku",
+        "info": "Never use \"Loe/Luh\", \"Gue\", or \"kau\". Use \"Kamu\" and \"Aku\" only.",
+        "case_sensitive": false
+    },
+    {
+        "src": "自分",
+        "dst": "Aku",
+        "info": "Never use \"Loe/Luh\", \"Gue\", or \"kau\". Use \"Kamu\" and \"Aku\" only.",
+        "case_sensitive": false
+    },
+    {
+        "src": "僕",
+        "dst": "Aku",
+        "info": "Never use \"Loe/Luh\", \"Gue\", or \"kau\". Use \"Kamu\" and \"Aku\" only.",
+        "case_sensitive": false
+    },
+    {
+        "src": "お前",
+        "dst": "Kamu",
+        "info": "Never use \"Loe/Luh\", \"Gue\", or \"kau\". Use \"Kamu\" and \"Aku\" only.",
+        "case_sensitive": false
+    },
+    {
+        "src": "君",
+        "dst": "Kamu",
+        "info": "Never use \"Loe/Luh\", \"Gue\", or \"kau\". Use \"Kamu\" and \"Aku\" only.",
+        "case_sensitive": false
+    },
+    {
+        "src": "あんた",
+        "dst": "Kamu",
+        "info": "Never use \"Loe/Luh\", \"Gue\", or \"kau\". Use \"Kamu\" and \"Aku\" only.",
+        "case_sensitive": false
+    },
+    {
+        "src": "常坂兄弟",
+        "dst": "Tokisaka bersaudara",
+        "info": "",
+        "case_sensitive": false
+    },
+    {
+        "src": "女の子",
+        "dst": "Cewek",
+        "info": "Use based on conversational tone, not literal age or formality.",
+        "case_sensitive": false
+    },
+    {
+        "src": "男の子",
+        "dst": "Cowok",
+        "info": "Use based on conversational tone, not literal age or formality.",
+        "case_sensitive": false
+    },
+    {
+        "src": "男性",
+        "dst": "Cowok",
+        "info": "Use based on conversational tone, not literal age or formality.",
+        "case_sensitive": false
+    },
+    {
+        "src": "女性",
+        "dst": "Cewek",
+        "info": "Use based on conversational tone, not literal age or formality.",
+        "case_sensitive": false
+    },
+    {
+        "src": "香々",
+        "dst": "Kagami",
+        "info": "Kagami not kazami, for usage like \"Akademi Kagami\", etc",
+        "case_sensitive": false
+    },
+    {
+        "src": "元",
+        "dst": "Gen",
+        "info": "Only when only the name is mentioned. not when on a sentence without Gen name.",
+        "case_sensitive": false
+    },
+    {
+        "src": "同志",
+        "dst": "kawan",
+        "info": "use \"kawan\" instead of kamerad",
+        "case_sensitive": false
+    }
+]

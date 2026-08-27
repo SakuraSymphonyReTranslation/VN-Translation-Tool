@@ -1,0 +1,3181 @@
+[
+    {
+        "id": 0,
+        "original": "一日が終わり、放課後。",
+        "translations": {
+            "initial": "Hari berakhir, dan saatnya pulang sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "今日何度目かの有里栖のため息を耳にした。",
+        "translations": {
+            "initial": "Untuk kesekian kalinya hari ini, aku mendengar Arisu menghela napas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "うーん……今日も、けっこう気疲れしちゃってるみたいだな。",
+        "translations": {
+            "initial": "Hmm... Sepertinya hari ini dia juga cukup kelelahan secara mental.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "「よ。調子はどうだ？」",
+        "translations": {
+            "initial": "「Yo. Bagaimana keadaanmu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "「あはは……やっぱりまだ慣れないかな？放課後になると一気に疲れが出ちゃうかも」",
+        "translations": {
+            "initial": "「Ahaha... Sepertinya aku masih belum terbiasa ya？ Begitu bel pulang berbunyi, rasa lelahnya langsung terasa sekaligus」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "「そうか……」",
+        "translations": {
+            "initial": "「Begitu ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "有里栖の笑顔に力が無い。",
+        "translations": {
+            "initial": "Senyum di wajah Arisu terlihat tidak bertenaga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "そりゃ朝からずっと気を使っていれば、息も詰まるし疲れもするよな。",
+        "translations": {
+            "initial": "Wajar saja, kalau terus-terusan menjaga sikap sejak pagi, dia pasti merasa sesak dan lelah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "なんとか息抜きをさせてあげたいけど……。",
+        "translations": {
+            "initial": "Aku ingin membantunya melepas penat, tapi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "「……あ、そうだ。この後予定はあるか？なければさ、ＳＳＲの活動は休んで少し出かけないか？」",
+        "translations": {
+            "initial": "「...Ah, benar juga. Apa ada acara setelah ini？ Kalau nggak ada, gimana kalau kita bolos kegiatan SSR dan pergi keluar sebentar？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "「@t44@d1ＳＳＲの活動以外は特にないけど……良いのかな。私、昨日も活動を休んじゃってるし……」",
+        "translations": {
+            "initial": "「@t44@d1Selain kegiatan SSR sih nggak ada... tapi apa nggak apa-apa? Kemarin aku juga sudah izin nggak ikut kegiatan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "首をかしげて、悩んでいる様子の有里栖。",
+        "translations": {
+            "initial": "Arisu memiringkan kepalanya, tampak bimbang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "真面目なのは美徳だと思うけど、こういう時くらいは自分を優先してほしいところだ。",
+        "translations": {
+            "initial": "Sifat seriusnya memang bagus, tapi di saat seperti ini, aku ingin dia lebih memprioritaskan dirinya sendiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "「常坂兄と鷺澤。どうしたんだい？」",
+        "translations": {
+            "initial": "「Kak Tokisaka dan Sagisawa. Ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "俺たちが話していると、白河が寄ってきた。",
+        "translations": {
+            "initial": "Saat kami sedang mengobrol, Shirakawa menghampiri kami.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "「お、ちょうどいいところに。白河、今日ってなにか急ぎの依頼とか入ってるか？」",
+        "translations": {
+            "initial": "「Oh, pas sekali. Shirakawa, apa hari ini ada permintaan mendesak yang masuk？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "「んー、特にないかな。細かい依頼はポツポツ来てはいるけど、ボクだけでどうにかなるものばかりだね」",
+        "translations": {
+            "initial": "「Hmm, kayaknya nggak ada. Ada beberapa permintaan kecil, tapi semuanya bisa kutangani sendiri kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "「なら、申し訳ないけど今日も俺と有里栖は個別活動で大丈夫かな？」",
+        "translations": {
+            "initial": "「Kalau begitu, maaf ya, apa nggak apa-apa kalau hari ini aku dan Arisu melakukan kegiatan mandiri lagi？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "「@t32@d1@t85@d2それは問題ないけど……ふふ、随分熱心に個別活動をするんだね、常坂兄。いや、重要なのは何をするかより、誰とするか、なのかもしれないけど」",
+        "translations": {
+            "initial": "「@t32@d1@t85@d2Nggak masalah sih... tapi fufu, kamu semangat sekali ya melakukan kegiatan mandiri, Kak Tokisaka. Yah, mungkin yang penting itu bukan apa yang dilakukan, tapi dengan siapa melakukannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "白河がニヤニヤしながらこちらを見る。",
+        "translations": {
+            "initial": "Shirakawa menatap ke arah kami sambil menyeringai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "「な、なんだよ。邪推するなって」",
+        "translations": {
+            "initial": "「A-apaan sih. Gak usah berprasangka buruk gitu dong」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "「おっと失礼、つい癖で。職業病ってやつですかねー。なんにしろ、二人は自由にしてくれて構わないよ。今が暇なのは事実だから」",
+        "translations": {
+            "initial": "「Ups, maaf ya, soalnya sudah jadi kebiasaan. Bisa dibilang ini penyakit bawaan kerjaan, sih. Pokoknya, kalian berdua bebas mau ngapain saja kok. Lagipula kenyataannya sekarang aku memang lagi senggang」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "「ごめんねひよりん、迷惑かけて」",
+        "translations": {
+            "initial": "「Maaf ya Hiyorin, sudah merepotkanmu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "「迷惑なんかじゃないよ。鷺澤には助けてもらったことの方がまだまだ多いんだから」",
+        "translations": {
+            "initial": "「Sama sekali gak merepotkan kok. Lagian Sagisawa sudah jauh lebih sering membantuku sebelumnya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "「それで……一応聞いておくけど、個別活動の詳しい事情に関してはまだ公開できる時期じゃないんだね？」",
+        "translations": {
+            "initial": "「Terus... sekadar mau tanya saja, rincian soal kegiatan mandiri kalian berdua ini masih belum bisa dibocorkan sekarang, ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "「あぁ……すまん、ちゃんと説明はするから」",
+        "translations": {
+            "initial": "「Ah... maaf ya, nanti aku pasti bakal jelasin semuanya kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "「@t34@d1いや、別に催促してるわけじゃないよ。それにボク的には、個別活動という名のデートでも一向に構わないしね」",
+        "translations": {
+            "initial": "「@t34@d1Gak, aku gak bermaksud mendesak kalian kok. Lagian buatku pribadi, kalau kalian mau kencan dengan kedok kegiatan mandiri pun aku gak masalah sama sekali」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "「@t48@d1ただ……仲間が困っているなら、何かしてあげたい。それだけだから」",
+        "translations": {
+            "initial": "「@t48@d1Cuma... kalau temanku lagi kesulitan, aku ingin melakukan sesuatu buat membantu. Cuma itu saja kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "「白河……」",
+        "translations": {
+            "initial": "「Shirakawa...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "ひより",
+        "translations": {
+            "initial": "Hiyori",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "「@t85@d1まっ、常坂兄が絡んでいるのなら、鷺澤に悪いようにはしないだろうって安心感はあるからね、任せた。みんなにはボクから話しておくから」",
+        "translations": {
+            "initial": "「@t85@d1Yah, kalau Kakak Tokisaka juga ikut terlibat, aku merasa tenang karena dia gak bakal membiarkan hal buruk terjadi pada Sagisawa. Jadi, aku serahkan padamu ya. Nanti biar aku yang bilang ke teman-teman yang lain」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "「ありがとう。悪いな」",
+        "translations": {
+            "initial": "「Terima kasih ya. Maaf jadi merepotkan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "ヒラヒラと手を振って、白河は教室から出て行った。",
+        "translations": {
+            "initial": "Sambil melambaikan tangannya, Shirakawa pun melangkah keluar dari kelas.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "「ひよりん、気を使ってくれたのかな……」",
+        "translations": {
+            "initial": "「Hiyorin, mungkin dia sedang berusaha perhatian sama kita ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "「そうかもな。素直には言わないけど、けっこう友達想いなやつだし。だからこそ有里栖は今、自分のことを優先してほしい」",
+        "translations": {
+            "initial": "「Mungkin saja. Meskipun gak mengatakannya secara jujur, dia itu tipe yang sangat peduli pada temannya. Karena itulah Arisu, untuk saat ini aku ingin kamu memprioritaskan dirimu sendiri dulu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "「@t27@d1うん、ありがとう。正直に言うとね、このままＳＳＲに合流しても辛いし……、かと言って帰ってもしんどいなぁ……って思ってたところなの」",
+        "translations": {
+            "initial": "「@t27@d1Iya, terima kasih ya. Sejujurnya, kalau langsung bergabung ke SSR pun rasanya bakal berat... tapi kalau langsung pulang juga rasanya bakal suntuk... itu yang aku pikirkan tadi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "「じゃあ、決まりだな」",
+        "translations": {
+            "initial": "「Kalau begitu, sudah diputuskan ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "こうして、俺と有里栖は荷物を持って学園を出た。",
+        "translations": {
+            "initial": "Begitulah akhirnya, aku dan Arisu membawa barang-barang kami lalu meninggalkan sekolah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "「ん～、おいひい～」",
+        "translations": {
+            "initial": "「Nn~, enyak banyet~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "俺たちがやってきたのは月見団子。",
+        "translations": {
+            "initial": "Tempat yang kami datangi adalah Tsukimi Dango.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "やっぱり有里栖の息抜きと言えばここだろう、ってことで来たわけだけど……。",
+        "translations": {
+            "initial": "Seperti dugaanku, kalau bicara soal tempat Arisu-san melepas penat, ya di sini tempatnya... karena itulah kami kemari.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "案の定、水鏡餅を一口食べた有里栖が破顔した。",
+        "translations": {
+            "initial": "Sesuai perkiraan, Arisu-san langsung tersenyum lebar begitu mencicipi satu suap Mizu-shingemochi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "「いい表情だ……そんなに美味しいのか」",
+        "translations": {
+            "initial": "「Ekspresi yang bagus... apa seenak itu?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "「ぷるんぷるんの葛餅の中に、可愛いピンク色の桜餡が入ってる……これが美味しくないわけないよぉ」",
+        "translations": {
+            "initial": "「Di dalam kue kuzu yang kenyal ini ada isian pasta ceri merah muda yang lucu... mana mungkin ini nggak enak~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "「語るなぁ。これもブログに紹介するのか？」",
+        "translations": {
+            "initial": "「Bisa saja bicaranya. Apa ini juga bakal kamu masukin ke blog？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "「抜かりはないです。もうしてます。甘さも控えめで、何度食べても新鮮な美味しさを味わうことができるのです！」",
+        "translations": {
+            "initial": "「Tentu saja. Sudah aku posting, kok. Manisnya pas, jadi mau dimakan berapa kali pun rasanya tetap enak dan segar！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "「うーん、俺もそれにすればよかったかな」",
+        "translations": {
+            "initial": "「Hmm, kayaknya aku harusnya pesan itu juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "「でも、常坂君のわらび餅も美味しそうだよ？」",
+        "translations": {
+            "initial": "「Tapi, Warabimochi punya Tokisaka-kun juga kelihatannya enak, lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "「確かに美味しいんだけど、目の前で有里栖が溶けてるところを見ると食べたくなっちゃうんだよなぁ」",
+        "translations": {
+            "initial": "「Emang enak sih, tapi melihat Arisu-san yang luluh begitu di depanku, aku jadi pengen coba juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "「と、溶けてる？私、溶けてたの？むむ……ダメダメ。私ももう本校生だし、もっとビシっとしなきゃ後輩にしめしがつかないもんね」",
+        "translations": {
+            "initial": "「Lu, luluh？ Aku tadi luluh？ Mumu... nggak boleh, nggak boleh. Aku kan sudah jadi siswi sekolah utama, aku harus lebih tegas supaya bisa jadi teladan buat adik kelas」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "有里栖の顔が少しだけシャキっとした。",
+        "translations": {
+            "initial": "Wajah Arisu-san jadi sedikit lebih serius.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "「まぁまぁ。そう気張らずにもう一口どうぞどうぞ」",
+        "translations": {
+            "initial": "「Sudahlah. Nggak usah terlalu kaku begitu, ayo silakan tambah satu suap lagi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "「@t27@d1@t45@d2あ、うん。そうだね……はむっ……ん～っ！おいひぃ～っ！」",
+        "translations": {
+            "initial": "「@t27@d1@t45@d2Ah, iya. Benar juga... nyam... nn~！ Enyak banyet~！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "また溶けた。",
+        "translations": {
+            "initial": "Luluh lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "有里栖が先輩らしくビシっとするのは、ちょっと難しそうだな。",
+        "translations": {
+            "initial": "Sepertinya bakal agak sulit bagi Arisu-san untuk bersikap tegas layaknya seorang senior.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "「そういえばさ、有里栖って猫派？犬派？」",
+        "translations": {
+            "initial": "「Ngomong-ngomong, Arisu-san itu tim kucing atau tim anjing?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "「@t50@d1うーん、迷っちゃうかも。どっちも可愛いし。でも月見団子に来ると、猫派に誘惑されちゃうよね」",
+        "translations": {
+            "initial": "「@t50@d1Hmm, jadi bingung. Dua-duanya lucu sih. Tapi kalau ke Tsukimi Dango, bawaannya jadi tergoda buat jadi pencinta kucing ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "言って、有里栖は店内で横になっている猫を見る。",
+        "translations": {
+            "initial": "Sambil berkata begitu, Arisu-chan melihat ke arah kucing yang sedang berbaring di dalam toko.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "ここは野良猫の保護活動もしているので、こうして猫が店内にいる。",
+        "translations": {
+            "initial": "Tempat ini juga melakukan kegiatan perlindungan kucing liar, makanya ada kucing di dalam toko seperti ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "みんな大人しくて暴れたりしないので、問題なくお客さんと共存できている。",
+        "translations": {
+            "initial": "Semuanya penurut dan tidak ada yang mengamuk, jadi mereka bisa hidup berdampingan dengan pelanggan tanpa masalah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "「でも猫さんは可哀相だよね。水鏡餅が食べられないんだから」",
+        "translations": {
+            "initial": "「Tapi kasihan ya kucing-kucingnya. Soalnya mereka nggak bisa makan Mikagami-mochi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "「人間の食べ物は味が濃くて、犬や猫には身体に悪いからなぁ。でもその代わり、猫用の美味しいご飯をもらってると思うぞ」",
+        "translations": {
+            "initial": "「Makanan manusia itu rasanya tajam, nggak baik buat kesehatan anjing atau kucing. Tapi sebagai gantinya, aku rasa mereka dapat makanan kucing yang enak kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "「@t12@d1@t36@d2そっか。あはっ、それならいいねー猫さん」",
+        "translations": {
+            "initial": "「@t12@d1@t36@d2Begitu ya. Ahaha, kalau gitu syukurlah ya, Meong-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "有里栖が立ち上がり、棚で寝ている猫に手を伸ばす。",
+        "translations": {
+            "initial": "Arisu-chan berdiri dan mengulurkan tangannya ke arah kucing yang sedang tidur di rak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "「@t51@d1猫さんは、毎日おいしいご飯を食べてるのかなー？……あははっ、そっかぁ。それはいいねぇ」",
+        "translations": {
+            "initial": "「@t51@d1Apa Meong-san makan makanan enak setiap hari？ ...Ahaha, begitu ya. Syukurlah kalau begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "頭や顎らへんを撫でられて、微睡んでいた猫が起きた。",
+        "translations": {
+            "initial": "Setelah dielus di bagian kepala dan dagunya, kucing yang tadi tertidur lelap pun terbangun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "それから、ニャゴニャゴと遊び始めた。",
+        "translations": {
+            "initial": "Lalu, si kucing mulai mengeong manja dan bermain.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "美少女と猫……うーん、絵になるな。",
+        "translations": {
+            "initial": "Gadis cantik dan kucing... hmm, benar-benar pemandangan yang indah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "「あははっ……こらこら、そんなに猫パンチしないの。ぺしぺしって……あはは」",
+        "translations": {
+            "initial": "「Ahaha... hey hey, jangan terus-terusan kasih tinju kucing gitu dong. Aduh, dicakar-cakar... ahaha」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "有里栖の指先をおもちゃだと思ったのか、猫が全力でじゃれ始める。",
+        "translations": {
+            "initial": "Mungkin karena mengira ujung jari Arisu-chan adalah mainan, kucing itu mulai bermain dengan penuh semangat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "「わっ……わわっ！？ちょっとちょっと、そんなところに登っちゃダメだよっ！」",
+        "translations": {
+            "initial": "「Wah... wa-wah！？ Tunggu sebentar, jangan manjat ke situ dong！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "猫が元気よく動き回り、有里栖の腕を伝ってよじ登る。",
+        "translations": {
+            "initial": "Kucing itu bergerak dengan lincah dan memanjat melalui lengan Arisu-chan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "「あ、有里栖っ。大丈夫か？」",
+        "translations": {
+            "initial": "「Ah, Arisu-chan. Kamu nggak apa-apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "「@t25@d1@t55@d2だ、大丈夫だけど……ちょっとこの子が元気すぎて……ひゃっ、わぁっ！？」",
+        "translations": {
+            "initial": "「@t25@d1@t55@d2A-aku nggak apa-apa kok... cuma anak ini terlalu bersemangat... Hyaaa, waaaa！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "腕をよじ登ってきた猫に驚いて、有里栖がグラっとバランスを崩してしまった。",
+        "translations": {
+            "initial": "Terkejut karena kucing itu memanjat lengannya, Arisu-san kehilangan keseimbangan dan limbung.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "このまま転んだら有里栖も猫も危ない！",
+        "translations": {
+            "initial": "Kalau sampai jatuh begini, Arisu-san dan kucingnya bisa bahaya！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "「有里栖！」",
+        "translations": {
+            "initial": "「Arisu！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "俺は咄嗟に駆け寄った。",
+        "translations": {
+            "initial": "Aku langsung berlari menghampirinya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "――ドサっ！",
+        "translations": {
+            "initial": "-Bugh！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "咄嗟に駆け出し、有里栖の下に飛び込む。",
+        "translations": {
+            "initial": "Seketika aku melompat dan menjatuhkan diri ke bawah Arisu-san.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "よかった、どうやらクッションくらいにはなれたみたいだ。",
+        "translations": {
+            "initial": "Syukurlah, sepertinya aku berhasil menjadi bantalan untuknya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "「いてて……有里栖、大丈夫か？」",
+        "translations": {
+            "initial": "「Aduh... Arisu, kamu nggak apa-apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "「う、うん……ごめん、猫に夢中で転んじゃった……。いつもは大人しいから、油断しちゃってたかも」",
+        "translations": {
+            "initial": "「I-iya... Maaf ya, aku terlalu asyik sama kucingnya sampai jatuh... Padahal biasanya dia tenang, mungkin aku tadi lengah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "ぶつけたところをさすりながら、有里栖が眉を寄せる。",
+        "translations": {
+            "initial": "Sambil mengusap bagian yang terbentur, Arisu-san mengernyitkan dahi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "ひとまず大きな怪我が無いようでなによりだ。",
+        "translations": {
+            "initial": "Setidaknya aku lega dia tidak mengalami luka yang serius.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "「猫は平気そうか？」",
+        "translations": {
+            "initial": "「Kucingnya kelihatan baik-baik saja？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "「うん。おかげ様で無事です。それより……ごめんね、常坂君。大丈夫だった？重たくない？」",
+        "translations": {
+            "initial": "「Iya. Berkat kamu dia selamat. Tapi... maaf ya, Tokisaka-kun. Kamu nggak apa-apa？ Aku nggak berat, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "「全然。有里栖に怪我が無くてよかったよ」",
+        "translations": {
+            "initial": "「Sama sekali nggak. Baguslah kalau Arisu nggak terluka」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "なんて話しつつも、思わず視線を固定してしまう。",
+        "translations": {
+            "initial": "Sambil mengobrol, tanpa sadar pandanganku terpaku pada satu titik.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "そこには、有里栖の可愛いお尻。",
+        "translations": {
+            "initial": "Di sana, ada bokong Arisu-san yang menggemaskan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "……なんだか前にもこんなことがあったな。",
+        "translations": {
+            "initial": "...Rasanya dulu pernah terjadi kejadian seperti ini juga.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "「…………？どしたの？」",
+        "translations": {
+            "initial": "「............？ Ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "「いや、なんて言うか……」",
+        "translations": {
+            "initial": "「Enggak, cuma mau bilang...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "ここは正直に『見えてるよ』と教えた方がいいのか。",
+        "translations": {
+            "initial": "Apakah lebih baik aku jujur dan bilang kalau 'kelihatan lho'.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "それとも知略の限りを尽くして、それとなく遠回しに伝えた方がいいのか……。",
+        "translations": {
+            "initial": "Atau sebaiknya aku memutar otak untuk menyampaikannya secara tidak langsung...?",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "悩ましい。",
+        "translations": {
+            "initial": "Membingungkan sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "「@t35@d1常坂君、どこ見て……あっ！こっ、こらこら！どこ見てるの！だめだよっ」",
+        "translations": {
+            "initial": "「@t35@d1Tokisaka-kun, kamu lihat apa... Ah! Hei, hei! Kamu lihat ke mana! Gak boleh tau!」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "「いや、わざと見てるわけじゃ……ん？」",
+        "translations": {
+            "initial": "「Bukan, aku gak sengaja lihat... Hmm？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "ちょっと気付いたことがある。",
+        "translations": {
+            "initial": "Aku menyadari sesuatu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "有里栖はお尻も可愛い……じゃなくて、それとは別の重要なことだ。",
+        "translations": {
+            "initial": "Bokong Arisu-chan itu lucu... bukan, bukan itu, ada hal penting lainnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "この光景には違和感があるぞ。",
+        "translations": {
+            "initial": "Ada yang terasa ganjil dengan pemandangan ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "いやいや、女の子のお尻に大して違和感ってのも失礼な話だよな。",
+        "translations": {
+            "initial": "Gak, gak, rasanya gak sopan juga kalau bilang bokong seorang cewek itu ganjil.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "それに、違和感って言ってもなにがどうなのかよく判らない。",
+        "translations": {
+            "initial": "Lagipula, kalau ditanya apanya yang ganjil, aku juga belum terlalu paham.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "「もぉ～常坂君！そんなにじっくり見ちゃダメだってばぁ！あ、あんまり見てると、そういう人だって思っちゃうよ？」",
+        "translations": {
+            "initial": "「Iih, Tokisaka-kun！ Kan sudah kubilang jangan dilihatin terus！ K-Kalau kamu terus-terusan melihat, aku bakal berpikir kamu orang yang aneh, lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "「おっとそれは困る！」",
+        "translations": {
+            "initial": "「Waduh, kalau itu aku keberatan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "ひとまず起き上がって、お互い座り直す。",
+        "translations": {
+            "initial": "Aku segera bangun, lalu kami berdua kembali duduk dengan benar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "それから飲み物を注文して、ようやく一息ついたところ。",
+        "translations": {
+            "initial": "Setelah itu kami memesan minuman dan akhirnya bisa bernapas lega.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "ちなみに俺は抹茶オレ、有里栖は黒ごまきなこシェイクを注文した。",
+        "translations": {
+            "initial": "Ngomong-ngomong aku memesan Matcha Au Lait, dan Arisu memesan Shake Kinako Wijen Hitam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "「はぁ……まさか猫さんと遊んでてこんなことになるなんて……」",
+        "translations": {
+            "initial": "「Haa... gak nyangka bakal jadi begini cuma gara-gara main sama kucing...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "「でも、ひとまず怪我が無くてよかったよ」",
+        "translations": {
+            "initial": "「Tapi, syukurlah setidaknya tidak ada yang terluka」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "「@t35@d1うん、ありがとね常坂君。……それで、一つお願いがあるんだけど……」",
+        "translations": {
+            "initial": "「@t35@d1Iya, makasih ya Tokisaka-kun. ...Terus, aku ada satu permintaan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "「お願い？」",
+        "translations": {
+            "initial": "「Permintaan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "俺がそう言うと、有里栖はコクコクと頷く。",
+        "translations": {
+            "initial": "Saat aku bertanya, Arisu mengangguk berkali-kali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "「そ。さっきのこと、ぜひ忘れてもらいたいなーって」",
+        "translations": {
+            "initial": "「Iya. Aku pengen banget kamu melupakan kejadian yang tadi itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "「いや、あれは不可抗力というか、どうしようもなかったんだって！」",
+        "translations": {
+            "initial": "「Bukan gitu, itu tadi kan di luar kendali, maksudku itu benar-benar gak bisa dihindari！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "「うんうん、わかるよ？優しい常坂君は私と猫さんが危ないって思って、咄嗟に下敷きになってくれたんだよね？」",
+        "translations": {
+            "initial": "「Iya, iya, aku paham kok. Tokisaka-kun yang baik hati berpikir kalau aku dan kucing itu dalam bahaya, terus langsung pasang badan buat melindungi kami, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "「そうそう。我ながら良い動きだったと思う」",
+        "translations": {
+            "initial": "「Iya, benar. Aku juga merasa gerakanku tadi sudah bagus banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "横っ飛びでファインプレーを決めるショートみたいな動きだった気がする。",
+        "translations": {
+            "initial": "Rasanya gerakanku tadi mirip seperti pemain shortstop yang melakukan aksi keren dengan melompat ke samping.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "「@t102@d1そこは確かに感謝してるんだけど、忘れて欲しいのはその後のことなんだよ？お年頃の女子としては、スカートの中は重要機密なんだから」",
+        "translations": {
+            "initial": "「@t102@d1Soal itu aku beneran berterima kasih, tapi yang pengen aku kamu lupain itu kejadian setelahnya tahu？ Bagi gadis seusiaku, bagian dalam rok itu rahasia tingkat tinggi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "「重要機密……。それは危ないな。うかつに知ったら消されそうだ」",
+        "translations": {
+            "initial": "「Rahasia tingkat tinggi... Bahaya juga ya. Kalau gak sengaja tahu, kayaknya aku bakal dilenyapkan nih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "「@t51@d1ふふふ、でしょ。怖いんだよ～？だから、その……サクっと忘れてくれると助かるかな。あはは……」",
+        "translations": {
+            "initial": "「@t51@d1Fufufu, benar sekali. Menakutkan lho~？ Makanya, anu... bakal bantu banget kalau kamu lupain itu secepat kilat. Ahaha...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "「おっけー、そうするよ」",
+        "translations": {
+            "initial": "「Oke, bakal aku lakuin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "「うんうん、紳士だねぇ～常坂君は」",
+        "translations": {
+            "initial": "「Sip, kamu memang pria budiman ya, Tokisaka-kun」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "言って、有里栖が飲み物に口をつける。",
+        "translations": {
+            "initial": "Sambil berkata begitu, Arisu meminum minumannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "でも……さっきの違和感はなんだったんだろう？",
+        "translations": {
+            "initial": "Tapi... apa ya perasaan janggal yang kurasakan tadi？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "「ん～っ、これおいひぃ……優しい甘みだよぉ～」",
+        "translations": {
+            "initial": "「Hmm~ ini enyak... rasa manisnya lembut banget~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "黒ごまシェイクを飲んだ有里栖がまたとろける。",
+        "translations": {
+            "initial": "Arisu kembali terlihat sangat menikmati Black Sesame Shake-nya sampai seolah meleleh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "「あはは、いい顔だ。でも不思議だよな。黒ごまと甘いモノってあんまり合うイメージないんだけど」",
+        "translations": {
+            "initial": "「Ahaha, ekspresimu bagus sekali. Tapi aneh ya. Padahal aku gak punya bayangan kalau wijen hitam dan makanan manis itu bisa cocok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "「そうかな？でも、あんぱんとゴマって合わない？」",
+        "translations": {
+            "initial": "「Masa sih？ Tapi, bukannya roti kacang merah dan wijen itu cocok？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "「でもホラ、あれって味より見分けのためのものだろ？黒ごまと白ごまで、つぶあんなのかこしあんなのか見分けてた名残っていうか」",
+        "translations": {
+            "initial": "「Tapi kan itu buat pembeda doang, bukan soal rasa？ Kayak peninggalan cara buat bedain isian kacang merah halus atau kasar pakai wijen hitam dan putih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "「えっ……そうなの？今まで普通に美味しいなぁって思いながら食べてたよ……」",
+        "translations": {
+            "initial": "「Eh... masa？ Selama ini aku makannya sambil mikir kalau itu enak banget lho...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "「あはは。まぁ美味しく食べられるならそれが一番だと思うぞ」",
+        "translations": {
+            "initial": "「Ahaha. Yah, kalau bisa dimakan dengan nikmat, kurasa itu yang paling penting」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "なんて話をしていると、さっきは思い出せなかったことにピンときた。",
+        "translations": {
+            "initial": "Saat sedang mengobrol seperti itu, tiba-tiba aku tersadar akan hal yang tadi tidak bisa kuingat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "例の違和感の正体。",
+        "translations": {
+            "initial": "Identitas dari perasaan janggal itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "ホクロ。ホクロの位置だ。",
+        "translations": {
+            "initial": "Tahi lalat. Posisi tahi lalatnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "前に有里栖のお尻を見たときとホクロの位置が違う。",
+        "translations": {
+            "initial": "Posisi tahi lalatnya beda dengan saat aku melihat pantat Arisu sebelumnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 216,
+        "original": "確かあの時は……。",
+        "translations": {
+            "initial": "Kalau tidak salah waktu itu....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 217,
+        "original": "そうだ。あのときは確か、右脚の付け根にホクロがあったはず。",
+        "translations": {
+            "initial": "Benar. Seingatku waktu itu tahi lalatnya ada di pangkal paha kanan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 218,
+        "original": "でも今、ホクロがあるのは有里栖の左脚。",
+        "translations": {
+            "initial": "Tapi sekarang, tahi lalatnya ada di kaki kiri Arisu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 219,
+        "original": "これはどういうことだ？",
+        "translations": {
+            "initial": "Apa maksudnya ini？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 220,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 221,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 222,
+        "original": "待てよ……ということは――。",
+        "translations": {
+            "initial": "Tunggu dulu... itu berarti-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 223,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 224,
+        "original": "「なぁ有里栖。自分の脚の付け根にホクロがあるのは知ってるか？」",
+        "translations": {
+            "initial": "「Hei Arisu-san. Kamu tahu gak kalau ada tahi lalat di pangkal pahamu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 225,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 226,
+        "original": "「えっ……ホ、ホクロ？それも脚の付け根って……。急にどうしたの？」",
+        "translations": {
+            "initial": "「Eh... ta-tahi lalat？ Apalagi di pangkal paha... Kok tiba-tiba tanya begitu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 227,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 228,
+        "original": "「ちょっと気になることがあってさ。確かめたいんだ。ホクロがあるのは右脚の付け根か左脚の付け根か、自分で覚えてるか？」",
+        "translations": {
+            "initial": "「Ada sesuatu yang mengganjal di pikiranku. Aku ingin memastikannya. Apa kamu ingat tahi lalatnya ada di pangkal paha kanan atau kiri？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 229,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 230,
+        "original": "「@t39@d1きゅ、急にそんなこと言われても……うーん、そんなところじっくり見ないからわかんないなぁ」",
+        "translations": {
+            "initial": "「@t39@d1Ti-tiba-tiba ditanya begitu... hm, aku gak pernah memperhatikan bagian itu, jadi aku gak tahu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 231,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 232,
+        "original": "「そうか……ま、そうだよな」",
+        "translations": {
+            "initial": "「Begitu ya... Yah, wajar saja sih」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 233,
+        "original": "視界に入るところならまだしも、脚の付け根なんて普段は目に入らないもんな。",
+        "translations": {
+            "initial": "Kalau bagian yang mudah terlihat sih mungkin saja, tapi pangkal paha kan biasanya gak kelihatan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 234,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 235,
+        "original": "「ね、どうしてそんなことを聞いたの？確かめたいことってなに？」",
+        "translations": {
+            "initial": "「Memangnya kenapa kamu tanya begitu？ Apa yang ingin kamu pastikan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 236,
+        "original": "有里栖が困惑した様子で聞いてくる。",
+        "translations": {
+            "initial": "Arisu bertanya dengan wajah bingung.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 237,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 238,
+        "original": "「すまん、すまん。いま説明するから。これは有里栖の記憶に関するヒントにもなると思うんだ」",
+        "translations": {
+            "initial": "「Maaf, maaf. Aku jelaskan sekarang. Aku rasa ini bisa jadi petunjuk soal ingatanmu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 239,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 240,
+        "original": "「えぇと……さっきと似たようなこと、前にも屋上であっただろ？その時も有里栖の脚の付け根にはホクロがあったんだけど――」",
+        "translations": {
+            "initial": "「Anu... ingat gak kejadian yang mirip tadi di atap dulu？ Waktu itu juga ada tahi lalat di pangkal paha Arisu-san, tapi-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 241,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 242,
+        "original": "「その時見たのと今日見たので、ホクロの位置が違ったんだ。記憶だけが頼りになってしまうけど、確かだと思う」",
+        "translations": {
+            "initial": "「Posisi tahi lalat yang kulihat saat itu dan hari ini berbeda. Meski aku cuma mengandalkan ingatanku, tapi aku yakin」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 243,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 244,
+        "original": "「え……それ、本当なの？あの時と今日で……ホクロの位置が違う……」",
+        "translations": {
+            "initial": "「Eh... itu benar？ Waktu itu dan hari ini... posisi tahi lalatnya berbeda...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 245,
+        "original": "独り言のように呟く有里栖。",
+        "translations": {
+            "initial": "Arisu bergumam seolah bicara pada dirinya sendiri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 246,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 247,
+        "original": "「あぁ。不思議だよな」",
+        "translations": {
+            "initial": "「Iya. Aneh banget, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 248,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 249,
+        "original": "「うん。あんなところにあるホクロ、どうしてそこまでハッキリ覚えてるのか不思議だよ？」",
+        "translations": {
+            "initial": "「Iya. Soal tahi lalat di tempat seperti itu, aku jadi heran kenapa kamu bisa ingat sejelas itu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 250,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 251,
+        "original": "「えっ。そっち？」",
+        "translations": {
+            "initial": "「Eh. Ke arah sana ya pembahasannya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 252,
+        "original": "ジトーっと睨まれてしまった。",
+        "translations": {
+            "initial": "Aku ditatap dengan tajam olehnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 253,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 254,
+        "original": "「@t47@d1確かだと思うーって言えちゃうくらい、しっかり見てたんだね、常坂君」",
+        "translations": {
+            "initial": "「@t47@d1Sampai bisa bilang kalau kamu yakin banget, berarti kamu merhatiin baik-baik ya, Tokisaka-kun」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 255,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 256,
+        "original": "「いやいや、誤解だって！あれも今回も事故だったんだって！」",
+        "translations": {
+            "initial": "「Nggak, nggak, itu salah paham！ Kejadian yang dulu sama yang sekarang itu cuma kecelakaan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 257,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 258,
+        "original": "「@t79@d1あはっ、冗談冗談。恥ずかしかったから、ちょっと仕返しがしたくて意地悪しちゃった。……それで、ホクロの位置、だよね」",
+        "translations": {
+            "initial": "「@t79@d1Ahaha, bercanda kok. Tadi aku cuma mau balas dendam sedikit karena merasa malu. ...Terus, soal posisi tahi lalatnya, kan?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 259,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 260,
+        "original": "「あぁ。前に見たときは右脚の付け根にあったのに、今日見たときは左脚の付け根にあったんだ」",
+        "translations": {
+            "initial": "「Iya. Waktu aku lihat dulu, tahi lalatnya ada di pangkal paha kanan, tapi hari ini waktu aku lihat, ada di pangkal paha kiri」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 261,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 262,
+        "original": "「@t87@d1ホクロの位置かぁ……うーん、自分だとよく覚えてないかも。見えにくい場所だし。……単純に、見間違いって可能性はないの？」",
+        "translations": {
+            "initial": "「@t87@d1Posisi tahi lalat ya... Hmm, aku sendiri nggak begitu ingat. Soalnya di tempat yang susah dilihat juga. ...Apa nggak ada kemungkinan kamu cuma salah lihat？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 263,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 264,
+        "original": "「無いと思う。よく覚えてるから」",
+        "translations": {
+            "initial": "「Kayaknya nggak mungkin. Soalnya aku ingat banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 265,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 266,
+        "original": "「@t18@d1……エッチ」",
+        "translations": {
+            "initial": "「@t18@d1...Dasar mesum」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 267,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 268,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 269,
+        "original": "反論はできない。",
+        "translations": {
+            "initial": "Aku nggak bisa membantahnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 270,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 271,
+        "original": "「@t53@d1うーん、まあ仕方ないから話を進めるね。それで、ホクロの位置が私の記憶にどう関係するの？」",
+        "translations": {
+            "initial": "「@t53@d1Hmm, ya sudahlah, mari lanjut bicara. Terus, apa hubungannya posisi tahi lalat itu dengan ingatanku？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 272,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 273,
+        "original": "「えーっと……前に有里栖が言ってた、自分は双子なのかもって話に似てるんだけど……」",
+        "translations": {
+            "initial": "「Anu... ini mirip sama cerita yang Arisu bilang sebelumnya, soal kemungkinan kalau kamu punya kembaran...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 274,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 275,
+        "original": "「以前の有里栖と今の有里栖は、よく似た別人の可能性があるんじゃないかってさ」",
+        "translations": {
+            "initial": "「Aku rasa, ada kemungkinan kalau Arisu yang dulu dan Arisu yang sekarang itu orang berbeda yang mirip」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 276,
+        "original": "どういうこと？、という顔の有里栖。",
+        "translations": {
+            "initial": "Arisu memasang wajah bingung, seolah bertanya apa maksudnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 277,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 278,
+        "original": "「もちろん確かな根拠は無いし、単純に俺の見間違いの可能性も否定できない。それに、今の話だと記憶について説明がつかない」",
+        "translations": {
+            "initial": "「Tentu saja aku nggak punya bukti kuat, dan aku nggak bisa membantah kemungkinan kalau aku cuma salah lihat. Lagipula, kalau menurut teoriku barusan, masalah ingatanmu jadi nggak bisa dijelaskan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 279,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 280,
+        "original": "「だよね。以前の私と今の私が別人だとして、それならどうして今の私には以前の私の記憶があるの？って話になっちゃうから」",
+        "translations": {
+            "initial": "「Bener kan. Kalau aku yang dulu dan yang sekarang itu orang yang berbeda, bakal jadi aneh kan kenapa aku yang sekarang masih punya ingatan diriku yang dulu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 281,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 282,
+        "original": "「あぁ。でも、考えるヒントくらいにはなるんじゃないかなって思ってさ」",
+        "translations": {
+            "initial": "「Ah, iya juga. Tapi, aku cuma mikir mungkin ini bisa jadi semacam petunjuk buat kita」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 283,
+        "original": "有里栖",
+        "translations": {
+            "initial": "Arisu",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 284,
+        "original": "「@t29@d1あ……うん、そうかも。ホクロ……ホクロかぁ……」",
+        "translations": {
+            "initial": "「@t29@d1Ah... iya, mungkin kamu bener. Tahi lalat... tahi lalat ya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 285,
+        "original": "自分で言っておいてなんだけど、以前の有里栖と今の有里栖が別人だという話は現実的ではないと思う。",
+        "translations": {
+            "initial": "Meski aku sendiri yang mengatakannya, menurutku teori bahwa Arisu-san yang dulu dan yang sekarang adalah orang yang berbeda itu tidaklah realistis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 286,
+        "original": "あそこまでソックリな他人なんて、それこそ双子でもなきゃありえないと思う。",
+        "translations": {
+            "initial": "Orang asing yang semirip itu tidak mungkin ada, kecuali jika mereka memang saudara kembar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 287,
+        "original": "でも……なにかのヒントになればいいなとは思う。",
+        "translations": {
+            "initial": "Tapi... aku berharap setidaknya ini bisa memberikan suatu petunjuk.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 288,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

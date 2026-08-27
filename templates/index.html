@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VN Translation Tool</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS (via CDN for simplicity) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/style.css">
+
+    <!-- Vue 3 (Local) -->
+    <script src="/static/js/lib/vue.global.js"></script>
+    <!-- Fallback if local fails, use CDN? No, keep it simple for offline exe -->
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div id="app" class="flex h-screen text-slate-200 font-sans overflow-hidden"
+        :class="activeWallpaper ? '' : 'bg-slate-900'">
+
+        <!-- Wallpaper Background Layer -->
+        <!-- Wallpaper Background Layer -->
+        <div v-if="activeWallpaper" class="fixed inset-0 z-0 pointer-events-none">
+            <video v-if="/\.(mp4|webm|mkv|mpg)$/i.test(activeWallpaper)"
+                :src="'/wallpaper/' + encodeURIComponent(activeWallpaper)" autoplay loop muted playsinline
+                class="w-full h-full object-cover">
+            </video>
+            <div v-else class="w-full h-full"
+                :style="{ backgroundImage: 'url(/wallpaper/' + encodeURIComponent(activeWallpaper) + ')', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }">
+            </div>
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="w-80 sidebar flex-shrink-0 flex flex-col">
+            <div class="sidebar-header flex items-center justify-between p-3 border-b border-slate-700">
+                <div class="flex items-center gap-2.5 overflow-hidden pr-2">
+                    <i class="fa-solid fa-language text-2xl flex-shrink-0" :style="{ color: themeColor }"></i>
+                    <div class="flex flex-col min-w-0">
+                        <h1 class="text-sm font-bold tracking-tight text-white truncate">VN Translation Tool</h1>
+                        <span v-if="currentProjectName || activeProjectId" class="text-[11px] text-pink-300 font-medium truncate flex items-center gap-1">
+                            <i class="fa-solid fa-cube text-[9px]" :style="{ color: themeColor }"></i> {{ currentProjectName || activeProjectId }}
+                        </span>
+                    </div>
+                </div>
+                <div class="flex items-center gap-1.5 flex-shrink-0">
+                    <button type="button" @click="showLlmBatchModal = true" class="text-slate-400 hover:text-white p-1.5 rounded hover:bg-slate-800 transition-colors"
+                        title="LLM Batch">
+                        <i class="fa-solid fa-robot"></i>
+                    </button>
+                    <button type="button" @click="showBulkModal = true" class="text-slate-400 hover:text-white p-1.5 rounded hover:bg-slate-800 transition-colors"
+                        title="Bulk Actions">
+                        <i class="fa-solid fa-layer-group"></i>
+                    </button>
+                    <button type="button" @click="showSettings = true" class="text-slate-400 hover:text-white p-1.5 rounded hover:bg-slate-800 transition-colors"
+                        title="Settings">
+                        <i class="fa-solid fa-gear"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="p-4 pb-0">
+                <div class="relative">
+                    <i class="fa-solid fa-search absolute left-3 top-3 text-sm" :style="{ color: secondaryColor }"></i>
+                    <input v-model="searchQuery" type="text" placeholder="Filter files..."
+                        class="w-full bg-slate-800 border rounded-md py-2 pl-9 pr-8 text-sm focus:outline-none transition-colors"
+                        :style="{ borderColor: secondaryColor, color: secondaryColor, '--tw-ring-color': secondaryColor }"
+                        style="--tw-ring-opacity: 1;" onfocus="this.style.boxShadow='0 0 0 1px var(--theme-secondary)'"
+                        onblur="this.style.boxShadow=''">
+                    <button @click="showSearchModal = true"
+                        class="absolute right-2 top-2 text-slate-400 hover:text-white" title="Advanced Search">
+                        <i class="fa-solid fa-search-plus"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="sidebar-content mt-2 custom-scrollbar">
+                <div v-if="Object.keys(filteredRoutes).length === 0" class="p-4 text-center text-slate-500 text-sm">
+                    No scenarios found.
+                </div>
+
+                <div v-for="(files, route) in filteredRoutes" :key="route" class="route-group">
+                    <div @click="toggleRoute(route)" class="route-header select-none">
+                        <span>{{ route }}</span>
+                        <i class="fa-solid" :class="expandedRoutes[route] ? 'fa-chevron-down' : 'fa-chevron-right'"></i>
+                    </div>
+
+                    <div v-if="expandedRoutes[route]" class="scenario-list">
+                        <div v-for="file in files" :key="file.file" @click="selectScenario(file)" class="scenario-item"
+                            :class="{ 'active': activeFile && activeFile.file === file.file }">
+                            <div class="font-medium break-words">{{ file.segment }} ({{file.part}})</div>
+                            <div class="flex items-center justify-between text-xs text-slate-400 mt-1">
+                                <span class="truncate mr-2 font-mono">{{ file.file }}</span>
+                                <span v-if="file.mode"
+                                    class="shrink-0 px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider text-white/90"
+                                    :style="{ backgroundColor: secondaryColor + '99' }">{{
+                                    file.mode }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content flex-1 flex flex-col min-w-0">
+            <!-- Top Bar -->
+            <div class="top-bar flex-shrink-0">
+                <div class="flex flex-col">
+                    <h2 v-if="activeFile" class="text-lg font-semibold text-white truncate">
+                        {{ activeFile.segment }} - {{ activeFile.part }}
+                    </h2>
+                    <span v-if="activeFile" class="text-xs text-slate-400 font-mono">{{ activeFile.file }}</span>
+                    <span v-else class="text-slate-400">Select a scenario to start translating</span>
+                </div>
+
+                <div class="flex items-center gap-4">
+                    <!-- Split View Toggle -->
+                    <div class="flex items-center gap-2 bg-slate-800 rounded p-1 border border-slate-700">
+                        <!-- Furigana Toggle + Mode -->
+                        <div class="flex items-center gap-0.5 relative">
+                            <button @click="toggleFurigana"
+                                class="px-2 py-1 text-xs rounded-l transition-colors font-bold"
+                                :class="showFurigana ? 'bg-emerald-600 text-white' : 'text-slate-400 hover:text-white'"
+                                :title="showFurigana ? 'Hide Furigana' : 'Show Furigana'">
+                                ふ
+                            </button>
+                            <select v-if="showFurigana" v-model="furiganaMode" @change="onFuriganaModeChange"
+                                class="bg-emerald-700 border-0 text-xs text-white rounded-r px-1 py-1 focus:outline-none cursor-pointer"
+                                style="max-width: 90px;">
+                                <option value="hiragana">ひらがな</option>
+                                <option value="katakana">カタカナ</option>
+                                <option value="romaji">Romaji</option>
+                            </select>
+                        </div>
+
+                        <button @click="showSplitView = !showSplitView"
+                            class="px-2 py-1 text-xs rounded transition-colors"
+                            :class="showSplitView ? 'text-white' : 'text-slate-400 hover:text-white'"
+                            :style="showSplitView ? { backgroundColor: secondaryColor } : {}" title="Toggle Split View">
+                            <i class="fa-solid fa-columns"></i> Split
+                        </button>
+
+                        <select v-if="showSplitView" v-model="secondaryTab"
+                            class="bg-slate-900 border border-slate-700 text-xs text-white rounded px-2 py-1 focus:outline-none">
+                            <option v-for="t in ['initial', 'machine', 'better', 'best', 'polished']" :key="t"
+                                :value="t">{{ t }}
+                            </option>
+                        </select>
+
+                        <!-- Theme Color Picker -->
+                        <div class="relative" data-theme-picker>
+                            <button @click="showThemePicker = !showThemePicker"
+                                class="px-2 py-1 text-xs rounded transition-colors text-slate-400 hover:text-white"
+                                title="Theme Color">
+                                <i class="fa-solid fa-palette"></i>
+                            </button>
+                            <!-- Dropdown -->
+                            <div v-if="showThemePicker"
+                                class="absolute right-0 top-full mt-2 bg-slate-800 border border-slate-600 rounded-lg shadow-2xl p-3 z-50"
+                                style="width: 220px;">
+                                <div class="text-xs text-slate-400 mb-2 font-semibold">Theme Color</div>
+                                <div class="grid grid-cols-6 gap-1.5 mb-3">
+                                    <button v-for="preset in themePresets" :key="preset.hex"
+                                        @click="selectThemePreset(preset)"
+                                        class="w-7 h-7 rounded-full border-2 transition-all hover:scale-110 focus:outline-none"
+                                        :style="{ backgroundColor: preset.hex }"
+                                        :class="themeColor === preset.hex ? 'ring-2 ring-offset-1 ring-offset-slate-800 border-white scale-110' : 'border-transparent opacity-75 hover:opacity-100'"
+                                        :title="preset.name">
+                                    </button>
+                                </div>
+                                <div class="flex items-center gap-2 pt-2 border-t border-slate-700">
+                                    <label class="text-xs text-slate-400">Custom:</label>
+                                    <input type="color" :value="customThemeColor" @input="onCustomColorChange"
+                                        class="w-6 h-6 rounded cursor-pointer border border-slate-600 bg-transparent">
+                                    <span class="text-xs text-slate-500 font-mono">{{ themeColor }}</span>
+                                </div>
+
+                                <!-- Secondary Color -->
+                                <div class="text-xs text-slate-400 mt-3 mb-2 font-semibold">Secondary Color</div>
+                                <div class="grid grid-cols-6 gap-1.5 mb-3">
+                                    <button v-for="preset in themePresets" :key="'sec-'+preset.hex"
+                                        @click="selectSecondaryPreset(preset)"
+                                        class="w-7 h-7 rounded-full border-2 transition-all hover:scale-110 focus:outline-none"
+                                        :style="{ backgroundColor: preset.hex }"
+                                        :class="secondaryColor === preset.hex ? 'ring-2 ring-offset-1 ring-offset-slate-800 border-white scale-110' : 'border-transparent opacity-75 hover:opacity-100'"
+                                        :title="preset.name">
+                                    </button>
+                                </div>
+                                <div class="flex items-center gap-2 pt-2 border-t border-slate-700">
+                                    <label class="text-xs text-slate-400">Custom:</label>
+                                    <input type="color" :value="customSecondaryColor" @input="onCustomSecondaryChange"
+                                        class="w-6 h-6 rounded cursor-pointer border border-slate-600 bg-transparent">
+                                    <span class="text-xs text-slate-500 font-mono">{{ secondaryColor }}</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Wallpaper Picker -->
+                        <div class="relative" data-wallpaper-picker>
+                            <button @click="showWallpaperPicker = !showWallpaperPicker"
+                                class="px-2 py-1 text-xs rounded transition-colors text-slate-400 hover:text-white"
+                                title="Background Wallpaper">
+                                <i class="fa-solid fa-image"></i>
+                            </button>
+                            <!-- Dropdown -->
+                            <div v-if="showWallpaperPicker"
+                                class="absolute right-0 top-full mt-2 bg-slate-800 border border-slate-600 rounded-lg shadow-2xl p-3 z-50"
+                                style="width: 260px; max-height: 320px; overflow-y: auto;">
+                                <div class="text-xs text-slate-400 mb-2 font-semibold">Background Wallpaper</div>
+                                <!-- None option -->
+                                <button @click="clearWallpaper()"
+                                    class="w-full text-left px-3 py-2 text-xs rounded mb-1 transition-colors"
+                                    :class="!activeWallpaper ? 'bg-slate-600 text-white' : 'text-slate-400 hover:bg-slate-700 hover:text-white'">
+                                    <i class="fa-solid fa-ban mr-2"></i>No Wallpaper
+                                </button>
+                                <!-- Wallpaper list -->
+                                <div v-if="wallpapers.length" class="grid grid-cols-2 gap-2 mt-2">
+                                    <button v-for="wp in wallpapers" :key="wp" @click="selectWallpaper(wp)"
+                                        class="relative rounded overflow-hidden border-2 transition-all hover:scale-105 focus:outline-none aspect-video"
+                                        :class="activeWallpaper === wp ? 'border-white ring-2 ring-white/30' : 'border-transparent opacity-75 hover:opacity-100'">
+                                        <video v-if="/\.(mp4|webm|mkv|mpg)$/i.test(wp)"
+                                            :src="'/wallpaper/' + encodeURIComponent(wp)"
+                                            class="w-full h-full object-cover" muted loop onmouseover="this.play()"
+                                            onmouseout="this.pause();this.currentTime=0;"></video>
+                                        <img v-else :src="'/wallpaper/' + encodeURIComponent(wp)"
+                                            class="w-full h-full object-cover" :alt="wp">
+                                        <div
+                                            class="absolute inset-x-0 bottom-0 bg-black/60 px-1 py-0.5 text-[10px] text-white truncate">
+                                            {{ wp }}
+                                        </div>
+                                    </button>
+                                </div>
+                                <div v-else class="text-xs text-slate-500 text-center py-4">
+                                    No wallpapers found in<br><code>wallpaper/</code> folder
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <span v-if="isFetchingFurigana" class="text-sm text-emerald-400 animate-pulse">
+                        <i class="fa-solid fa-circle-notch fa-spin mr-1"></i> Loading furigana...
+                    </span>
+
+                    <span v-if="isSaving" class="text-sm text-green-400 animate-pulse">
+                        <i class="fa-solid fa-check mr-1"></i> Saving...
+                    </span>
+                    <span v-else-if="hasUnsavedChanges" class="text-sm text-amber-400">
+                        <i class="fa-solid fa-pen mr-1"></i> Unsaved changes
+                    </span>
+
+                    <div class="flex gap-2">
+                        <button @click="saveTranslation" :disabled="!activeFile || isSaving"
+                            class="btn-primary flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                            :style="{ backgroundColor: secondaryColor }">
+                            <i class="fa-solid fa-floppy-disk"></i>
+                            <span>Save</span>
+                        </button>
+
+                        <button @click="openSaveAs" :disabled="!activeFile || isSaving"
+                            class="btn-primary flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed bg-slate-600 hover:bg-slate-700">
+                            <i class="fa-solid fa-save"></i>
+                            <span>Save As...</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tabs -->
+            <div v-if="activeFile" class="bg-slate-800 border-b px-8 flex items-end gap-1 overflow-x-auto"
+                :style="{ borderColor: secondaryColor }">
+                <button v-for="tab in ['initial', 'machine', 'better', 'best', 'polished']" :key="tab"
+                    @click="activeTab = tab"
+                    class="px-4 py-2 text-sm font-medium border-b-2 transition-colors capitalize"
+                    :class="activeTab === tab ? '' : 'border-transparent text-slate-400 hover:text-slate-200'"
+                    :style="activeTab === tab ? { borderBottomColor: secondaryColor, color: secondaryColor } : {}">
+                    {{ tab }}
+                </button>
+            </div>
+
+            <!-- In-File Search Bar -->
+            <div v-if="showInFileSearch && activeFile"
+                class="flex items-center gap-2 px-6 py-2 border-b border-slate-700 bg-slate-800/80 backdrop-blur-sm">
+                <i class="fa-solid fa-magnifying-glass text-sm" :style="{ color: secondaryColor }"></i>
+                <input id="in-file-search-input" v-model="inFileSearchQuery" @input="performInFileSearch"
+                    @keyup.enter="nextInFileMatch" @keydown.shift.enter.prevent="prevInFileMatch" type="text"
+                    placeholder="Search in this file..."
+                    class="flex-1 bg-slate-900 border border-slate-600 rounded px-3 py-1.5 text-sm text-white focus:outline-none"
+                    :style="{ '--ring': secondaryColor }"
+                    onfocus="this.style.borderColor=getComputedStyle(document.documentElement).getPropertyValue('--theme-secondary')"
+                    onblur="this.style.borderColor=''">
+                <label class="flex items-center gap-1.5 text-xs text-slate-300 ml-2 cursor-pointer select-none">
+                    <input type="checkbox" v-model="inFileSearchRomaji" @change="performInFileSearch"
+                        class="rounded bg-slate-900 border-slate-600 text-emerald-500 focus:ring-0 w-3.5 h-3.5">
+                    <span>Romaji</span>
+                </label>
+                <span v-if="inFileSearchResults.length > 0"
+                    class="text-xs text-slate-400 font-mono whitespace-nowrap ml-2">
+                    {{ inFileSearchIndex + 1 }} / {{ inFileSearchResults.length }}
+                </span>
+                <span v-else-if="inFileSearchQuery.trim()" class="text-xs text-red-400/80 font-mono whitespace-nowrap">
+                    No matches
+                </span>
+                <button @click="prevInFileMatch" class="px-1.5 py-1 text-slate-400 hover:text-white transition-colors"
+                    title="Previous (Shift+Enter)">
+                    <i class="fa-solid fa-chevron-up text-xs"></i>
+                </button>
+                <button @click="nextInFileMatch" class="px-1.5 py-1 text-slate-400 hover:text-white transition-colors"
+                    title="Next (Enter)">
+                    <i class="fa-solid fa-chevron-down text-xs"></i>
+                </button>
+                <button @click="closeInFileSearch" class="px-1.5 py-1 text-slate-400 hover:text-white transition-colors"
+                    title="Close (Esc)">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <!-- Editor Area -->
+            <div class="editor-container custom-scrollbar relative">
+                <!-- Loading State -->
+                <div v-if="isLoading" class="absolute inset-0 flex items-center justify-center bg-slate-900/50 z-20">
+                    <div class="text-4xl animate-spin" :style="{ color: secondaryColor }">
+                        <i class="fa-solid fa-circle-notch"></i>
+                    </div>
+                </div>
+
+                <!-- Empty State -->
+                <div v-if="!activeFile" class="h-full flex flex-col items-center justify-center text-slate-600">
+                    <i class="fa-regular fa-file-code text-6xl mb-4 opacity-50"></i>
+                    <p class="text-lg">Select a file from the sidebar</p>
+                </div>
+
+                <!-- Content -->
+                <div v-if="activeFile" class="w-full px-6 pb-20 pt-6">
+                    <!-- Virtual scroll spacer top -->
+                    <div :style="{ height: virtualScrollTopPad + 'px' }"></div>
+
+                    <div v-for="row in visibleRows" :key="row.id" class="translation-row group"
+                        :class="{ 'in-file-match-highlight': inFileHighlightId === row.id }">
+                        <!-- ID Column -->
+                        <div class="col-id select-none">
+                            #{{ row.id + 1 }}
+                        </div>
+
+                        <!-- Original Text (use v-if/v-else to avoid escapeHtml when furigana is off) -->
+                        <div v-if="showFurigana && row.furiganaHtml" class="col-original"
+                            :style="{ width: originalColumnWidth + '%' }" v-html="row.furiganaHtml">
+                        </div>
+                        <div v-else class="col-original" :style="{ width: originalColumnWidth + '%' }">
+                            {{ row.original }}
+                        </div>
+
+                        <!-- Resize Handle -->
+                        <div @mousedown="startResize" class="resize-handle cursor-col-resize transition-colors"
+                            :style="{ '--hover-color': secondaryColor + '4D', '--active-color': secondaryColor + '80' }"
+                            onmouseenter="this.style.backgroundColor=this.style.getPropertyValue('--hover-color')"
+                            onmouseleave="this.style.backgroundColor=''"
+                            onmousedown="this.style.backgroundColor=this.style.getPropertyValue('--active-color')"
+                            onmouseup="this.style.backgroundColor=this.style.getPropertyValue('--hover-color')">
+                        </div>
+
+                        <!-- Translated Input (Dynamic Tab) -->
+                        <div class="col-translated" :style="{ width: translationColumnWidth + '%' }"
+                            :class="{ 'grid grid-cols-2 gap-2': showSplitView }">
+                            <!-- Primary Tab -->
+                            <div class="relative group/edit h-full">
+                                <textarea v-if="row.translations" v-model="row.translations[activeTab]"
+                                    @focus="handleCellFocus(row.id, 'translation')"
+                                    @input="markDirty" @blur="saveIfDirty"
+                                    class="translation-textarea focus:ring-2 focus:border-transparent transition-all h-full min-h-[32px]"
+                                    :style="{ '--tw-ring-color': secondaryColor }" rows="2"></textarea>
+                            </div>
+
+                            <!-- Secondary Tab (Split View) -->
+                            <div v-if="showSplitView" class="relative group/edit h-full border-l border-slate-700 pl-2">
+                                <textarea v-if="row.translations" v-model="row.translations[secondaryTab]"
+                                    @focus="handleCellFocus(row.id, 'translation')"
+                                    @input="markDirty" @blur="saveIfDirty"
+                                    class="translation-textarea focus:ring-2 focus:border-transparent transition-all h-full bg-slate-800/50 min-h-[32px]"
+                                    :style="{ '--tw-ring-color': secondaryColor }" rows="2"></textarea>
+                            </div>
+                        </div>
+
+                        <!-- LLM Action Buttons -->
+                        <div
+                            class="col-llm-actions flex-shrink-0 flex items-start gap-1 pt-1 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button @click="llmRetranslateRow(row)" :disabled="row._llmLoading"
+                                class="px-1.5 py-0.5 text-[10px] rounded text-white transition-colors disabled:opacity-50"
+                                :style="{ backgroundColor: secondaryColor + 'CC' }" title="Retranslate with LLM">
+                                <i v-if="row._llmLoading" class="fa-solid fa-circle-notch fa-spin"></i>
+                                <i v-else class="fa-solid fa-language"></i>
+                            </button>
+                            <button @click="llmPolishRow(row)" :disabled="row._llmLoading"
+                                class="px-1.5 py-0.5 text-[10px] rounded bg-amber-600/80 hover:bg-amber-500 text-white transition-colors disabled:opacity-50"
+                                title="Polish with LLM">
+                                <i v-if="row._llmLoading" class="fa-solid fa-circle-notch fa-spin"></i>
+                                <i v-else class="fa-solid fa-wand-magic-sparkles"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Virtual scroll spacer bottom -->
+                    <div :style="{ height: virtualScrollBottomPad + 'px' }"></div>
+                </div>
+
+                <!-- Bottom Preview Panel -->
+                <div v-if="showPreview && selectedRow" class="preview-panel">
+                    <div class="preview-header">
+                        <div class="flex items-center gap-2">
+                            <i class="fa-regular fa-eye text-sm"></i>
+                            <span class="text-xs font-semibold uppercase">Preview - Row #{{ selectedRowId + 1 }}</span>
+                        </div>
+                        <button @click="showPreview = false" class="text-slate-400 hover:text-white">
+                            <i class="fa-solid fa-xmark"></i>
+                        </button>
+                    </div>
+                    <div class="preview-content">
+                        <!-- Original Text -->
+                        <div class="preview-section">
+                            <label class="preview-label">Original</label>
+                            <div class="preview-text">{{ selectedRow.original }}</div>
+                        </div>
+                        <!-- Active Tab Translation -->
+                        <div class="preview-section">
+                            <label class="preview-label">{{ activeTab }}</label>
+                            <textarea v-if="selectedRow.translations" v-model="selectedRow.translations[activeTab]"
+                                @input="markDirty" @blur="saveIfDirty"
+                                class="preview-textarea" rows="4"></textarea>
+                        </div>
+                        <!-- Secondary Tab (if split view enabled) -->
+                        <div v-if="showSplitView" class="preview-section">
+                            <label class="preview-label">{{ secondaryTab }}</label>
+                            <textarea v-if="selectedRow.translations" v-model="selectedRow.translations[secondaryTab]"
+                                @input="markDirty" @blur="saveIfDirty"
+                                class="preview-textarea" rows="4"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Settings Modal -->
+        <div v-if="showSettings"
+            class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+            <div
+                class="bg-slate-800 rounded-lg shadow-xl w-full max-w-2xl border border-slate-700 p-6 themed-modal max-h-[90vh] overflow-y-auto custom-scrollbar">
+                <div class="flex justify-between items-center mb-6">
+                    <h3 class="text-xl font-bold text-white"><i class="fa-solid fa-gear mr-2"></i>Settings</h3>
+                    <div class="flex items-center gap-3">
+                        <span class="text-xs text-slate-500 hidden sm:inline">Ctrl+, to open</span>
+                        <button @click="showSettings = false" class="text-slate-400 hover:text-white">
+                            <i class="fa-solid fa-xmark text-xl"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Keyboard Shortcuts Info -->
+                <div class="mb-6">
+                    <h4 class="text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2">
+                        <i class="fa-solid fa-keyboard"></i> Keyboard Shortcuts
+                    </h4>
+                    <div class="grid grid-cols-2 gap-2 text-sm">
+                        <div class="flex items-center gap-2 text-slate-400">
+                            <kbd
+                                class="px-2 py-0.5 rounded bg-slate-700 text-slate-300 text-xs font-mono border border-slate-600">Ctrl+F</kbd>
+                            <span>Global Search</span>
+                        </div>
+                        <div class="flex items-center gap-2 text-slate-400">
+                            <kbd
+                                class="px-2 py-0.5 rounded bg-slate-700 text-slate-300 text-xs font-mono border border-slate-600">Ctrl+H</kbd>
+                            <span>Find & Replace</span>
+                        </div>
+                        <div class="flex items-center gap-2 text-slate-400">
+                            <kbd
+                                class="px-2 py-0.5 rounded bg-slate-700 text-slate-300 text-xs font-mono border border-slate-600">Ctrl+,</kbd>
+                            <span>Settings</span>
+                        </div>
+                        <div class="flex items-center gap-2 text-slate-400">
+                            <kbd
+                                class="px-2 py-0.5 rounded bg-slate-700 text-slate-300 text-xs font-mono border border-slate-600">Ctrl+G</kbd>
+                            <span>Search in File</span>
+                        </div>
+                        <div class="flex items-center gap-2 text-slate-400">
+                            <kbd
+                                class="px-2 py-0.5 rounded bg-slate-700 text-slate-300 text-xs font-mono border border-slate-600">Esc</kbd>
+                            <span>Close Modal</span>
+                        </div>
+                    </div>
+                </div>
+
+                <hr class="border-slate-700 mb-6">
+
+                <!-- Project Profile & Identifier Settings -->
+                <div class="mb-6 bg-slate-900/60 p-4 rounded-lg border border-slate-700">
+                    <div class="flex items-center justify-between mb-3">
+                        <h4 class="text-sm font-semibold text-slate-200 flex items-center gap-2">
+                            <i class="fa-solid fa-diagram-project" :style="{ color: themeColor }"></i> Project Profile & Identifier
+                        </h4>
+                        <div class="flex items-center gap-2">
+                            <button type="button" @click="openNewProjectModal" class="px-2.5 py-1 text-xs rounded bg-slate-700 hover:bg-slate-600 text-white font-medium transition-colors flex items-center gap-1.5 border border-slate-600">
+                                <i class="fa-solid fa-plus text-[10px]"></i> New Project
+                            </button>
+                            <button type="button" v-if="projectList.length > 1" @click="deleteCurrentProject" class="px-2 py-1 text-xs rounded bg-red-950/60 hover:bg-red-900/80 text-red-300 font-medium transition-colors border border-red-800/60" title="Delete current project profile">
+                                <i class="fa-solid fa-trash text-[10px]"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-3">
+                        <div>
+                            <label class="block text-xs font-medium text-slate-400 mb-1">Active Project Profile</label>
+                            <select v-model="activeProjectId" @change="onProjectSelectChange"
+                                class="w-full bg-slate-800 border border-slate-700 rounded p-2 text-sm text-white focus:outline-none focus:border-pink-500 font-medium">
+                                <option v-for="p in projectList" :key="p.id" :value="p.id">
+                                    {{ p.name }} ({{ p.identifier }})
+                                </option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-xs font-medium text-slate-400 mb-1">Project Identifier (Folder Cache Slug)</label>
+                            <input v-model="currentProjectIdentifier" @input="onIdentifierInput" type="text" placeholder="e.g. dc4_plus_harmony, dc3_dream_days"
+                                class="w-full bg-slate-800 border border-slate-700 rounded p-2 text-sm text-white focus:outline-none font-mono">
+                        </div>
+                    </div>
+                    <div>
+                        <label class="block text-xs font-medium text-slate-400 mb-1">Project Display Name</label>
+                        <input v-model="currentProjectName" @input="onProjectNameInput" type="text" placeholder="e.g. D.C.4 Plus Harmony"
+                            class="w-full bg-slate-800 border border-slate-700 rounded p-2 text-sm text-white focus:outline-none">
+                    </div>
+                </div>
+
+                <!-- Directory Settings -->
+                <h4 class="text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2">
+                    <i class="fa-solid fa-folder-open"></i> Directories
+                </h4>
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-1">Original JSON Directory</label>
+                        <input v-model="config.original_dir" type="text"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-1">Translated JSON Directory (Game
+                            Import)</label>
+                        <input v-model="config.translated_dir" type="text"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-1">Excel Structure File</label>
+                        <input v-model="config.excel_path" type="text"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                    </div>
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <label class="block text-sm font-medium text-slate-400">Project Data Directory (Rich Saves)</label>
+                            <button type="button" @click="fetchCacheFolders" class="text-xs text-pink-400 hover:text-pink-300 flex items-center gap-1 transition-colors" title="Sync and scan all cache folders inside project_data/">
+                                <i class="fa-solid fa-arrows-rotate text-[11px]" :class="{ 'fa-spin': isRefreshingCaches }"></i> Sync / Scan Caches
+                            </button>
+                        </div>
+                        <div class="space-y-2">
+                            <!-- Quick Dropdown Sync with Existing Caches -->
+                            <div class="flex gap-2 items-center">
+                                <select @change="onCacheFolderSelect($event)" class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-slate-200 focus:outline-none focus:border-pink-500 font-sans">
+                                    <option value="">-- Pilih Folder Cache yang Sudah Ada di project_data/ --</option>
+                                    <option v-for="folder in availableCacheFolders" :key="folder.path" :value="folder.path">
+                                        📁 {{ folder.name }} ({{ folder.file_count }} cached JSON{{ folder.file_count !== 1 ? 's' : '' }})
+                                    </option>
+                                </select>
+                            </div>
+                            <!-- Manual / Path Input -->
+                            <div>
+                                <input v-model="config.project_data_dir" type="text" placeholder="e.g. project_data\D.C.III With You atau full path"
+                                    class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white font-mono focus:outline-none focus:border-pink-500">
+                                <p class="text-xs text-slate-500 mt-1">
+                                    Bisa pilih cache yang sudah ada dari dropdown di atas, atau ketik nama folder baru manual (misal: <code>D.C.III With You</code>).
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-1">Unidic Dictionary Path
+                            (Furigana)</label>
+                        <input v-model="config.unidic_dir" type="text" placeholder="Leave empty for auto-detect"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                        <p class="text-xs text-slate-500 mt-1">Path to unidic dictionary folder. Leave blank to use
+                            the default installed location.</p>
+                    </div>
+                </div>
+
+                <hr class="border-slate-700 my-6">
+
+                <!-- LLM Settings with Hide / Show Toggle -->
+                <div class="flex items-center justify-between cursor-pointer select-none mb-3 py-1 group" @click="showLlmConfig = !showLlmConfig">
+                    <h4 class="text-sm font-semibold text-slate-300 flex items-center gap-2 group-hover:text-white transition-colors">
+                        <i class="fa-solid fa-robot" :style="{ color: themeColor }"></i> LLM Configuration
+                    </h4>
+                    <button type="button" class="text-xs text-slate-400 group-hover:text-white px-2.5 py-1 rounded bg-slate-800/80 border border-slate-700/80 flex items-center gap-1.5 transition-colors">
+                        <span>{{ showLlmConfig ? 'Hide' : 'Show' }}</span>
+                        <i class="fa-solid text-[10px]" :class="showLlmConfig ? 'fa-chevron-up' : 'fa-chevron-down'"></i>
+                    </button>
+                </div>
+                <div v-show="showLlmConfig" class="space-y-4 transition-all">
+                    <!-- WebAI-to-API Tool Auto-Update Card -->
+                    <div class="bg-slate-900/80 p-3.5 rounded-lg border border-slate-700 space-y-2.5">
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center gap-2 flex-wrap">
+                                <i class="fa-solid fa-cloud-bolt text-indigo-400"></i>
+                                <span class="text-sm font-semibold text-slate-200">WebAI-to-API Tool</span>
+                                <span class="text-xs px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700 font-mono">
+                                    v{{ (webaiUpdateInfo && webaiUpdateInfo.local_version) || webaiStatus.local_version || '0.6.0' }}
+                                </span>
+                                <span v-if="webaiUpdateInfo && webaiUpdateInfo.has_update" class="text-xs px-2 py-0.5 rounded bg-amber-950/80 text-amber-300 border border-amber-700/60 flex items-center gap-1 font-medium">
+                                    <i class="fa-solid fa-circle-exclamation text-[10px]"></i> Update Available: {{ webaiUpdateInfo.latest_version }}
+                                </span>
+                                <span v-else-if="webaiUpdateInfo && !webaiUpdateInfo.has_update && webaiUpdateInfo.status === 'success'" class="text-xs px-2 py-0.5 rounded bg-emerald-950/80 text-emerald-300 border border-emerald-700/60 flex items-center gap-1 font-medium">
+                                    <i class="fa-solid fa-circle-check text-[10px]"></i> Up to Date
+                                </span>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <button type="button" @click="checkWebaiUpdate" :disabled="isCheckingWebaiUpdate || isUpdatingWebai" class="px-2.5 py-1 text-xs rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-medium transition-colors border border-slate-700 flex items-center gap-1.5 disabled:opacity-50">
+                                    <i class="fa-solid fa-arrows-rotate text-[11px]" :class="{ 'fa-spin': isCheckingWebaiUpdate }"></i> Check Update
+                                </button>
+                                <button type="button" v-if="webaiUpdateInfo && webaiUpdateInfo.has_update" @click="performWebaiUpdate" :disabled="isUpdatingWebai" class="px-3 py-1 text-xs rounded bg-indigo-600 hover:bg-indigo-500 text-white font-medium transition-colors shadow-sm flex items-center gap-1.5 disabled:opacity-50">
+                                    <i class="fa-solid fa-download text-[11px]" :class="{ 'fa-bounce': isUpdatingWebai }"></i> {{ isUpdatingWebai ? 'Updating...' : 'Update Now' }}
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="text-[11px] text-slate-400 flex items-center justify-between border-t border-slate-800/80 pt-2 font-mono">
+                            <div class="truncate">
+                                <span class="text-slate-500">Folder:</span> <code>G:\Games\DC4\dc4_tool_share\dc4_tool_share\WebAI-to-API</code>
+                            </div>
+                            <a href="https://github.com/Amm1rr/WebAI-to-API" target="_blank" class="text-indigo-400 hover:text-indigo-300 flex items-center gap-1 ml-2 flex-shrink-0">
+                                <i class="fa-brands fa-github"></i> Amm1rr/WebAI-to-API
+                            </a>
+                        </div>
+
+                        <div v-if="webaiUpdateMsg" class="text-xs p-2 rounded bg-indigo-950/40 border border-indigo-800/50 text-indigo-200">
+                            {{ webaiUpdateMsg }}
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-slate-400 mb-1">API Base URL</label>
+                            <input v-model="config.llm_api_url" type="text" placeholder="http://localhost:11434/v1"
+                                class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-slate-400 mb-1">Model Name</label>
+                            <input v-model="config.llm_model" type="text" placeholder="e.g. llama3, gemma2"
+                                class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-3 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-slate-400 mb-1">Temperature: {{
+                                config.llm_temperature || 0.3 }}</label>
+                            <input v-model.number="config.llm_temperature" type="range" min="0" max="1" step="0.05"
+                                class="w-full" :style="{ accentColor: secondaryColor }">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-slate-400 mb-1">Max Tokens</label>
+                            <input v-model.number="config.llm_max_tokens" type="number"
+                                class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-slate-400 mb-1">Context Window: {{
+                                config.llm_context_window || 5 }}</label>
+                            <input v-model.number="config.llm_context_window" type="range" min="0" max="20" step="1"
+                                class="w-full accent-emerald-500">
+                        </div>
+                    </div>
+
+                    <!-- Glossary Editor -->
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-2 flex items-center justify-between">
+                            <span><i class="fa-solid fa-book mr-1"></i> Glossary (src → dst)</span>
+                            <div class="flex gap-1">
+                                <button @click="importGlossaryFile"
+                                    class="text-xs px-2 py-0.5 rounded transition-colors"
+                                    :style="{ backgroundColor: secondaryColor + '4D', color: secondaryColor }"
+                                    title="Import from JSON file">
+                                    <i class="fa-solid fa-file-import mr-1"></i>Import
+                                </button>
+                                <button @click="exportGlossary"
+                                    class="text-xs bg-slate-600/30 text-slate-400 hover:bg-slate-600/50 px-2 py-0.5 rounded transition-colors"
+                                    title="Export glossary as JSON">
+                                    <i class="fa-solid fa-file-export mr-1"></i>Export
+                                </button>
+                                <button @click="addGlossaryEntry"
+                                    class="text-xs bg-emerald-600/30 text-emerald-400 hover:bg-emerald-600/50 px-2 py-0.5 rounded transition-colors">
+                                    <i class="fa-solid fa-plus mr-1"></i>Add
+                                </button>
+                            </div>
+                        </label>
+                        <div v-if="config.llm_glossary && config.llm_glossary.length > 0"
+                            class="bg-slate-900 border border-slate-700 rounded overflow-hidden max-h-60 overflow-y-auto custom-scrollbar">
+                            <div v-for="(entry, idx) in config.llm_glossary" :key="idx"
+                                class="flex items-center gap-2 p-2 border-b border-slate-800 last:border-0">
+                                <input v-model="entry.src" type="text" placeholder="Source (JP)"
+                                    class="w-28 bg-slate-800 border border-slate-700 rounded px-2 py-1 text-xs text-white">
+                                <i class="fa-solid fa-arrow-right text-slate-500 text-xs"></i>
+                                <input v-model="entry.dst" type="text" placeholder="Target"
+                                    class="w-28 bg-slate-800 border border-slate-700 rounded px-2 py-1 text-xs text-white">
+                                <input v-model="entry.info" type="text" placeholder="Info/note"
+                                    class="flex-1 bg-slate-800 border border-slate-700 rounded px-2 py-1 text-xs text-slate-400">
+                                <button @click="removeGlossaryEntry(idx)"
+                                    class="text-red-400 hover:text-red-300 text-xs px-1">
+                                    <i class="fa-solid fa-trash"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div v-else
+                            class="text-xs text-slate-500 bg-slate-900 border border-slate-700 rounded p-3 text-center">
+                            No glossary entries. Click "Import" to load from a JSON file or "Add" to create manually.
+                        </div>
+                    </div>
+
+                    <!-- Prompt Templates -->
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-1">Retranslate Prompt</label>
+                        <textarea v-model="config.llm_retranslate_prompt" rows="3"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-xs text-white font-mono resize-y"></textarea>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-1">Polish Prompt</label>
+                        <textarea v-model="config.llm_polish_prompt" rows="3"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-xs text-white font-mono resize-y"></textarea>
+                    </div>
+
+                    <!-- Test Connection -->
+                    <div class="flex items-center gap-3">
+                        <button @click="testLlmConnection" :disabled="llmTestLoading"
+                            class="px-4 py-2 bg-slate-700 hover:bg-slate-600 text-white rounded text-sm transition-colors disabled:opacity-50">
+                            <i v-if="llmTestLoading" class="fa-solid fa-circle-notch fa-spin mr-1"></i>
+                            <i v-else class="fa-solid fa-plug mr-1"></i>
+                            Test Connection
+                        </button>
+                        <span v-if="llmTestResult" class="text-sm"
+                            :class="llmTestResult.status === 'connected' ? 'text-emerald-400' : 'text-red-400'">
+                            <i :class="llmTestResult.status === 'connected' ? 'fa-solid fa-check-circle' : 'fa-solid fa-times-circle'"
+                                class="mr-1"></i>
+                            {{ llmTestResult.status === 'connected' ? 'Connected! Models: ' + (llmTestResult.models ||
+                            []).join(', ') : llmTestResult.message }}
+                        </span>
+                    </div>
+                </div>
+
+                <div class="mt-8 flex justify-end gap-3">
+                    <button @click="showSettings = false"
+                        class="px-4 py-2 rounded text-slate-300 hover:bg-slate-700">Cancel</button>
+                    <button @click="handleSaveConfig"
+                        class="px-4 py-2 text-white rounded hover:opacity-90 transition-colors"
+                        :style="{ backgroundColor: secondaryColor }">Save
+                        Changes</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Save As Modal -->
+        <div v-if="showSaveAs" class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+            <div class="bg-slate-800 rounded-lg shadow-xl w-full max-w-md border border-slate-700 p-6 themed-modal">
+                <div class="flex justify-between items-center mb-6">
+                    <h3 class="text-xl font-bold text-white">Save Copy As...</h3>
+                    <button @click="showSaveAs = false" class="text-slate-400 hover:text-white">
+                        <i class="fa-solid fa-xmark text-xl"></i>
+                    </button>
+                </div>
+
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-sm font-medium text-slate-400 mb-1">New Filename</label>
+                        <div class="flex items-center">
+                            <input v-model="saveAsFilename" type="text"
+                                class="flex-1 bg-slate-900 border border-slate-700 rounded-l p-2 text-sm text-white">
+                            <span
+                                class="bg-slate-700 border border-l-0 border-slate-700 rounded-r px-3 py-2 text-sm text-slate-300">.json</span>
+                        </div>
+                    </div>
+                    <p class="text-xs text-yellow-500">
+                        <i class="fa-solid fa-circle-info mr-1"></i>
+                        Note: This creates a copy. It won't automatically appear in the scenario list unless the Excel
+                        file is updated.
+                    </p>
+                </div>
+
+                <div class="mt-8 flex justify-end gap-3">
+                    <button @click="showSaveAs = false"
+                        class="px-4 py-2 rounded text-slate-300 hover:bg-slate-700">Cancel</button>
+                    <button @click="confirmSaveAs"
+                        class="px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700">Save Copy</button>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- Bulk Actions Modal -->
+        <div v-if="showBulkModal"
+            class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+            <div
+                class="bg-slate-800 rounded-lg shadow-xl w-full max-w-2xl border border-slate-700 flex flex-col max-h-[85vh] themed-modal">
+                <!-- Header -->
+                <div class="p-4 border-b border-slate-700 flex justify-between items-center shrink-0">
+                    <h3 class="text-xl font-bold text-white"><i class="fa-solid fa-layer-group mr-2"></i>Bulk Actions
+                    </h3>
+                    <button @click="closeBulkModal" class="text-slate-400 hover:text-white">
+                        <i class="fa-solid fa-xmark text-xl"></i>
+                    </button>
+                </div>
+
+                <!-- Content -->
+                <div class="p-6 flex-1 overflow-y-auto custom-scrollbar">
+
+                    <!-- Initial State: Scan -->
+                    <div v-if="bulkFiles.length === 0 && !isScanning" class="text-center py-8">
+                        <i class="fa-solid fa-magnifying-glass-chart text-6xl text-slate-600 mb-4"></i>
+                        <h4 class="text-lg font-medium text-white mb-2">Scan for Modified Files</h4>
+                        <p class="text-slate-400 mb-6 max-w-md mx-auto">
+                            This will find all files that have translations in the <span
+                                class="text-blue-400 font-mono">Better</span> or <span
+                                class="text-indigo-400 font-mono">Best</span> columns.
+                        </p>
+                        <button @click="scanForModified"
+                            class="text-white px-6 py-3 rounded-lg font-medium transition-colors shadow-lg"
+                            :style="{ backgroundColor: secondaryColor }">
+                            Scan Now
+                        </button>
+                    </div>
+
+                    <!-- Scanning State -->
+                    <div v-if="isScanning" class="text-center py-12">
+                        <i class="fa-solid fa-circle-notch fa-spin text-4xl mb-4"
+                            :style="{ color: secondaryColor }"></i>
+                        <p class="text-slate-300">Scanning project files...</p>
+                    </div>
+
+                    <!-- Results & Actions -->
+                    <div v-if="bulkFiles.length > 0 && !isScanning" class="space-y-6">
+                        <div class="flex justify-between items-center">
+                            <h4 class="text-white font-medium">Found {{ bulkFiles.length }} modified files</h4>
+                            <button @click="toggleSelectAllBulk" class="text-sm hover:opacity-80"
+                                :style="{ color: secondaryColor }">
+                                {{ selectedBulkFiles.length === bulkFiles.length ? 'Deselect All' : 'Select All' }}
+                            </button>
+                        </div>
+
+                        <!-- File List -->
+                        <div
+                            class="bg-slate-900 border border-slate-700 rounded-lg overflow-hidden max-h-60 overflow-y-auto custom-scrollbar">
+                            <div v-for="file in bulkFiles" :key="file"
+                                class="flex items-center p-3 border-b border-slate-800 last:border-0 hover:bg-slate-800/50 transition-colors">
+                                <input type="checkbox" :id="'bulk-' + file" :value="file" v-model="selectedBulkFiles"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900 mr-3"
+                                    :style="{ accentColor: secondaryColor }">
+                                <label :for="'bulk-' + file"
+                                    class="text-sm text-slate-300 font-mono cursor-pointer select-none flex-1 truncate">
+                                    {{ file }}
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Suffix Configuration -->
+                        <div class="bg-slate-900/50 p-4 rounded-lg border border-slate-700/50">
+                            <label class="block text-sm font-medium text-slate-400 mb-2">Save Copy Suffix</label>
+                            <div class="flex items-center">
+                                <span
+                                    class="bg-slate-700 border border-slate-600 rounded-l px-3 py-2 text-sm text-slate-300 font-mono">filename</span>
+                                <input v-model="bulkSuffix" type="text"
+                                    class="flex-1 bg-slate-800 border border-slate-600 p-2 text-sm text-white font-mono focus:outline-none"
+                                    :style="{ borderColor: 'transparent' }"
+                                    onfocus="this.style.borderColor=getComputedStyle(document.documentElement).getPropertyValue('--theme-secondary')"
+                                    onblur="this.style.borderColor=''">
+                                <span
+                                    class="bg-slate-700 border border-slate-600 rounded-r px-3 py-2 text-sm text-slate-300 font-mono">.json</span>
+                            </div>
+                            <p class="text-xs text-slate-500 mt-2">Example: <span
+                                    class="font-mono text-slate-400">file{{ bulkSuffix }}.json</span></p>
+                        </div>
+
+                        <div v-if="isProcessingBulk" class="text-center text-sm animate-pulse"
+                            :style="{ color: secondaryColor }">
+                            Processing files... please wait.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Footer -->
+                <div v-if="bulkFiles.length > 0 && !isScanning"
+                    class="p-4 border-t border-slate-700 flex justify-end gap-3 bg-slate-800/50">
+                    <button @click="bulkFiles = []" class="px-4 py-2 text-slate-400 hover:text-white transition-colors">
+                        Rescan
+                    </button>
+                    <button @click="performBulkSave"
+                        :disabled="selectedBulkFiles.length === 0 || !bulkSuffix || isProcessingBulk"
+                        class="px-6 py-2 bg-green-600 text-white rounded font-medium hover:bg-green-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-lg shadow-green-900/20">
+                        Process {{ selectedBulkFiles.length }} Files
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Search Modal -->
+        <div v-if="showSearchModal"
+            class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+            <div
+                class="bg-slate-800 rounded-lg shadow-xl w-full max-w-3xl border border-slate-700 flex flex-col max-h-[80vh] themed-modal">
+                <!-- Header with Tabs -->
+                <div class="border-b border-slate-700 shrink-0">
+                    <div class="p-4 pb-0 flex justify-between items-center">
+                        <h3 class="text-lg font-bold text-white"><i class="fa-solid fa-search-plus mr-2"></i>Global
+                            Search
+                        </h3>
+                        <button @click="showSearchModal = false" class="text-slate-400 hover:text-white">
+                            <i class="fa-solid fa-xmark text-xl"></i>
+                        </button>
+                    </div>
+                    <!-- Tab Buttons -->
+                    <div class="flex px-4 pt-3 gap-1">
+                        <button @click="searchModalTab = 'search'"
+                            class="px-4 py-2 text-sm font-semibold rounded-t-lg border border-b-0 transition-colors"
+                            :class="searchModalTab === 'search'
+                                ? 'border-b-0'
+                                : 'bg-transparent border-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-700/50'"
+                            :style="searchModalTab === 'search' ? { backgroundColor: secondaryColor + '33', borderColor: secondaryColor, color: secondaryColor } : {}">
+                            <i class="fa-solid fa-magnifying-glass mr-1.5"></i>Search
+                        </button>
+                        <button @click="searchModalTab = 'replace'"
+                            class="px-4 py-2 text-sm font-semibold rounded-t-lg border border-b-0 transition-colors"
+                            :class="searchModalTab === 'replace'
+                                ? 'bg-orange-600/20 border-orange-500 text-orange-400'
+                                : 'bg-transparent border-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-700/50'">
+                            <i class="fa-solid fa-right-left mr-1.5"></i>Replace
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Tab Content -->
+                <div class="p-4 bg-slate-900/50 shrink-0">
+
+                    <!-- === SEARCH TAB === -->
+                    <div v-if="searchModalTab === 'search'">
+                        <!-- Search Input -->
+                        <div class="flex gap-2 mb-3">
+                            <input v-model="globalSearchQuery" @keyup.enter="performGlobalSearch" type="text"
+                                placeholder="Enter text or regex..."
+                                class="flex-1 bg-slate-800 border border-slate-600 rounded p-2 text-white focus:outline-none"
+                                onfocus="this.style.borderColor=getComputedStyle(document.documentElement).getPropertyValue('--theme-secondary')"
+                                onblur="this.style.borderColor=''" ref="searchInput">
+                            <button @click="performGlobalSearch"
+                                class="text-white px-5 py-2 rounded font-medium transition-colors"
+                                :style="{ backgroundColor: secondaryColor }">
+                                <i class="fa-solid fa-magnifying-glass mr-1.5"></i>Search
+                            </button>
+                        </div>
+                        <!-- Search Options -->
+                        <div class="flex items-center gap-3 flex-wrap">
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="isRegexSearch"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900"
+                                    :style="{ accentColor: secondaryColor }">
+                                Use Python Regex
+                            </label>
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="searchRomaji"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900"
+                                    :style="{ accentColor: secondaryColor }">
+                                Search Romaji
+                            </label>
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="matchCase"
+                                    class="rounded bg-slate-700 border-slate-600 text-yellow-500 focus:ring-offset-slate-900">
+                                <span class="flex items-center gap-1"><i class="fa-solid fa-font text-xs"></i> Match
+                                    Case</span>
+                            </label>
+                            <span class="text-slate-600 mx-0.5">|</span>
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="searchInInitialOnly"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900"
+                                    :style="{ accentColor: secondaryColor }">
+                                Search in Initial Translation Only
+                            </label>
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="firstMatchOnly"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900"
+                                    :style="{ accentColor: secondaryColor }">
+                                First Match Per File Only
+                            </label>
+                            <span v-if="isSearching" class="text-sm ml-2 animate-pulse"
+                                :style="{ color: secondaryColor }">Searching...</span>
+                            <span v-else-if="hasSearched && searchResultCount > 0"
+                                class="text-sm text-emerald-400 ml-2 font-medium">Found {{ searchResultCount }}
+                                results</span>
+                        </div>
+                    </div>
+
+                    <!-- === REPLACE TAB === -->
+                    <div v-if="searchModalTab === 'replace'">
+                        <!-- Search Input (also in replace tab) -->
+                        <div class="flex gap-2 mb-2">
+                            <div class="flex-1 flex flex-col gap-2">
+                                <input v-model="globalSearchQuery" @keyup.enter="performGlobalSearch" type="text"
+                                    placeholder="Find text..."
+                                    class="w-full bg-slate-800 border border-slate-600 rounded p-2 text-white focus:outline-none"
+                                    onfocus="this.style.borderColor=getComputedStyle(document.documentElement).getPropertyValue('--theme-secondary')"
+                                    onblur="this.style.borderColor=''">
+                                <input v-model="globalReplaceQuery" type="text" placeholder="Replace with..."
+                                    class="w-full bg-slate-800 border border-orange-600/40 rounded p-2 text-white focus:border-orange-500 focus:outline-none">
+                            </div>
+                            <div class="flex flex-col gap-2">
+                                <button @click="performGlobalSearch"
+                                    class="text-white px-4 py-2 rounded font-medium transition-colors h-[42px]"
+                                    :style="{ backgroundColor: secondaryColor }">
+                                    <i class="fa-solid fa-magnifying-glass mr-1"></i>Find
+                                </button>
+                                <button @click="performGlobalReplace" :disabled="!globalSearchQuery || isReplacing"
+                                    class="bg-orange-600 hover:bg-orange-700 text-white px-4 py-2 rounded font-medium disabled:opacity-50 disabled:cursor-not-allowed transition-colors h-[42px]">
+                                    <i v-if="isReplacing" class="fa-solid fa-circle-notch fa-spin mr-1"></i>
+                                    <i v-else class="fa-solid fa-right-left mr-1"></i>Replace All
+                                </button>
+                            </div>
+                        </div>
+                        <!-- Replace Options -->
+                        <div class="flex items-center gap-3 flex-wrap mt-1">
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="isRegexSearch"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900"
+                                    :style="{ accentColor: secondaryColor }">
+                                Use Python Regex
+                            </label>
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="matchCase"
+                                    class="rounded bg-slate-700 border-slate-600 text-yellow-500 focus:ring-offset-slate-900">
+                                <span class="flex items-center gap-1"><i class="fa-solid fa-font text-xs"></i> Match
+                                    Case</span>
+                            </label>
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="preserveCase"
+                                    class="rounded bg-slate-700 border-slate-600 text-emerald-500 focus:ring-offset-slate-900">
+                                <span class="flex items-center gap-1"><i class="fa-solid fa-text-height text-xs"></i>
+                                    Preserve Case</span>
+                            </label>
+                            <span class="text-slate-600 mx-0.5">|</span>
+                            <label class="flex items-center gap-1.5 text-sm text-slate-300 cursor-pointer select-none">
+                                <input type="checkbox" v-model="searchInInitialOnly"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900"
+                                    :style="{ accentColor: secondaryColor }">
+                                Initial Only
+                            </label>
+                            <span v-if="isSearching" class="text-sm ml-2 animate-pulse"
+                                :style="{ color: secondaryColor }">Searching...</span>
+                            <span v-else-if="hasSearched && searchResultCount > 0"
+                                class="text-sm text-emerald-400 ml-2 font-medium">Found {{ searchResultCount }}
+                                results</span>
+                            <span v-if="replaceResultMsg" class="text-sm text-orange-400 ml-2 font-medium">{{
+                                replaceResultMsg }}</span>
+                        </div>
+                    </div>
+
+                    <!-- Scenario Mode Filter (shared) -->
+                    <div class="mt-3 pt-3 border-t border-slate-700">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="text-sm font-medium text-slate-400">Scenario Mode Filter</span>
+                            <button @click="toggleAllModes" class="text-xs hover:opacity-80"
+                                :style="{ color: secondaryColor }">
+                                {{ selectedModes.length === availableModes.length ? 'Deselect All' : 'Select All' }}
+                            </button>
+                        </div>
+                        <div v-if="availableModes.length > 0" class="flex flex-wrap gap-2">
+                            <label v-for="mode in availableModes" :key="mode"
+                                class="flex items-center gap-1.5 text-xs text-slate-300 cursor-pointer select-none bg-slate-800 px-2 py-1 rounded border border-slate-700 hover:border-slate-600 transition-colors"
+                                :class="{ 'bg-opacity-30': selectedModes.includes(mode) }"
+                                :style="selectedModes.includes(mode) ? { borderColor: secondaryColor, backgroundColor: secondaryColor + '1A' } : {}">
+                                <input type="checkbox" :value="mode" v-model="selectedModes"
+                                    class="rounded bg-slate-700 border-slate-600 focus:ring-offset-slate-900 w-3 h-3"
+                                    :style="{ accentColor: secondaryColor }">
+                                {{ mode }}
+                            </label>
+                        </div>
+                        <div v-else class="text-xs text-slate-500">Loading modes...</div>
+                    </div>
+                </div>
+
+                <!-- Results -->
+                <div class="flex-1 overflow-y-auto p-4 custom-scrollbar min-h-0">
+                    <div v-if="searchResults.length === 0 && !isSearching && hasSearched"
+                        class="text-center text-slate-500 py-8">
+                        No matches found.
+                    </div>
+
+                    <div v-for="(result, index) in searchResults" :key="index" @click="navigateToResult(result)"
+                        class="bg-slate-900 border border-slate-700 rounded p-3 mb-2 cursor-pointer hover:bg-slate-700 transition-colors group"
+                        :style="{ '--hover-border': secondaryColor }"
+                        onmouseenter="this.style.borderColor=this.style.getPropertyValue('--hover-border')"
+                        onmouseleave="this.style.borderColor=''">
+                        <div class="flex justify-between items-start mb-1">
+                            <span class="text-xs font-mono font-semibold" :style="{ color: secondaryColor }">{{
+                                result.file }}</span>
+                            <span class="text-xs text-slate-500">Line: #{{ result.id + 1 }} • {{ result.key }}</span>
+                        </div>
+                        <div
+                            class="text-sm text-slate-300 line-clamp-2 font-mono bg-slate-950/50 p-1.5 rounded border border-slate-800 group-hover:border-slate-600">
+                            {{ result.text }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- LLM Batch Modal -->
+        <div v-if="showLlmBatchModal"
+            class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+            <div
+                class="bg-slate-800 rounded-lg shadow-xl w-full max-w-2xl border border-slate-700 flex flex-col max-h-[85vh] themed-modal">
+                <!-- Header -->
+                <div class="p-4 border-b border-slate-700 flex justify-between items-center shrink-0">
+                    <h3 class="text-xl font-bold text-white"><i class="fa-solid fa-robot mr-2"></i>LLM Batch Processing
+                    </h3>
+                    <button @click="closeLlmBatchModal" class="text-slate-400 hover:text-white">
+                        <i class="fa-solid fa-xmark text-xl"></i>
+                    </button>
+                </div>
+
+                <!-- Content -->
+                <div class="p-6 flex-1 overflow-y-auto custom-scrollbar">
+                    <!-- Mode Toggle -->
+                    <div class="flex gap-2 mb-4">
+                        <button @click="llmBatchMode = 'retranslate'"
+                            class="flex-1 py-3 rounded-lg font-medium text-sm transition-all border"
+                            :class="llmBatchMode === 'retranslate'
+                                ? ''
+                                : 'bg-slate-900 border-slate-700 text-slate-400 hover:text-white hover:border-slate-600'"
+                            :style="llmBatchMode === 'retranslate' ? { backgroundColor: secondaryColor + '33', borderColor: secondaryColor, color: secondaryColor } : {}">
+                            <i class="fa-solid fa-language mr-2"></i>Retranslate
+                        </button>
+                        <button @click="llmBatchMode = 'polish'"
+                            class="flex-1 py-3 rounded-lg font-medium text-sm transition-all border"
+                            :class="llmBatchMode === 'polish'
+                                ? 'bg-amber-600/20 border-amber-500 text-amber-400'
+                                : 'bg-slate-900 border-slate-700 text-slate-400 hover:text-white hover:border-slate-600'">
+                            <i class="fa-solid fa-wand-magic-sparkles mr-2"></i>Polish
+                        </button>
+                    </div>
+
+                    <!-- Source Tab (for polish mode) -->
+                    <div v-if="llmBatchMode === 'polish'" class="mb-4">
+                        <label class="block text-sm font-medium text-slate-400 mb-1">Polish from (source tab):</label>
+                        <select v-model="llmBatchSourceTab"
+                            class="bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white focus:outline-none w-full">
+                            <option v-for="t in ['initial', 'machine', 'better', 'best']" :key="t" :value="t">{{ t }}
+                            </option>
+                        </select>
+                    </div>
+
+                    <!-- Range Options -->
+                    <div class="mb-4">
+                        <label class="block text-sm font-medium text-slate-400 mb-2">Range:</label>
+                        <div class="flex gap-3">
+                            <label
+                                class="flex items-center gap-2 text-sm text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
+                                :class="{ '': llmBatchRange === 'all' }"
+                                :style="llmBatchRange === 'all' ? { borderColor: secondaryColor, backgroundColor: secondaryColor + '1A' } : {}">
+                                <input type="radio" v-model="llmBatchRange" value="all"
+                                    class="focus:ring-offset-slate-900" :style="{ accentColor: secondaryColor }">
+                                All rows
+                            </label>
+                            <label
+                                class="flex items-center gap-2 text-sm text-slate-300 cursor-pointer select-none bg-slate-900 px-3 py-2 rounded border border-slate-700 hover:border-slate-600 transition-colors"
+                                :class="{ '': llmBatchRange === 'empty' }"
+                                :style="llmBatchRange === 'empty' ? { borderColor: secondaryColor, backgroundColor: secondaryColor + '1A' } : {}">
+                                <input type="radio" v-model="llmBatchRange" value="empty"
+                                    class="focus:ring-offset-slate-900" :style="{ accentColor: secondaryColor }">
+                                Empty polished only
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Info -->
+                    <div v-if="activeFile && !llmBatchRunning"
+                        class="bg-slate-900 border border-slate-700 rounded-lg p-4 mb-4">
+                        <div class="text-sm text-slate-300">
+                            <i class="fa-solid fa-info-circle mr-1" :style="{ color: secondaryColor }"></i>
+                            Will process <span class="font-bold text-white">{{ llmBatchItemCount }}</span> rows
+                            from <span class="font-mono" :style="{ color: secondaryColor }">{{ activeFile.file }}</span>
+                        </div>
+                        <div class="text-xs text-slate-500 mt-1">
+                            Output will be written to the <span class="font-mono text-emerald-400">polished</span>
+                            column.
+                        </div>
+                    </div>
+
+                    <div v-if="!activeFile && !llmBatchRunning" class="text-center text-slate-500 py-8">
+                        <i class="fa-solid fa-file-circle-exclamation text-4xl mb-3"></i>
+                        <p>Select a file from the sidebar first.</p>
+                    </div>
+
+                    <!-- Progress -->
+                    <div v-if="llmBatchRunning" class="space-y-4">
+                        <div class="bg-slate-900 border border-slate-700 rounded-lg p-4">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-sm text-slate-300">
+                                    Processing {{ llmBatchProgress.current }} / {{ llmBatchProgress.total }}
+                                </span>
+                                <span class="text-sm font-mono" :style="{ color: secondaryColor }">
+                                    {{ Math.round((llmBatchProgress.current / llmBatchProgress.total) * 100) }}%
+                                </span>
+                            </div>
+                            <div class="w-full bg-slate-700 rounded-full h-2">
+                                <div class="h-2 rounded-full transition-all duration-300"
+                                    :style="{ width: Math.round((llmBatchProgress.current / llmBatchProgress.total) * 100) + '%', backgroundColor: llmBatchMode === 'retranslate' ? secondaryColor : '#f59e0b' }">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Current Item Preview -->
+                        <div v-if="llmBatchCurrentItem" class="bg-slate-900 border border-slate-700 rounded-lg p-3">
+                            <div class="text-xs text-slate-500 mb-1">Current: #{{ llmBatchCurrentItem.id + 1 }}</div>
+                            <div class="text-xs text-slate-400 font-mono truncate">{{ llmBatchCurrentItem.original }}
+                            </div>
+                            <div v-if="llmBatchCurrentItem.result"
+                                class="text-xs text-emerald-400 font-mono mt-1 truncate">
+                                → {{ llmBatchCurrentItem.result }}</div>
+                        </div>
+
+                        <div v-if="llmBatchErrors.length > 0" class="text-xs text-red-400">
+                            {{ llmBatchErrors.length }} error(s) occurred during processing.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Footer -->
+                <div class="p-4 border-t border-slate-700 flex justify-end gap-3 bg-slate-800/50">
+                    <button v-if="llmBatchRunning" @click="stopLlmBatch"
+                        class="px-4 py-2 bg-red-600 hover:bg-red-700 text-white rounded font-medium transition-colors">
+                        <i class="fa-solid fa-stop mr-1"></i> Stop
+                    </button>
+                    <button v-else @click="startLlmBatch" :disabled="!activeFile || llmBatchItemCount === 0"
+                        class="px-6 py-2 text-white rounded font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed shadow-lg"
+                        :style="{ backgroundColor: llmBatchMode === 'retranslate' ? secondaryColor : '#d97706' }">
+                        <i class="fa-solid fa-play mr-1"></i>
+                        Start {{ llmBatchMode === 'retranslate' ? 'Retranslation' : 'Polishing' }}
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- New Project Modal -->
+        <div v-if="showNewProjectModal"
+            class="fixed inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center z-[110] p-4">
+            <div class="bg-slate-800 border border-slate-700 rounded-lg max-w-md w-full p-6 shadow-2xl">
+                <div class="flex justify-between items-center mb-4">
+                    <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                        <i class="fa-solid fa-folder-plus" :style="{ color: themeColor }"></i> Create New Project
+                    </h3>
+                    <button type="button" @click="showNewProjectModal = false" class="text-slate-400 hover:text-white">
+                        <i class="fa-solid fa-times"></i>
+                    </button>
+                </div>
+                <div class="space-y-4 mb-6">
+                    <div>
+                        <label class="block text-xs font-medium text-slate-400 mb-1">Project Identifier (Folder Cache Slug)</label>
+                        <input v-model="newProjIdentifier" type="text" placeholder="e.g. dc3_with_you, dc3_dream_days"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white focus:outline-none font-mono">
+                        <p class="text-[11px] text-slate-500 mt-1">Used to create isolated folder: <code>project_data/&lt;identifier&gt;</code></p>
+                    </div>
+                    <div>
+                        <label class="block text-xs font-medium text-slate-400 mb-1">Project Display Name</label>
+                        <input v-model="newProjName" type="text" placeholder="e.g. D.C.III With You"
+                            class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white focus:outline-none">
+                    </div>
+                </div>
+                <div class="flex justify-end gap-3">
+                    <button type="button" @click="showNewProjectModal = false" class="px-4 py-2 rounded text-sm text-slate-400 hover:text-white">Cancel</button>
+                    <button type="button" @click="confirmCreateProject" :style="{ backgroundColor: themeColor }" class="px-4 py-2 rounded text-sm text-white font-medium hover:opacity-90 transition-opacity">Create Project</button>
+                </div>
+            </div>
+        </div>
+
+    </div> <!-- End of #app -->
+
+
+
+    <!-- App JS -->
+    <script src="/static/js/app.js?v=2.6.0?v=2.3.0"></script>
+</body>
+
+</html>

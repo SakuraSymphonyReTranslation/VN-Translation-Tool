@@ -1,0 +1,5887 @@
+[
+    {
+        "id": 0,
+        "original": "――お別れの日まで。",
+        "translations": {
+            "initial": "-Sampai hari perpisahan tiba.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 1,
+        "original": "…………。",
+        "translations": {
+            "initial": "............。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 2,
+        "original": "その日は――。",
+        "translations": {
+            "initial": "Hari itu pun-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 3,
+        "original": "――晴れていた。",
+        "translations": {
+            "initial": "-Langit begitu cerah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 4,
+        "original": "月が出れば綺麗に見えただろう。",
+        "translations": {
+            "initial": "Jika bulan muncul, pasti akan terlihat sangat indah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 5,
+        "original": "けれど今日は月の出ない日。",
+        "translations": {
+            "initial": "Tapi hari ini adalah malam tanpa bulan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 6,
+        "original": "だから逆に、満天の星が見えるだろう。",
+        "translations": {
+            "initial": "Karena itu, sebaliknya, langit pasti akan dipenuhi oleh lautan bintang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 7,
+        "original": "星が瞬く中で、彼女は元の世界に帰っていく。",
+        "translations": {
+            "initial": "Di tengah kerlip bintang-bintang, dia akan pulang kembali ke dunianya yang semula.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 8,
+        "original": "最後の日、俺たちは実家にいた。",
+        "translations": {
+            "initial": "Pada hari terakhir, kami berada di rumah lama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 9,
+        "original": "二人並んで座って、持ってきた飲み物を飲んだ。",
+        "translations": {
+            "initial": "Duduk berdampingan berdua, kami meminum minuman yang sudah dibawa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 10,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 11,
+        "original": "「さすがに、張り切り過ぎましたね」",
+        "translations": {
+            "initial": "「Sepertinya, aku terlalu bersemangat ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 12,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 13,
+        "original": "「ああ。まさか、デートの場所がなくなるとは」",
+        "translations": {
+            "initial": "「Ahaha. Gak nyangka kalau kita bakal kehabisan tempat buat kencan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 14,
+        "original": "この二週間、詩名が綿密な計画を立ててくれたおかげで、島のほとんどの場所を回った。",
+        "translations": {
+            "initial": "Berkat rencana mendalam yang Shiina susun selama dua minggu ini, hampir seluruh sudut pulau sudah kami kunjungi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 15,
+        "original": "そして今日、行く場所が残っていないことに気が付いた。",
+        "translations": {
+            "initial": "Lalu hari ini, kami baru sadar kalau sudah tidak ada lagi tempat yang tersisa untuk didatangi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 16,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 17,
+        "original": "「最後なんだし、なんかすごいことしたかったのにな。……フラッシュモブとか？」",
+        "translations": {
+            "initial": "「Padahal ini hari terakhir, aku ingin melakukan sesuatu yang luar biasa... Apa perlu kita buat flash mob？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 18,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 19,
+        "original": "「私、そんな中で元の世界に送られるの嫌ですけど」",
+        "translations": {
+            "initial": "「Aku gak mau ya dikirim balik ke dunia asalku di tengah keramaian seperti itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 20,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 21,
+        "original": "「俺もそんな情緒ないのは嫌だ」",
+        "translations": {
+            "initial": "「Aku juga gak mau sih, suasananya jadi gak puitis banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 22,
+        "original": "詩名の視線が『じゃあ、何で言ったんですか……』と、言っていた。",
+        "translations": {
+            "initial": "Tatap mata Shiina seolah berkata, 『Kalau gitu, kenapa tadi diomongin...』.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 23,
+        "original": "きっとこの時、俺たちは無理をしていた。",
+        "translations": {
+            "initial": "Pasti saat itu, kami berdua sedang memaksakan diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 24,
+        "original": "あえて『最後』とか『元の世界に』とか、そんなことを言っていた。",
+        "translations": {
+            "initial": "Kami sengaja mengucapkan kata-kata seperti 『terakhir』 atau 『kembali ke dunia asal』.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 25,
+        "original": "それでも努めて明るく『大丈夫』というのを演出していた。",
+        "translations": {
+            "initial": "Meski begitu, kami berusaha keras bersikap ceria dan berpura-pura bahwa semuanya 『baik-baik saja』.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 26,
+        "original": "それはもしかしたら、いらない強がりだったかもしれないけど。",
+        "translations": {
+            "initial": "Mungkin saja itu hanyalah rasa gengsi yang sebenarnya tidak perlu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 27,
+        "original": "でも……俺と詩名らしかった。",
+        "translations": {
+            "initial": "Tapi... begitulah cara aku dan Shiina-san menghadapi sesuatu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 28,
+        "original": "こういうのが、俺たちの形なんだなって……。",
+        "translations": {
+            "initial": "Aku merasa... inilah cara kami yang sebenarnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 29,
+        "original": "そう思った。",
+        "translations": {
+            "initial": "Itulah yang kupikirkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 30,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 31,
+        "original": "「ちなみに私……元の世界に帰るのを、他の人に知られたくないって話をしましたよね？」",
+        "translations": {
+            "initial": "「Ngomong-ngomong, aku... pernah bilang kan kalau aku gak mau orang lain tahu soal kepulanganku ke dunia asal？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 32,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 33,
+        "original": "「したな」",
+        "translations": {
+            "initial": "「Sudah ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 34,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 35,
+        "original": "「誰にも知らせてませんよね？」",
+        "translations": {
+            "initial": "「Enggak memberitahu siapa pun, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 36,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 37,
+        "original": "「ああ、大丈夫だ」",
+        "translations": {
+            "initial": "「Iya, tenang saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 38,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 39,
+        "original": "「本当に知らせてないんですか？」",
+        "translations": {
+            "initial": "「Benar-benar enggak kasih tahu siapa-siapa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 40,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 41,
+        "original": "「知らせてない。約束は守る」",
+        "translations": {
+            "initial": "「Enggak. Aku pegang janjiku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 42,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 43,
+        "original": "「サプライズで登場したり……」",
+        "translations": {
+            "initial": "「Bukannya mau muncul sebagai kejutan atau semacamnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 44,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 45,
+        "original": "「しないよ」",
+        "translations": {
+            "initial": "「Enggak akan kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 46,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 47,
+        "original": "「@t49@d1@t80@d2水鏡湖に行ったら、グランドピアノが置いてあって、日野原さんが『あの時の演奏者の最後の演奏です』なんて言いながら、マイチューブで実況して」",
+        "translations": {
+            "initial": "「@t49@d1@t80@d2Saat tiba di Danau Mikagami, ada piano grand yang sudah siap, lalu Pak Hinohara bilang 『Inilah penampilan terakhir dari sang pianis waktu itu』 sambil melakukan siaran langsung di MyTube」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 48,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 49,
+        "original": "「@t86@d1ＳＳＲのみなさんに花束とかもらって、ピアノを弾いてる私が消えていく……。視聴者は大号泣……。そんな感動的な演出の準備は……」",
+        "translations": {
+            "initial": "「@t86@d1Lalu aku menerima buket bunga dari anak-anak SSR, dan sosokku yang sedang bermain piano perlahan menghilang... Penonton pun menangis tersedu-sedu... Apa persiapan untuk panggung yang mengharukan seperti itu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 50,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 51,
+        "original": "「し、してないけど……もしかして詩名……そういうことしたかったのか？」",
+        "translations": {
+            "initial": "「E-Enggak ada sih... tapi jangan-jangan Shiina... kamu memang ingin hal seperti itu？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 52,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 53,
+        "original": "「@t28@d1そういうわけじゃありませんけど……。常坂さんは、私のためになにしてくれるのかなーって、思ってました」",
+        "translations": {
+            "initial": "「@t28@d1Bukan begitu maksudku... Cuma, aku sempat berpikir, apa sih yang bakal dilakukan Tokisaka-san untukku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 54,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 55,
+        "original": "「いや……」",
+        "translations": {
+            "initial": "「Yah...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 56,
+        "original": "そう言う準備は特にしてなかった……。",
+        "translations": {
+            "initial": "Aku memang sama sekali tidak menyiapkan hal-hal semacam itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 57,
+        "original": "というか。",
+        "translations": {
+            "initial": "Lagipula.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 58,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 59,
+        "original": "「俺としては……最後に一緒にいる人間に、俺を選んでくれたのが嬉しくて、他の人を巻き込みたくなかったんだけどな」",
+        "translations": {
+            "initial": "「Bagiku... aku merasa senang karena kamu memilihku sebagai orang terakhir yang menemanimu, jadi aku enggak mau melibatkan orang lain」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 60,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 61,
+        "original": "「何だろう、寂しさとか、悲しさとか、空虚感とか……そういうのも独り占めしたい」",
+        "translations": {
+            "initial": "「Entahlah, rasa kesepian, kesedihan, kehampaan... aku ingin menyimpan semuanya untuk diriku sendiri」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 62,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 63,
+        "original": "「ふーん。常坂さん……ちょっとかわいいですね」",
+        "translations": {
+            "initial": "「He~ Tokisaka-san... ternyata lumayan manis juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 64,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 65,
+        "original": "「そ、そうかな？」",
+        "translations": {
+            "initial": "「Ma-masa sih？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 66,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 67,
+        "original": "「若干、ストーカー気質っぽいですけど。しかも、女ストーカー」",
+        "translations": {
+            "initial": "「Agak sedikit mirip sifat penguntit ya. Mana penguntit perempuan pula」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 68,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 69,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 70,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 71,
+        "original": "「でも……。私も二人がいいです」",
+        "translations": {
+            "initial": "「Tapi... aku juga lebih suka berduaan saja」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 72,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 73,
+        "original": "「……うん」",
+        "translations": {
+            "initial": "「...Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 74,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 75,
+        "original": "「@t58@d1二人でいいです。二人で一緒にいられれば……それで、それだけで……いいんです」",
+        "translations": {
+            "initial": "「@t58@d1Berdua saja sudah cukup. Asalkan kita bisa terus bersama... itu saja, cuma itu saja sudah... cukup bagi aku」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 76,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 77,
+        "original": "「……そうだな」",
+        "translations": {
+            "initial": "「...Benar juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 78,
+        "original": "けれど俺たちは、今からその逆をやろうとしている。",
+        "translations": {
+            "initial": "Namun kami justru hendak melakukan hal yang sebaliknya sekarang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 79,
+        "original": "詩名を、元の世界に戻そうとしている。",
+        "translations": {
+            "initial": "Aku sedang berusaha mengembalikan Shiina ke dunia asalnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 80,
+        "original": "たった一つ『二人でいられればいい』という願いを、叶えられなくしようとしている。",
+        "translations": {
+            "initial": "Satu-satunya keinginan kami, yaitu 'asalkan bisa bersama', akan menjadi mustahil untuk dikabulkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 81,
+        "original": "本当に……それでいいのだろうか？",
+        "translations": {
+            "initial": "Apakah... ini benar-benar pilihan yang tepat？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 82,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 83,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 84,
+        "original": "詩名と目が合った。",
+        "translations": {
+            "initial": "Mataku dan Shiina saling bertemu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 85,
+        "original": "でも……。",
+        "translations": {
+            "initial": "Tapi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 86,
+        "original": "……それだけだった。",
+        "translations": {
+            "initial": "...Hanya sebatas itu saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 87,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 88,
+        "original": "「ゲームでもするか？」",
+        "translations": {
+            "initial": "「Mau main game？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 89,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 90,
+        "original": "「いいですね。でも、私との最後の思い出が、惨敗の記憶でいいんですか？」",
+        "translations": {
+            "initial": "「Boleh juga. Tapi, apa Kakak yakin ingin kenangan terakhir bersamaku adalah memori kekalahan telak？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 91,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 92,
+        "original": "「ふっ……あの頃のままの俺だと思わないでもらおうか！」",
+        "translations": {
+            "initial": "「Heh... jangan pikir aku masih sama payahnya seperti dulu！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 93,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 94,
+        "original": "「言いましたね？後悔しても知りませんよ？」",
+        "translations": {
+            "initial": "「Sudah bilang begitu ya? Jangan menyesal lho nanti」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 95,
+        "original": "俺たちは、あえて……いつものように過ごした。",
+        "translations": {
+            "initial": "Kami pun sengaja... menghabiskan waktu seperti biasanya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 96,
+        "original": "そして――",
+        "translations": {
+            "initial": "Lalu-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 97,
+        "original": "夜がやってきた。",
+        "translations": {
+            "initial": "Malam pun tiba.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 98,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 99,
+        "original": "「そろそろ行くか」",
+        "translations": {
+            "initial": "「Ayo berangkat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 100,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 101,
+        "original": "「そうですね。もうこんな時間ですしね」",
+        "translations": {
+            "initial": "「Iya benar. Sudah jam segini juga ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 102,
+        "original": "俺と詩名は、コンビニでも行くかのように、家を出る。",
+        "translations": {
+            "initial": "Aku dan Shiina keluar rumah dengan santai, seolah-olah hanya ingin pergi ke minimarket.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 103,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 104,
+        "original": "「あ、一応」",
+        "translations": {
+            "initial": "「Ah, sekadar info」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 105,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 106,
+        "original": "「ちょっと、詩名を送ってくるから」",
+        "translations": {
+            "initial": "「Aku mau mengantar Shiina sebentar ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 107,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 108,
+        "original": "「@t8@d1@t8@d2はい。というか、鳳城さんが来てるなら言ってくださいよ。私もお話ししたいんですから」",
+        "translations": {
+            "initial": "「@t8@d1@t8@d2Iya. Tapi kalau Houjou-san datang, kasih tahu dong. Aku kan juga mau ngobrol dengannya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 109,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 110,
+        "original": "「また今度、お願いします」",
+        "translations": {
+            "initial": "「Lain kali ya, tolong kerja samanya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 111,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 112,
+        "original": "「はい、じゃあ約束ですよ」",
+        "translations": {
+            "initial": "「Sip, janji ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 113,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 114,
+        "original": "「気を付けてね、二人とも」",
+        "translations": {
+            "initial": "「Hati-hati ya, kalian berdua」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 115,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 116,
+        "original": "「ありがとうございます」",
+        "translations": {
+            "initial": "「Terima kasih banyak」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 117,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 118,
+        "original": "「あ、ちょっと遅くなるかもしれないから」",
+        "translations": {
+            "initial": "「Ah, mungkin aku bakal pulang agak telat」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 119,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 120,
+        "original": "「@t30@d1うん。信用してるけど……鳳城さんに、変なこととか」",
+        "translations": {
+            "initial": "「@t30@d1Iya. Aku percaya sih... tapi, hal aneh-aneh kepada Houjou-san itu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 121,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 122,
+        "original": "「しないよ！」",
+        "translations": {
+            "initial": "「Gak bakal kulakukan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 123,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 124,
+        "original": "「してくれ……ないんですか？」",
+        "translations": {
+            "initial": "「Gak mau... melakukan sesuatu padaku？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 125,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 126,
+        "original": "「え？」",
+        "translations": {
+            "initial": "「Eh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 127,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 128,
+        "original": "「冗談です」",
+        "translations": {
+            "initial": "「Bercanda kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 129,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 130,
+        "original": "「ぐっ！」",
+        "translations": {
+            "initial": "「Ugh！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 131,
+        "original": "二乃",
+        "translations": {
+            "initial": "Nino",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 132,
+        "original": "「ふふっ、兄さん純情ですねー」",
+        "translations": {
+            "initial": "「Hehe, Nii-san lugu banget ya~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 133,
+        "original": "諳子",
+        "translations": {
+            "initial": "Sorane",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 134,
+        "original": "「もう、あんまりからかわないであげてね……ふふっ」",
+        "translations": {
+            "initial": "「Sudahlah, jangan terus menggodanya... Hehe」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 135,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 136,
+        "original": "「@t18@d1ふふっ。はい、気を付けます」",
+        "translations": {
+            "initial": "「@t18@d1Hehe. Baik, aku akan berhati-hati」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 137,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 138,
+        "original": "「あーーーーーー！お前らぁ！！！」",
+        "translations": {
+            "initial": "「Aaaaaaaah！ Kalian semuaaa！！！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 139,
+        "original": "最後まで……。",
+        "translations": {
+            "initial": "Sampai akhir pun....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 140,
+        "original": "いや、最後だから、そんな感じだった。",
+        "translations": {
+            "initial": "Gak, justru karena ini yang terakhir, suasananya jadi seperti itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 141,
+        "original": "水鏡湖に向かいながら……。",
+        "translations": {
+            "initial": "Sambil menuju Danau Mikagami....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 142,
+        "original": "……俺たちは無言だった。",
+        "translations": {
+            "initial": "...Kami semua terdiam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 143,
+        "original": "悪い意味じゃなくて、そんな時間をも共有しているような。",
+        "translations": {
+            "initial": "Bukan dalam arti yang buruk, tapi seolah kami sedang berbagi momen itu bersama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 144,
+        "original": "そんな感覚。",
+        "translations": {
+            "initial": "Rasanya seperti itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 145,
+        "original": "そして水鏡湖に到着すると、準備を始めた。",
+        "translations": {
+            "initial": "Lalu setibanya di Danau Mikagami, kami mulai bersiap.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 146,
+        "original": "と言っても、鏡付きの懐中時計を用意するだけだけど。",
+        "translations": {
+            "initial": "Meski begitu, persiapannya cuma menyiapkan jam saku dengan cermin saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 147,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 148,
+        "original": "「……始めましょうか」",
+        "translations": {
+            "initial": "「...Mari kita mulai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 149,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 150,
+        "original": "「ああ、その前に！みんなに言っておくことはあるか？みんなに会った時に伝えておいてやるよ」",
+        "translations": {
+            "initial": "「Ah, tunggu sebentar！ Ada yang mau kalian sampaikan pada mereka？ Nanti akan aku sampaikan saat bertemu mereka」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 151,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 152,
+        "original": "「@t26@d1あ、そうですね……。それじゃあ」",
+        "translations": {
+            "initial": "「@t26@d1Ah, benar juga ya.... Kalau begitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 153,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 154,
+        "original": "「@t27@d1まずは、逢見さん……優しくて……見守っててくれて、大好きでした。あなたみたいな人がお姉さんだったらなって……思いました」",
+        "translations": {
+            "initial": "「@t27@d1Pertama, untuk Oumi-san... Kamu sangat baik dan selalu menjagaku, aku sangat menyukaimu. Aku sempat berpikir... alangkah indahnya jika punya kakak sepertimu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 155,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 156,
+        "original": "「もしまた出会えたら……お料理……教えてください」",
+        "translations": {
+            "initial": "「Kalau kita bisa bertemu lagi... tolong ajari aku... memasak ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 157,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 158,
+        "original": "「伝えとくよ」",
+        "translations": {
+            "initial": "「Akan aku sampaikan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 159,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 160,
+        "original": "「@t61@d1二乃さん。私を受け入れてくれてありがとうございます。あの家は、あの空間は……きっとあなたにとって大切なもの……」",
+        "translations": {
+            "initial": "「@t61@d1Nino-san. Terima kasih sudah menerimaku. Rumah itu, ruang itu... pasti sangat berharga bagimu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 161,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 162,
+        "original": "「そこに私を迎え入れてくれて……本当に嬉しかった。本当にやさしくて……もっと、いっぱい喋りたかった」",
+        "translations": {
+            "initial": "「Aku benar-benar senang kamu mau menyambutku di sana. Kamu sungguh baik... aku ingin mengobrol lebih banyak lagi denganmu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 163,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 164,
+        "original": "「もしまた出会えたら……ちゃんとお友達になりたい、一緒にお出かけしたいです……」",
+        "translations": {
+            "initial": "Kalau kita bisa ketemu lagi... aku ingin jadi temanmu yang sesungguhnya, aku ingin jalan-jalan bareng...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 165,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 166,
+        "original": "「それも、伝えておく……」",
+        "translations": {
+            "initial": "Itu juga... bakal kusampaikan...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 167,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 168,
+        "original": "「@t75@d1では、ＳＳＲのみなさん。次に会う時は、仲間に入れてください……よろしくお願いします」",
+        "translations": {
+            "initial": "@t75@d1Kalau begitu, semuanya di SSR. Lain kali kita ketemu, tolong izinkan aku gabung... mohon bantuannya, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 169,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 170,
+        "original": "「きっとみんな、大喜びだ」",
+        "translations": {
+            "initial": "Pasti semuanya bakal senang banget.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 171,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 172,
+        "original": "「@t42@d1えー……っと、杉並さん！私のゲームのライバル！今度会う時は、圧勝してみせます！」",
+        "translations": {
+            "initial": "@t42@d1Emm... anu, Suginami-san！ Rival main game-ku！ Waktu ketemu nanti, aku bakal menang telak！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 173,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 174,
+        "original": "「せいぜい負けないように、腕を磨いててください！いい勝負を期待してます」",
+        "translations": {
+            "initial": "Asah terus skill-mu biar nggak kalah, ya！ Aku nunggu pertandingan yang seru.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 175,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 176,
+        "original": "「@t70@d1@t119@d2あと……ＳＳＲへのお誘い、断っててごめんなさい。活動させてもらった一日……楽しかったです。あの誘い、もっと早く乗ってたらよかったなって思ってます」",
+        "translations": {
+            "initial": "@t70@d1@t119@d2Terus... maaf ya aku nolak ajakan masuk SSR. Sehari berkegiatan bareng kalian... rasanya menyenangkan. Aku jadi mikir, coba aja aku terima ajakan itu lebih awal.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 177,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 178,
+        "original": "「あいつ、そういうところすごいよなぁ」",
+        "translations": {
+            "initial": "Dia itu... kalau soal begini memang hebat, ya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 179,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 180,
+        "original": "「@t25@d1日野原さん……。……大好き。ありがとう……」",
+        "translations": {
+            "initial": "@t25@d1Hinohara-san... ...Aku sayang banget sama kamu. Makasih...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 181,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 182,
+        "original": "「ごめんね……何も言わずいなくなって……。もしまた会えたら、私のこと怒っていいから……」",
+        "translations": {
+            "initial": "Maaf ya... aku pergi tanpa bilang apa-apa... Kalau kita ketemu lagi, kamu boleh marah sama aku kok...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 183,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 184,
+        "original": "「あなたがいたから、楽しかった……。ばいばい……」",
+        "translations": {
+            "initial": "Karena ada kamu, semuanya jadi menyenangkan... Bye-bye...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 185,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 186,
+        "original": "「きっと……言わなくても、ちょこには伝わってるよ」",
+        "translations": {
+            "initial": "Pasti... walau nggak diucapin pun, perasaanmu nyampe kok ke CHOCO.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 187,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 188,
+        "original": "「@t15@d1……では、始めましょうか？」",
+        "translations": {
+            "initial": "@t15@d1...Kalau begitu, kita mulai？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 189,
+        "original": "『……俺は？』と聞こうとして、やめた。",
+        "translations": {
+            "initial": "Aku hendak bertanya, \"...Kalau aku？\", namun kuurungkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 190,
+        "original": "たぶん、お互い悔いが残るから。",
+        "translations": {
+            "initial": "Mungkin karena itu hanya akan menyisakan penyesalan bagi kami berdua.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 191,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 192,
+        "original": "「よし！始めるか！」",
+        "translations": {
+            "initial": "Oke！ Ayo mulai！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 193,
+        "original": "そうして、お別れの儀式は……。",
+        "translations": {
+            "initial": "Dan begitulah, upacara perpisahan itu...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 194,
+        "original": "あっさりと始まった。",
+        "translations": {
+            "initial": "Dimulai dengan begitu saja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 195,
+        "original": "やるべきことは全部済ませた。",
+        "translations": {
+            "initial": "Semua yang harus kulakukan sudah selesai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 196,
+        "original": "やり残したことはない。",
+        "translations": {
+            "initial": "Tak ada lagi yang tertinggal.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 197,
+        "original": "……表向きは。",
+        "translations": {
+            "initial": "......Setidaknya secara lahiriah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 198,
+        "original": "本当は、やり残したことが浮かばないように……すぐに始めた。",
+        "translations": {
+            "initial": "Sebenarnya, aku segera memulainya...... agar hal-hal yang belum terselesaikan tidak muncul di benakku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 199,
+        "original": "俺と詩名の思い出の一つでも語りたかったけど。",
+        "translations": {
+            "initial": "Aku ingin membicarakan setidaknya satu kenangan antara aku dan Shiina-chan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 200,
+        "original": "きっと躊躇いが生まれる。",
+        "translations": {
+            "initial": "Tapi itu pasti akan menimbulkan keraguan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 201,
+        "original": "……だから、何も言わずに始めた。",
+        "translations": {
+            "initial": "......Makanya, aku memulainya tanpa mengucapkan sepatah kata pun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 202,
+        "original": "懐中時計を、詩名と二人で握る。",
+        "translations": {
+            "initial": "Aku dan Shiina-chan menggenggam jam saku itu bersama-sama.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 203,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 204,
+        "original": "「戻りたい世界のことを考えて……」",
+        "translations": {
+            "initial": "「Pikirkan tentang dunia yang ingin kamu tuju......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 205,
+        "original": "詩名がコクリと頷くと。",
+        "translations": {
+            "initial": "Shiina-chan mengangguk pelan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 206,
+        "original": "光が――",
+        "translations": {
+            "initial": "Cahayanya-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 207,
+        "original": "――強くなっていく。",
+        "translations": {
+            "initial": "-kian bertambah terang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 208,
+        "original": "あの日、ジジイに会った時のように。",
+        "translations": {
+            "initial": "Sama seperti saat aku bertemu Pak Tua hari itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 209,
+        "original": "魔法が発動している。",
+        "translations": {
+            "initial": "Sihirnya sedang bekerja.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 210,
+        "original": "世界を――移動する魔法が。",
+        "translations": {
+            "initial": "Sihir yang akan...... memindahkan dunia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 211,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 212,
+        "original": "「さようならだ……詩名」",
+        "translations": {
+            "initial": "「Selamat tinggal...... Shiina-chan」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 213,
+        "original": "思い浮かぶのは――。",
+        "translations": {
+            "initial": "Yang terlintas di pikiranku adalah-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 214,
+        "original": "出会った時――。",
+        "translations": {
+            "initial": "Saat pertama kali kita bertemu-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 215,
+        "original": "意外な部分を知った時――。",
+        "translations": {
+            "initial": "Saat aku mengetahui sisi tak terduga darinya-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 216,
+        "original": "ムキになって一緒に遊んだ時――。",
+        "translations": {
+            "initial": "Saat kita bermain bersama dengan penuh semangat-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 217,
+        "original": "少し、怒られた時――。",
+        "translations": {
+            "initial": "Saat dia sedikit memarahiku-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 218,
+        "original": "彼女を好きになった時――。",
+        "translations": {
+            "initial": "Saat aku mulai menyukainya-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 219,
+        "original": "彼女に、少し戸惑った時――。",
+        "translations": {
+            "initial": "Saat aku merasa sedikit bingung dengannya-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 220,
+        "original": "別れることが決まった時――。",
+        "translations": {
+            "initial": "Saat perpisahan telah diputuskan-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 221,
+        "original": "ほんの少しの、甘い時――。",
+        "translations": {
+            "initial": "Momen-momen manis yang singkat-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 222,
+        "original": "そして……。",
+        "translations": {
+            "initial": "Dan juga.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 223,
+        "original": "何度も何度もした連弾――。",
+        "translations": {
+            "initial": "Permainan duet piano yang kita lakukan berulang kali-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 224,
+        "original": "詩名と重ねた時間。",
+        "translations": {
+            "initial": "Waktu yang kuhabiskan bersama Shiina-chan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 225,
+        "original": "彼女と過ごした記憶――。",
+        "translations": {
+            "initial": "Kenangan saat bersamanya-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 226,
+        "original": "それを今……崩す。",
+        "translations": {
+            "initial": "Sekarang...... aku akan menghancurkan itu semua.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 227,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 228,
+        "original": "「～～～～～～～～～～～～っ！」",
+        "translations": {
+            "initial": "「Haaaahhhhhhh...！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 229,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 230,
+        "original": "「詩名――どうした？」",
+        "translations": {
+            "initial": "「Shiina- ada apa？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 231,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 232,
+        "original": "「ときっ――常坂さん！」",
+        "translations": {
+            "initial": "「Toki- Tokisaka-san！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 233,
+        "original": "俺はこの時、どんな顔をしていただろう？",
+        "translations": {
+            "initial": "Saat ini, entah seperti apa ekspresi yang kupasang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 234,
+        "original": "詩名は――。",
+        "translations": {
+            "initial": "Sedangkan Shiina-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 235,
+        "original": "寂しさと、悲しさを笑顔で塗りつぶそうとした、グシャグシャの表情をしていた。",
+        "translations": {
+            "initial": "Dia menunjukkan ekspresi kacau, berusaha menutupi rasa kesepian dan kesedihannya dengan senyuman.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 236,
+        "original": "そんな……顔をされたら……！",
+        "translations": {
+            "initial": "Kalau dia memasang wajah seperti itu...！",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 237,
+        "original": "俺は――。",
+        "translations": {
+            "initial": "Aku-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 238,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 239,
+        "original": "「私――」",
+        "translations": {
+            "initial": "「Aku-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 240,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 241,
+        "original": "「――――！」",
+        "translations": {
+            "initial": "「--！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 242,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 243,
+        "original": "「好きです――大好きです――。アナタのことが――常坂さんのことが――大好きなんです！」",
+        "translations": {
+            "initial": "「Aku suka- aku sayang banget sama kamu. Aku- benar-benar sayang sama Tokisaka-san！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 244,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 245,
+        "original": "「ごめんなさい――言わないって決めてたのに！やっぱり――ここに！――ここにいたい！」",
+        "translations": {
+            "initial": "「Maafkan aku- padahal aku sudah berjanji nggak akan mengatakannya！ Tapi tetap saja- di sini！ Aku ingin tetap di sini！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 246,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 247,
+        "original": "「アナタのことが大好きだから――！アナタと一緒にいたい！」",
+        "translations": {
+            "initial": "「Karena aku sayang banget sama kamu-！ Aku ingin terus bersamamu！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 248,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 249,
+        "original": "「――詩名！」",
+        "translations": {
+            "initial": "「-Shiina！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 250,
+        "original": "それは。",
+        "translations": {
+            "initial": "Itu adalah...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 251,
+        "original": "俺たちが絶対に口にしなかった……その言葉。",
+        "translations": {
+            "initial": "Kata-kata yang selama ini mutlak tidak pernah kami ucapkan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 252,
+        "original": "その瞬間……光が少しずつ収まっていく。",
+        "translations": {
+            "initial": "Di saat itu juga... cahaya mulai meredup sedikit demi sedikit.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 253,
+        "original": "魔法が……消えていく。",
+        "translations": {
+            "initial": "Sihirnya... mulai menghilang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 254,
+        "original": "詩名の世界が、遠ざかっていく。",
+        "translations": {
+            "initial": "Dunia milik Shiina pun semakin menjauh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 255,
+        "original": "でも、それでも……。",
+        "translations": {
+            "initial": "Namun, meski begitu...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 256,
+        "original": "構わない……だって――",
+        "translations": {
+            "initial": "Tidak apa-apa... karena-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 257,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 258,
+        "original": "「俺もお前のことが、詩名のことが――」",
+        "translations": {
+            "initial": "「Aku juga sayang sama kamu, sama Shiina-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 259,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 260,
+        "original": "「好――」",
+        "translations": {
+            "initial": "「Aku su-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 261,
+        "original": "『好きだから』……そう言おうと思った瞬間。",
+        "translations": {
+            "initial": "『Karena aku menyukaimu』... Tepat di saat aku hendak mengucapkannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 262,
+        "original": "なぜか思い出したのは……。",
+        "translations": {
+            "initial": "Entah kenapa, yang terlintas di pikiranku adalah...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 263,
+        "original": "……父さんと母さんと……三美のことだった。",
+        "translations": {
+            "initial": "...Ayah, Ibu... dan juga Mitsumi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 264,
+        "original": "家族が急にいなくなる寂しさ。",
+        "translations": {
+            "initial": "Rasa kesepian saat anggota keluarga tiba-tiba menghilang.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 265,
+        "original": "それを――思い出した。",
+        "translations": {
+            "initial": "Aku-teringat akan hal itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 266,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 267,
+        "original": "「……好きだよ」",
+        "translations": {
+            "initial": "「...Aku menyukaimu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 268,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 269,
+        "original": "「――はいっ！」",
+        "translations": {
+            "initial": "「-Iya！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 270,
+        "original": "ダメだ……。",
+        "translations": {
+            "initial": "Gak boleh begini...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 271,
+        "original": "表情を作れ……。",
+        "translations": {
+            "initial": "Buat ekspresi wajah yang benar...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 272,
+        "original": "余裕のある……。",
+        "translations": {
+            "initial": "Yang tenang...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 273,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 274,
+        "original": "「大好きだ……だって……」",
+        "translations": {
+            "initial": "「Aku sayang padamu... Karena...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 275,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 276,
+        "original": "「だってさ……お前は……俺の娘だから……」",
+        "translations": {
+            "initial": "「Karena... Kamu adalah... putriku...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 277,
+        "original": "……父親の表情を。",
+        "translations": {
+            "initial": "...Ekspresi wajah sebagai seorang ayah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 278,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 279,
+        "original": "「……え？」",
+        "translations": {
+            "initial": "「...Eh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 280,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 281,
+        "original": "「だから、好きに決まってる！」",
+        "translations": {
+            "initial": "「Makanya, sudah pasti aku menyukaimu！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 282,
+        "original": "詩名の家族は……きっと、あの時の俺と同じ思いをしている。",
+        "translations": {
+            "initial": "Keluarga Shiina... pasti merasakan hal yang sama denganku saat itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 283,
+        "original": "急に家族がいなくなって。",
+        "translations": {
+            "initial": "Saat anggota keluarga menghilang secara tiba-tiba.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 284,
+        "original": "どうしようもなくなっている。",
+        "translations": {
+            "initial": "Dan mereka tidak bisa berbuat apa-apa.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 285,
+        "original": "家にある、彼女の残り香に、心をかき乱される。",
+        "translations": {
+            "initial": "Hati yang terguncang oleh sisa aroma kehadirannya yang masih tertinggal di rumah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 286,
+        "original": "ドアが揺れる音を聞くたびに、帰って来たのかと期待をして。",
+        "translations": {
+            "initial": "Setiap mendengar suara pintu berderit, mereka berharap dia telah kembali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 287,
+        "original": "スーパーで、彼女の好物を見るたびに胸が締め付けられ。",
+        "translations": {
+            "initial": "Setiap melihat makanan kesukaannya di supermarket, dada terasa sesak.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 288,
+        "original": "家に帰った時に、迎えに来ない足音に絶望して。",
+        "translations": {
+            "initial": "Saat pulang ke rumah, mereka merasa putus asa karena tidak mendengar langkah kaki yang menyambut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 289,
+        "original": "夢で会い。",
+        "translations": {
+            "initial": "Bertemu dalam mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 290,
+        "original": "起きた部屋の静けさに戸惑い。",
+        "translations": {
+            "initial": "Lalu merasa bingung dalam keheningan kamar saat terbangun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 291,
+        "original": "夢で抱きしめ。",
+        "translations": {
+            "initial": "Memeluknya dalam mimpi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 292,
+        "original": "起きた時、空の温もりをもう一度抱きしめ……もういないんだなと、再認識する。",
+        "translations": {
+            "initial": "Saat terbangun, aku kembali memeluk sisa kehangatan itu... dan sekali lagi menyadari bahwa dia sudah tidak ada.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 293,
+        "original": "期待と、裏切りと、思い出と、空虚さと、納得と、後悔に翻弄され。",
+        "translations": {
+            "initial": "Dipermainkan oleh harapan, pengkhianatan, kenangan, kekosongan, penerimaan, dan penyesalan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 294,
+        "original": "日々をすり減らしていく。",
+        "translations": {
+            "initial": "Hari-hari pun berlalu dengan perasaan yang kian terkikis.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 295,
+        "original": "そんな思いを知っている俺には……言えなかった。",
+        "translations": {
+            "initial": "Karena aku tahu betul rasanya... aku tidak bisa mengatakannya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 296,
+        "original": "女の子として……恋人として、好きだって。",
+        "translations": {
+            "initial": "Bahwa aku menyukaimu... sebagai seorang cewek, sebagai kekasih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 297,
+        "original": "彼女の家族に、そんな思いをさせたくなかったから。",
+        "translations": {
+            "initial": "Karena aku nggak ingin membuat keluarganya merasakan penderitaan seperti itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 298,
+        "original": "だから……。",
+        "translations": {
+            "initial": "Makanya...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 299,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 300,
+        "original": "「あい……たいだろ……」",
+        "translations": {
+            "initial": "「Kamu... ingin bertemu mereka, kan...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 301,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 302,
+        "original": "「……かぞくに……おとうさんに……おかあさんに……。なあ？」",
+        "translations": {
+            "initial": "「...Sama keluargamu... ayahmu... ibumu... Iya, kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 303,
+        "original": "俺は無理をした。",
+        "translations": {
+            "initial": "Aku memaksakan diri.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 304,
+        "original": "出来るわけないけど……それでも……歯を食いしばって……。",
+        "translations": {
+            "initial": "Meski aku nggak mungkin bisa melakukannya... tetap saja... sambil menggertakkan gigi...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 305,
+        "original": "……笑った。",
+        "translations": {
+            "initial": "...Aku tersenyum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 306,
+        "original": "詩名も……涙をこぼしながら……俺に笑った。",
+        "translations": {
+            "initial": "Shiina pun... sambil meneteskan air mata... tersenyum padaku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 307,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 308,
+        "original": "「あい……たい……。会いたいです……おとうさんに、おかあさんに……」",
+        "translations": {
+            "initial": "「Aku ingin... bertemu... Aku ingin bertemu mereka... Ayah, Ibu...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 309,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 310,
+        "original": "「あいたい……あいたいよぉ……」",
+        "translations": {
+            "initial": "「Ingin ketemu... aku mau ketemu mereka... hiks...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 311,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 312,
+        "original": "「そうだ……だから……かえんなきゃだめなんだ……」",
+        "translations": {
+            "initial": "「Benar... makanya... kamu harus pulang...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 313,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 314,
+        "original": "「……うん」",
+        "translations": {
+            "initial": "「...Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 315,
+        "original": "詩名も……歯を食いしばっている。",
+        "translations": {
+            "initial": "Shiina juga... sedang menahan tangis sambil menggertakkan giginya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 316,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 317,
+        "original": "「わらってくれて……ないてくれて……がんばってくれて、ありがとう。……大好きだよ……お父さん」",
+        "translations": {
+            "initial": "「Terima kasih sudah tersenyum untukku... menangis untukku... dan berjuang demi aku. ...Aku sayang banget sama Ayah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 318,
+        "original": "そう言って……笑った。",
+        "translations": {
+            "initial": "Dia mengatakan itu... sambil tersenyum.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 319,
+        "original": "俺は詩名の頭をクシャクシャに撫でまわし、父親のように抱きしめた。",
+        "translations": {
+            "initial": "Aku mengacak-acak rambut Shiina dan memeluknya erat seperti seorang ayah.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 320,
+        "original": "俺はもう味わうことのできない、父親からの親愛。",
+        "translations": {
+            "initial": "Kasih sayang dari seorang ayah yang sudah tidak mungkin bisa kurasakan lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 321,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 322,
+        "original": "「じゃあ……魔法を……」",
+        "translations": {
+            "initial": "「Kalau begitu... saatnya sihirnya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 323,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 324,
+        "original": "「……うん」",
+        "translations": {
+            "initial": "「......Un」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 325,
+        "original": "光が再び強くなる。",
+        "translations": {
+            "initial": "Cahaya kembali menguat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 326,
+        "original": "そんな中で、俺たちは……涙を流しながら笑う。",
+        "translations": {
+            "initial": "Di tengah itu semua, kami... tertawa sembari meneteskan air mata.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 327,
+        "original": "もう……光は止まらなかった。",
+        "translations": {
+            "initial": "Cahaya itu... sudah tak terhentikan lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 328,
+        "original": "少しずつ辺りを包み込んで……。",
+        "translations": {
+            "initial": "Sedikit demi sedikit menyelimuti sekeliling kami...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 329,
+        "original": "もう、止まらないところまで来てしまったのだろう。",
+        "translations": {
+            "initial": "Mungkin sudah sampai di titik di mana ia tak bisa berhenti lagi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 330,
+        "original": "俺たちが手を放しても……カガミは光を放ち続けた。",
+        "translations": {
+            "initial": "Meski kami melepaskan tangan pun... Kagami terus memancarkan cahaya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 331,
+        "original": "最後の時を告げていた。",
+        "translations": {
+            "initial": "Itu menandakan saat-saat terakhir.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 332,
+        "original": "そんな中で、彼女はこちらを向いた。",
+        "translations": {
+            "initial": "Di saat seperti itu, dia menoleh ke arahku.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 333,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 334,
+        "original": "「私が、もし……もっと早く。お父さんとか、思わずに告白してたら、どうなってたんでしょうね？」",
+        "translations": {
+            "initial": "「Kalau seandainya... aku nembak kamu lebih cepat. Tanpa menganggapmu sebagai Ayah, kira-kira bakal jadi gimana, ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 335,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 336,
+        "original": "「付き合ってたんじゃないか？その状況なら、俺も詩名のことを娘って思ってないんだろ？」",
+        "translations": {
+            "initial": "「Kita bakal pacaran, kali？ Kalau situasinya begitu, aku juga pasti nggak bakal nganggap Shiina sebagai anak perempuan, 'kan？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 337,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 338,
+        "original": "「それはそうでしょう。みなさん大騒ぎで、色々聞いてくるでしょうね」",
+        "translations": {
+            "initial": "「Iya juga, ya. Semuanya pasti bakal heboh dan nanya macem-macem」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 339,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 340,
+        "original": "「そら姉がおめでとうパーティなんか開いちゃって、杉並と叶方と白河と有里栖がノリノリで」",
+        "translations": {
+            "initial": "「Sora-nee pasti bakal ngadain pesta perayaan gitu, terus Suginami, Kanata, Shirakawa, sama Arisu bakal ikutan semangat banget」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 341,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 342,
+        "original": "「私はもう、照れすぎて下ばっかり向いてると思います」",
+        "translations": {
+            "initial": "「Aku pasti bakal malu banget sampai nunduk terus rasanya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 343,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 344,
+        "original": "「そこにちょこも来てさ、詩名が怒り出すまでいじりだすんだよ」",
+        "translations": {
+            "initial": "「Terus CHOCO juga bakal dateng, dan dia bakal ngusilin Shiina sampai kamu marah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 345,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 346,
+        "original": "「@t57@d1ふふふっ、でも結局そこが憎めなくて。『もう、次やったら怒るよ！』なんて怒りながら言って」",
+        "translations": {
+            "initial": "「@t57@d1Fufufu, tapi akhirnya aku enggak bisa benci itu. Sambil marah-marah aku bakal bilang, 'Awas ya, kalau sekali lagi aku marah beneran lho！'」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 347,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 348,
+        "original": "「二乃はさ『本当に兄さんでいいんですか？』とか言い出して」",
+        "translations": {
+            "initial": "「Terus Nino bakal bilang, 'Apa benar-benar nggak apa-apa sama Nii-san？' gitu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 349,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 350,
+        "original": "「もちろんいいですよ。だって……大好きな人ですから」",
+        "translations": {
+            "initial": "「Tentu saja enggak apa-apa. Soalnya... aku sayang banget sama dia」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 351,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 352,
+        "original": "「きっと『その好きは、友達とか、人間としてとか、ペットの様な存在として好きとかではないんですか？』って返ってくるな」",
+        "translations": {
+            "initial": "「Dia pasti bakal bales, 'Rasa sukanya itu bukan suka sebagai teman, sebagai sesama manusia, atau sebagai keberadaan kayak hewan peliharaan, 'kan？'」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 353,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 354,
+        "original": "「友達として、人間として、ペットの様な存在としては、あまり尊敬できません。むしろ少し嫌いです」",
+        "translations": {
+            "initial": "「Kalau sebagai teman, sebagai manusia, atau sebagai hewan peliharaan sih, aku nggak terlalu hormat. Malah agak benci」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 355,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 356,
+        "original": "「ええ……」",
+        "translations": {
+            "initial": "「Iya......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 357,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 358,
+        "original": "「でも……唯一、恋愛対象としては……好意を持ちました……そう答えます」",
+        "translations": {
+            "initial": "「Tapi...... hanya saja, sebagai lawan jenis...... aku menyukaimu...... aku akan menjawab seperti itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 359,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 360,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 361,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 362,
+        "original": "「きっと娘じゃない私は、びっくりするほど大好きなんです……常坂さんのことが。すごく、愛していますよ、常坂さんのことを……」",
+        "translations": {
+            "initial": "「Sebagai wanita dan bukan putrimu, aku sangat menyukai Tokisaka-san sampai mengejutkan diriku sendiri...... Aku sangat, sangat mencintaimu, Tokisaka-san......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 363,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 364,
+        "original": "「……ああ」",
+        "translations": {
+            "initial": "「......Ah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 365,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 366,
+        "original": "「ふふっ、もし常坂さんが、私のことを娘じゃないって思っていたらの話ですけどねー」",
+        "translations": {
+            "initial": "「Fufu, yah itu jika seandainya Tokisaka-san tidak menganggapku sebagai putri Anda lagi, sih~」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 367,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 368,
+        "original": "「ああ、そうだな」",
+        "translations": {
+            "initial": "「Ah, kau benar juga」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 369,
+        "original": "二人でおどけながらそう話す。",
+        "translations": {
+            "initial": "Kami berdua berbincang sambil bercanda seperti itu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 370,
+        "original": "詩名の体が……一層強い光に包まれて……。",
+        "translations": {
+            "initial": "Tubuh Shiina...... diselimuti oleh cahaya yang semakin terang.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 371,
+        "original": "この世界の存在とは、別の存在のように感じた。",
+        "translations": {
+            "initial": "Rasanya seolah-olah dia menjadi sosok yang berbeda dari keberadaan di dunia ini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 372,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 373,
+        "original": "「詩名……」",
+        "translations": {
+            "initial": "「Shiina......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 374,
+        "original": "抱きしめようとすると……。",
+        "translations": {
+            "initial": "Saat aku mencoba untuk mendekapnya.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 375,
+        "original": "もう……触れられなかった。",
+        "translations": {
+            "initial": "Tanganku...... tak lagi bisa menyentuhnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 376,
+        "original": "彼女のいる世界は、きっともう、別の世界。",
+        "translations": {
+            "initial": "Dunia tempatnya berada, pasti sudah menjadi dunia yang berbeda.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 377,
+        "original": "そしてまた一段……光が強くなった――。",
+        "translations": {
+            "initial": "Dan kemudian, cahaya itu menjadi setingkat lebih terang lagi-.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 378,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 379,
+        "original": "「常坂さん……。もう、アナタの姿が見えません……」",
+        "translations": {
+            "initial": "「Tokisaka-san...... Aku sudah tidak bisa melihat sosokmu lagi......」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 380,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 381,
+        "original": "「……ああ、こっちもだ」",
+        "translations": {
+            "initial": "「......Iya, aku juga sama」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 382,
+        "original": "声だけしか聞こえない。",
+        "translations": {
+            "initial": "Hanya suara yang bisa terdengar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 383,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 384,
+        "original": "「……さようなら」",
+        "translations": {
+            "initial": "「......Selamat tinggal」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 385,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 386,
+        "original": "「ああ」",
+        "translations": {
+            "initial": "「Sampai jumpa」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 387,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 388,
+        "original": "「それだけ……ですか？」",
+        "translations": {
+            "initial": "「Cuma itu...... saja？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 389,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 390,
+        "original": "「それだけかな」",
+        "translations": {
+            "initial": "「Cuma itu aja?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 391,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 392,
+        "original": "「あー……でもさ。あと……」",
+        "translations": {
+            "initial": "「Ah... tapi ya. Terus...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 393,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 394,
+        "original": "「好きだよ。……女の子として……娘じゃなくて、ちゃんと女の子としてだ」",
+        "translations": {
+            "initial": "「Aku suka kamu. ...Sebagai seorang cewek... bukan sebagai anak, tapi beneran sebagai cewek」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 395,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 396,
+        "original": "「もう、知ってますよ……。だって、大好きな男の子のことですから。バレバレです」",
+        "translations": {
+            "initial": "「Aduh, aku udah tahu kok... Habisnya, ini kan soal cowok yang paling aku sayang. Kelihatan banget tahu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 397,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 398,
+        "original": "「そっか、バレバレか」",
+        "translations": {
+            "initial": "「Gitu ya, kelihatan banget ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 399,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 400,
+        "original": "「でも詩名もバレバレだったぞ？」",
+        "translations": {
+            "initial": "「Tapi Shiina juga kelihatan banget lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 401,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 402,
+        "original": "「私は、あえてバレる様にしてましたから」",
+        "translations": {
+            "initial": "「Aku melakukannya dengan sengaja supaya ketahuan, kok」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 403,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 404,
+        "original": "「本当かよ」",
+        "translations": {
+            "initial": "「Beneran?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 405,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 406,
+        "original": "「本当ですよ。だって女の子ですから、そういう駆け引きもするんです」",
+        "translations": {
+            "initial": "「Beneran, lho. Karena aku ini cewek, makanya aku juga main tarik ulur seperti itu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 407,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 408,
+        "original": "「そっか」",
+        "translations": {
+            "initial": "「Gitu ya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 409,
+        "original": "……知ってる。",
+        "translations": {
+            "initial": "......Aku tahu.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 410,
+        "original": "そして……。",
+        "translations": {
+            "initial": "Dan juga.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 411,
+        "original": "声が少しずつ、遠くなっていく……。",
+        "translations": {
+            "initial": "Suaranya perlahan-lahan mulai menjauh.......",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 412,
+        "original": "別れが……近づく。",
+        "translations": {
+            "initial": "Perpisahan...... kian mendekat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 413,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 414,
+        "original": "「詩名……ほかには……なにか……あるか……？」",
+        "translations": {
+            "initial": "「Shiina...... apa masih ada...... hal lain......？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 415,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 416,
+        "original": "「他には、ないです。言うことはこれしかないです。……大好き」",
+        "translations": {
+            "initial": "「Enggak ada lagi. Cuma ini yang ingin aku katakan. ......Aku sayang banget sama kamu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 417,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 418,
+        "original": "「俺もだ……詩名」",
+        "translations": {
+            "initial": "「Aku juga...... Shiina-san」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 419,
+        "original": "俺は……光向かってキスをする。",
+        "translations": {
+            "initial": "Aku pun...... menciumnya ke arah cahaya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 420,
+        "original": "ほんの少し、彼女の唇を感じた。",
+        "translations": {
+            "initial": "Sedikit saja, aku merasakan bibirnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 421,
+        "original": "触れ合わないはずの彼女と。",
+        "translations": {
+            "initial": "Bersama dia yang seharusnya tidak bisa kusentuh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 422,
+        "original": "世界をまたがった……キスを。",
+        "translations": {
+            "initial": "Sebuah ciuman... yang melintasi dunia.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 423,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 424,
+        "original": "「……ん……ちゅ」",
+        "translations": {
+            "initial": "「...Nng... mmuah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 425,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 426,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 427,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 428,
+        "original": "「さよなら……」",
+        "translations": {
+            "initial": "「Selamat tinggal...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 429,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 430,
+        "original": "「……また……な」",
+        "translations": {
+            "initial": "「...Sampai... jumpa lagi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 431,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 432,
+        "original": "「……はい」",
+        "translations": {
+            "initial": "「...Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 433,
+        "original": "俺たちは、キスをしたまま唱える。",
+        "translations": {
+            "initial": "Kami pun merapal mantra, sembari bibir kami masih bertaut.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 434,
+        "original": "詩名＆一登",
+        "translations": {
+            "initial": "Shiina & Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 435,
+        "original": "「元の……世界に……」",
+        "translations": {
+            "initial": "「Kembali... ke dunia... asal...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 436,
+        "original": "そして――",
+        "translations": {
+            "initial": "Lalu-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 437,
+        "original": "――光は一気に強くなり。",
+        "translations": {
+            "initial": "-Cahaya itu tiba-tiba menguat dengan seketika.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 438,
+        "original": "この世界が全て白で埋め尽くされたように、何もなくなった……。",
+        "translations": {
+            "initial": "Seolah dunia ini telah tertutup sepenuhnya oleh warna putih, semuanya pun menghilang....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 439,
+        "original": "目を閉じていても眩しい。",
+        "translations": {
+            "initial": "Tetap terasa silau meski aku sudah memejamkan mata.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 440,
+        "original": "けれど。",
+        "translations": {
+            "initial": "Namun.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 441,
+        "original": "やがて……",
+        "translations": {
+            "initial": "Tak lama kemudian...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 442,
+        "original": "……その光は晴れていく。",
+        "translations": {
+            "initial": "...Cahaya itu pun mulai memudar.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 443,
+        "original": "何事もなかったように……世界は暗さを取り戻していた。",
+        "translations": {
+            "initial": "Seolah tak terjadi apa-apa... dunia telah kembali ke dalam kegelapan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 444,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 445,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 446,
+        "original": "じゃあな……詩名。",
+        "translations": {
+            "initial": "Sampai jumpa... Shiina.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 447,
+        "original": "俺の……大好きな女の子。",
+        "translations": {
+            "initial": "Cewek... yang sangat aku cintai.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 448,
+        "original": "そう心の中で呟きながら、目を開く……。",
+        "translations": {
+            "initial": "Sembari menggumamkan itu di dalam hati, aku pun membuka mata....",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 449,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 450,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 451,
+        "original": "…………？",
+        "translations": {
+            "initial": "............？",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 452,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 453,
+        "original": "「…………？」",
+        "translations": {
+            "initial": "「............？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 454,
+        "original": "目が開く。",
+        "translations": {
+            "initial": "Mataku terbuka.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 455,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 456,
+        "original": "「…………？」",
+        "translations": {
+            "initial": "「............？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 457,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 458,
+        "original": "「…………ぇ？」",
+        "translations": {
+            "initial": "「............Eh？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 459,
+        "original": "…………。",
+        "translations": {
+            "initial": "............。",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 460,
+        "original": "まだいた。",
+        "translations": {
+            "initial": "Ternyata masih di sini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 461,
+        "original": "っていうか。",
+        "translations": {
+            "initial": "Maksudku...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 462,
+        "original": "……キスをしていた。",
+        "translations": {
+            "initial": "...Kami masih berciuman.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 463,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 464,
+        "original": "「もがぁぁぁっぁぁぁぁ！？」",
+        "translations": {
+            "initial": "「Mmphhhhhhh！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 465,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 466,
+        "original": "「むぐぅぅぅぅぅぅぅぅ！？」",
+        "translations": {
+            "initial": "「Nngghhhhhhhh！？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 467,
+        "original": "キスしたままだから、驚いた声がくもがかった。",
+        "translations": {
+            "initial": "Karena masih berciuman, suara terkejut kami jadi teredam.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 468,
+        "original": "お互い口を離す。",
+        "translations": {
+            "initial": "Kami berdua pun melepaskan bibir masing-masing.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 469,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 470,
+        "original": "「え？な？ど、どうして！？つ、ついてきたんですか？私の世界に」",
+        "translations": {
+            "initial": "「Eh? Lho? Ko-kok bisa！? Ka-kamu mengikuti aku? Ke duniaku?」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 471,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 472,
+        "original": "「え？そ、そうなのか？」",
+        "translations": {
+            "initial": "「Eh？ Ma-masa sih？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 473,
+        "original": "辺りを見てみる。",
+        "translations": {
+            "initial": "Aku mencoba melihat sekeliling.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 474,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 475,
+        "original": "「俺の世界と似てるけど……」",
+        "translations": {
+            "initial": "「Mirip dengan duniaku, tapi...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 476,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 477,
+        "original": "「@t23@d1……そ、そうですね。さっきの景色と、何一つ変わってない気が」",
+        "translations": {
+            "initial": "「@t23@d1... Be-benar juga. Rasanya pemandangannya gak berubah sedikit pun dari yang tadi」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 478,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 479,
+        "original": "「えっと……ということは……」",
+        "translations": {
+            "initial": "「Anu... berarti itu artinya...」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 480,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 481,
+        "original": "「しっ……ぱい、ですかね？」",
+        "translations": {
+            "initial": "「Ki-kita gagal, ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 482,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 483,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 484,
+        "original": "お互い、顔を見合わせてキョトンとする。",
+        "translations": {
+            "initial": "Kami saling memandang dengan wajah melongo.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 485,
+        "original": "でも、次の瞬間――",
+        "translations": {
+            "initial": "Tapi, saat berikutnya-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 486,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 487,
+        "original": "「くっ……あははははははははっ！」",
+        "translations": {
+            "initial": "「Kh... Ahahahahahahaha！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 488,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 489,
+        "original": "「ぷっ……ふふふふふふふふふっ！」",
+        "translations": {
+            "initial": "「Pffft... Fuhahahahahahaha！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 490,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 491,
+        "original": "「何してんだ俺たち！あんなにシリアスに決めて、泣きながら告白して……失敗かよ！あはは！」",
+        "translations": {
+            "initial": "「Apa yang kita lakukan sih！ Padahal sudah sok serius begitu, sampai menangis sambil menyatakan cinta... tapi malah gagal！ Ahaha！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 492,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 493,
+        "original": "「あーもう恥ずかしいです！もう会えないと思ったから言ったのに！ふふふふふっ！」",
+        "translations": {
+            "initial": "「Aduh, malu-maluin banget！ Aku bilang begitu cuma karena aku pikir kita nggak bakal bisa ketemu lagi tau！ Hihihihi！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 494,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 495,
+        "original": "「なんだよ詩名、本当に帰りたい世界を願ったのかぁ？」",
+        "translations": {
+            "initial": "「Apaan sih Shiina, kamu beneran berdoa buat balik ke dunia asalmu ya？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 496,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 497,
+        "original": "「@t39@d1@t76@d2ホントですよ！それはもう真剣に。むしろ、こんなに恥ずかしいこと言ってるんですもん。戻ってきたら合わせる顔がないですよー」",
+        "translations": {
+            "initial": "「@t39@d1@t76@d2Beneran tau！ Aku serius banget pas minta itu. Malahan, gara-gara aku udah ngomong hal memalukan kayak gitu, aku jadi nggak punya muka buat ketemu kamu lagi pas balik begini-」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 498,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 499,
+        "original": "「戻ってきてるけどな！」",
+        "translations": {
+            "initial": "「Tapi nyatanya kamu balik lagi kan！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 500,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 501,
+        "original": "「ふふっ！あははははははは！」",
+        "translations": {
+            "initial": "「Hihi！ Ahahahaha！」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 502,
+        "original": "俺たちは、バカみたいに笑い合った。",
+        "translations": {
+            "initial": "Kami pun tertawa bersama seperti orang bodoh.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 503,
+        "original": "年相応というか、同級生同士の休み時間のように。",
+        "translations": {
+            "initial": "Layaknya murid seumuran yang sedang mengobrol di waktu istirahat.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 504,
+        "original": "思う存分に笑った。",
+        "translations": {
+            "initial": "Kami tertawa sepuasnya.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 505,
+        "original": "何も解決してないけど。",
+        "translations": {
+            "initial": "Meski belum ada satu pun masalah yang terselesaikan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 506,
+        "original": "何だかすっきりした。",
+        "translations": {
+            "initial": "Tapi entah kenapa rasanya lega sekali.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 507,
+        "original": "きっとこれから、いろんな問題が起こるし、解決しなきゃいけないこともある。",
+        "translations": {
+            "initial": "Pasti setelah ini akan muncul berbagai masalah baru, dan ada banyak hal yang harus diselesaikan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 508,
+        "original": "だけど……今は……。",
+        "translations": {
+            "initial": "Namun... untuk saat ini...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 509,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 510,
+        "original": "「……詩名」",
+        "translations": {
+            "initial": "「...Shiina」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 511,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 512,
+        "original": "「はい」",
+        "translations": {
+            "initial": "「Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 513,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 514,
+        "original": "「好きだ」",
+        "translations": {
+            "initial": "「Aku sayang kamu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 515,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 516,
+        "original": "「……はい」",
+        "translations": {
+            "initial": "「...Iya」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 517,
+        "original": "さっきみたいな……別れのキスじゃなく。",
+        "translations": {
+            "initial": "Bukan ciuman perpisahan seperti yang tadi.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 518,
+        "original": "俺たちは。",
+        "translations": {
+            "initial": "Kami pun...",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 519,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 520,
+        "original": "「…………」",
+        "translations": {
+            "initial": "「............」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 521,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 522,
+        "original": "「ん……ちゅ」",
+        "translations": {
+            "initial": "「Nn... muah」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 523,
+        "original": "……恋人のキスをした。",
+        "translations": {
+            "initial": "...Melakukan ciuman sepasang kekasih.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 524,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 525,
+        "original": "「ふふっ、いいんですか？親子かもしれないのに？」",
+        "translations": {
+            "initial": "「Hihi, emangnya nggak apa-apa？ Padahal kita mungkin saja orang tua dan anak lho？」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 526,
+        "original": "一登",
+        "translations": {
+            "initial": "Ichito",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 527,
+        "original": "「詩名の言うことは、全部信じてるけどさ。俺、それだけは信じないから」",
+        "translations": {
+            "initial": "「Aku percaya semua yang Shiina katakan, tapi cuma hal itu yang nggak akan pernah aku percayai」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 528,
+        "original": "詩名",
+        "translations": {
+            "initial": "Shiina",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 529,
+        "original": "「@t25@d1私はそうだとしても……あなたのことが好きなのを、止められそうにないので」",
+        "translations": {
+            "initial": "「@t25@d1Meskipun memang begitu... sepertinya aku nggak bisa berhenti menyukaimu」",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 530,
+        "original": "そう言って……今度は詩名からキスをしてきた。",
+        "translations": {
+            "initial": "Setelah mengatakan itu... kali ini Shiina yang menciumku duluan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 531,
+        "original": "もし、今日の魔法はいったい何だったのだろうと問われたら……きっとこう言うだろう。",
+        "translations": {
+            "initial": "Jika ditanya sihir macam apa yang terjadi hari ini... aku pasti akan menjawab begini.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 532,
+        "original": "進むことも、戻ることも出来なくなった俺と詩名の関係を――。",
+        "translations": {
+            "initial": "Bahwa itu adalah sihir untuk menggerakkan hubungan antara aku dan Shiina yang sebelumnya macet-",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 533,
+        "original": "――進めるための魔法だったと。",
+        "translations": {
+            "initial": "-sihir untuk melangkah maju ke depan.",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    },
+    {
+        "id": 534,
+        "original": "◆◆",
+        "translations": {
+            "initial": "◆◆",
+            "machine": "",
+            "better": "",
+            "best": "",
+            "polished": ""
+        }
+    }
+]

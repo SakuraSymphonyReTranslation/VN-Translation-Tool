@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Large Archives & Binaries
+*.rar
+*.zip
+*.7z
+*.tar.gz
+dc4_tool_share.rar
+WebAI-to-API-0.4.0-modified/
+WebAI-to-API-0.4.0-modified.zip
+
+# Test & Repro Scripts
+repro_*.py
+get_modes.py
+*.tmp
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+scratch/
+.system_generated/
