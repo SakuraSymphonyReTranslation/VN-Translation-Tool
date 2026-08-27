@@ -705,11 +705,45 @@
                             {{ cookieMsg }}
                         </div>
                     </div>
+                    <!-- Hybrid Provider Selection -->
+                    <div class="space-y-1.5">
+                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wider">AI Translation Engine (Hybrid Mode)</label>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+                            <label class="flex items-start gap-3 p-3 rounded-lg border cursor-pointer transition-all"
+                                :class="config.llm_provider === 'gemini_web' ? 'bg-indigo-950/40 border-indigo-500/80 ring-1 ring-indigo-500/50' : 'bg-slate-900/60 border-slate-800 hover:border-slate-700'">
+                                <input type="radio" value="gemini_web" v-model="config.llm_provider" class="mt-1 text-indigo-500 focus:ring-0">
+                                <div>
+                                    <div class="text-sm font-medium text-white flex items-center gap-1.5">
+                                        <i class="fa-brands fa-google text-amber-400"></i> Gemini Web (Direct API)
+                                    </div>
+                                    <p class="text-xs text-slate-400 mt-0.5">Langsung terhubung ke Google Gemini Web via token browser. <strong>Tanpa perlu server lokal</strong>.</p>
+                                </div>
+                            </label>
+
+                            <label class="flex items-start gap-3 p-3 rounded-lg border cursor-pointer transition-all"
+                                :class="config.llm_provider === 'openai' ? 'bg-indigo-950/40 border-indigo-500/80 ring-1 ring-indigo-500/50' : 'bg-slate-900/60 border-slate-800 hover:border-slate-700'">
+                                <input type="radio" value="openai" v-model="config.llm_provider" class="mt-1 text-indigo-500 focus:ring-0">
+                                <div>
+                                    <div class="text-sm font-medium text-white flex items-center gap-1.5">
+                                        <i class="fa-solid fa-server text-emerald-400"></i> Custom LLM / OpenAI API
+                                    </div>
+                                    <p class="text-xs text-slate-400 mt-0.5">Menggunakan API Server lokal / remote (Ollama, LM Studio, WebAI-to-API, OpenAI).</p>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="grid grid-cols-2 gap-4">
-                        <div>
+                        <div v-if="config.llm_provider === 'openai'">
                             <label class="block text-sm font-medium text-slate-400 mb-1">API Base URL</label>
-                            <input v-model="config.llm_api_url" type="text" placeholder="http://localhost:11434/v1"
-                                class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white">
+                            <input v-model="config.llm_api_url" type="text" placeholder="http://localhost:6969/v1"
+                                class="w-full bg-slate-900 border border-slate-700 rounded p-2 text-sm text-white font-mono">
+                        </div>
+                        <div v-else>
+                            <label class="block text-sm font-medium text-slate-400 mb-1">Connection Mode</label>
+                            <div class="w-full bg-slate-950/80 border border-emerald-800/40 text-emerald-300 rounded p-2 text-xs flex items-center gap-2 font-mono">
+                                <i class="fa-solid fa-bolt text-emerald-400"></i> Direct Python Client (Fast & Native)
+                            </div>
                         </div>
                         <div>
                             <label class="block text-sm font-medium text-slate-400 mb-1 flex items-center justify-between">
@@ -1365,7 +1399,7 @@
 
 
     <!-- App JS -->
-    <script src="/static/js/app.js?v=3.1.0"></script>
+    <script src="/static/js/app.js?v=3.2.0"></script>
 </body>
 
 </html>

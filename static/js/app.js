@@ -1587,6 +1587,7 @@ createApp({
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({
+                        provider: config.value.llm_provider || 'gemini_web',
                         api_url: config.value.llm_api_url,
                         model: config.value.llm_model,
                     }),
