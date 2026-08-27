@@ -452,11 +452,17 @@ createApp({
                     body: JSON.stringify(geminiCookies.value)
                 });
                 const data = await res.json();
-                cookieMsg.value = data.message;
-                await fetchCookies();
-                alert(data.message);
+                const msg = data.message || data.detail || (res.ok ? "Cookies saved successfully!" : "Error saving cookies");
+                cookieMsg.value = msg;
+                if (res.ok) {
+                    geminiCookies.value.has_cookies = Boolean(geminiCookies.value.psid && geminiCookies.value.psidts);
+                    alert(msg);
+                } else {
+                    alert("Notice (" + res.status + "): " + msg + "\n\nPastikan Anda me-restart server 'py app.py' di terminal agar rute baru aktif.");
+                }
             } catch (e) {
                 cookieMsg.value = "Failed to save: " + e.message;
+                alert("Save error: " + e.message);
             }
         };
 
@@ -470,15 +476,17 @@ createApp({
                     body: JSON.stringify({ browser: geminiCookies.value.browser || 'chrome' })
                 });
                 const data = await res.json();
-                cookieMsg.value = data.message;
-                if (data.status === 'success') {
+                const msg = data.message || data.detail || "Cookie extraction finished.";
+                cookieMsg.value = msg;
+                if (res.ok && data.status === 'success') {
                     await fetchCookies();
-                    alert(data.message);
+                    alert(msg);
                 } else {
-                    alert(data.message);
+                    alert(msg);
                 }
             } catch (e) {
                 cookieMsg.value = "Extraction error: " + e.message;
+                alert("Extraction error: " + e.message);
             } finally {
                 isExtractingCookies.value = false;
             }
@@ -486,12 +494,24 @@ createApp({
 
         const launchWebLogin = async () => {
             try {
-                const res = await fetch('/api/llm/webai/launch-login', { method: 'POST' });
+                const res = await fetch('/api/llm/webai/launch-login', { 
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({})
+                });
                 const data = await res.json();
-                cookieMsg.value = data.message;
-                alert(data.message);
+                const msg = data.message || data.detail || "Opening Gemini Web...";
+                cookieMsg.value = msg;
+                if (res.ok) {
+                    alert(msg);
+                } else {
+                    window.open("https://gemini.google.com", "_blank");
+                    alert("Membuka gemini.google.com di browser baru! Silakan login akun Google Anda, lalu salin token __Secure-1PSID & __Secure-1PSIDTS.");
+                }
             } catch (e) {
-                cookieMsg.value = "Error launching login: " + e.message;
+                window.open("https://gemini.google.com", "_blank");
+                cookieMsg.value = "Membuka gemini.google.com di tab browser.";
+                alert("Membuka gemini.google.com di tab browser baru! Silakan login.");
             }
         };
 

@@ -64,7 +64,9 @@ DEFAULT_CONFIG = {
     "llm_context_window": 5,
     "llm_glossary": [],
     "llm_retranslate_prompt": "",
-    "llm_polish_prompt": ""
+    "llm_polish_prompt": "",
+    "gemini_cookie_1psid": "",
+    "gemini_cookie_1psidts": "" 
 }
 
 def _sanitize_identifier(identifier: str) -> str:
