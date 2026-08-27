@@ -33,23 +33,14 @@ Given the original Japanese text and an existing Indonesian translation, improve
 # Model aliases for Gemini Web
 GEMINI_WEB_MODEL_MAP = {
     "gemini-3.7-flash": "gemini-3.0-flash",
-    "gemini-3.5-flash": "gemini-3.0-flash",
-    "gemini-3.0-flash": "gemini-3.0-flash",
-    "gemini-2.5-flash": "gemini-3.0-flash",
-    "gemini-2.0-flash": "gemini-3.0-flash",
-    "flash": "gemini-3.0-flash",
-    
     "gemini-3.7-flash-thinking": "gemini-3.0-flash-thinking",
-    "gemini-3.7-flash-high": "gemini-3.0-flash-thinking",
-    "gemini-3.0-flash-thinking": "gemini-3.0-flash-thinking",
-    "thinking": "gemini-3.0-flash-thinking",
-    
-    "gemini-3.1-pro": "gemini-3.0-pro",
-    "gemini-3.0-pro": "gemini-3.0-pro",
-    "pro": "gemini-3.0-pro",
-    
     "gemini-3.5-flash-lite": "gemini-3.0-flash",
-    "gemini-3.1-flash-lite": "gemini-3.0-flash",
+    "gemini-3.1-pro": "gemini-3.0-pro",
+    "gemini-3.7-flash": "gemini-3.0-flash",
+    "gemini-3.0-flash": "gemini-3.0-flash",
+    "flash": "gemini-3.0-flash",
+    "thinking": "gemini-3.0-flash-thinking",
+    "pro": "gemini-3.0-pro",
 }
 
 # Singleton Gemini Web Client
