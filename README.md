@@ -231,6 +231,16 @@ ightarrow$ Target: `Aku` | Info: `Gunakan kata Aku/Kamu`
 #### Q: Bagaimana cara beralih antara Direct Gemini Web dan Local LLM?
 > **Jawaban**: Buka **Settings (Ctrl + ,) → LLM Configuration**. Anda cukup mengklik pilihan radio button antara **Gemini Web (Direct API)** dan **Custom LLM / OpenAI API**. Pengaturan cookies dan base URL akan tersimpan masing-masing secara independen.
 
+#### Q: Mengapa muncul peringatan "Fitur keamanan Windows/Chromium (App-Bound Encryption)" saat Auto-Extract?
+> **Jawaban**: Google Chrome versi terbaru (v127+) dan Microsoft Edge di Windows menerapkan fitur keamanan sistem *App-Bound Encryption* yang mengunci file cookie dari pembacaan oleh program eksternal saat browser sedang berjalan.
+> * **Solusi Cepat 15 Detik (Manual Copy)**:
+>   1. Klik tombol **`🚀 Launch Login`** (atau buka `https://gemini.google.com` di browser Anda).
+>   2. Tekan **`F12`** di keyboard untuk membuka DevTools $\rightarrow$ klik tab **`Application`** (jika tidak terlihat, klik icon panah `>>`).
+>   3. Di panel kiri, klik **`Storage`** $\rightarrow$ **`Cookies`** $\rightarrow$ klik `https://gemini.google.com`.
+>   4. Salin nilai cookie **`__Secure-1PSID`** dan **`__Secure-1PSIDTS`** ke kolom di aplikasi lalu klik **`💾 Save Cookies`**.
+> * **Solusi Otomatis (Firefox / Zen / LibreWolf)**:
+>   * Jika Anda login Gemini di browser berbasis Firefox (**Mozilla Firefox**, **Zen Browser**, atau **LibreWolf**), pilih browser tersebut di dropdown dan klik **`⚡ Auto-Extract`** (engine Firefox tidak mengunci file cookie dengan App-Bound Encryption).
+
 #### Q: Mengapa muncul pesan "No module named 'gemini_webapi'"?
 > **Jawaban**: Pastikan dependensi sudah terpasang dengan menjalankan perintah `pip install -r requirements.txt` pada versi Python yang Anda gunakan untuk menjalankan server.
 
