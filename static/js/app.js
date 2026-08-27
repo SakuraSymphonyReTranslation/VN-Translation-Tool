@@ -526,7 +526,7 @@ createApp({
         };
 
         const resetSummaryPrompt = () => {
-            config.value.summary_chaining_prompt = `If the <running_story_summary> section is provided above, use this running story context to maintain narrative continuity, character voices, emotional tone, and terminology consistency across translation batches.\nIn your JSON response, you MUST provide both the translation and a brief updated running story summary (in Indonesian, 1-2 sentences capturing who is present and what just happened):\n{"translation": "your translated text", "updated_summary": "ringkasan singkat cerita terkini dalam bahasa Indonesia"}`;
+            config.value.summary_chaining_prompt = "If the <summary> section is provided above, use this running story context to maintain narrative continuity, character voices, emotional tone, and terminology consistency across translation batches.\n\nAfter completing the translations, generate an updated running story summary (in {{targetLang}}) capturing:\n- Current scene, location, and atmosphere\n- Active characters and their interactions / emotional state\n- Key plot developments, decisions, or core topics discussed\n\nYour summary output MUST be enclosed in <summary>...</summary> tags at the very end of your response, INSIDE the ```plaintext block.";
         };
 
         // Project Management
