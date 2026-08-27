@@ -151,7 +151,9 @@ jobs:
           print("Successfully updated WebAI-to-API folder with custom patches preserved!")
           EOF
 
-      - name: Synchronize Gemini Models in Documentation and Code
+      - name: Synchronize Gemini Models in Documentation, Code, and GitHub Topics
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python scripts/sync_gemini_models.py
 

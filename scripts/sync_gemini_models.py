@@ -3,6 +3,7 @@ import re
 import sys
 import json
 import urllib.request
+import subprocess
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -36,7 +37,6 @@ def detect_latest_gemini_models():
         try:
             with open(webai_client, "r", encoding="utf-8") as f:
                 content = f.read()
-            # Extract models from UI labels
             matches = re.findall(r'["\'](gemini-([\d\.]+)-(flash|pro|flash-lite|thinking|flash-thinking))["\']', content)
             if matches:
                 flash_vers = []
@@ -88,20 +88,25 @@ def update_readme_id(models):
   * `{models['pro']}` ({models['pro_name']} — Advanced reasoning)
 <!-- GEMINI_MODELS_END -->"""
 
-    if "<!-- GEMINI_MODELS_START -->" in content and "<!-- GEMINI_MODELS_END -->" in content:
+    # Also update the badge
+    badge_pattern = r'\[!\[Gemini\]\(https://img\.shields\.io/badge/AI-Gemini%20[\d\.]+%20Flash-4285F4[^)]+\)\]'
+    badge_new = f'[![Gemini](https://img.shields.io/badge/AI-Gemini%20{models["flash_name"].replace(" ", "%20")}-4285F4?style=for-the-badge&logo=google&logoColor=white)]'
+    content_updated = re.sub(badge_pattern, badge_new, content)
+
+    if "<!-- GEMINI_MODELS_START -->" in content_updated and "<!-- GEMINI_MODELS_END -->" in content_updated:
         pattern = r"<!-- GEMINI_MODELS_START -->.*?<!-- GEMINI_MODELS_END -->"
-        updated = re.sub(pattern, new_block, content, flags=re.DOTALL)
+        updated = re.sub(pattern, new_block, content_updated, flags=re.DOTALL)
     else:
         old_pattern = r"\* \*\*Dukungan Model Gemini Generasi Terbaru\*\*:\n(  \* `gemini-[^`]+` \([^\)]+\)\n?)+"
-        if re.search(old_pattern, content):
-            updated = re.sub(old_pattern, new_block + "\n", content)
+        if re.search(old_pattern, content_updated):
+            updated = re.sub(old_pattern, new_block + "\n", content_updated)
         else:
-            updated = content
+            updated = content_updated
 
     if updated != content:
         with open(README_ID_PATH, "w", encoding="utf-8") as f:
             f.write(updated)
-        print("Updated README.md (Indonesian) model list!")
+        print("Updated README.md (Indonesian) model list & badge!")
         return True
     return False
 
@@ -120,20 +125,24 @@ def update_readme_en(models):
   * `{models['pro']}` ({models['pro_name']} — Advanced reasoning)
 <!-- GEMINI_MODELS_END -->"""
 
-    if "<!-- GEMINI_MODELS_START -->" in content and "<!-- GEMINI_MODELS_END -->" in content:
+    badge_pattern = r'\[!\[Gemini\]\(https://img\.shields\.io/badge/AI-Gemini%20[\d\.]+%20Flash-4285F4[^)]+\)\]'
+    badge_new = f'[![Gemini](https://img.shields.io/badge/AI-Gemini%20{models["flash_name"].replace(" ", "%20")}-4285F4?style=for-the-badge&logo=google&logoColor=white)]'
+    content_updated = re.sub(badge_pattern, badge_new, content)
+
+    if "<!-- GEMINI_MODELS_START -->" in content_updated and "<!-- GEMINI_MODELS_END -->" in content_updated:
         pattern = r"<!-- GEMINI_MODELS_START -->.*?<!-- GEMINI_MODELS_END -->"
-        updated = re.sub(pattern, new_block, content, flags=re.DOTALL)
+        updated = re.sub(pattern, new_block, content_updated, flags=re.DOTALL)
     else:
         old_pattern = r"\* \*\*Latest Gemini Model Lineup\*\*:\n(  \* `gemini-[^`]+` \([^\)]+\)\n?)+"
-        if re.search(old_pattern, content):
-            updated = re.sub(old_pattern, new_block + "\n", content)
+        if re.search(old_pattern, content_updated):
+            updated = re.sub(old_pattern, new_block + "\n", content_updated)
         else:
-            updated = content
+            updated = content_updated
 
     if updated != content:
         with open(README_EN_PATH, "w", encoding="utf-8") as f:
             f.write(updated)
-        print("Updated README_EN.md (English) model list!")
+        print("Updated README_EN.md (English) model list & badge!")
         return True
     return False
 
@@ -182,39 +191,77 @@ def update_llm_service(models):
     "{models['lite']}": "gemini-3.0-flash",
     "{models['pro']}": "gemini-3.0-pro",
     "gemini-3.7-flash": "gemini-3.0-flash",
-    "gemini-3.0-flash": "gemini-3.0-flash",
+    "gemini-3.7-flash-thinking": "gemini-3.0-flash-thinking",
+    "gemini-3.5-flash-lite": "gemini-3.0-flash",
+    "gemini-3.1-pro": "gemini-3.0-pro",
     "flash": "gemini-3.0-flash",
     "thinking": "gemini-3.0-flash-thinking",
     "pro": "gemini-3.0-pro",
 }}"""
 
-    pattern = r"GEMINI_WEB_MODEL_MAP = \{.*?\}"
-    if re.search(pattern, content, re.DOTALL):
+    pattern = r"GEMINI_WEB_MODEL_MAP\s*=\s*\{.*?\}"
+    if re.search(pattern, content, flags=re.DOTALL):
         updated = re.sub(pattern, new_map_str, content, flags=re.DOTALL)
         if updated != content:
             with open(LLM_SERVICE_PATH, "w", encoding="utf-8") as f:
                 f.write(updated)
-            print("Updated services/llm_service.py model mappings!")
+            print("Updated services/llm_service.py model mapping!")
             return True
     return False
 
 
+def sync_github_topics_and_about(models):
+    """
+    Synchronizes GitHub repository topics and description dynamically.
+    Converts gemini-3.7-flash -> gemini-3-7-flash topic tag.
+    """
+    new_topic_tag = models['flash'].replace('.', '-') # e.g. gemini-3-7-flash or gemini-3-8-flash
+    
+    try:
+        res = subprocess.run(["gh", "repo", "view", "--json", "repositoryTopics,description"], capture_output=True, text=True)
+        if res.returncode == 0:
+            data = json.loads(res.stdout)
+            current_topics = [t["name"] for t in data.get("repositoryTopics", [])]
+            
+            topics_to_remove = [t for t in current_topics if re.match(r"^gemini-[\d\-]+-(flash|pro|lite)$", t) and t != new_topic_tag]
+            
+            base_topics = ["dc4", "fastapi", "furigana", "gemini", new_topic_tag, "localization", "mecab", "translation", "translation-tool", "unidic", "visual-novel", "vue3"]
+            
+            add_args = []
+            for t in base_topics:
+                add_args.extend(["--add-topic", t])
+            for t in topics_to_remove:
+                add_args.extend(["--remove-topic", t])
+                
+            edit_cmd = ["gh", "repo", "edit"] + add_args
+            sub_res = subprocess.run(edit_cmd, capture_output=True, text=True)
+            if sub_res.returncode == 0:
+                print(f"Successfully synced GitHub repo topic: {new_topic_tag} (removed: {topics_to_remove})")
+                return True
+            else:
+                print(f"gh repo edit notice: {sub_res.stderr}")
+    except Exception as e:
+        print(f"GitHub CLI sync notice (skipped if no gh token): {e}")
+    return False
+
+
 def main():
+    print("Checking and synchronizing Gemini models across repository...")
     models = detect_latest_gemini_models()
     print("Detected Gemini Model Lineup:")
     for k, v in models.items():
         print(f"  - {k}: {v}")
 
-    changed = False
-    changed |= update_readme_id(models)
-    changed |= update_readme_en(models)
-    changed |= update_index_html(models)
-    changed |= update_llm_service(models)
+    c1 = update_readme_id(models)
+    c2 = update_readme_en(models)
+    c3 = update_index_html(models)
+    c4 = update_llm_service(models)
+    c5 = sync_github_topics_and_about(models)
 
-    if changed:
-        print("Successfully synchronized all files with latest Gemini models!")
+    if any([c1, c2, c3, c4, c5]):
+        print("Model synchronization completed with updates applied!")
     else:
-        print("All files are already up-to-date with current model lineup.")
+        print("All files and topics are already up-to-date with current model lineup.")
 
 if __name__ == "__main__":
     main()
