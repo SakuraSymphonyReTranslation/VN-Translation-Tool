@@ -430,11 +430,14 @@ async def llm_batch(request: LLMBatchRequest):
 
 @app.post("/api/llm/test")
 async def llm_test_connection(request: Request):
-    """Test LLM connection using values from frontend."""
+    """Test LLM connection using values from frontend with strict cookie check."""
     body = await request.json()
     return await llm_service.test_connection(
         api_url_override=body.get("api_url"),
         model_override=body.get("model"),
+        provider_override=body.get("provider"),
+        psid_override=body.get("psid"),
+        psidts_override=body.get("psidts"),
     )
 
 if __name__ == "__main__":

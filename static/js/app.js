@@ -1618,6 +1618,8 @@ createApp({
                         provider: config.value.llm_provider || 'gemini_web',
                         api_url: config.value.llm_api_url,
                         model: config.value.llm_model,
+                        psid: (geminiCookies.value.psid || '').trim(),
+                        psidts: (geminiCookies.value.psidts || '').trim()
                     }),
                 });
                 const data = await res.json();
