@@ -1,0 +1,896 @@
+﻿# ● Daftar Mode Skenario (Kaisou Mode),,,,
+
+#Nama file thumbnail,Nama file sumber thumbnail （untuk pembuatan otomatis）,File mulai*Label pindah*Label mulai,[[File selesai]*Label selesai*Label buka|@Flag],
+
+:,Mizuha,,,
+
+thum_dc5_mzh19601102c,,dc5_mzh19601102c.ks*dc5_mzh19601102c_START,@dc5_mzh19601102c,Karena Sudah Diputuskan Festival Budaya
+
+thum_dc5_mzh19601103a1,,dc5_mzh19601103a1.ks*dc5_mzh19601103a1_START,@dc5_mzh19601103a1,Mungkin Ini Menyenangkan Ya
+
+thum_dc5_mzh19601103a2,,dc5_mzh19601103a2.ks*dc5_mzh19601103a2_START,@dc5_mzh19601103a2,Melodi yang Bergema di Fajar Pagi
+
+thum_dc5_mzh19601104c,,dc5_mzh19601104c.ks*dc5_mzh19601104c_START,@dc5_mzh19601104c,Kalau Dipuji Saja
+
+thum_dc5_mzh19601105b,,dc5_mzh19601105b.ks*dc5_mzh19601105b_START,@dc5_mzh19601105b,Poko-taro dan Mizuha
+
+thum_dc5_mzh19601107b,,dc5_mzh19601107b.ks*dc5_mzh19601107b_START,@dc5_mzh19601107b,Hakari-goto
+
+thum_dc5_mzh19601107c,,dc5_mzh19601107c.ks*dc5_mzh19601107c_START,@dc5_mzh19601107c,Perebutan Mizuha?
+
+thum_dc5_mzh19601109c,,dc5_mzh19601109c.ks*dc5_mzh19601109c_START,@dc5_mzh19601109c,Tinggal Satu Dorongan Lagi
+
+thum_dc5_mzh19601109d,,dc5_mzh19601109d.ks*dc5_mzh19601109d_START,@dc5_mzh19601109d,Aku Ingin Mengajak Mizuha
+
+thum_dc5_mzh19601111b,,dc5_mzh19601111b.ks*dc5_mzh19601111b_START,@dc5_mzh19601111b,Mungkin Itu Sudah Pasti
+
+thum_dc5_mzh19601111c,,dc5_mzh19601111c.ks*dc5_mzh19601111c_START,@dc5_mzh19601111c,Kucing dan Gadis
+
+thum_dc5_mzh19601112d,,dc5_mzh19601112d.ks*dc5_mzh19601112d_START,@dc5_mzh19601112d,"Bukan Mudah, Tapi Sederhana"
+
+thum_dc5_mzh19601114c,,dc5_mzh19601114c.ks*dc5_mzh19601114c_START,@dc5_mzh19601114c,Aku Menyukainya
+
+thum_dc5_mzh19601114d,,dc5_mzh19601114d.ks*dc5_mzh19601114d_START,@dc5_mzh19601114d,Penyebabnya Adalah Kata-kata Itu
+
+thum_dc5_mzh19601115c,,dc5_mzh19601115c.ks*dc5_mzh19601115c_START,@dc5_mzh19601115c,Konfirmasi dan Jawaban
+
+thum_dc5_mzh19601117c,,dc5_mzh19601117c.ks*dc5_mzh19601117c_START,@dc5_mzh19601117c,Laporan Hasil
+
+thum_dc5_mzh19601118a,,dc5_mzh19601118a.ks*dc5_mzh19601118a_START,@dc5_mzh19601118a,Pagi Festival yang Penuh Semangat
+
+thum_dc5_mzh19601119b,,dc5_mzh19601119b.ks*dc5_mzh19601119b_START,@dc5_mzh19601119b,Genggaman Tangan dan Pengawalan
+
+thum_dc5_mzh19601119c,,dc5_mzh19601119c.ks*dc5_mzh19601119c_START,@dc5_mzh19601119c,Tak Terduga! Di Luar Perkiraan! Masalah Mendadak!
+
+thum_dc5_mzh19601120a1,,dc5_mzh19601120a1.ks*dc5_mzh19601120a1_START,@dc5_mzh19601120a1,Rasanya Agak Malu Ya
+
+thum_dc5_mzh19601120a2,,dc5_mzh19601120a2.ks*dc5_mzh19601120a2_START,@dc5_mzh19601120a2,Arah Pengakuan Cinta
+
+thum_dc5_mzh19601120d,,dc5_mzh19601120d.ks*dc5_mzh19601120d_START,@dc5_mzh19601120d,Hal yang Mengganjal Pikiran Hanya Satu
+
+thum_dc5_mzh19601121a,,dc5_mzh19601121a.ks*dc5_mzh19601121a_START,@dc5_mzh19601121a,Topik Paling Hangat
+
+thum_dc5_mzh19601121b,,dc5_mzh19601121b.ks*dc5_mzh19601121b_START,@dc5_mzh19601121b,Diberkahi Teman-teman Usil
+
+thum_dc5_mzh19601122c,,dc5_mzh19601122c.ks*dc5_mzh19601122c_START,@dc5_mzh19601122c,Souma Dilarang Masuk
+
+thum_dc5_mzh19601122d,,dc5_mzh19601122d.ks*dc5_mzh19601122d_START,@dc5_mzh19601122d,Kumpul Rahasia Para Gadis Bagian 1
+
+thum_dc5_mzh19601123a,,dc5_mzh19601123a.ks*dc5_mzh19601123a_START,@dc5_mzh19601123a,"Pasti Sudah Dipikirkan Baik-baik, Tapi"
+
+thum_dc5_mzh19601123b,,dc5_mzh19601123b.ks*dc5_mzh19601123b_START,@dc5_mzh19601123b,Hubungan dengan Touko-nee
+
+thum_dc5_mzh19601126b,,dc5_mzh19601126b.ks*dc5_mzh19601126b_START,@dc5_mzh19601126b,Hasil dari Pertarungan Telak?
+
+thum_dc5_mzh19601127b,,dc5_mzh19601127b.ks*dc5_mzh19601127b_START,@dc5_mzh19601127b,Perasaan Sedang Jatuh Cinta
+
+thum_dc5_mzh19601128a,,dc5_mzh19601128a.ks*dc5_mzh19601128a_START,@dc5_mzh19601128a,Ujian Tengah Semester Itu Apa?
+
+thum_dc5_mzh19601129b,,dc5_mzh19601129b.ks*dc5_mzh19601129b_START,@dc5_mzh19601129b,Saatnya Menghadapi Persiapan Ujian
+
+thum_dc5_mzh19601129d,,dc5_mzh19601129d.ks*dc5_mzh19601129d_START,@dc5_mzh19601129d,Kumpul Rahasia Para Gadis Bagian 2
+
+thum_dc5_mzh19601130d,,dc5_mzh19601130d.ks*dc5_mzh19601130d_START,@dc5_mzh19601130d,Pertanyaan pada Diri Sendiri Apakah Ini Bernama Belajar
+
+thum_dc5_mzh19601201b,,dc5_mzh19601201b.ks*dc5_mzh19601201b_START,@dc5_mzh19601201b,Kelompok Belajar yang Menggebu-gebu di Kelas
+
+thum_dc5_mzh19601205a,,dc5_mzh19601205a.ks*dc5_mzh19601205a_START,@dc5_mzh19601205a,Hasil Belajar untuk Ujian Adalah...
+
+thum_dc5_mzh19601209c,,dc5_mzh19601209c.ks*dc5_mzh19601209c_START,@dc5_mzh19601209c,Dengan Suasana yang Sedikit Berbeda dari Biasanya
+
+thum_dc5_mzh19601210d,,dc5_mzh19601210d.ks*dc5_mzh19601210d_START,@dc5_mzh19601210d,Kumpul Rahasia Para Gadis Bagian 3
+
+thum_dc5_mzh19601211b,,dc5_mzh19601211b.ks*dc5_mzh19601211b_START,@dc5_mzh19601211b,Mizuha yang Aktif di Lapangan Tenis
+
+thum_dc5_mzh19601211d,,dc5_mzh19601211d.ks*dc5_mzh19601211d_START,@dc5_mzh19601211d,Hal yang Terlintas di Benak Hanya Satu
+
+thum_dc5_mzh19601213b,,dc5_mzh19601213b.ks*dc5_mzh19601213b_START,@dc5_mzh19601213b,Opini Publik yang Mulai Terbentuk
+
+thum_dc5_mzh19601216c,,dc5_mzh19601216c.ks*dc5_mzh19601216c_START,@dc5_mzh19601216c,Sebentar Lagi Natal
+
+thum_dc5_mzh19601219c,,dc5_mzh19601219c.ks*dc5_mzh19601219c_START,@dc5_mzh19601219c,Poko-taro dan Kekasih
+
+thum_dc5_mzh19601222d,,dc5_mzh19601222d.ks*dc5_mzh19601222d_START,@dc5_mzh19601222d,Waktu yang Sangat Tepat
+
+thum_dc5_mzh19601223d,,dc5_mzh19601223d.ks*dc5_mzh19601223d_START,@dc5_mzh19601223d,"Besok, Setelah Upacara Penutupan Semester"
+
+thum_dc5_mzh19601224b,,dc5_mzh19601224b.ks*dc5_mzh19601224b_START,@dc5_mzh19601224b,Masih Belum Diucapkan Kepadaku
+
+thum_dc5_mzh19601224d,,dc5_mzh19601224d.ks*dc5_mzh19601224d_START,@dc5_mzh19601224d,Syukurlah Hari Itu Kita Berdua yang Bertemu
+
+thum_dc5_mzh19601225a,,dc5_mzh19601225a.ks*dc5_mzh19601225a_START,@dc5_mzh19601225a,Mungkin Latihan Seperti Ini Boleh Juga
+
+thum_dc5_mzh19601225b,,dc5_mzh19601225b.ks*dc5_mzh19601225b_START,@dc5_mzh19601225b,Hanya dengan Berada Bersama
+
+thum_dc5_mzh19601228a,,dc5_mzh19601228a.ks*dc5_mzh19601228a_START,@dc5_mzh19601228a,Arti dari Berada Bersama Selamanya
+
+thum_dc5_mzh19601228b,,dc5_mzh19601228b.ks*dc5_mzh19601228b_START,@dc5_mzh19601228b,Permintaan dari Touko-nee
+
+thum_dc5_mzh19601230b,,dc5_mzh19601230b.ks*dc5_mzh19601230b_START,@dc5_mzh19601230b,Orang yang Ada di Sampingku Saat Itu Adalah
+
+thum_dc5_mzh19610101a,,dc5_mzh19610101a.ks*dc5_mzh19610101a_START,@dc5_mzh19610101a,Pettan
+
+thum_dc5_mzh19610102c,,dc5_mzh19610102c.ks*dc5_mzh19610102c_START,@dc5_mzh19610102c,Rekomendasi Novel Romansa
+
+thum_dc5_mzh19610102d,,dc5_mzh19610102d.ks*dc5_mzh19610102d_START,@dc5_mzh19610102d,Perasaan Seharusnya Disampaikan dengan Jujur
+
+thum_dc5_mzh19610104d,,dc5_mzh19610104d.ks*dc5_mzh19610104d_START,@dc5_mzh19610104d,Kejadian Tak Terduga di Kamar Mandi
+
+thum_dc5_mzh19610109a,,dc5_mzh19610109a.ks*dc5_mzh19610109a_START,@dc5_mzh19610109a,Jadi Begitulah Halnya
+
+thum_dc5_mzh19610109c,,dc5_mzh19610109c.ks*dc5_mzh19610109c_START,@dc5_mzh19610109c,Bertanggung Jawab Sampai Akhir
+
+thum_dc5_mzh19610111c,,dc5_mzh19610111c.ks*dc5_mzh19610111c_START,@dc5_mzh19610111c,Ada Pergerakan Mengenai Hal Tersebut
+
+thum_dc5_mzh19610112c,,dc5_mzh19610112c.ks*dc5_mzh19610112c_START,@dc5_mzh19610112c,Kejadian Tak Terduga di Perpustakaan
+
+thum_dc5_mzh19610115c,,dc5_mzh19610115c.ks*dc5_mzh19610115c_START,@dc5_mzh19610115c,Banyak Hal yang Ingin Kulakukan
+
+thum_dc5_mzh19610117a,,dc5_mzh19610117a.ks*dc5_mzh19610117a_START,@dc5_mzh19610117a,Bisakah Kita Bertemu Lagi?
+
+thum_dc5_mzh19610117b,,dc5_mzh19610117b.ks*dc5_mzh19610117b_START,@dc5_mzh19610117b,Pohon Sakura yang Lapuk
+
+thum_dc5_mzh19610118a1,,dc5_mzh19610118a1.ks*dc5_mzh19610118a1_START,@dc5_mzh19610118a1,Cinta Itu... Tidak Boleh Kulakukan
+
+thum_dc5_mzh19610118a2,,dc5_mzh19610118a2.ks*dc5_mzh19610118a2_START,@dc5_mzh19610118a2,Kesalahpahaman dengan Mizuha
+
+thum_dc5_mzh19610120c,,dc5_mzh19610120c.ks*dc5_mzh19610120c_START,@dc5_mzh19610120c,Hal yang Terlintas di Benak Adalah...
+
+thum_dc5_mzh19610121a,,dc5_mzh19610121a.ks*dc5_mzh19610121a_START,@dc5_mzh19610121a,Hal yang Tidak Bisa Dibicarakan?
+
+thum_dc5_mzh19610121d,,dc5_mzh19610121d.ks*dc5_mzh19610121d_START,@dc5_mzh19610121d,Terima Kasih untuk Selama Ini
+
+thum_dc5_mzh19610122a,,dc5_mzh19610122a.ks*dc5_mzh19610122a_START,@dc5_mzh19610122a,Arti Keberadaanku Dilahirkan
+
+thum_dc5_mzh19610122a2,,dc5_mzh19610122a2.ks*dc5_mzh19610122a2_START,@dc5_mzh19610122a2,Keberadaan Mizuha dan Tekadnya
+
+thum_dc5_mzh19610122d,,dc5_mzh19610122d.ks*dc5_mzh19610122d_START,@dc5_mzh19610122d,Harmoni Dunia dan Misi Sang Gadis
+
+thum_dc5_mzh19610302b,,dc5_mzh19610302b.ks*dc5_mzh19610302b_START,@dc5_mzh19610302b,Perpisahan Menuju Masa Depan
+
+thum_dc5_mzh99999999a,,dc5_mzh99999999a.ks*dc5_mzh99999999a_START,@dc5_mzh99999999a,Kita Bisa Bertemu Lagi
+
+thum_dc5_gep19610333a6,,dc5_gep19610333a6.ks*dc5_gep19610333a6_START,@dc5_gep19610333a6,Jalan Menuju Penyihir Agung
+
+"#,,,,",,,,
+
+:,Anoa,,,
+
+thum_dc5_mna19601102c,,dc5_mna19601102c.ks*dc5_mna19601102c_START,@dc5_mna19601102c,Meskipun Sudah Menjadi Festival Olahraga
+
+thum_dc5_mna19601103a,,dc5_mna19601103a.ks*dc5_mna19601103a_START,@dc5_mna19601103a,Perjalanan Misterius dan Janji Hari Itu
+
+thum_dc5_mna19601103c,,dc5_mna19601103c.ks*dc5_mna19601103c_START,@dc5_mna19601103c,Formasi Menuju Kemenangan
+
+thum_dc5_mna19601103d,,dc5_mna19601103d.ks*dc5_mna19601103d_START,@dc5_mna19601103d,Cabang Lomba yang Diikuti?
+
+thum_dc5_mna19601104a,,dc5_mna19601104a.ks*dc5_mna19601104a_START,@dc5_mna19601104a,Berharap dan Melangkah Maju
+
+thum_dc5_mna19601104c,,dc5_mna19601104c.ks*dc5_mna19601104c_START,@dc5_mna19601104c,Sebagai Pengganti Anoa
+
+thum_dc5_mna19601104d,,dc5_mna19601104d.ks*dc5_mna19601104d_START,@dc5_mna19601104d,"Kalau Bisa, Bersama Anoa"
+
+thum_dc5_mna19601107a,,dc5_mna19601107a.ks*dc5_mna19601107a_START,@dc5_mna19601107a,Tugas Berat Menjadi Bantalan
+
+thum_dc5_mna19601110c,,dc5_mna19601110c.ks*dc5_mna19601110c_START,@dc5_mna19601110c,Pasti Akan Datang
+
+thum_dc5_mna19601111d,,dc5_mna19601111d.ks*dc5_mna19601111d_START,@dc5_mna19601111d,Hari Peringatan yang Terlupakan
+
+thum_dc5_mna19601115c,,dc5_mna19601115c.ks*dc5_mna19601115c_START,@dc5_mna19601115c,Tongkat Estafet Terakhir dari Anoa
+
+thum_dc5_mna19601116d,,dc5_mna19601116d.ks*dc5_mna19601116d_START,@dc5_mna19601116d,Jika Sedang Ingin Saja
+
+thum_dc5_mna19601117c,,dc5_mna19601117c.ks*dc5_mna19601117c_START,@dc5_mna19601117c,Segala Persiapan yang Memungkinkan
+
+thum_dc5_mna19601118b,,dc5_mna19601118b.ks*dc5_mna19601118b_START,@dc5_mna19601118b,Masa Muda yang Lolos di Detik Terakhir
+
+thum_dc5_mna19601203c,,dc5_mna19601203c.ks*dc5_mna19601203c_START,@dc5_mna19601203c,Kenyataan yang Tak Bisa Dihindari
+
+thum_dc5_mna19601209c,,dc5_mna19601209c.ks*dc5_mna19601209c_START,@dc5_mna19601209c,Sosok yang Ingin Kuikuti
+
+thum_dc5_mna19601224c,,dc5_mna19601224c.ks*dc5_mna19601224c_START,@dc5_mna19601224c,"Sebagai Tunangan, Teman, dan Keluarga"
+
+thum_dc5_mna19601224d,,dc5_mna19601224d.ks*dc5_mna19601224d_START,@dc5_mna19601224d,Paha Ayam dan Hari Natal
+
+thum_dc5_mna19601231d,,dc5_mna19601231d.ks*dc5_mna19601231d_START,@dc5_mna19601231d,Setidaknya di Malam Tahun Baru
+
+thum_dc5_mna19610102a,,dc5_mna19610102a.ks*dc5_mna19610102a_START,@dc5_mna19610102a,Punggung yang Kukejar pada Hari Itu
+
+thum_dc5_mna19610102b,,dc5_mna19610102b.ks*dc5_mna19610102b_START,@dc5_mna19610102b,Usaha Keras Demi Tetap Menjadi Sang Jenius
+
+thum_dc5_mna19610107b,,dc5_mna19610107b.ks*dc5_mna19610107b_START,@dc5_mna19610107b,Yang Ribut Saat Turun Salju Hanya Anjing dan Orang Bodoh?
+
+thum_dc5_mna19610117a,,dc5_mna19610117a.ks*dc5_mna19610117a_START,@dc5_mna19610117a,Yang Terbayang Bersama Sakura Adalah...
+
+thum_dc5_mna19610122a,,dc5_mna19610122a.ks*dc5_mna19610122a_START,@dc5_mna19610122a,Hal yang Kembali dan Hal yang Hilang
+
+thum_dc5_mna19610123d,,dc5_mna19610123d.ks*dc5_mna19610123d_START,@dc5_mna19610123d,Ancaman yang Nyata Terlihat
+
+thum_dc5_mna19610124a,,dc5_mna19610124a.ks*dc5_mna19610124a_START,@dc5_mna19610124a,"Bukan Masalah Usaha, Tapi Bakat Alami"
+
+thum_dc5_mna19610128a,,dc5_mna19610128a.ks*dc5_mna19610128a_START,@dc5_mna19610128a,Meski Harus Menapaki Tangga Selangkah Demi Selangkah
+
+thum_dc5_mna19610201a,,dc5_mna19610201a.ks*dc5_mna19610201a_START,@dc5_mna19610201a,Hal yang Bisa Kulakukan Demi Dirinya
+
+thum_dc5_mna19610202b,,dc5_mna19610202b.ks*dc5_mna19610202b_START,@dc5_mna19610202b,Informasi yang Mengkhawatirkan
+
+thum_dc5_mna19610202d,,dc5_mna19610202d.ks*dc5_mna19610202d_START,@dc5_mna19610202d,Harus Berusaha Lebih Keras Lagi
+
+thum_dc5_mna19610204d,,dc5_mna19610204d.ks*dc5_mna19610204d_START,@dc5_mna19610204d,Apakah Ada yang Bisa Kulakukan
+
+thum_dc5_mna19610206a,,dc5_mna19610206a.ks*dc5_mna19610206a_START,@dc5_mna19610206a,Keretakan yang Terbuka
+
+thum_dc5_mna19610206d,,dc5_mna19610206d.ks*dc5_mna19610206d_START,@dc5_mna19610206d,Makan Malam yang Sepi
+
+thum_dc5_mna19610207a,,dc5_mna19610207a.ks*dc5_mna19610207a_START,@dc5_mna19610207a,Jangan Sampai Ini Menjadi Hal Biasa
+
+thum_dc5_mna19610207c,,dc5_mna19610207c.ks*dc5_mna19610207c_START,@dc5_mna19610207c,Padahal Hasilnya Bagus
+
+thum_dc5_mna19610208b,,dc5_mna19610208b.ks*dc5_mna19610208b_START,@dc5_mna19610208b,Mencari Tahu Alasan di Balik Tindakannya
+
+thum_dc5_mna19610208c,,dc5_mna19610208c.ks*dc5_mna19610208c_START,@dc5_mna19610208c,Bukan Sesuatu yang Ditentukan Orang Lain
+
+thum_dc5_mna19610208d1,,dc5_mna19610208d1.ks*dc5_mna19610208d1_START,@dc5_mna19610208d1,Anak yang Tersesat
+
+thum_dc5_mna19610208d2,,dc5_mna19610208d2.ks*dc5_mna19610208d2_START,@dc5_mna19610208d2,Karena Sudah Berjanji
+
+thum_dc5_mna19610208d3,,dc5_mna19610208d3.ks*dc5_mna19610208d3_START,@dc5_mna19610208d3,"Jika Membandingkan Harganya, Pilihan Akan Terlihat dengan Sendirinya"
+
+thum_dc5_mna19610209a,,dc5_mna19610209a.ks*dc5_mna19610209a_START,@dc5_mna19610209a,Pagi yang Ramai Setelah Sekian Lama
+
+thum_dc5_mna19610209b,,dc5_mna19610209b.ks*dc5_mna19610209b_START,@dc5_mna19610209b,Hal yang Dilakukan Pasangan Kekasih di Siang Hari
+
+thum_dc5_mna19610209c,,dc5_mna19610209c.ks*dc5_mna19610209c_START,@dc5_mna19610209c,Pacar Laki-laki dan Pacar Perempuan
+
+thum_dc5_mna19610210a,,dc5_mna19610210a.ks*dc5_mna19610210a_START,@dc5_mna19610210a,Nyaa~
+
+thum_dc5_mna19610210b,,dc5_mna19610210b.ks*dc5_mna19610210b_START,@dc5_mna19610210b,Berharga? Atau Tidak Berharga?
+
+thum_dc5_mna19610210c,,dc5_mna19610210c.ks*dc5_mna19610210c_START,@dc5_mna19610210c,Hal yang Ingin Dilakukan Bersama Kakak-Adik
+
+thum_dc5_mna19610211b,,dc5_mna19610211b.ks*dc5_mna19610211b_START,@dc5_mna19610211b,Ungkapan Terima Kasih Sebagai Hadiah
+
+thum_dc5_mna19610211c,,dc5_mna19610211c.ks*dc5_mna19610211c_START,@dc5_mna19610211c,Hal yang Disadari dari Tangan yang Bergandengan
+
+thum_dc5_mna19610212a,,dc5_mna19610212a.ks*dc5_mna19610212a_START,@dc5_mna19610212a,Alasan Tidak Bisa Fokus
+
+thum_dc5_mna19610213c,,dc5_mna19610213c.ks*dc5_mna19610213c_START,@dc5_mna19610213c,Estetika untuk Tidak Membongkar Rahasia
+
+thum_dc5_mna19610214c,,dc5_mna19610214c.ks*dc5_mna19610214c_START,@dc5_mna19610214c,"Bukan 'Lumayan', Melainkan..."
+
+thum_dc5_mna19610215a,,dc5_mna19610215a.ks*dc5_mna19610215a_START,@dc5_mna19610215a,Penyelidik yang Sangat Handal
+
+thum_dc5_mna19610216c,,dc5_mna19610216c.ks*dc5_mna19610216c_START,@dc5_mna19610216c,Hal yang Jauh Lebih Penting
+
+thum_dc5_mna19610217c,,dc5_mna19610217c.ks*dc5_mna19610217c_START,@dc5_mna19610217c,Kekuatan Cinta?
+
+thum_dc5_mna19610218c,,dc5_mna19610218c.ks*dc5_mna19610218c_START,@dc5_mna19610218c,Firasat Ganjil yang Hanya Dirasakan Sang Jenius?
+
+thum_dc5_mna19610220c,,dc5_mna19610220c.ks*dc5_mna19610220c_START,@dc5_mna19610220c,Garis yang Mulai Terhubung
+
+thum_dc5_mna19610221c,,dc5_mna19610221c.ks*dc5_mna19610221c_START,@dc5_mna19610221c,Pelari Terakhir (Anchor)
+
+thum_dc5_mna19610224c,,dc5_mna19610224c.ks*dc5_mna19610224c_START,@dc5_mna19610224c,Sekali-kali Pesta Syukuran Bersama Semuanya
+
+thum_dc5_mna19610305b,,dc5_mna19610305b.ks*dc5_mna19610305b_START,@dc5_mna19610305b,Bersenang-senang Riang Layaknya Anak-anak
+
+thum_dc5_mna19610312b,,dc5_mna19610312b.ks*dc5_mna19610312b_START,@dc5_mna19610312b,Pertandingan yang Terlalu Menghangatkan Hati
+
+thum_dc5_mna19610315c,,dc5_mna19610315c.ks*dc5_mna19610315c_START,@dc5_mna19610315c,Kata-kata yang Tidak Biasa Darinya
+
+thum_dc5_mna19610315d,,dc5_mna19610315d.ks*dc5_mna19610315d_START,@dc5_mna19610315d,Pasti Hanya Kakak
+
+thum_dc5_mna19610317d,,dc5_mna19610317d.ks*dc5_mna19610317d_START,@dc5_mna19610317d,Sebagai Tokoh Utama dan Pahlawan Dunia
+
+thum_dc5_mna19610318b,,dc5_mna19610318b.ks*dc5_mna19610318b_START,@dc5_mna19610318b,Di Ujung Jalan yang Terhubung ke Masa Depan
+
+thum_dc5_gep19610333a2,,dc5_gep19610333a2.ks*dc5_gep19610333a2_START,@dc5_gep19610333a2,Mulai Sekarang Layaknya Kekasih
+
+"#,,,,",,,,
+
+:,Yukina,,,
+
+thum_dc5_ykn19601102c1,,dc5_ykn19601102c1.ks*dc5_ykn19601102c1_START,@dc5_ykn19601102c1,Mantra Bintang Jatuh
+
+thum_dc5_ykn19601102c2,,dc5_ykn19601102c2.ks*dc5_ykn19601102c2_START,@dc5_ykn19601102c2,Awal Pembukaan Lembaran Sejarah Baru
+
+thum_dc5_ykn19601104a1,,dc5_ykn19601104a1.ks*dc5_ykn19601104a1_START,@dc5_ykn19601104a1,Itu Bagaikan Mimpi yang Dangkal
+
+thum_dc5_ykn19601104a2,,dc5_ykn19601104a2.ks*dc5_ykn19601104a2_START,@dc5_ykn19601104a2,Fajar Pagi dan Senyuman Seperti Biasanya
+
+thum_dc5_ykn19601104a3,,dc5_ykn19601104a3.ks*dc5_ykn19601104a3_START,@dc5_ykn19601104a3,Pernyataan Tekad
+
+thum_dc5_ykn19601104c,,dc5_ykn19601104c.ks*dc5_ykn19601104c_START,@dc5_ykn19601104c,"Bekerjalah dengan Gagah Berani, OSIS!"
+
+thum_dc5_ykn19601105a1,,dc5_ykn19601105a1.ks*dc5_ykn19601105a1_START,@dc5_ykn19601105a1,Sihir Itu Sungguh Luar Biasa
+
+thum_dc5_ykn19601105b,,dc5_ykn19601105b.ks*dc5_ykn19601105b_START,@dc5_ykn19601105b,Keseriusan Tokisaka Yukina
+
+thum_dc5_ykn19601107c,,dc5_ykn19601107c.ks*dc5_ykn19601107c_START,@dc5_ykn19601107c,"OSIS, Memulai Langkah!"
+
+thum_dc5_ykn19601108c,,dc5_ykn19601108c.ks*dc5_ykn19601108c_START,@dc5_ykn19601108c,"OSIS, Mulai Syuting!"
+
+thum_dc5_ykn19601109c,,dc5_ykn19601109c.ks*dc5_ykn19601109c_START,@dc5_ykn19601109c,"OSIS, Jump Ball!"
+
+thum_dc5_ykn19601109d,,dc5_ykn19601109d.ks*dc5_ykn19601109d_START,@dc5_ykn19601109d,Lagu Anak Pengantar Tidur
+
+thum_dc5_ykn19601113b,,dc5_ykn19601113b.ks*dc5_ykn19601113b_START,@dc5_ykn19601113b,Gadis di Balik Lensa Kamera
+
+thum_dc5_ykn19601113d,,dc5_ykn19601113d.ks*dc5_ykn19601113d_START,@dc5_ykn19601113d,Hal yang Hanya Diketahui oleh Anoa
+
+thum_dc5_ykn19601116a,,dc5_ykn19601116a.ks*dc5_ykn19601116a_START,@dc5_ykn19601116a,Jeritan Gadis Itu dan Kasih Sayang
+
+thum_dc5_ykn19601116c,,dc5_ykn19601116c.ks*dc5_ykn19601116c_START,@dc5_ykn19601116c,Hitung Mundur Menuju Festival
+
+thum_dc5_ykn19601118a,,dc5_ykn19601118a.ks*dc5_ykn19601118a_START,@dc5_ykn19601118a,"Festival Kagasai, Digelar dengan Sangat Meriah!"
+
+thum_dc5_ykn19601118b,,dc5_ykn19601118b.ks*dc5_ykn19601118b_START,@dc5_ykn19601118b,"Wahai Pemuda dan Pemudi, Bergeraklah dengan Semangat!"
+
+thum_dc5_ykn19601121b,,dc5_ykn19601121b.ks*dc5_ykn19601121b_START,@dc5_ykn19601121b,"Berdua Saja di Festival Kagasai, Artinya Adalah..."
+
+thum_dc5_ykn19601121b2,,dc5_ykn19601121b2.ks*dc5_ykn19601121b2_START,@dc5_ykn19601121b2,"Film Bersuara yang Biru, Fana, dan Berkesan di Hati"
+
+thum_dc5_ykn19601121b3,,dc5_ykn19601121b3.ks*dc5_ykn19601121b3_START,@dc5_ykn19601121b3,Kenikmatan Menonton Film: Sesi Berbagi Kesan
+
+thum_dc5_ykn19601121c,,dc5_ykn19601121c.ks*dc5_ykn19601121c_START,@dc5_ykn19601121c,"Pria yang Menciptakan Legenda, Namanya Adalah..."
+
+thum_dc5_ykn19601121d,,dc5_ykn19601121d.ks*dc5_ykn19601121d_START,@dc5_ykn19601121d,Agar Tidak Kalah dari Siapapun
+
+thum_dc5_ykn19601122a1,,dc5_ykn19601122a1.ks*dc5_ykn19601122a1_START,@dc5_ykn19601122a1,Pemandangan Asli Masa Kecil
+
+thum_dc5_ykn19601122a2,,dc5_ykn19601122a2.ks*dc5_ykn19601122a2_START,@dc5_ykn19601122a2,Titik Tengah Antara Impian dan Kebahagiaan
+
+thum_dc5_ykn19601122a3,,dc5_ykn19601122a3.ks*dc5_ykn19601122a3_START,@dc5_ykn19601122a3,Hari-hari Penuh Kemesraan (Icha-Love Days)
+
+thum_dc5_ykn19601122b,,dc5_ykn19601122b.ks*dc5_ykn19601122b_START,@dc5_ykn19601122b,Makan Siang yang Bahagia
+
+thum_dc5_ykn19601127b,,dc5_ykn19601127b.ks*dc5_ykn19601127b_START,@dc5_ykn19601127b,Pemandangan Saat Berjalan Bersamanya
+
+thum_dc5_ykn19601128a,,dc5_ykn19601128a.ks*dc5_ykn19601128a_START,@dc5_ykn19601128a,Saatnya Ujian Akhir Semester
+
+thum_dc5_ykn19601128c,,dc5_ykn19601128c.ks*dc5_ykn19601128c_START,@dc5_ykn19601128c,Bahu Membahu Berdampingan
+
+thum_dc5_ykn19601205a,,dc5_ykn19601205a.ks*dc5_ykn19601205a_START,@dc5_ykn19601205a,Murung? Atau Berdebar Antusias?
+
+thum_dc5_ykn19601213c,,dc5_ykn19601213c.ks*dc5_ykn19601213c_START,@dc5_ykn19601213c,Menuju Musim Dingin yang Hangat
+
+thum_dc5_ykn19601224b,,dc5_ykn19601224b.ks*dc5_ykn19601224b_START,@dc5_ykn19601224b,Cara Menghabiskan Malam Natal
+
+thum_dc5_ykn19601224c,,dc5_ykn19601224c.ks*dc5_ykn19601224c_START,@dc5_ykn19601224c,Kue yang Manis dan Malam Putih Bersalju
+
+thum_dc5_ykn19601231d,,dc5_ykn19601231d.ks*dc5_ykn19601231d_START,@dc5_ykn19601231d,"Tahun yang Berakhir, Tahun yang Disambut"
+
+thum_dc5_ykn19610101a,,dc5_ykn19610101a.ks*dc5_ykn19610101a_START,@dc5_ykn19610101a,Kunjungan Kuil Tahun Baru yang Penuh Kesungguhan
+
+thum_dc5_ykn19610108b,,dc5_ykn19610108b.ks*dc5_ykn19610108b_START,@dc5_ykn19610108b,Melihat Kembali Jejak Perasaan Masa Lalu
+
+thum_dc5_ykn19610109b,,dc5_ykn19610109b.ks*dc5_ykn19610109b_START,@dc5_ykn19610109b,Tekad dan Harapan
+
+thum_dc5_ykn19610117a,,dc5_ykn19610117a.ks*dc5_ykn19610117a_START,@dc5_ykn19610117a,Firasat Pertanda Buruk
+
+thum_dc5_ykn19610122b,,dc5_ykn19610122b.ks*dc5_ykn19610122b_START,@dc5_ykn19610122b,Perpisahan yang Tiba-tiba
+
+thum_dc5_ykn19610122c,,dc5_ykn19610122c.ks*dc5_ykn19610122c_START,@dc5_ykn19610122c,Keheningan untuk Satu Orang
+
+thum_dc5_ykn19610122d,,dc5_ykn19610122d.ks*dc5_ykn19610122d_START,@dc5_ykn19610122d,Mencurahkan Seluruh Kasih Sayang
+
+thum_dc5_ykn19610123a,,dc5_ykn19610123a.ks*dc5_ykn19610123a_START,@dc5_ykn19610123a,Keseharian yang Terus Berubah
+
+thum_dc5_ykn19610123c,,dc5_ykn19610123c.ks*dc5_ykn19610123c_START,@dc5_ykn19610123c,"Tokisaka Yukina, Mulai Bergerak"
+
+thum_dc5_ykn19610126a,,dc5_ykn19610126a.ks*dc5_ykn19610126a_START,@dc5_ykn19610126a,Selangkah Demi Selangkah
+
+thum_dc5_ykn19610126b,,dc5_ykn19610126b.ks*dc5_ykn19610126b_START,@dc5_ykn19610126b,Demi Menyampaikan Rasa Terima Kasih
+
+thum_dc5_ykn19610126d,,dc5_ykn19610126d.ks*dc5_ykn19610126d_START,@dc5_ykn19610126d,Cengkeraman Tangan Iblis Hitam
+
+thum_dc5_ykn19610129b,,dc5_ykn19610129b.ks*dc5_ykn19610129b_START,@dc5_ykn19610129b,Senyuman yang Cocok dengan Anting-anting
+
+thum_dc5_ykn19610201c,,dc5_ykn19610201c.ks*dc5_ykn19610201c_START,@dc5_ykn19610201c,Selamat Ulang Tahun!
+
+thum_dc5_ykn19610201d,,dc5_ykn19610201d.ks*dc5_ykn19610201d_START,@dc5_ykn19610201d,Sihir Pemutar Waktu Terakhir
+
+thum_dc5_ykn19610202a,,dc5_ykn19610202a.ks*dc5_ykn19610202a_START,@dc5_ykn19610202a,Kebenaran yang Terhapus Gelap 6 Tahun Lalu
+
+thum_dc5_ykn19610202a2,,dc5_ykn19610202a2.ks*dc5_ykn19610202a2_START,@dc5_ykn19610202a2,Pagi Kehilangan Tempat Bersandar
+
+thum_dc5_ykn19610202b,,dc5_ykn19610202b.ks*dc5_ykn19610202b_START,@dc5_ykn19610202b,Kemalangan Gelap yang Tak Bisa Dihapus
+
+thum_dc5_ykn19610202d,,dc5_ykn19610202d.ks*dc5_ykn19610202d_START,@dc5_ykn19610202d,Itu Adalah Sihir Cinta yang Dipersembahkan untuk Orang Tercinta
+
+thum_dc5_ykn19610207d,,dc5_ykn19610207d.ks*dc5_ykn19610207d_START,@dc5_ykn19610207d,Gadis Jenius yang Kejam
+
+thum_dc5_ykn19610208b,,dc5_ykn19610208b.ks*dc5_ykn19610208b_START,@dc5_ykn19610208b,Menumpuk Doa dan Melingkarkannya
+
+thum_dc5_ykn19610208c,,dc5_ykn19610208c.ks*dc5_ykn19610208c_START,@dc5_ykn19610208c,Batas Waktu yang Kian Mendekat
+
+thum_dc5_ykn19610210d,,dc5_ykn19610210d.ks*dc5_ykn19610210d_START,@dc5_ykn19610210d,Menitipkan Harapan Kebahagiaan
+
+thum_dc5_ykn19610217a,,dc5_ykn19610217a.ks*dc5_ykn19610217a_START,@dc5_ykn19610217a,Raga yang Kosong
+
+thum_dc5_ykn19610217b,,dc5_ykn19610217b.ks*dc5_ykn19610217b_START,@dc5_ykn19610217b,Untaian Doa yang Tertulis dan Janji Menuju Masa Depan
+
+thum_dc5_ykn19610218a,,dc5_ykn19610218a.ks*dc5_ykn19610218a_START,@dc5_ykn19610218a,Masa Depan yang Diwarisi dari Yukina
+
+thum_dc5_ykn19610218b,,dc5_ykn19610218b.ks*dc5_ykn19610218b_START,@dc5_ykn19610218b,Keluarga Tokisaka dan Sejarah Pemutar Waktu
+
+thum_dc5_ykn19610218d,,dc5_ykn19610218d.ks*dc5_ykn19610218d_START,@dc5_ykn19610218d,Menantang Dunia!
+
+thum_dc5_ykn19610225a,,dc5_ykn19610225a.ks*dc5_ykn19610225a_START,@dc5_ykn19610225a,"Jarak Bernama Bakat, Dinding Bernama Waktu"
+
+thum_dc5_ykn19610225b,,dc5_ykn19610225b.ks*dc5_ykn19610225b_START,@dc5_ykn19610225b,Hal yang Dimohonkan pada Bintang Jatuh
+
+thum_dc5_ykn19610225d,,dc5_ykn19610225d.ks*dc5_ykn19610225d_START,@dc5_ykn19610225d,Perasaan Diri Sendiri dan Beratnya Beban Sejarah
+
+thum_dc5_ykn19610226a,,dc5_ykn19610226a.ks*dc5_ykn19610226a_START,@dc5_ykn19610226a,Kata Kuncinya Adalah...
+
+thum_dc5_ykn19610226a2,,dc5_ykn19610226a2.ks*dc5_ykn19610226a2_START,@dc5_ykn19610226a2,Tekad Bernama Janji
+
+thum_dc5_ykn19610226d,,dc5_ykn19610226d.ks*dc5_ykn19610226d_START,@dc5_ykn19610226d,Dosa Mengubah Dunia
+
+thum_dc5_ykn19610226d2,,dc5_ykn19610226d2.ks*dc5_ykn19610226d2_START,@dc5_ykn19610226d2,Di Atas Bukit Tempat Bintang-bintang Berkilau
+
+thum_dc5_ykn29610201c1,,dc5_ykn29610201c1.ks*dc5_ykn29610201c1_START,@dc5_ykn29610201c1,Dari Dunia yang Baru
+
+thum_dc5_ykn29610201c2,,dc5_ykn29610201c2.ks*dc5_ykn29610201c2_START,@dc5_ykn29610201c2,Itu Adalah Cinta Murni yang Mempertaruhkan Nyawa
+
+thum_dc5_ykn29610201d,,dc5_ykn29610201d.ks*dc5_ykn29610201d_START,@dc5_ykn29610201d,"Untuk Diriku di Hari Esok, Untukmu di Hari Esok"
+
+thum_dc5_gep19610333a5,,dc5_gep19610333a5.ks*dc5_gep19610333a5_START,@dc5_gep19610333a5,Pasti Akan Ada Jalannya
+
+"#,,,,",,,,
+
+:,Aika,,,
+
+thum_dc5_aik19601102c,,dc5_aik19601102c.ks*dc5_aik19601102c_START,@dc5_aik19601102c,Bunga Sakura yang Mekar Putih
+
+thum_dc5_aik19601104c,,dc5_aik19601104c.ks*dc5_aik19601104c_START,@dc5_aik19601104c,Kenapa?
+
+thum_dc5_aik19601107a,,dc5_aik19601107a.ks*dc5_aik19601107a_START,@dc5_aik19601107a,Alasan untuk Berjuang
+
+thum_dc5_aik19601109c,,dc5_aik19601109c.ks*dc5_aik19601109c_START,@dc5_aik19601109c,Gadis Selain Anggota Keluarga
+
+thum_dc5_aik19601110c,,dc5_aik19601110c.ks*dc5_aik19601110c_START,@dc5_aik19601110c,Hari Ini Menu Spesial
+
+thum_dc5_aik19601110d,,dc5_aik19601110d.ks*dc5_aik19601110d_START,@dc5_aik19601110d,Laporan Hari Ini
+
+thum_dc5_aik19601111c,,dc5_aik19601111c.ks*dc5_aik19601111c_START,@dc5_aik19601111c,Sandwich Sebagai Ucapan Terima Kasih
+
+thum_dc5_aik19601111d,,dc5_aik19601111d.ks*dc5_aik19601111d_START,@dc5_aik19601111d,Jawaban yang Dicapai Adalah...
+
+thum_dc5_aik19601114a,,dc5_aik19601114a.ks*dc5_aik19601114a_START,@dc5_aik19601114a,Pikiran Liar dan Ketetapan Hati
+
+thum_dc5_aik19601114b,,dc5_aik19601114b.ks*dc5_aik19601114b_START,@dc5_aik19601114b,Dukungan dari Sahabat Karib
+
+thum_dc5_aik19601114c,,dc5_aik19601114c.ks*dc5_aik19601114c_START,@dc5_aik19601114c,Catatan Waktu yang Bagus
+
+thum_dc5_aik19601118c,,dc5_aik19601118c.ks*dc5_aik19601118c_START,@dc5_aik19601118c,"Karena Itu, Hari Esok Adalah..."
+
+thum_dc5_aik19601119b,,dc5_aik19601119b.ks*dc5_aik19601119b_START,@dc5_aik19601119b,"Akhirnya, Hari Ini Tiba"
+
+thum_dc5_aik19601119c,,dc5_aik19601119c.ks*dc5_aik19601119c_START,@dc5_aik19601119c,Perkembangan yang Tak Terduga
+
+thum_dc5_aik19601121c,,dc5_aik19601121c.ks*dc5_aik19601121c_START,@dc5_aik19601121c,Situasi Keluarga Shirakawa
+
+thum_dc5_aik19601121d,,dc5_aik19601121d.ks*dc5_aik19601121d_START,@dc5_aik19601121d,Diriku yang Kusukai
+
+thum_dc5_aik19601122b,,dc5_aik19601122b.ks*dc5_aik19601122b_START,@dc5_aik19601122b,Rumor dan Rahasia
+
+thum_dc5_aik19601123c,,dc5_aik19601123c.ks*dc5_aik19601123c_START,@dc5_aik19601123c,Rahasia Bahkan dari Keluarga
+
+thum_dc5_aik19601124c,,dc5_aik19601124c.ks*dc5_aik19601124c_START,@dc5_aik19601124c,Memahami Arti Keimutan
+
+thum_dc5_aik19601125c,,dc5_aik19601125c.ks*dc5_aik19601125c_START,@dc5_aik19601125c,Ahli Bermain Sendirian
+
+thum_dc5_aik19601128b,,dc5_aik19601128b.ks*dc5_aik19601128b_START,@dc5_aik19601128b,Ajakan Bermain Ayatori (Tali Tangan)
+
+thum_dc5_aik19601128c,,dc5_aik19601128c.ks*dc5_aik19601128c_START,@dc5_aik19601128c,Laporan Hari Ini dan...
+
+thum_dc5_aik19601129b,,dc5_aik19601129b.ks*dc5_aik19601129b_START,@dc5_aik19601129b,Istirahat Siang yang Menyenangkan
+
+thum_dc5_aik19601129d,,dc5_aik19601129d.ks*dc5_aik19601129d_START,@dc5_aik19601129d,"Tapi, Aku Ingin Bertemu"
+
+thum_dc5_aik19601201c,,dc5_aik19601201c.ks*dc5_aik19601201c_START,@dc5_aik19601201c,Bagaimana Perasaan Akari?
+
+thum_dc5_aik19601202a,,dc5_aik19601202a.ks*dc5_aik19601202a_START,@dc5_aik19601202a,Hubungan yang Diinginkan
+
+thum_dc5_aik19601202c,,dc5_aik19601202c.ks*dc5_aik19601202c_START,@dc5_aik19601202c,Hasil Setelah Berputar Jauh
+
+thum_dc5_aik19601202d,,dc5_aik19601202d.ks*dc5_aik19601202d_START,@dc5_aik19601202d,Kata-kata Paling Membahagiakan Nomor Dua
+
+thum_dc5_aik19601203b,,dc5_aik19601203b.ks*dc5_aik19601203b_START,@dc5_aik19601203b,Reaksi Masing-masing
+
+thum_dc5_aik19601204b,,dc5_aik19601204b.ks*dc5_aik19601204b_START,@dc5_aik19601204b,Kencan Pertama
+
+thum_dc5_aik19601205a,,dc5_aik19601205a.ks*dc5_aik19601205a_START,@dc5_aik19601205a,Pagi Hari Ujian Semester
+
+thum_dc5_aik19601205c,,dc5_aik19601205c.ks*dc5_aik19601205c_START,@dc5_aik19601205c,Salam Berkunjung ke Rumah Keluarga Shirakawa
+
+thum_dc5_aik19601206c,,dc5_aik19601206c.ks*dc5_aik19601206c_START,@dc5_aik19601206c,Kelompok Belajar di Rumah Shirakawa
+
+thum_dc5_aik19601207c,,dc5_aik19601207c.ks*dc5_aik19601207c_START,@dc5_aik19601207c,Sangat Imut
+
+thum_dc5_aik19601209c,,dc5_aik19601209c.ks*dc5_aik19601209c_START,@dc5_aik19601209c,Panggilan yang Berbeda
+
+thum_dc5_aik19601210c,,dc5_aik19601210c.ks*dc5_aik19601210c_START,@dc5_aik19601210c,Tawaran dari Touko-nee
+
+thum_dc5_aik19601211b,,dc5_aik19601211b.ks*dc5_aik19601211b_START,@dc5_aik19601211b,Firasat Calon Maskot Toko (Kanban Musume)
+
+thum_dc5_aik19601211c,,dc5_aik19601211c.ks*dc5_aik19601211c_START,@dc5_aik19601211c,Untuk Laporan Hari Ini
+
+thum_dc5_aik19601212b,,dc5_aik19601212b.ks*dc5_aik19601212b_START,@dc5_aik19601212b,Manajemen
+
+thum_dc5_aik19601217c,,dc5_aik19601217c.ks*dc5_aik19601217c_START,@dc5_aik19601217c,Tantangan Baru
+
+thum_dc5_aik19601217d,,dc5_aik19601217d.ks*dc5_aik19601217d_START,@dc5_aik19601217d,Dalam Laporan Hari Ini
+
+thum_dc5_aik19601218b,,dc5_aik19601218b.ks*dc5_aik19601218b_START,@dc5_aik19601218b,Bukan Kemanisan yang Seperti Itu
+
+thum_dc5_aik19601224a,,dc5_aik19601224a.ks*dc5_aik19601224a_START,@dc5_aik19601224a,Bisa Ditendang Rusa Kutub Lho
+
+thum_dc5_aik19601224c,,dc5_aik19601224c.ks*dc5_aik19601224c_START,@dc5_aik19601224c,Sedikit Lebih Panjang...
+
+thum_dc5_aik19601225b,,dc5_aik19601225b.ks*dc5_aik19601225b_START,@dc5_aik19601225b,Inspirasi di Danau Suikyou
+
+thum_dc5_aik19601226b,,dc5_aik19601226b.ks*dc5_aik19601226b_START,@dc5_aik19601226b,Perbedaan Antara Hobi dan Pekerjaan
+
+thum_dc5_aik19601228b,,dc5_aik19601228b.ks*dc5_aik19601228b_START,@dc5_aik19601228b,Ide Spontan Souma
+
+thum_dc5_aik19601230c,,dc5_aik19601230c.ks*dc5_aik19601230c_START,@dc5_aik19601230c,Pesta Syukuran Bersama Orang-orang Terdekat
+
+thum_dc5_aik19601231d,,dc5_aik19601231d.ks*dc5_aik19601231d_START,@dc5_aik19601231d,Kunjungan di Malam Tahun Baru
+
+thum_dc5_aik19610103b,,dc5_aik19610103b.ks*dc5_aik19610103b_START,@dc5_aik19610103b,Selamat Tahun Baru Keluarga Shirakawa
+
+thum_dc5_aik19610104b,,dc5_aik19610104b.ks*dc5_aik19610104b_START,@dc5_aik19610104b,Orang yang Ingin Kupanggil
+
+thum_dc5_aik19610106c,,dc5_aik19610106c.ks*dc5_aik19610106c_START,@dc5_aik19610106c,Hal-hal yang Perlahan Berubah
+
+thum_dc5_aik19610108b,,dc5_aik19610108b.ks*dc5_aik19610108b_START,@dc5_aik19610108b,Rekan-rekan yang Dapat Diandalkan
+
+thum_dc5_aik19610109a,,dc5_aik19610109a.ks*dc5_aik19610109a_START,@dc5_aik19610109a,Bocor Nih~
+
+thum_dc5_aik19610114c,,dc5_aik19610114c.ks*dc5_aik19610114c_START,@dc5_aik19610114c,"Besok, dan Seterusnya"
+
+thum_dc5_aik19610115b,,dc5_aik19610115b.ks*dc5_aik19610115b_START,@dc5_aik19610115b,Pelanggan Nomor Satu
+
+thum_dc5_aik19610122b,,dc5_aik19610122b.ks*dc5_aik19610122b_START,@dc5_aik19610122b,Penundaan Sembari Menatap ke Depan
+
+thum_dc5_gep19610333a4,,dc5_gep19610333a4.ks*dc5_gep19610333a4_START,@dc5_gep19610333a4,Kebangkitan Sebuah Keajaiban
+
+"#,,,,",,,,
+
+:,Kako,,,
+
+thum_dc5_kak19601102c,,dc5_kak19601102c.ks*dc5_kak19601102c_START,@dc5_kak19601102c,Bagaimanakah Kelanjutan Festival Kagasai
+
+thum_dc5_kak19601103a,,dc5_kak19601103a.ks*dc5_kak19601103a_START,@dc5_kak19601103a,Gadis Bernama Yasaka Kako
+
+thum_dc5_kak19601104c,,dc5_kak19601104c.ks*dc5_kak19601104c_START,@dc5_kak19601104c,Galaxy Romance
+
+thum_dc5_kak19601105b,,dc5_kak19601105b.ks*dc5_kak19601105b_START,@dc5_kak19601105b,Sore Hari Penuh Percobaan dan Kesalahan
+
+thum_dc5_kak19601107c,,dc5_kak19601107c.ks*dc5_kak19601107c_START,@dc5_kak19601107c,Operasi Dimulai!
+
+thum_dc5_kak19601108c,,dc5_kak19601108c.ks*dc5_kak19601108c_START,@dc5_kak19601108c,Langkah Pertama untuk Mengundang Orang
+
+thum_dc5_kak19601110c,,dc5_kak19601110c.ks*dc5_kak19601110c_START,@dc5_kak19601110c,"Berubah, Melangkah Maju, Menjadi Dewasa"
+
+thum_dc5_kak19601111d,,dc5_kak19601111d.ks*dc5_kak19601111d_START,@dc5_kak19601111d,Mengubah Perasaan Menjadi Tenaga Penggerak
+
+thum_dc5_kak19601112b,,dc5_kak19601112b.ks*dc5_kak19601112b_START,@dc5_kak19601112b,Great Escape
+
+thum_dc5_kak19601112d,,dc5_kak19601112d.ks*dc5_kak19601112d_START,@dc5_kak19601112d,Malam yang Dingin dan Telapak Tangan yang Hangat
+
+thum_dc5_kak19601113a,,dc5_kak19601113a.ks*dc5_kak19601113a_START,@dc5_kak19601113a,Bagian Dalam Keluarga Tokisaka yang Mulai Berubah
+
+thum_dc5_kak19601114c,,dc5_kak19601114c.ks*dc5_kak19601114c_START,@dc5_kak19601114c,Klub Astronomi Mulai Bergerak!
+
+thum_dc5_kak19601116c,,dc5_kak19601116c.ks*dc5_kak19601116c_START,@dc5_kak19601116c,Enak Sekali Lho!
+
+thum_dc5_kak19601117d,,dc5_kak19601117d.ks*dc5_kak19601117d_START,@dc5_kak19601117d,Onigiri Kako Bersama Souma
+
+thum_dc5_kak19601118d,,dc5_kak19601118d.ks*dc5_kak19601118d_START,@dc5_kak19601118d,Pada Malam Saat Bintang Seolah Hendak Berjatuhan
+
+thum_dc5_kak19601119c,,dc5_kak19601119c.ks*dc5_kak19601119c_START,@dc5_kak19601119c,Setelah Festival Usai
+
+thum_dc5_kak19601120a,,dc5_kak19601120a.ks*dc5_kak19601120a_START,@dc5_kak19601120a,Kesadaran Diri yang Masih Belum Tumbuh
+
+thum_dc5_kak19601122d,,dc5_kak19601122d.ks*dc5_kak19601122d_START,@dc5_kak19601122d,"Adik yang Ragu Melangkah, Kakak yang Peka"
+
+thum_dc5_kak19601123c,,dc5_kak19601123c.ks*dc5_kak19601123c_START,@dc5_kak19601123c,Pemandian Terlarang
+
+thum_dc5_kak19601123d,,dc5_kak19601123d.ks*dc5_kak19601123d_START,@dc5_kak19601123d,Berkah Langit Malam
+
+thum_dc5_kak19601124b,,dc5_kak19601124b.ks*dc5_kak19601124b_START,@dc5_kak19601124b,Mohon Awasi Perkembangan Pemula Ini dengan Penuh Kehangatan
+
+thum_dc5_kak19601125a,,dc5_kak19601125a.ks*dc5_kak19601125a_START,@dc5_kak19601125a,Laporan yang Menggembirakan Sekaligus Memalukan
+
+thum_dc5_kak19601126c,,dc5_kak19601126c.ks*dc5_kak19601126c_START,@dc5_kak19601126c,Setiap Hari Ada Kako di Sampingku
+
+thum_dc5_kak19601127b,,dc5_kak19601127b.ks*dc5_kak19601127b_START,@dc5_kak19601127b,Kencan Pertama
+
+thum_dc5_kak19601128a,,dc5_kak19601128a.ks*dc5_kak19601128a_START,@dc5_kak19601128a,"Ajari Aku, Guru Kako!"
+
+thum_dc5_kak19601128c,,dc5_kak19601128c.ks*dc5_kak19601128c_START,@dc5_kak19601128c,Memberi Batasan yang Jelas
+
+thum_dc5_kak19601130c,,dc5_kak19601130c.ks*dc5_kak19601130c_START,@dc5_kak19601130c,Kelas Kerajinan Tangan Yasaka Kako
+
+thum_dc5_kak19601202c,,dc5_kak19601202c.ks*dc5_kak19601202c_START,@dc5_kak19601202c,Waktu Pulang Sekolah yang Bagaikan Permata
+
+thum_dc5_kak19601204d,,dc5_kak19601204d.ks*dc5_kak19601204d_START,@dc5_kak19601204d,Hal yang Dibenci Seluruh Siswa Akan Segera Dimulai
+
+thum_dc5_kak19601205d,,dc5_kak19601205d.ks*dc5_kak19601205d_START,@dc5_kak19601205d,"Di Hari Seperti Ini, Ayo Kerjakan Pekerjaan Rumah Bersama-sama"
+
+thum_dc5_kak19601207d,,dc5_kak19601207d.ks*dc5_kak19601207d_START,@dc5_kak19601207d,Situasi Gawat Kako Masih Berlanjut
+
+thum_dc5_kak19601209d,,dc5_kak19601209d.ks*dc5_kak19601209d_START,@dc5_kak19601209d,Setelah Pesta Selesai
+
+thum_dc5_kak19601211b,,dc5_kak19601211b.ks*dc5_kak19601211b_START,@dc5_kak19601211b,Muscle Cooking
+
+thum_dc5_kak19601212c,,dc5_kak19601212c.ks*dc5_kak19601212c_START,@dc5_kak19601212c,Jimat Pengabul Cinta
+
+thum_dc5_kak19601215d,,dc5_kak19601215d.ks*dc5_kak19601215d_START,@dc5_kak19601215d,Kekhawatiran yang Samar
+
+thum_dc5_kak19601219c,,dc5_kak19601219c.ks*dc5_kak19601219c_START,@dc5_kak19601219c,Hidangan Spesial yang Penuh Perasaan
+
+thum_dc5_kak19601221d,,dc5_kak19601221d.ks*dc5_kak19601221d_START,@dc5_kak19601221d,Nona Kako yang Begadang
+
+thum_dc5_kak19601224c,,dc5_kak19601224c.ks*dc5_kak19601224c_START,@dc5_kak19601224c,Menunggu Laporan dari Fumino-senpai
+
+thum_dc5_kak19601225b,,dc5_kak19601225b.ks*dc5_kak19601225b_START,@dc5_kak19601225b,Ajakan untuk Perkumpulan Anak-anak
+
+thum_dc5_kak19601225c,,dc5_kak19601225c.ks*dc5_kak19601225c_START,@dc5_kak19601225c,Mendorong Punggung Kako yang Sedang Ragu
+
+thum_dc5_kak19601228b,,dc5_kak19601228b.ks*dc5_kak19601228b_START,@dc5_kak19601228b,"Guru Kako, Pertama Kalinya di Perkumpulan Anak-anak"
+
+thum_dc5_kak19601228c,,dc5_kak19601228c.ks*dc5_kak19601228c_START,@dc5_kak19601228c,Rahasia Menghadapi Anak-anak
+
+thum_dc5_kak19601229b,,dc5_kak19601229b.ks*dc5_kak19601229b_START,@dc5_kak19601229b,Bersenang-senanglah Bersama
+
+thum_dc5_kak19601230b,,dc5_kak19601230b.ks*dc5_kak19601230b_START,@dc5_kak19601230b,Pembuatan Aksesori Takashi-kun
+
+thum_dc5_kak19601231d,,dc5_kak19601231d.ks*dc5_kak19601231d_START,@dc5_kak19601231d,Perhatian dan Malam Tahun Baru Berdua
+
+thum_dc5_kak19610101b,,dc5_kak19610101b.ks*dc5_kak19610101b_START,@dc5_kak19610101b,Adu Menerbangkan Layang-layang Kakak Beradik
+
+thum_dc5_kak19610103b,,dc5_kak19610103b.ks*dc5_kak19610103b_START,@dc5_kak19610103b,Kebahagiaan Saat Dihargai Orang Lain
+
+thum_dc5_kak19610106b,,dc5_kak19610106b.ks*dc5_kak19610106b_START,@dc5_kak19610106b,"Selamat Tahun Baru, Touko-nee"
+
+thum_dc5_kak19610106c,,dc5_kak19610106c.ks*dc5_kak19610106c_START,@dc5_kak19610106c,Kako Menjadi Bos Pelayan (Maid Boss)
+
+thum_dc5_kak19610111c,,dc5_kak19610111c.ks*dc5_kak19610111c_START,@dc5_kak19610111c,Romansa Suginami yang Tak Dipahami Kako
+
+thum_dc5_kak19610113d,,dc5_kak19610113d.ks*dc5_kak19610113d_START,@dc5_kak19610113d,"Benang Wol, Oden, dan Langit Bertabur Bintang"
+
+thum_dc5_kak19610117a,,dc5_kak19610117a.ks*dc5_kak19610117a_START,@dc5_kak19610117a,Adik Yuuto? dan Cerita Tentang Sakura
+
+thum_dc5_kak19610122d,,dc5_kak19610122d.ks*dc5_kak19610122d_START,@dc5_kak19610122d,Bekal Perpisahan untuk Mizuha
+
+thum_dc5_kak19610123a,,dc5_kak19610123a.ks*dc5_kak19610123a_START,@dc5_kak19610123a,Ruang Kosong yang Terasa Hampa
+
+thum_dc5_kak19610129b,,dc5_kak19610129b.ks*dc5_kak19610129b_START,@dc5_kak19610129b,Kenangan Saat Terpisah Jauh
+
+thum_dc5_kak19610202c,,dc5_kak19610202c.ks*dc5_kak19610202c_START,@dc5_kak19610202c,Makan Malam Berdua Saja
+
+thum_dc5_kak19610205d,,dc5_kak19610205d.ks*dc5_kak19610205d_START,@dc5_kak19610205d,"Pikiran Sang Kakak, Perasaan Sang Adik"
+
+thum_dc5_kak19610211b,,dc5_kak19610211b.ks*dc5_kak19610211b_START,@dc5_kak19610211b,Kroket dan Pembicaraan Acara Anak Berikutnya
+
+thum_dc5_kak19610212b,,dc5_kak19610212b.ks*dc5_kak19610212b_START,@dc5_kak19610212b,Memasak Khusus Demi Kako
+
+thum_dc5_kak19610215d,,dc5_kak19610215d.ks*dc5_kak19610215d_START,@dc5_kak19610215d,Rasa Cemas dan Manja
+
+thum_dc5_kak19610216a,,dc5_kak19610216a.ks*dc5_kak19610216a_START,@dc5_kak19610216a,Kenangan Retakan di Langit
+
+thum_dc5_kak19610216b,,dc5_kak19610216b.ks*dc5_kak19610216b_START,@dc5_kak19610216b,Kehampaan Tanpa Kehadiran Anoa
+
+thum_dc5_kak19610216d,,dc5_kak19610216d.ks*dc5_kak19610216d_START,@dc5_kak19610216d,Kecemasan dan Krisis
+
+thum_dc5_kak19610217a,,dc5_kak19610217a.ks*dc5_kak19610217a_START,@dc5_kak19610217a,Kepercayaan yang Diperoleh dan Rasa Percaya Diri yang Tumbuh
+
+thum_dc5_gep19610333a3,,dc5_gep19610333a3.ks*dc5_gep19610333a3_START,@dc5_gep19610333a3,Masa Depan yang Mulai Terlihat
+
+"#,,,,",,,,
+
+:,Lainnya,,,
+
+thum_dc5_pro19601020a1,,dc5_pro19601020a1.ks*dc5_pro19601020a1_START,@dc5_pro19601020a1,Kamu... Siapa?
+
+thum_dc5_pro19601020a2,,dc5_pro19601020a2.ks*dc5_pro19601020a2_START,@dc5_pro19601020a2,Sang Jenius dan Pelayan Cilik
+
+thum_dc5_pro19601020a3,,dc5_pro19601020a3.ks*dc5_pro19601020a3_START,@dc5_pro19601020a3,Latihan Sihir VS Yuki-nee
+
+thum_dc5_pro19601020a4,,dc5_pro19601020a4.ks*dc5_pro19601020a4_START,@dc5_pro19601020a4,Meja Makan di Vila Tokisaka
+
+thum_dc5_pro19601020a5,,dc5_pro19601020a5.ks*dc5_pro19601020a5_START,@dc5_pro19601020a5,Sosok-sosok Anggun di Akademi Kagami
+
+thum_dc5_pro19601020a6,,dc5_pro19601020a6.ks*dc5_pro19601020a6_START,@dc5_pro19601020a6,Sosok-sosok Ceria di Akademi Kagami
+
+thum_dc5_pro19601020b,,dc5_pro19601020b.ks*dc5_pro19601020b_START,@dc5_pro19601020b,Hal yang Ingin Diperdengarkan Suginami
+
+thum_dc5_pro19601020c1,,dc5_pro19601020c1.ks*dc5_pro19601020c1_START,@dc5_pro19601020c1,Bagaimanakah Akhir dari Hakari-goto?
+
+thum_dc5_pro19601020c2,,dc5_pro19601020c2.ks*dc5_pro19601020c2_START,@dc5_pro19601020c2,Kuliner Lezat Kemenangan
+
+thum_dc5_pro19601021a1,,dc5_pro19601021a1.ks*dc5_pro19601021a1_START,@dc5_pro19601021a1,Meja Makan yang Ramai Seperti Biasa
+
+thum_dc5_pro19601021a2,,dc5_pro19601021a2.ks*dc5_pro19601021a2_START,@dc5_pro19601021a2,Suginami dan Suezaki Seperti Biasa
+
+thum_dc5_pro19601021b,,dc5_pro19601021b.ks*dc5_pro19601021b_START,@dc5_pro19601021b,Rutinitas di Hari Kesiangan
+
+thum_dc5_pro19601021c,,dc5_pro19601021c.ks*dc5_pro19601021c_START,@dc5_pro19601021c,Pertemuan yang Tak Biasa
+
+thum_dc5_com19601022a1,,dc5_com19601022a1.ks*dc5_com19601022a1_START,@dc5_com19601022a1,Jam Saku dan Jam Weker
+
+thum_dc5_com19601022a2,,dc5_com19601022a2.ks*dc5_com19601022a2_START,@dc5_com19601022a2,Gadis yang Turun Melayang dari Pohon Sakura
+
+thum_dc5_com19601022a3,,dc5_com19601022a3.ks*dc5_com19601022a3_START,@dc5_com19601022a3,Pagi Hari yang Lebih Ramai dari Biasanya
+
+thum_dc5_com19601022c,,dc5_com19601022c.ks*dc5_com19601022c_START,@dc5_com19601022c,"Ingatan, Buku, dan Kacamata"
+
+thum_dc5_com19601022d,,dc5_com19601022d.ks*dc5_com19601022d_START,@dc5_com19601022d,"Tokisaka, Kuzumi, Yasaka, dan Mizuha"
+
+thum_dc5_com19601023a,,dc5_com19601023a.ks*dc5_com19601023a_START,@dc5_com19601023a,Pemandu Wisata Pulau Kagami 1
+
+thum_dc5_com19601023b,,dc5_com19601023b.ks*dc5_com19601023b_START,@dc5_com19601023b,Pemandu Wisata Pulau Kagami 2
+
+thum_dc5_com19601024a1,,dc5_com19601024a1.ks*dc5_com19601024a1_START,@dc5_com19601024a1,Kenangan Menengadah Menatap Bintang
+
+thum_dc5_com19601024a2,,dc5_com19601024a2.ks*dc5_com19601024a2_START,@dc5_com19601024a2,Murid Pindahan di Luar Musimnya
+
+thum_dc5_com19601024d,,dc5_com19601024d.ks*dc5_com19601024d_START,@dc5_com19601024d,Pengawasan dan Kebaikan Hati
+
+thum_dc5_com19601025c,,dc5_com19601025c.ks*dc5_com19601025c_START,@dc5_com19601025c,Legenda Tiga Orang Bodoh (3 Baka) yang Legendaris
+
+thum_dc5_com19601026a,,dc5_com19601026a.ks*dc5_com19601026a_START,@dc5_com19601026a,Pengumuman Tema Hakari-goto
+
+thum_dc5_com19601026c,,dc5_com19601026c.ks*dc5_com19601026c_START,@dc5_com19601026c,Semua Orang Mulai Bergerak Menuju Hakari-goto
+
+thum_dc5_com19601027b,,dc5_com19601027b.ks*dc5_com19601027b_START,@dc5_com19601027b,Penasaran dengan Festival Olahraga
+
+thum_dc5_com19601027c,,dc5_com19601027c.ks*dc5_com19601027c_START,@dc5_com19601027c,Reputasi Buruk Tiga Orang Bodoh (3 Baka)
+
+thum_dc5_com19601027d,,dc5_com19601027d.ks*dc5_com19601027d_START,@dc5_com19601027d,Kutu Buku
+
+thum_dc5_com19601028a,,dc5_com19601028a.ks*dc5_com19601028a_START,@dc5_com19601028a,Keluarga Tokisaka yang Mana?
+
+thum_dc5_com19601028b1,,dc5_com19601028b1.ks*dc5_com19601028b1_START,@dc5_com19601028b1,Tingkat Keseriusan Shirakawa
+
+thum_dc5_com19601028b2,,dc5_com19601028b2.ks*dc5_com19601028b2_START,@dc5_com19601028b2,Klub Astronomi dan Kegaduhan Kako
+
+thum_dc5_com19601028b3,,dc5_com19601028b3.ks*dc5_com19601028b3_START,@dc5_com19601028b3,Mizuha dan Poko-taro
+
+thum_dc5_com19601028b4,,dc5_com19601028b4.ks*dc5_com19601028b4_START,@dc5_com19601028b4,Makan Siang di Atap Gedung ala Anoa
+
+thum_dc5_com19601028b5,,dc5_com19601028b5.ks*dc5_com19601028b5_START,@dc5_com19601028b5,Yukina dan Anggota OSIS
+
+thum_dc5_com19601029a,,dc5_com19601029a.ks*dc5_com19601029a_START,@dc5_com19601029a,Pemandangan Khas Musim Hakari-goto
+
+thum_dc5_com19601029c1,,dc5_com19601029c1.ks*dc5_com19601029c1_START,@dc5_com19601029c1,Obrolan Toko Jajanan Tradisional Bersama Shirakawa
+
+thum_dc5_com19601029c2,,dc5_com19601029c2.ks*dc5_com19601029c2_START,@dc5_com19601029c2,Pembuatan Aksesori oleh Kako
+
+thum_dc5_com19601029c3,,dc5_com19601029c3.ks*dc5_com19601029c3_START,@dc5_com19601029c3,Mizuha di Gudang Arsip Buku
+
+thum_dc5_com19601029c4,,dc5_com19601029c4.ks*dc5_com19601029c4_START,@dc5_com19601029c4,"Anoa, Permen Lollipop, dan Kubis Gulung"
+
+thum_dc5_com19601029c5,,dc5_com19601029c5.ks*dc5_com19601029c5_START,@dc5_com19601029c5,Yukina dan Buku Harian
+
+thum_dc5_com19601030b,,dc5_com19601030b.ks*dc5_com19601030b_START,@dc5_com19601030b,"Menang Lawan Kari, Kalah oleh Bawang Bombay"
+
+thum_dc5_com19601031a,,dc5_com19601031a.ks*dc5_com19601031a_START,@dc5_com19601031a,"Jika Diragukan, Dianggap Putih (Tidak Bersalah)"
+
+thum_dc5_com19601031b1,,dc5_com19601031b1.ks*dc5_com19601031b1_START,@dc5_com19601031b1,Mengamati Kegiatan Perekrutan Shirakawa
+
+thum_dc5_com19601031b2,,dc5_com19601031b2.ks*dc5_com19601031b2_START,@dc5_com19601031b2,Apakah Kako Sedang Dicemburui?
+
+thum_dc5_com19601031b3,,dc5_com19601031b3.ks*dc5_com19601031b3_START,@dc5_com19601031b3,Sikap Tetap Tenang ala Mizuha
+
+thum_dc5_com19601031b4,,dc5_com19601031b4.ks*dc5_com19601031b4_START,@dc5_com19601031b4,Anoa dan Bayam
+
+thum_dc5_com19601031b5,,dc5_com19601031b5.ks*dc5_com19601031b5_START,@dc5_com19601031b5,Cara Menikmati Sesuatu ala Yukina
+
+thum_dc5_com19601101a,,dc5_com19601101a.ks*dc5_com19601101a_START,@dc5_com19601101a,Mari Sambut Hari Terakhir Perekrutan
+
+thum_dc5_com19601101c1,,dc5_com19601101c1.ks*dc5_com19601101c1_START,@dc5_com19601101c1,Perjuangan Keras Shirakawa Membagikan Selebaran
+
+thum_dc5_com19601101c2,,dc5_com19601101c2.ks*dc5_com19601101c2_START,@dc5_com19601101c2,Rasa Malu Kako Saat Membagikan Selebaran
+
+thum_dc5_com19601101c3,,dc5_com19601101c3.ks*dc5_com19601101c3_START,@dc5_com19601101c3,"Mizuha, Poko-taro, dan Krisis"
+
+thum_dc5_com19601101c4,,dc5_com19601101c4.ks*dc5_com19601101c4_START,@dc5_com19601101c4,"Anoa, Ganti Baju, dan Camilan Malam"
+
+thum_dc5_com19601101c5,,dc5_com19601101c5.ks*dc5_com19601101c5_START,@dc5_com19601101c5,Yukina dan Payung Berdua yang Berdebar-debar
+
+thum_dc5_com19601102c,,dc5_com19601102c.ks*dc5_com19601102c_START,@dc5_com19601102c,"Nah, Festival Kagasai Tahun Ini Adalah―"
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+,,,,
+
+"#,,,,",,,,
+
+:,,,,
+
