@@ -1,6 +1,6 @@
 # Concurrency Model
 
-This document specifies the concurrency contracts, resource ownership, and synchronization primitives used in the Playwright runtime.
+This document specifies the concurrency contracts, resource ownership, and synchronization primitives used in the Playwright runtime and direct Gemini WebAPI request paths.
 
 ## 1. Resource Ownership & Lifecycle
 
@@ -47,6 +47,8 @@ This contract governs `conversation_id` ownership for browser-native requests (e
 
 Locks MUST be acquired in the following order. Acquiring out-of-order is strictly **forbidden** and results in deterministic deadlocks.
 
+This is a five-level hierarchy:
+
 1. `BrowserEngine.management_lock`: Orchestrates global initialization and terminal shutdown.
 2. `ProviderSession.init_lock`: Serializes session-specific browser context setup.
 3. `ProviderSession._cleanup_lock`: Serializes ProviderSession resource cleanup.
@@ -85,9 +87,11 @@ ProviderSession owns context-close callback, recovery, recovery-wrapper, and orp
 ## 4. Background Synchronization
 
 ### 4.1 Periodic Loops
-`ProviderSession` runs three decoupled background loops:
+`ProviderSession` runs reaper and eviction background loops. Autosave is an
+optional third loop, enabled only when persistence is enabled and
+`ENABLE_AUTOSAVE=true`.
 - **Reaper Loop**: Active liveness sweeper. Purges `DEAD` tabs and detects window closure.
-- **Autosave Loop**: Periodically persists browser context state to disk.
+- **Autosave Loop (opt-in)**: Periodically persists browser context state to disk when explicitly enabled.
 - **Eviction Loop**: Enforces conversation capacity and recovers stalled leases.
 
 ### 4.2 Loop Authority Boundaries
@@ -104,7 +108,7 @@ ProviderSession owns context-close callback, recovery, recovery-wrapper, and orp
 
 AI Agents working on the concurrency or locking logic must adhere to these strict constraints:
 
-1. **No Lock-Order Violations**: Never acquire locks out-of-order (Management -> Init -> Registry -> Tab).
+1. **No Lock-Order Violations**: Never acquire locks out-of-order (Management -> Init -> Cleanup -> Registry -> Tab).
 2. **No Await under Registry Lock**: Never perform an `await` while holding `registry_lock`.
 3. **Mandatory Shielding**: Always wrap resource cleanup in `asyncio.shield`.
 4. **No Silent Reuse**: Never attempt to reuse a lease after it has been invalidated by crash or rollover.
@@ -113,7 +117,7 @@ AI Agents working on the concurrency or locking logic must adhere to these stric
 
 ## 6. Gemini Conversation Sessions
 
-This section applies to persistent conversations using `conversation_id`, primarily `/v1/chat/completions`. It does not apply to stateless temporary endpoints such as `/translate` and `/v1/temporary/chat/completions`.
+This section applies to persistent conversations using `conversation_id`, primarily `/v1/chat/completions`. It does not apply to stateless endpoints such as `/translate` and the canonical `/v1/stateless/chat/completions` (and its deprecated wrapper `/v1/temporary/chat/completions`).
 
 ### 6.1 Per-Session Locking via SessionManager.lock
 Each `SessionManager` utilizes an internal `asyncio.Lock` (`self.lock`) to serialize all stateful completion and streaming operations under the same `conversation_id`. Every request accessing a specific conversation must acquire this lock before mutating the session or sending messages.
@@ -148,6 +152,14 @@ Gemini WebAPI request paths acquire a lease for the client generation they use. 
 New direct requests acquire the current client and generation atomically. Stateful requests acquire the manager's client-generation pair while holding `SessionManager.lock`; stale sessions remain subject to the existing lazy rebuild invariant.
 
 For stateful or temporary streams, `GeminiLeaseStreamingResponse` owns cleanup of a transferred lease around the ASGI response call. Its cleanup covers response-start failure, disconnect, cancellation, normal completion, and a body iterator that never starts. Direct `/gemini` and Google Generative streams acquire their leases inside their generators after body execution begins and release them in generator cleanup.
+
+### 6.7.1 Stateless Gemini WebAPI Requests
+
+The canonical `/v1/stateless/chat/completions` (and its deprecated wrapper `/v1/temporary/chat/completions`) acquires an application-level Gemini generation lease for direct client use via the same underlying stateless execution path. Buffered requests release the lease after generation and response construction. Progressive streams transfer lease cleanup to `GeminiLeaseStreamingResponse`, which releases the lease after normal completion, timeout, failure, cancellation, or response-start failure.
+
+This lease protects client-generation lifecycle ownership; it does not represent a conversation. Stateless requests do not acquire `SessionManager.lock`, restore `SessionRegistry` state, or create SQLite conversation snapshots. Their conversation histories remain independent even when requests use shared application-level Gemini client infrastructure.
+
+Provider-level recovery and failure isolation for concurrent requests using that shared upstream client infrastructure are not guaranteed. Client disconnect or cancellation may also fail to immediately abort the underlying curl transfer. These are known Phase 4D and Phase 4C limitations, not solved by the stateless lease.
 
 ### 6.8 SessionRegistry Generation Contract
 `SessionRegistry` construction, `update_client()`, and `reopen()` require an explicitly supplied registered generation. The registry validates and propagates that generation to each `SessionManager`; it never allocates, increments, or repairs generation IDs. `SessionManager` requires explicit `client_generation`, while `session_generation` remains separate session state.

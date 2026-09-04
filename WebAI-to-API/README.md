@@ -3,14 +3,9 @@
 <p align="center">
   <img src="./assets/Server-Run-WebAI.png" alt="WebAI-to-API Server" height="160" />
   <img src="./assets/Dashboard.png" alt="Dashboard" height="160" />
-  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=WebAI-to-API">
-    <img src="./assets/ATLAS_CLOUD_LOGO_BLACK.png" alt="Atlas Cloud" height="160" />
-  </a>
 </p>
 
 **WebAI-to-API** is a browser-native AI runtime that exposes browser-based AI services through OpenAI-compatible APIs.
-
-WebAI-to-API combines browser-native automation with WebAPI-based provider integrations to expose AI services through a flexible OpenAI-compatible API layer.
 
 ---
 
@@ -32,78 +27,92 @@ WebAI-to-API combines browser-native automation with WebAPI-based provider integ
 
 Provides access to Google Gemini models through either the WebAPI backend or a browser-native Playwright runtime.
 
-### Atlas Cloud
-
-Provides access to cloud-hosted AI models through a native API integration powered by [Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=WebAI-to-API).
-
 ---
 
 ## Quick Start
 
-> **Prerequisite:** Python 3.11–3.12 (see `pyproject.toml`).
+**Prerequisites:** Git, Python `>=3.11,<3.13` and Poetry. On Windows, use Python `3.11.10+` or `3.12.4+` for secure Gemini WebAPI temporary-cookie-cache handling. See the [Installation Guide](docs/installation.md) for full installation and troubleshooting details.
 
-### 1. Install Dependencies
+### 1. Install and Set Up
+
+Clone the repository, enter the project directory, then run the setup wrapper for your platform.
+
+**Linux / macOS**
+
 ```bash
-poetry install
-poetry run playwright install chromium
+git clone https://github.com/Amm1rr/WebAI-to-API.git
+cd WebAI-to-API
+./install.sh
 ```
 
-### 2. Configuration
-```bash
-cp config.conf.example config.conf
+**Windows PowerShell**
 ```
-*For detailed settings (including logging verbosity and access log configurations), see [Configuration Guide](docs/configuration.md).*
+git clone https://github.com/Amm1rr/WebAI-to-API.git
+cd WebAI-to-API
+.\install.ps1
+```
 
+The wrappers create missing configuration and runtime state, install project dependencies and Playwright Chromium, then run diagnostics. See the [Installation Guide](docs/installation.md) for manual setup, troubleshooting, and Make shortcuts.
+
+### 2. Configure
+
+Review the generated `config.conf`. Core Gemini settings include:
+
+```ini
+[Gemini]
+backend = webapi
+default_model = gemini-3-flash
+extended_thinking = false
+```
+
+See the [Configuration Guide](docs/configuration.md) for provider, proxy, logging, and authentication settings.
 
 ### 3. Authenticate
+
+For browser-based Gemini authentication:
+
 ```bash
-python verify_login.py
+poetry run python verify_login.py
 ```
 
+Gemini WebAPI can also use configured cookies. See the [Configuration Guide](docs/configuration.md) for authentication methods. For Docker authentication, see the [Docker Deployment Guide](docs/docker.md).
+
 ### 4. Start the Server
+
 ```bash
 poetry run python src/run.py
 ```
 
-> [!TIP]
-> New users can run `make setup` and `make doctor` for automated setup and diagnostics. See [Convenience Shortcuts](#optional-convenience-shortcuts) below.
+* API: `http://localhost:6969`
+* Dashboard: `http://localhost:6969/ui`
+* Swagger UI: `http://localhost:6969/docs`
 
 ---
 
-## Optional: Convenience Shortcuts
+## Updating
 
-WebAI-to-API includes a bootstrap utility and a Makefile for common setup tasks.
+### Host
 
-| Command | Description |
-|---------|-------------|
-| `make setup` | One-step install, directory creation, and config setup. |
-| `make doctor` | Run environment and dependency diagnostics. |
+**Linux / macOS**
+```bash
+./update-linux-macos.sh
+```
 
-*Alternative (no Make): `python scripts/bootstrap.py` and `python scripts/doctor.py`*
+**Windows**
+```cmd
+update-windows.cmd
+```
 
----
+Updates are version-driven from `origin/master`. See the [Updater Guide](docs/updating.md) for locking, preflight checks, rollback, dependency sync, and platform details.
 
-## Authentication
+### Docker
 
-Gemini requires an authenticated Google session.
+```bash
+git pull
+APP_UID=$(id -u) APP_GID=$(id -g) docker compose up -d --build
+```
 
-| Method | Recommended For |
-|----------|----------|
-| **Browser Login (`verify_login.py`)** | **Recommended.** Playwright backend, Docker, and long-term usage. |
-| Manual Cookies | Quick testing and WebAPI-only usage. |
-
-### 1. Browser Login (Recommended)
-1. Run the interactive login helper:
-   ```bash
-   python verify_login.py
-   ```
-2. Complete the sign-in process in the browser window.
-3. This creates `runtime/auth/gemini.json`, used by both backends.
-
-### 2. Manual Cookies
-1. Sign in to [Gemini](https://gemini.google.com/).
-2. Copy `__Secure-1PSID` and `__Secure-1PSIDTS` from your browser cookies.
-3. Paste them into the `[Gemini]` section of `config.conf`.
+See the [Docker Deployment Guide](docs/docker.md) for Docker setup and deployment details.
 
 ---
 
@@ -127,80 +136,91 @@ curl -X POST http://localhost:6969/v1/chat/completions \
 
 ## Dashboard
 
-Open the dashboard at `http://localhost:6969/ui`.
+Open the dashboard at `http://localhost:6969/ui`. It provides runtime status, authentication view, model and API discovery, a playground, and conversation management where supported. See the [Dashboard Guide](docs/dashboard.md).
 
-The dashboard provides a visual interface for runtime status, authentication management, API discovery, and interactive testing.
+---
 
-### Available Endpoints
+## Main Endpoints
 
 | Endpoint | Purpose |
 | --- | --- |
-| `/v1/chat/completions` | OpenAI-compatible chat completions |
-| `/v1/temporary/chat/completions` | Gemini WebAPI temporary chat |
-| `/v1/models` | List supported models |
-| `/v1/auth/status` | Check authentication status |
-| `/v1/auth/login` | Start authentication flow |
-| `/v1/conversations` | Manage Gemini WebAPI conversation snapshots |
-| `/translate` | Legacy translation compatibility |
-| `/ui/*` | Dashboard and playground |
+| `/v1/chat/completions` | Main OpenAI-compatible chat endpoint |
+| `/v1/stateless/chat/completions` | Canonical client-owned-history Gemini WebAPI chat endpoint |
+| `/v1/stateless/models` | Direct Gemini WebAPI models valid for stateless chat (including valid slash-containing IDs) |
+| `/v1/temporary/chat/completions` | Deprecated temporary compatibility endpoint (delegates to stateless) |
+| `/v1/models` | Current runtime model catalog |
+| `/v1/conversations` | Manage persisted Gemini WebAPI conversations |
+| `/v1/auth/status` | Authentication status |
+| `/v1/auth/login` | Interactive browser login trigger |
+| `/v1/runtime/status` | Runtime diagnostics |
+| `/health` | Liveness |
+| `/ready` | Runtime readiness |
+| `/translate` | Translate It! compatibility endpoint |
+| `/ui` | Dashboard |
 
-### Temporary Gemini Chat
-
-`/v1/temporary/chat/completions` is Gemini WebAPI-only and uses Gemini temporary requests (`temporary=True`).
-Requests are not stored in Gemini history and do not create SQLite conversation snapshots.
-It supports streaming, non-streaming, multimodal file inputs, and artifact outputs. See [docs/api.md](docs/api.md) for details.
-
-### Legacy Translate Endpoint
-
-The `/translate` endpoint is maintained for compatibility with the [Translate It!](https://github.com/iSegaro/Translate-It/) browser extension.
-
-It uses stateless Gemini temporary requests with no conversation state. Independent requests can execute concurrently at the application layer. See [docs/api.md](docs/api.md) for additional details.
-
-### File Support
-
-File input is supported through OpenAI-style `content` parts on `/v1/chat/completions` when routed to the Gemini WebAPI backend.
-The currently verified file formats are documented in [docs/api.md](docs/api.md).
-
-> [!NOTE]
-> File parts are supported only by the Gemini WebAPI backend in the MVP. Gemini Playwright and Atlas reject file parts with a clear capability error.
-> For Gemini WebAPI, text content parts are concatenated into one prompt and file parts are passed as attachments. Exact text/file interleaving order is not preserved.
-> The built-in `/ui/playground` page uses the same contract for file attachments.
+See [API Documentation](docs/api.md) for the complete API surface, including compatibility and legacy endpoints.
 
 ---
 
-## Supported Models
+## Hermes / Stateless API
 
-Available models may vary depending on the configured provider and backend.
+Hermes Agent and other client-owned-history clients can use the canonical stateless endpoint:
 
-Use the `/v1/models` endpoint to retrieve the current list of supported models.
+```text
+http://127.0.0.1:6969/v1/stateless
+```
+
+Append `/models` for discovery or `/chat/completions` for requests:
+
+```text
+GET  /models
+POST /chat/completions
+```
+
+This surface uses direct Gemini WebAPI execution only (`temporary=True`, no `conversation_id`, no SQLite snapshots, client owns and resends all history). Slash-containing model IDs are valid when advertised by the Gemini WebAPI runtime catalog. Streaming and tool calling are supported. The legacy `/v1/temporary/chat/completions` endpoint remains as a deprecated compatibility wrapper that delegates to the same implementation. See the [API Documentation](docs/api.md#stateless-chat-api) and [Stateless Chat Contract](docs/specs/stateless-chat-contract.md).
 
 ---
 
-## Model Routing
+## Supported Models and Routing
 
-WebAI-to-API uses model prefixes to route requests to specific backends.
+Available models depend on configured providers and runtime availability. Use `/v1/models` as the authoritative current catalog.
 
-| Model | Backend |
-|---------|---------|
-| `gemini-3-flash` | Gemini (default configured backend) |
-| `playwright/gemini-3-flash` | Gemini Playwright |
-| `atlas/<model-id>` | Atlas Cloud via OpenAI-compatible API, with 50 validated chat models exposed in `/v1/models` |
+```text
+gemini-3-flash
+playwright/gemini-3-flash
+```
 
-> [!TIP]
-> Model prefixes force backend selection and override the default Gemini backend configured in `config.conf`. Use `playwright/...` model prefixes to force the Playwright backend explicitly.
+Unprefixed Gemini models use the configured Gemini backend. `playwright/...` forces browser-native Gemini routing, while `atlas/...` routes to Atlas. See [API Documentation](docs/api.md) for full routing behavior.
 
-Gemini WebAPI and Playwright support Extended Thinking through `provider_options.gemini.extended_thinking`; see [API Documentation](docs/api.md).
+---
+
+## Configuration Summary
+
+Configure Gemini backend selection (`webapi` or `playwright`), default model, provider enablement, proxy, logging, and Atlas API access in `config.conf` and `.env`. Set a default for Extended Thinking with `[Gemini].extended_thinking`, or override it per request with `provider_options.gemini.extended_thinking`. See the [Configuration Guide](docs/configuration.md).
+
+---
+
+## File Support
+
+OpenAI-style file content parts are supported by Gemini WebAPI. Gemini Playwright and Atlas do not currently support file parts, and Gemini WebAPI does not preserve exact text/file interleaving. See [API Documentation](docs/api.md) for supported formats and limits.
+
+---
+
+## Security
+
+WebAI-to-API does not provide caller API authentication. Keep the default localhost binding unless external authentication and access control protect the service. See the [Docker Deployment Guide](docs/docker.md) and [Dashboard Guide](docs/dashboard.md).
 
 ---
 
 ## Documentation
 
-- [API Documentation](docs/api.md)
-- [Configuration Guide](docs/configuration.md)
-- [Architecture Guide](docs/architecture.md)
-- [Docker Deployment Guide](docs/docker.md)
-- [Dashboard Guide](docs/dashboard.md)
-- [Updater Guide](docs/updating.md)
+* [Installation Guide](docs/installation.md)
+* [API Documentation](docs/api.md)
+* [Configuration Guide](docs/configuration.md)
+* [Architecture Guide](docs/architecture.md)
+* [Docker Deployment Guide](docs/docker.md)
+* [Dashboard Guide](docs/dashboard.md)
+* [Updater Guide](docs/updating.md)
 
 Interactive API documentation is available through Swagger UI when the server is running.
 
@@ -214,7 +234,7 @@ Interactive API documentation is available through Swagger UI when the server is
 
 ## License
 
-WebAI-to-API is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for the full text.
+WebAI-to-API is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
 
 
 <br>

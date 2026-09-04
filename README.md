@@ -6,7 +6,7 @@
   [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
   [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
   [![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.7%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
   [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
   <br>
@@ -75,9 +75,9 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
   * Kompatibel dengan endpoint OpenAI-compatible standar (`/v1/chat/completions`) seperti **Ollama**, **LM Studio**, **vLLM**, atau server lokal **WebAI-to-API** di port `6969`.
 <!-- GEMINI_MODELS_START -->
 * **Dukungan Model Gemini Generasi Terbaru**:
-  * `gemini-3.7-flash` (3.7 Flash — All-around help / Default)
-  * `gemini-3.7-flash-thinking` (Extended thinking — Complex problem solving)
-  * `gemini-3.5-flash-lite` (3.5 Flash-Lite — Fastest answers)
+  * `gemini-3.5-flash` (3.5 Flash — All-around help / Default)
+  * `gemini-3.5-flash-thinking` (Extended thinking — Complex problem solving)
+  * `gemini-3.1-flash-lite` (3.1 Flash-Lite — Fastest answers)
   * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
 <!-- GEMINI_MODELS_END -->
 * **🔗 Memori Estafet (Summary Chaining)**:
