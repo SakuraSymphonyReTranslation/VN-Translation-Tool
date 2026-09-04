@@ -51,9 +51,9 @@ Your summary output MUST be enclosed in <summary>...</summary> tags at the very 
 
 # Model aliases for Gemini Web
 GEMINI_WEB_MODEL_MAP = {
-    "gemini-3.7-flash": "gemini-3.0-flash",
-    "gemini-3.7-flash-thinking": "gemini-3.0-flash-thinking",
-    "gemini-3.5-flash-lite": "gemini-3.0-flash",
+    "gemini-3.5-flash": "gemini-3.0-flash",
+    "gemini-3.5-flash-thinking": "gemini-3.0-flash-thinking",
+    "gemini-3.1-flash-lite": "gemini-3.0-flash",
     "gemini-3.1-pro": "gemini-3.0-pro",
     "gemini-3.7-flash": "gemini-3.0-flash",
     "gemini-3.7-flash-thinking": "gemini-3.0-flash-thinking",

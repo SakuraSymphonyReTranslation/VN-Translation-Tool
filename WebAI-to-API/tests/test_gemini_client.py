@@ -2,6 +2,9 @@ import pytest
 import json
 import asyncio
 import configparser
+import os
+import stat
+from pathlib import Path
 from datetime import datetime, timezone
 from types import SimpleNamespace
 from unittest.mock import AsyncMock, MagicMock
@@ -17,21 +20,21 @@ from app.services.providers.gemini.session_manager import SessionRegistry, SNAPS
 
 @pytest.fixture(autouse=True)
 def reset_gemini_client_state():
-    gemini_client_module._gemini_client = None
-    gemini_client_module._initialization_error = None
-    gemini_client_module._gemini_client_auth_source = None
-    gemini_client_module._gemini_generation_records.clear()
-    gemini_client_module._gemini_client_generations.clear()
-    gemini_client_module._current_gemini_generation = None
-    gemini_client_module._gemini_shutdown_started = False
+    def reset_state():
+        assert gemini_client_module._gemini_cache_initialization_users == 0
+        gemini_client_module._gemini_client = None
+        gemini_client_module._initialization_error = None
+        gemini_client_module._gemini_client_auth_source = None
+        gemini_client_module._gemini_generation_records.clear()
+        gemini_client_module._gemini_client_generations.clear()
+        gemini_client_module._current_gemini_generation = None
+        gemini_client_module._gemini_shutdown_started = False
+        gemini_client_module._gemini_cache_initialization_users = 0
+        gemini_client_module._cleanup_gemini_cache_if_unused()
+
+    reset_state()
     yield
-    gemini_client_module._gemini_client = None
-    gemini_client_module._initialization_error = None
-    gemini_client_module._gemini_client_auth_source = None
-    gemini_client_module._gemini_generation_records.clear()
-    gemini_client_module._gemini_client_generations.clear()
-    gemini_client_module._current_gemini_generation = None
-    gemini_client_module._gemini_shutdown_started = False
+    reset_state()
 
 
 class Status:
@@ -63,6 +66,12 @@ def auth_candidate(source_name, source_type, psid, is_legacy=False):
         supports_playwright_storage=True,
         migration_needed=is_legacy,
     )
+
+
+def enabled_gemini_config():
+    config = configparser.ConfigParser()
+    config.read_dict({"EnabledAI": {"gemini": "true"}, "Proxy": {"http_proxy": ""}})
+    return config
 
 
 def _patch_session_repository(mocker):
@@ -980,7 +989,99 @@ async def test_lease_streaming_response_releases_before_body_starts(install_gemi
 
     assert body_started is False
     cleanup.assert_awaited_once_with()
+    assert record.lease_count == 0
     client.close.assert_awaited_once_with()
+
+
+@pytest.mark.asyncio
+async def test_lease_streaming_response_cleanup_failure_still_releases_lease(
+    install_gemini_client,
+    caplog,
+):
+    client = make_mock_client("AVAILABLE")
+    install_gemini_client(client)
+    lease = gemini_client_module.acquire_current_gemini_lease()
+    record = gemini_client_module._gemini_generation_records[lease.generation]
+    gemini_client_module._retire_generation(record)
+    cleanup = AsyncMock(side_effect=RuntimeError("cleanup failed"))
+
+    async def body():
+        yield b"body"
+
+    response = GeminiLeaseStreamingResponse(
+        body(),
+        lease=lease,
+        cleanup=cleanup,
+    )
+    lease.transfer()
+
+    async def receive():
+        await asyncio.sleep(3600)
+
+    async def send(_message):
+        return None
+
+    await response(
+        {"type": "http", "asgi": {"spec_version": "2.4"}},
+        receive,
+        send,
+    )
+
+    cleanup.assert_awaited_once_with()
+    assert any(
+        record.levelname == "WARNING" and "cleanup failed" in record.message
+        for record in caplog.records
+    )
+    assert record.lease_count == 0
+    client.close.assert_awaited_once_with()
+
+
+@pytest.mark.asyncio
+async def test_lease_streaming_response_preserves_cancellation_through_cleanup(install_gemini_client):
+    client = make_mock_client("AVAILABLE")
+    install_gemini_client(client)
+    lease = gemini_client_module.acquire_current_gemini_lease()
+    cleanup_started = asyncio.Event()
+    cleanup_finished = asyncio.Event()
+
+    async def cleanup():
+        cleanup_started.set()
+        await cleanup_finished.wait()
+
+    async def body():
+        yield b"body"
+
+    response = GeminiLeaseStreamingResponse(
+        body(),
+        lease=lease,
+        cleanup=cleanup,
+    )
+    lease.transfer()
+
+    async def receive():
+        await asyncio.sleep(3600)
+
+    async def send(_message):
+        return None
+
+    response_task = asyncio.create_task(
+        response(
+            {"type": "http", "asgi": {"spec_version": "2.4"}},
+            receive,
+            send,
+        )
+    )
+    await cleanup_started.wait()
+    response_task.cancel()
+    await asyncio.sleep(0)
+    assert not response_task.done()
+
+    cleanup_finished.set()
+    with pytest.raises(asyncio.CancelledError):
+        await response_task
+
+    assert cleanup_finished.is_set()
+    assert gemini_client_module._gemini_generation_records[0].lease_count == 0
 
 
 def test_lease_cannot_transfer_ownership_twice(install_gemini_client):
@@ -1343,6 +1444,344 @@ async def test_init_gemini_client_available(mocker):
     mock_my_gemini_client_class.assert_called_once()
     mock_client_instance.init.assert_called_once_with(verbose=True, auto_refresh=False)
     mock_get_cookies.assert_not_called()
+
+
+@pytest.mark.asyncio
+async def test_gemini_cache_directory_is_private_and_stable_across_replacements(mocker, monkeypatch):
+    first = make_mock_client("AVAILABLE")
+    second = make_mock_client("AVAILABLE")
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        side_effect=[
+            iter([auth_candidate("first", "config", "first_psid")]),
+            iter([auth_candidate("second", "config", "second_psid")]),
+        ],
+    )
+    mocker.patch("app.services.providers.gemini.client.MyGeminiClient", side_effect=[first, second])
+    monkeypatch.delenv("GEMINI_COOKIE_PATH", raising=False)
+
+    assert await init_gemini_client() is True
+    cache_dir = Path(os.environ["GEMINI_COOKIE_PATH"])
+    assert cache_dir.is_dir()
+    assert cache_dir.name.startswith("webai-gemini-")
+    if os.name == "posix":
+        assert stat.S_IMODE(cache_dir.stat().st_mode) == 0o700
+
+    assert await init_gemini_client() is True
+    assert Path(os.environ["GEMINI_COOKIE_PATH"]) == cache_dir
+    first.close.assert_awaited_once_with()
+
+    await close_gemini_client()
+
+    assert not cache_dir.exists()
+    assert "GEMINI_COOKIE_PATH" not in os.environ
+    second.close.assert_awaited_once_with()
+
+
+@pytest.mark.asyncio
+async def test_gemini_cache_restores_caller_cookie_path_and_preserves_other_environment(
+    mocker,
+    monkeypatch,
+    tmp_path,
+):
+    external_dir = tmp_path / "external-cache"
+    external_dir.mkdir()
+    monkeypatch.setenv("GEMINI_COOKIE_PATH", str(external_dir))
+    monkeypatch.setenv("WEB_AI_UNRELATED_ENV", "preserve")
+    client = make_mock_client("AVAILABLE")
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        return_value=iter([auth_candidate("startup", "config", "startup_psid")]),
+    )
+    mocker.patch("app.services.providers.gemini.client.MyGeminiClient", return_value=client)
+
+    assert await init_gemini_client() is True
+    owned_dir = Path(os.environ["GEMINI_COOKIE_PATH"])
+    assert owned_dir != external_dir
+
+    await close_gemini_client()
+
+    assert os.environ["GEMINI_COOKIE_PATH"] == str(external_dir)
+    assert external_dir.is_dir()
+    assert os.environ["WEB_AI_UNRELATED_ENV"] == "preserve"
+    assert not owned_dir.exists()
+
+
+@pytest.mark.asyncio
+async def test_gemini_cache_cleanup_waits_for_final_active_lease(mocker, monkeypatch):
+    client = make_mock_client("AVAILABLE")
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        return_value=iter([auth_candidate("startup", "config", "startup_psid")]),
+    )
+    mocker.patch("app.services.providers.gemini.client.MyGeminiClient", return_value=client)
+    monkeypatch.delenv("GEMINI_COOKIE_PATH", raising=False)
+
+    assert await init_gemini_client() is True
+    cache_dir = Path(os.environ["GEMINI_COOKIE_PATH"])
+    lease = gemini_client_module.acquire_current_gemini_lease()
+
+    await close_gemini_client()
+
+    assert cache_dir.is_dir()
+    assert os.environ["GEMINI_COOKIE_PATH"] == str(cache_dir)
+    client.close.assert_not_awaited()
+
+    await lease.release()
+
+    assert not cache_dir.exists()
+    assert "GEMINI_COOKIE_PATH" not in os.environ
+    client.close.assert_awaited_once_with()
+
+
+@pytest.mark.asyncio
+async def test_gemini_cache_is_removed_after_failed_initialization(mocker, monkeypatch):
+    candidate = make_mock_client("AVAILABLE")
+    candidate.init.side_effect = RuntimeError("candidate failed")
+    created = []
+    real_mkdtemp = gemini_client_module.tempfile.mkdtemp
+
+    def create_cache_dir(*args, **kwargs):
+        path = real_mkdtemp(*args, **kwargs)
+        created.append(Path(path))
+        return path
+
+    mocker.patch.object(gemini_client_module.tempfile, "mkdtemp", side_effect=create_cache_dir)
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        return_value=iter([auth_candidate("startup", "config", "startup_psid")]),
+    )
+    mocker.patch("app.services.providers.gemini.client.MyGeminiClient", return_value=candidate)
+    mocker.patch("app.services.providers.gemini.client.get_cookie_from_browser", return_value=None)
+    monkeypatch.delenv("GEMINI_COOKIE_PATH", raising=False)
+
+    assert await init_gemini_client() is False
+
+    candidate.close.assert_awaited_once_with()
+    assert created and all(not path.exists() for path in created)
+    assert gemini_client_module._gemini_cache_dir is None
+    assert "GEMINI_COOKIE_PATH" not in os.environ
+
+
+@pytest.mark.asyncio
+async def test_gemini_cache_hardening_failure_fails_before_client_init(mocker, monkeypatch):
+    created = []
+    real_mkdtemp = gemini_client_module.tempfile.mkdtemp
+
+    def create_cache_dir(*args, **kwargs):
+        path = real_mkdtemp(*args, **kwargs)
+        created.append(Path(path))
+        return path
+
+    mocker.patch.object(gemini_client_module.tempfile, "mkdtemp", side_effect=create_cache_dir)
+    mocker.patch.object(gemini_client_module.os, "chmod", side_effect=PermissionError("chmod failed"))
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        return_value=iter([auth_candidate("startup", "config", "startup_psid")]),
+    )
+    constructor = mocker.patch("app.services.providers.gemini.client.MyGeminiClient")
+    monkeypatch.delenv("GEMINI_COOKIE_PATH", raising=False)
+
+    assert await init_gemini_client() is False
+
+    constructor.assert_not_called()
+    assert created and all(not path.exists() for path in created)
+    assert gemini_client_module._gemini_cache_dir is None
+    assert "GEMINI_COOKIE_PATH" not in os.environ
+
+
+@pytest.mark.asyncio
+@pytest.mark.parametrize(
+    ("version", "platform_name", "expected_ok"),
+    [
+        ((3, 11, 9), "win32", False),
+        ((3, 11, 10), "win32", True),
+        ((3, 12, 3), "win32", False),
+        ((3, 12, 4), "win32", True),
+        ((3, 11, 0), "linux", True),
+    ],
+)
+async def test_gemini_cache_requires_secure_windows_python(
+    mocker, monkeypatch, version, platform_name, expected_ok
+):
+    candidate = make_mock_client("AVAILABLE")
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        return_value=iter([auth_candidate("startup", "config", "startup_psid")]),
+    )
+    constructor = mocker.patch(
+        "app.services.providers.gemini.client.MyGeminiClient",
+        return_value=candidate,
+    )
+    mkdtemp = mocker.patch.object(
+        gemini_client_module.tempfile,
+        "mkdtemp",
+        wraps=gemini_client_module.tempfile.mkdtemp,
+    )
+    monkeypatch.setattr(
+        gemini_client_module,
+        "sys",
+        SimpleNamespace(
+            version_info=version + (0, 0, "final"),
+            platform=platform_name,
+        ),
+    )
+    monkeypatch.delenv("GEMINI_COOKIE_PATH", raising=False)
+
+    result = await init_gemini_client()
+
+    assert result is expected_ok
+    if expected_ok:
+        constructor.assert_called_once()
+        await close_gemini_client()
+    else:
+        constructor.assert_not_called()
+        mkdtemp.assert_not_called()
+        assert "Windows Python 3.11.10+ or 3.12.4+" in gemini_client_module._initialization_error
+        assert "GEMINI_COOKIE_PATH" not in os.environ
+
+
+@pytest.mark.asyncio
+async def test_disabled_gemini_skips_windows_python_cache_guard(mocker, monkeypatch):
+    config = configparser.ConfigParser()
+    config.read_dict({"EnabledAI": {"gemini": "false"}, "Proxy": {"http_proxy": ""}})
+    mocker.patch("app.services.providers.gemini.client.CONFIG", config)
+    constructor = mocker.patch("app.services.providers.gemini.client.MyGeminiClient")
+    mkdtemp = mocker.patch.object(gemini_client_module.tempfile, "mkdtemp")
+    monkeypatch.setattr(
+        gemini_client_module,
+        "sys",
+        SimpleNamespace(
+            version_info=(3, 11, 9, 0, "final"),
+            platform="win32",
+        ),
+    )
+
+    assert await init_gemini_client() is False
+
+    constructor.assert_not_called()
+    mkdtemp.assert_not_called()
+    assert gemini_client_module._initialization_error == "Gemini client is disabled in config."
+
+
+@pytest.mark.asyncio
+@pytest.mark.parametrize("tamper", ["missing", "permissions"])
+async def test_active_gemini_cache_invalidation_fails_closed(mocker, monkeypatch, tamper):
+    if tamper == "permissions" and os.name != "posix":
+        pytest.skip("POSIX directory permissions unavailable")
+
+    first = make_mock_client("AVAILABLE")
+    second = make_mock_client("AVAILABLE")
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        side_effect=[
+            iter([auth_candidate("first", "config", "first_psid")]),
+            iter([auth_candidate("second", "config", "second_psid")]),
+        ],
+    )
+    constructor = mocker.patch(
+        "app.services.providers.gemini.client.MyGeminiClient",
+        side_effect=[first, second],
+    )
+    monkeypatch.delenv("GEMINI_COOKIE_PATH", raising=False)
+
+    assert await init_gemini_client() is True
+    cache_dir = Path(os.environ["GEMINI_COOKIE_PATH"])
+    if tamper == "missing":
+        cache_dir.rmdir()
+    else:
+        cache_dir.chmod(0o755)
+
+    assert await init_gemini_client() is False
+    assert constructor.call_count == 1
+    assert gemini_client_module._gemini_client is first
+    second.close.assert_not_awaited()
+
+    await close_gemini_client()
+
+
+@pytest.mark.asyncio
+async def test_inflight_reinitialization_keeps_cache_after_final_old_lease_release(
+    mocker,
+    monkeypatch,
+    tmp_path,
+):
+    external_dir = tmp_path / "external-cache"
+    external_dir.mkdir()
+    monkeypatch.setenv("GEMINI_COOKIE_PATH", str(external_dir))
+
+    first = make_mock_client("AVAILABLE")
+    second = make_mock_client("AVAILABLE")
+    entered = asyncio.Event()
+    release = asyncio.Event()
+    second_cache_paths = []
+
+    async def block_second_init(**kwargs):
+        second_cache_paths.append(os.environ["GEMINI_COOKIE_PATH"])
+        entered.set()
+        await release.wait()
+
+    second.init.side_effect = block_second_init
+    mocker.patch("app.services.providers.gemini.client.CONFIG", enabled_gemini_config())
+    mocker.patch.object(
+        GeminiAuthSelector,
+        "iter_candidates",
+        side_effect=[
+            iter([auth_candidate("first", "config", "first_psid")]),
+            iter([auth_candidate("second", "config", "second_psid")]),
+        ],
+    )
+    mocker.patch(
+        "app.services.providers.gemini.client.MyGeminiClient",
+        side_effect=[first, second],
+    )
+
+    assert await init_gemini_client() is True
+    owned_dir = Path(os.environ["GEMINI_COOKIE_PATH"])
+    old_lease = gemini_client_module.acquire_current_gemini_lease()
+
+    await close_gemini_client()
+    assert owned_dir.is_dir()
+    assert first.close.await_count == 0
+
+    reinitialization = asyncio.create_task(init_gemini_client())
+    await entered.wait()
+    assert gemini_client_module._gemini_cache_initialization_users == 1
+    assert second_cache_paths == [str(owned_dir)]
+
+    await old_lease.release()
+
+    assert first.close.await_count == 1
+    assert 0 not in gemini_client_module._gemini_generation_records
+    assert owned_dir.is_dir()
+    assert os.environ["GEMINI_COOKIE_PATH"] == str(owned_dir)
+    assert gemini_client_module._gemini_cache_initialization_users == 1
+
+    release.set()
+    assert await reinitialization is True
+    assert gemini_client_module._gemini_client is second
+    assert Path(os.environ["GEMINI_COOKIE_PATH"]) == owned_dir
+    assert gemini_client_module._gemini_cache_initialization_users == 0
+
+    await close_gemini_client()
+
+    assert second.close.await_count == 1
+    assert not owned_dir.exists()
+    assert os.environ["GEMINI_COOKIE_PATH"] == str(external_dir)
 
 
 @pytest.mark.asyncio

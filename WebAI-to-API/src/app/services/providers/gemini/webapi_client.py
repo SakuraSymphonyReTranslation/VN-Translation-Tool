@@ -8,23 +8,16 @@ logger = logging.getLogger("app")
 
 # Maps user-facing short names to the internal model identifiers accepted by gemini-webapi.
 MODEL_ALIASES = {
-    # Short aliases
     "flash":    "gemini-3-flash",
     "thinking": "gemini-3-flash-thinking",
     "pro":      "gemini-3-pro",
-    
-    # Explicit Gemini 3.7 / 3.5 / 3.1 versions
-    "gemini-3.7-flash":          "gemini-3-flash",
-    "gemini-3.7-flash-high":     "gemini-3-flash-thinking",
+    "gemini-3.7-flash": "gemini-3-flash",
+    "gemini-3.7-flash-high": "gemini-3-flash-thinking",
     "gemini-3.7-flash-thinking": "gemini-3-flash-thinking",
-    "gemini-3.5-flash":          "gemini-3-flash",
-    "gemini-3.5-flash-lite":     "gemini-3.1-flash-lite",
-    "gemini-3.1-flash-lite":     "gemini-3.1-flash-lite",
-    "gemini-3.1-pro":            "gemini-3-pro",
-    "gemini-3.0-flash":          "gemini-3-flash",
-    "gemini-2.5-flash":          "gemini-3-flash",
-    "gemini-2.0-flash":          "gemini-3-flash",
-    "gemini-2.0-flash-lite":     "gemini-3.1-flash-lite",
+    "gemini-3.5-flash": "gemini-3-flash",
+    "gemini-3.5-flash-lite": "gemini-3.1-flash-lite",
+    "gemini-3.1-flash-lite": "gemini-3.1-flash-lite",
+    "gemini-3.1-pro": "gemini-3-pro",
 }
 
 def resolve_model_name(model: str) -> str:
