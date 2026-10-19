@@ -102,18 +102,9 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 
 ## 🖥️ Struktur Antarmuka
 
-```
-┌───────────────────────────────────────────────────────────────────────────────┐
-│ 🌐 VN Translation Tool [🎮 D.C.4 Plus Harmony]   🤖 LLM  📚 Bulk  ⚙️ Settings │
-├───────────────────┬───────────────────────────────────────────────────────────┤
-│ 🔍 Cari skenario..│ Skenario: dc4_nin20190511b.json       [💾 Save] [📋 Copy] │
-├───────────────────┼─────────────────────────────┬─────────────────────────────┤
-│ 📁 PROLOG         │ #1 「諳子」ご飯はちゃんと.. │ #1 「Sorane」Makanannya..   │
-│  ├─ page 1 baris 1│ #2 「諳子」食べ過ぎには..   │ #2 「Sorane」Jangan makan.. │
-│  └─ page 1 baris 2│ #3 一登                     │ #3 Ichito                   │
-│ 📁 ROUTE NINO     │ #4 「了解ー……っと」         │ #4 「Okeee... siap」        │
-└───────────────────┴─────────────────────────────┴─────────────────────────────┘
-```
+<p align="center">
+  <img src="docs/ui-layout-id.svg" width="920" alt="Struktur antarmuka Arisa32: sidebar skenario, kolom naskah Jepang, dan kolom terjemahan">
+</p>
 
 ---
 

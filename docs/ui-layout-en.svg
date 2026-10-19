@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 276" width="920" height="276" role="img">
+<title>Struktur antarmuka VN Translation Tool</title>
+<rect x="0.5" y="0.5" width="919" height="275" rx="8" fill="#0d1117" stroke="#30363d"/>
+<g font-family="ui-monospace, 'Cascadia Mono', 'Segoe UI Mono', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', 'Yu Gothic UI', Meiryo, 'Noto Sans CJK JP', monospace">
+<text x="16" y="30" fill="#e6edf3" text-anchor="start" font-size="15">🌐 VN Translation Tool [🎮 D.C.4 Plus Harmony]</text>
+<text x="904" y="30" fill="#e6edf3" text-anchor="end" font-size="15">🤖 LLM   📚 Bulk   ⚙️ Settings</text>
+<line x1="0.5" y1="48" x2="919.5" y2="48" stroke="#30363d"/>
+<text x="16" y="78" fill="#c9d1d9" text-anchor="start" font-size="15">🔍 Search scenario</text>
+<text x="262" y="78" fill="#c9d1d9" text-anchor="start" font-size="15">Skenario: dc4_nin20190511b.json</text>
+<text x="904" y="78" fill="#c9d1d9" text-anchor="end" font-size="15">[💾 Save] [📋 Copy]</text>
+<line x1="0.5" y1="96" x2="919.5" y2="96" stroke="#30363d"/>
+<line x1="246" y1="48" x2="246" y2="275.5" stroke="#30363d"/>
+<line x1="600" y1="96" x2="600" y2="275.5" stroke="#30363d"/>
+<text x="16" y="124" fill="#e6edf3" text-anchor="start" font-size="15">📁 PROLOG</text>
+<text x="262" y="124" fill="#c9d1d9" text-anchor="start" font-size="15">#1 「諳子」ご飯はちゃんと..</text>
+<text x="614" y="124" fill="#c9d1d9" text-anchor="start" font-size="15">#1 「Sorane」Makanannya..</text>
+<text x="16" y="168" fill="#8b949e" text-anchor="start" font-size="15">  ├─ page 1 line 1</text>
+<text x="262" y="168" fill="#c9d1d9" text-anchor="start" font-size="15">#2 「諳子」食べ過ぎには..</text>
+<text x="614" y="168" fill="#c9d1d9" text-anchor="start" font-size="15">#2 「Sorane」Jangan makan..</text>
+<text x="16" y="212" fill="#8b949e" text-anchor="start" font-size="15">  └─ page 1 line 2</text>
+<text x="262" y="212" fill="#c9d1d9" text-anchor="start" font-size="15">#3 一登</text>
+<text x="614" y="212" fill="#c9d1d9" text-anchor="start" font-size="15">#3 Ichito</text>
+<text x="16" y="256" fill="#e6edf3" text-anchor="start" font-size="15">📁 ROUTE NINO</text>
+<text x="262" y="256" fill="#c9d1d9" text-anchor="start" font-size="15">#4 「了解ー……っと」</text>
+<text x="614" y="256" fill="#c9d1d9" text-anchor="start" font-size="15">#4 「Okeee... siap」</text>
+</g></svg>
