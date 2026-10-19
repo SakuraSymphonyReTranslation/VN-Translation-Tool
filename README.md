@@ -6,7 +6,7 @@
   [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
   [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
   [![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.8%20%26%204%20Argon-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
   [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
   <br>
@@ -17,7 +17,7 @@
 
 **VN Translation Tool** adalah aplikasi web lokal modern yang dirancang khusus untuk mempermudah proses penerjemahan, penyuntingan (*editing/polishing*), dan lokalisasi naskah **Visual Novel (VN)** (seperti engine Circus / D.C. Series, LucaSystem, dan format game berbasis JSON lainnya). 
 
-Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana otomatis, sistem glosarium naskah cerdas, pencarian berbasis Romaji & Regex, serta **Hybrid AI Engine** (terkoneksi langsung ke **Google Gemini Web 3.7** via browser cookies tanpa perlu server tambahan, maupun ke **Local LLM / OpenAI API**).
+Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana otomatis, sistem glosarium naskah cerdas, pencarian berbasis Romaji & Regex, serta **Hybrid AI Engine** (terkoneksi langsung ke **Google Gemini Web 3.8** via browser cookies tanpa perlu server tambahan, maupun ke **Local LLM / OpenAI API**).
 
 ---
 
@@ -74,11 +74,15 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 * **Mode 2: Custom LLM / OpenAI API / WebAI-to-API Server**:
   * Kompatibel dengan endpoint OpenAI-compatible standar (`/v1/chat/completions`) seperti **Ollama**, **LM Studio**, **vLLM**, atau server lokal **WebAI-to-API** di port `6969`.
 <!-- GEMINI_MODELS_START -->
-* **Dukungan Model Gemini Generasi Terbaru**:
+* **Dukungan Model Gemini Generasi Terbaru** (via **Gemini Web Direct API**):
+  * `gemini-4-argon` (4 Argon — Advanced reasoning / Latest)
+  * `gemini-3.8` (3.8 — Broad capability / Improved reasoning)
+  * `gemini-3.7` (3.7 — Stable general purpose)
   * `gemini-3.5-flash` (3.5 Flash — All-around help / Default)
   * `gemini-3.5-flash-thinking` (Extended thinking — Complex problem solving)
   * `gemini-3.1-flash-lite` (3.1 Flash-Lite — Fastest answers)
   * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
+* **Catatan Rilis Model**: `3.7`, `3.8`, dan `4 Argon` dilayani lewat jalur **Gemini Web Direct API**; mode `Custom LLM / OpenAI API` tetap memakai nama model dari endpoint Anda sendiri.
 <!-- GEMINI_MODELS_END -->
 * **🔗 Memori Estafet (Summary Chaining)**:
   * Menghubungkan ingatan AI antar-baris/batch terjemahan secara bersambung.
@@ -99,16 +103,16 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 ## 🖥️ Struktur Antarmuka
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🌐 VN Translation Tool [🎮 D.C.4 Plus Harmony]         🤖 LLM  📚 Bulk  ⚙️ Settings│
-├───────────────────┬─────────────────────────────────────────────────────────┤
-│ 🔍 Cari skenario..│ Skenario: dc4_nin20190511b.json           [💾 Save] [📋 Copy]   │
-├───────────────────┼────────────────────────────┬────────────────────────────┤
-│ 📁 PROLOG         │ #1 「諳子」ご飯はちゃんと..│ #1 「Sorane」Makanannya..  │
-│  ├─ page 1 baris 1│ #2 「諳子」食べ過ぎには..  │ #2 「Sorane」Jangan makan..│
-│  └─ page 1 baris 2│ #3 一登                     │ #3 Ichito                  │
-│ 📁 ROUTE NINO     │ #4 「了解ー……っと」        │ #4 「Okeee... siap」       │
-└───────────────────┴────────────────────────────┴────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ VN Translation Tool   [ D.C.4 Plus Harmony ]           LLM   Bulk   Settings │
+├────────────────────┬─────────────────────────────────────────────────────────┤
+│ Cari skenario...   │ Skenario: dc4_nin20190511b.json            Save    Copy │
+├────────────────────┼─────────────────────────────┬───────────────────────────┤
+│ PROLOG             │ #1  Anko gohan wa chanto..  │ #1  Sorane, makanannya..  │
+│  |- page 1 baris 1 │ #2  Anko tabesugi ni wa..   │ #2  Sorane jangan makan.. │
+│  |- page 1 baris 2 │ #3  Ichito                  │ #3  Ichito                │
+│ ROUTE NINO         │ #4  Ryoukai... tto          │ #4  Okeee... siap         │
+└────────────────────┴─────────────────────────────┴───────────────────────────┘
 ```
 
 ---
@@ -197,10 +201,8 @@ Aplikasi memiliki **Hybrid AI Engine** yang sangat fleksibel:
 Untuk menjaga konsistensi nama karakter dan panggilan:
 1. Buka **Settings (⚙️) → LLM Configuration → Glossary**.
 2. Klik **`+ Add`** untuk menambah aturan baru, contoh:
-   * Source (JP): `芳乃 さくら` $
-ightarrow$ Target: `Yoshino Sakura` | Info: `Female`
-   * Source (JP): `俺` $
-ightarrow$ Target: `Aku` | Info: `Gunakan kata Aku/Kamu`
+   * Source (JP): `芳乃 さくら` → Target: `Yoshino Sakura` | Info: `Female`
+   * Source (JP): `俺` → Target: `Aku` | Info: `Gunakan kata Aku/Kamu`
 3. Anda juga bisa mengekspor atau mengimpor glosarium dalam format JSON.
 
 ---
