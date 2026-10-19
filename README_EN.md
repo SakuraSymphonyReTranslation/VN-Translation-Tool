@@ -100,16 +100,16 @@ The tool integrates a clean side-by-side editor, automatic Furigana parsing, int
 ## 🖥️ UI Layout
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ VN Translation Tool   [ D.C.4 Plus Harmony ]           LLM   Bulk   Settings │
-├────────────────────┬─────────────────────────────────────────────────────────┤
-│ Search scenario... │ Scenario: dc4_nin20190511b.json            Save    Copy │
-├────────────────────┼─────────────────────────────┬───────────────────────────┤
-│ PROLOGUE           │ #1  Anko gohan wa chanto..  │ #1  Sorane, eat properly  │
-│  |- page 1 line 1  │ #2  Anko tabesugi ni wa..   │ #2  Sorane, don't overeat │
-│  |- page 1 line 2  │ #3  Ichito                  │ #3  Ichito                │
-│ ROUTE NINO         │ #4  Ryoukai... tto          │ #4  All right... got it   │
-└────────────────────┴─────────────────────────────┴───────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ 🌐 VN Translation Tool [🎮 D.C.4 Plus Harmony]   🤖 LLM  📚 Bulk  ⚙️ Settings │
+├───────────────────┬───────────────────────────────────────────────────────────┤
+│ 🔍 Search scenario│ Scenario: dc4_nin20190511b.json       [💾 Save] [📋 Copy] │
+├───────────────────┼─────────────────────────────┬─────────────────────────────┤
+│ 📁 PROLOGUE       │ #1 「諳子」ご飯はちゃんと.. │ #1 「Sorane」Eat your meals │
+│  ├─ page 1 line 1 │ #2 「諳子」食べ過ぎには..   │ #2 「Sorane」Don't overeat  │
+│  └─ page 1 line 2 │ #3 一登                     │ #3 Ichito                   │
+│ 📁 ROUTE NINO     │ #4 「了解ー……っと」         │ #4 「All right... got it」  │
+└───────────────────┴─────────────────────────────┴─────────────────────────────┘
 ```
 
 ---

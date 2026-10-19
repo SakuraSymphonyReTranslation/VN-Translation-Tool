@@ -103,16 +103,16 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 ## 🖥️ Struktur Antarmuka
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ VN Translation Tool   [ D.C.4 Plus Harmony ]           LLM   Bulk   Settings │
-├────────────────────┬─────────────────────────────────────────────────────────┤
-│ Cari skenario...   │ Skenario: dc4_nin20190511b.json            Save    Copy │
-├────────────────────┼─────────────────────────────┬───────────────────────────┤
-│ PROLOG             │ #1  Anko gohan wa chanto..  │ #1  Sorane, makanannya..  │
-│  |- page 1 baris 1 │ #2  Anko tabesugi ni wa..   │ #2  Sorane jangan makan.. │
-│  |- page 1 baris 2 │ #3  Ichito                  │ #3  Ichito                │
-│ ROUTE NINO         │ #4  Ryoukai... tto          │ #4  Okeee... siap         │
-└────────────────────┴─────────────────────────────┴───────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ 🌐 VN Translation Tool [🎮 D.C.4 Plus Harmony]   🤖 LLM  📚 Bulk  ⚙️ Settings │
+├───────────────────┬───────────────────────────────────────────────────────────┤
+│ 🔍 Cari skenario..│ Skenario: dc4_nin20190511b.json       [💾 Save] [📋 Copy] │
+├───────────────────┼─────────────────────────────┬─────────────────────────────┤
+│ 📁 PROLOG         │ #1 「諳子」ご飯はちゃんと.. │ #1 「Sorane」Makanannya..   │
+│  ├─ page 1 baris 1│ #2 「諳子」食べ過ぎには..   │ #2 「Sorane」Jangan makan.. │
+│  └─ page 1 baris 2│ #3 一登                     │ #3 Ichito                   │
+│ 📁 ROUTE NINO     │ #4 「了解ー……っと」         │ #4 「Okeee... siap」        │
+└───────────────────┴─────────────────────────────┴─────────────────────────────┘
 ```
 
 ---
