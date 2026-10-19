@@ -260,7 +260,7 @@ def save_gemini_cookies(psid: str, psidts: str, browser: str = "chrome"):
     if not cfg.has_section("AI"):
         cfg.add_section("AI")
     cfg.set("AI", "default_ai", "gemini")
-    cfg.set("AI", "default_model_gemini", "gemini-3.7-flash")
+    cfg.set("AI", "default_model_gemini", "gemini-3.8-flash")
     
     if not cfg.has_section("Cookies"):
         cfg.add_section("Cookies")

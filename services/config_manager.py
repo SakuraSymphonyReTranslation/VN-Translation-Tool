@@ -59,7 +59,7 @@ DEFAULT_CONFIG = {
     # LLM Configuration
     "llm_provider": "gemini_web",
     "llm_api_url": "http://localhost:6969/v1",
-    "llm_model": "gemini-3.7-flash",
+    "llm_model": "gemini-3.8-flash",
     "llm_temperature": 0.7,
     "llm_max_tokens": 1024,
     "llm_context_window": 5,

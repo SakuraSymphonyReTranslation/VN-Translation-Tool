@@ -76,8 +76,8 @@ Aplikasi ini menggabungkan antarmuka *side-by-side editor*, pembacaan furigana o
 <!-- GEMINI_MODELS_START -->
 * **Dukungan Model Gemini Generasi Terbaru** (via **Gemini Web Direct API**):
   * `gemini-4-argon` (4 Argon — Advanced reasoning / Latest)
-  * `gemini-3.8` (3.8 — Broad capability / Improved reasoning)
-  * `gemini-3.7` (3.7 — Stable general purpose)
+  * `gemini-3.8-flash` (3.8 Flash — Broad capability / Improved reasoning)
+  * `gemini-3.7-flash` (3.7 Flash — Stable general purpose)
   * `gemini-3.5-flash` (3.5 Flash — All-around help / Default)
   * `gemini-3.5-flash-thinking` (Extended thinking — Complex problem solving)
   * `gemini-3.1-flash-lite` (3.1 Flash-Lite — Fastest answers)

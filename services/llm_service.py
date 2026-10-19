@@ -51,14 +51,17 @@ Your summary output MUST be enclosed in <summary>...</summary> tags at the very 
 
 # Model aliases for Gemini Web
 GEMINI_WEB_MODEL_MAP = {
+    "gemini-4-argon": "gemini-3.0-pro",
+    "gemini-3.8-flash": "gemini-3.0-flash",
+    "gemini-3.7-flash": "gemini-3.0-flash",
     "gemini-3.5-flash": "gemini-3.0-flash",
     "gemini-3.5-flash-thinking": "gemini-3.0-flash-thinking",
     "gemini-3.1-flash-lite": "gemini-3.0-flash",
     "gemini-3.1-pro": "gemini-3.0-pro",
-    "gemini-3.7-flash": "gemini-3.0-flash",
+    "gemini-3.8": "gemini-3.0-flash",
+    "gemini-3.7": "gemini-3.0-flash",
     "gemini-3.7-flash-thinking": "gemini-3.0-flash-thinking",
     "gemini-3.5-flash-lite": "gemini-3.0-flash",
-    "gemini-3.1-pro": "gemini-3.0-pro",
     "flash": "gemini-3.0-flash",
     "thinking": "gemini-3.0-flash-thinking",
     "pro": "gemini-3.0-pro",
@@ -85,7 +88,7 @@ def get_llm_config():
     return {
         "provider": resolved_provider,
         "api_url": cfg.get("llm_api_url", "http://localhost:6969/v1"),
-        "model": cfg.get("llm_model", "gemini-3.7-flash"),
+        "model": cfg.get("llm_model", "gemini-3.8-flash"),
         "temperature": cfg.get("llm_temperature", 0.7),
         "max_tokens": cfg.get("llm_max_tokens", 1024),
         "context_window": cfg.get("llm_context_window", 5),
@@ -267,7 +270,7 @@ async def _get_or_init_gemini_client(force_reconnect=False):
         return _gemini_client
 
 
-async def call_gemini_web(prompt: str, model_name: str = "gemini-3.7-flash") -> str:
+async def call_gemini_web(prompt: str, model_name: str = "gemini-3.8-flash") -> str:
     """Call Google Gemini Web directly via gemini_webapi in Python."""
     resolved_model = GEMINI_WEB_MODEL_MAP.get(model_name.lower(), "gemini-3.0-flash")
     
@@ -323,7 +326,7 @@ async def call_hybrid_llm(messages: list, config: Optional[dict] = None) -> str:
             else:
                 prompt_parts.append(f"{content}\n")
         full_prompt = "\n".join(prompt_parts)
-        return await call_gemini_web(full_prompt, config.get("model", "gemini-3.7-flash"))
+        return await call_gemini_web(full_prompt, config.get("model", "gemini-3.8-flash"))
     else:
         return await call_openai_compatible(messages, config)
 
@@ -457,10 +460,13 @@ async def test_connection(api_url_override=None, model_override=None, provider_o
                 "provider": "gemini_web",
                 "mode_label": "Gemini Web (Direct Web-API - No Server Required)",
                 "models": [
-                    "gemini-3.7-flash (3.7 Flash - Recommended)",
-                    "gemini-3.7-flash-thinking (Extended Thinking)",
-                    "gemini-3.1-pro (3.1 Pro)",
-                    "gemini-3.5-flash-lite (Flash-Lite)"
+                    "gemini-4-argon (4 Argon - Latest)",
+                    "gemini-3.8-flash (3.8 Flash - Recommended)",
+                    "gemini-3.7-flash (3.7 Flash - Stable)",
+                    "gemini-3.5-flash (3.5 Flash - All-around)",
+                    "gemini-3.5-flash-thinking (Extended Thinking)",
+                    "gemini-3.1-flash-lite (Flash-Lite)",
+                    "gemini-3.1-pro (3.1 Pro)"
                 ],
                 "model_configured": model,
                 "message": "Direct connection to Google Gemini Web is active and working!"

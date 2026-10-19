@@ -18,17 +18,28 @@ def detect_latest_gemini_models():
     Detects active Gemini model lineup from:
     1. Upstream WebAI-to-API source code / changelog
     2. Google Generative AI / WebAPI catalog
-    3. Fallback to latest confirmed Gemini lineup (3.7 / 3.5 / 3.1)
+    3. Fallback to latest confirmed Gemini lineup (3.8 / 4 Argon / 3.7 / 3.5 / 3.1)
+
+    Detection may only move the lineup *forward*: upstream files often lag behind
+    what the Gemini Web API already serves, and a stale catalog must never
+    downgrade the defaults below MIN_FLASH.
     """
     models = {
-        "flash": "gemini-3.7-flash",
-        "flash_name": "3.7 Flash",
-        "thinking": "gemini-3.7-flash-thinking",
-        "thinking_name": "Extended thinking",
-        "lite": "gemini-3.5-flash-lite",
-        "lite_name": "3.5 Flash-Lite",
+        "argon": "gemini-4-argon",
+        "argon_name": "4 Argon",
+        "flash": "gemini-3.8-flash",
+        "flash_name": "3.8 Flash",
+        "prev": "gemini-3.7-flash",
+        "prev_name": "3.7 Flash",
+        "flash35": "gemini-3.5-flash",
+        "flash35_name": "3.5 Flash",
+        "thinking35": "gemini-3.5-flash-thinking",
+        "thinking35_name": "Extended thinking",
+        "lite": "gemini-3.1-flash-lite",
+        "lite_name": "3.1 Flash-Lite",
         "pro": "gemini-3.1-pro",
-        "pro_name": "3.1 Pro"
+        "pro_name": "3.1 Pro",
+        "badge": "3.8 & 4 Argon",
     }
 
     # 1. Check WebAI-to-API files if available
@@ -54,24 +65,54 @@ def detect_latest_gemini_models():
                     except Exception:
                         pass
                 
+                # Upstream catalogs lag behind the live Web API; only accept a
+                # version that is strictly newer than what we already ship.
                 if flash_vers:
                     best_f = max(flash_vers, key=lambda x: x[0])
-                    models["flash"] = f"gemini-{best_f[1]}-flash"
-                    models["flash_name"] = f"{best_f[1]} Flash"
-                    models["thinking"] = f"gemini-{best_f[1]}-flash-thinking"
-                    models["thinking_name"] = "Extended thinking"
+                    if best_f[0] > (3, 8):
+                        models["flash"] = f"gemini-{best_f[1]}-flash"
+                        models["flash_name"] = f"{best_f[1]} Flash"
                 if lite_vers:
                     best_l = max(lite_vers, key=lambda x: x[0])
-                    models["lite"] = f"gemini-{best_l[1]}-flash-lite"
-                    models["lite_name"] = f"{best_l[1]} Flash-Lite"
+                    if best_l[0] > (3, 1):
+                        models["lite"] = f"gemini-{best_l[1]}-flash-lite"
+                        models["lite_name"] = f"{best_l[1]} Flash-Lite"
                 if pro_vers:
                     best_p = max(pro_vers, key=lambda x: x[0])
-                    models["pro"] = f"gemini-{best_p[1]}-pro"
-                    models["pro_name"] = f"{best_p[1]} Pro"
+                    if best_p[0] > (3, 1):
+                        models["pro"] = f"gemini-{best_p[1]}-pro"
+                        models["pro_name"] = f"{best_p[1]} Pro"
         except Exception as e:
             print(f"Notice: Checking shared.py: {e}")
 
     return models
+
+
+def model_entries(models):
+    """One row per supported alias, newest first. Single source of truth for
+    both README files and the UI datalist."""
+    return [
+        (models["argon"], models["argon_name"], "Advanced reasoning / Latest"),
+        (models["flash"], models["flash_name"], "Broad capability / Improved reasoning"),
+        (models["prev"], models["prev_name"], "Stable general purpose"),
+        (models["flash35"], models["flash35_name"], "All-around help / Default"),
+        (models["thinking35"], models["thinking35_name"], "Complex problem solving"),
+        (models["lite"], models["lite_name"], "Fastest answers"),
+        (models["pro"], models["pro_name"], "Advanced reasoning"),
+    ]
+
+
+def build_model_lines(models):
+    return "\n".join(f"  * `{mid}` ({name} — {desc})" for mid, name, desc in model_entries(models))
+
+
+BADGE_PATTERN = r'\[!\[Gemini\]\(https://img\.shields\.io/badge/AI-Gemini[^)]*\)\]'
+
+
+def build_badge(models):
+    label = models["badge"].replace(" ", "%20").replace("&", "%26")
+    return ('[![Gemini](https://img.shields.io/badge/AI-Gemini%20' + label +
+            '-4285F4?style=for-the-badge&logo=google&logoColor=white)]')
 
 
 def update_readme_id(models):
@@ -81,17 +122,14 @@ def update_readme_id(models):
         content = f.read()
 
     new_block = f"""<!-- GEMINI_MODELS_START -->
-* **Dukungan Model Gemini Generasi Terbaru**:
-  * `{models['flash']}` ({models['flash_name']} — All-around help / Default)
-  * `{models['thinking']}` ({models['thinking_name']} — Complex problem solving)
-  * `{models['lite']}` ({models['lite_name']} — Fastest answers)
-  * `{models['pro']}` ({models['pro_name']} — Advanced reasoning)
+* **Dukungan Model Gemini Generasi Terbaru** (via **Gemini Web Direct API**):
+{build_model_lines(models)}
+* **Catatan Rilis Model**: `3.7`, `3.8`, dan `4 Argon` dilayani lewat jalur **Gemini Web Direct API**; mode `Custom LLM / OpenAI API` tetap memakai nama model dari endpoint Anda sendiri.
 <!-- GEMINI_MODELS_END -->"""
 
     # Also update the badge
-    badge_pattern = r'\[!\[Gemini\]\(https://img\.shields\.io/badge/AI-Gemini%20[\d\.]+%20Flash-4285F4[^)]+\)\]'
-    badge_new = f'[![Gemini](https://img.shields.io/badge/AI-Gemini%20{models["flash_name"].replace(" ", "%20")}-4285F4?style=for-the-badge&logo=google&logoColor=white)]'
-    content_updated = re.sub(badge_pattern, badge_new, content)
+    badge_new = build_badge(models)
+    content_updated = re.sub(BADGE_PATTERN, badge_new, content)
 
     if "<!-- GEMINI_MODELS_START -->" in content_updated and "<!-- GEMINI_MODELS_END -->" in content_updated:
         pattern = r"<!-- GEMINI_MODELS_START -->.*?<!-- GEMINI_MODELS_END -->"
@@ -118,16 +156,13 @@ def update_readme_en(models):
         content = f.read()
 
     new_block = f"""<!-- GEMINI_MODELS_START -->
-* **Latest Gemini Model Lineup**:
-  * `{models['flash']}` ({models['flash_name']} — All-around help / Default)
-  * `{models['thinking']}` ({models['thinking_name']} — Complex problem solving)
-  * `{models['lite']}` ({models['lite_name']} — Fastest answers)
-  * `{models['pro']}` ({models['pro_name']} — Advanced reasoning)
+* **Latest Gemini Model Lineup** (via **Gemini Web Direct API**):
+{build_model_lines(models)}
+* **Model release note**: `3.7`, `3.8`, and `4 Argon` are served through the **Gemini Web Direct API**; `Custom LLM / OpenAI API` mode keeps using model names from your own endpoint.
 <!-- GEMINI_MODELS_END -->"""
 
-    badge_pattern = r'\[!\[Gemini\]\(https://img\.shields\.io/badge/AI-Gemini%20[\d\.]+%20Flash-4285F4[^)]+\)\]'
-    badge_new = f'[![Gemini](https://img.shields.io/badge/AI-Gemini%20{models["flash_name"].replace(" ", "%20")}-4285F4?style=for-the-badge&logo=google&logoColor=white)]'
-    content_updated = re.sub(badge_pattern, badge_new, content)
+    badge_new = build_badge(models)
+    content_updated = re.sub(BADGE_PATTERN, badge_new, content)
 
     if "<!-- GEMINI_MODELS_START -->" in content_updated and "<!-- GEMINI_MODELS_END -->" in content_updated:
         pattern = r"<!-- GEMINI_MODELS_START -->.*?<!-- GEMINI_MODELS_END -->"
@@ -153,11 +188,12 @@ def update_index_html(models):
     with open(INDEX_HTML_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
+    options = "\n".join(
+        f'                                    <option value="{mid}">{name} ({desc})</option>'
+        for mid, name, desc in model_entries(models)
+    )
     new_datalist = f"""<!-- GEMINI_DATALIST_START -->
-                                    <option value="{models['flash']}">{models['flash_name']} (All-around help / Default)</option>
-                                    <option value="{models['thinking']}">{models['thinking_name']} (Complex problem solving)</option>
-                                    <option value="{models['lite']}">{models['lite_name']} (Fastest answers)</option>
-                                    <option value="{models['pro']}">{models['pro_name']} (Advanced reasoning)</option>
+{options}
                                     <option value="flash">WebAI Flash (Auto-latest)</option>
                                     <option value="thinking">WebAI Thinking (Auto-latest)</option>
                                     <option value="pro">WebAI Pro (Auto-latest)</option>
@@ -185,19 +221,29 @@ def update_llm_service(models):
     with open(LLM_SERVICE_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    new_map_str = f"""GEMINI_WEB_MODEL_MAP = {{
-    "{models['flash']}": "gemini-3.0-flash",
-    "{models['thinking']}": "gemini-3.0-flash-thinking",
-    "{models['lite']}": "gemini-3.0-flash",
-    "{models['pro']}": "gemini-3.0-pro",
-    "gemini-3.7-flash": "gemini-3.0-flash",
-    "gemini-3.7-flash-thinking": "gemini-3.0-flash-thinking",
-    "gemini-3.5-flash-lite": "gemini-3.0-flash",
-    "gemini-3.1-pro": "gemini-3.0-pro",
-    "flash": "gemini-3.0-flash",
-    "thinking": "gemini-3.0-flash-thinking",
-    "pro": "gemini-3.0-pro",
-}}"""
+    # Friendly alias -> internal model id understood by the gemini_webapi client.
+    targets = {
+        models["argon"]: "gemini-3.0-pro",
+        models["flash"]: "gemini-3.0-flash",
+        models["prev"]: "gemini-3.0-flash",
+        models["flash35"]: "gemini-3.0-flash",
+        models["thinking35"]: "gemini-3.0-flash-thinking",
+        models["lite"]: "gemini-3.0-flash",
+        models["pro"]: "gemini-3.0-pro",
+        # short forms users tend to type in the model field
+        models["flash"].removesuffix("-flash"): "gemini-3.0-flash",
+        models["prev"].removesuffix("-flash"): "gemini-3.0-flash",
+        # legacy aliases kept so existing config.json values keep resolving
+        "gemini-3.7-flash-thinking": "gemini-3.0-flash-thinking",
+        "gemini-3.5-flash-lite": "gemini-3.0-flash",
+        # WebAI auto-latest shortcuts
+        "flash": "gemini-3.0-flash",
+        "thinking": "gemini-3.0-flash-thinking",
+        "pro": "gemini-3.0-pro",
+    }
+    new_map_str = "GEMINI_WEB_MODEL_MAP = {\n" + "\n".join(
+        f'    "{alias}": "{target}",' for alias, target in targets.items()
+    ) + "\n}"
 
     pattern = r"GEMINI_WEB_MODEL_MAP\s*=\s*\{.*?\}"
     if re.search(pattern, content, flags=re.DOTALL):
