@@ -6,7 +6,7 @@
   [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
   [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
   [![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+  [![Gemini](https://img.shields.io/badge/AI-Gemini%203.8%20%26%204%20Argon-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
   [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
   <br>
@@ -17,7 +17,7 @@
 
 **VN Translation Tool** is a modern local web application designed to streamline the translation, editing, polishing, and localization workflow for **Visual Novel (VN)** scripts (including Circus / D.C. Series engines, LucaSystem, and JSON-based game formats).
 
-The tool integrates a clean side-by-side editor, automatic Furigana parsing, intelligent glossary injection, Romaji & Regex search, and a **Hybrid AI Engine** (supporting direct native connections to **Google Gemini Web 3.7** via browser cookies without requiring external servers, as well as **Local LLMs / OpenAI API**).
+The tool integrates a clean side-by-side editor, automatic Furigana parsing, intelligent glossary injection, Romaji & Regex search, and a **Hybrid AI Engine** (supporting direct native connections to **Google Gemini Web 3.8** via browser cookies without requiring external servers, as well as **Local LLMs / OpenAI API**).
 
 ---
 
@@ -73,11 +73,15 @@ The tool integrates a clean side-by-side editor, automatic Furigana parsing, int
 * **Mode 2: Custom LLM / OpenAI API / WebAI Server**:
   * Fully compatible with standard OpenAI endpoints (`/v1/chat/completions`) such as **Ollama**, **LM Studio**, **vLLM**, or local **WebAI-to-API** on port `6969`.
 <!-- GEMINI_MODELS_START -->
-* **Latest Gemini Model Lineup**:
+* **Latest Gemini Model Lineup** (via **Gemini Web Direct API**):
+  * `gemini-4-argon` (4 Argon — Advanced reasoning / Latest)
+  * `gemini-3.8` (3.8 — Broad capability / Improved reasoning)
+  * `gemini-3.7` (3.7 — Stable general purpose)
   * `gemini-3.5-flash` (3.5 Flash — All-around help / Default)
   * `gemini-3.5-flash-thinking` (Extended thinking — Complex problem solving)
   * `gemini-3.1-flash-lite` (3.1 Flash-Lite — Fastest answers)
   * `gemini-3.1-pro` (3.1 Pro — Advanced reasoning)
+* **Model release note**: `3.7`, `3.8`, and `4 Argon` are served through the **Gemini Web Direct API**; `Custom LLM / OpenAI API` mode keeps using model names from your own endpoint.
 <!-- GEMINI_MODELS_END -->
 * **🔗 Summary Chaining (Memori Estafet)**:
   * Chains running story memory across consecutive translation batches.
@@ -96,16 +100,16 @@ The tool integrates a clean side-by-side editor, automatic Furigana parsing, int
 ## 🖥️ UI Layout
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🌐 VN Translation Tool [🎮 D.C.4 Plus Harmony]         🤖 LLM  📚 Bulk  ⚙️ Settings│
-├───────────────────┬─────────────────────────────────────────────────────────┤
-│ 🔍 Search scenario│ Scenario: dc4_nin20190511b.json           [💾 Save] [📋 Copy]   │
-├───────────────────┼────────────────────────────┬────────────────────────────┤
-│ 📁 PROLOGUE       │ #1 「諳子」ご飯はちゃんと..│ #1 「Sorane」Eat your meals│
-│  ├─ page 1 line 1 │ #2 「諳子」食べ過ぎには..  │ #2 「Sorane」Don't overeat │
-│  └─ page 1 line 2 │ #3 一登                     │ #3 Ichito                  │
-│ 📁 ROUTE NINO     │ #4 「了解ー……っと」        │ #4 「All right... got it」 │
-└───────────────────┴────────────────────────────┴────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ VN Translation Tool   [ D.C.4 Plus Harmony ]           LLM   Bulk   Settings │
+├────────────────────┬─────────────────────────────────────────────────────────┤
+│ Search scenario... │ Scenario: dc4_nin20190511b.json            Save    Copy │
+├────────────────────┼─────────────────────────────┬───────────────────────────┤
+│ PROLOGUE           │ #1  Anko gohan wa chanto..  │ #1  Sorane, eat properly  │
+│  |- page 1 line 1  │ #2  Anko tabesugi ni wa..   │ #2  Sorane, don't overeat │
+│  |- page 1 line 2  │ #3  Ichito                  │ #3  Ichito                │
+│ ROUTE NINO         │ #4  Ryoukai... tto          │ #4  All right... got it   │
+└────────────────────┴─────────────────────────────┴───────────────────────────┘
 ```
 
 ---
